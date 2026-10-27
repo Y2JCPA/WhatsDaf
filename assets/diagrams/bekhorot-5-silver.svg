@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 560" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Kontrokos’s silver</title>
+  <rect width="640" height="560" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Kontrokos’s silver</text>
+  <text x="32" y="70" font-size="14" fill="#56657a">603,550 men × ½ shekel = 301,775 shekels (Exodus 38:26)</text>
+
+  <rect x="24" y="90" width="592" height="128" rx="14" fill="#fff" stroke="#e7c3bd"/>
+  <text x="44" y="118" font-size="15" font-weight="700" fill="#1f2d3d">Counted in a common maneh</text>
+  <text x="44" y="142" font-size="13" fill="#56657a">maneh = 25 shekels · talent = 60 maneh = 1,500 shekels</text>
+  <text x="44" y="168" font-size="14" fill="#3d4b5f">301,775 = 201 × 1,500 + 275  (275 shekels = 11 maneh)</text>
+  <text x="44" y="200" font-size="20" font-weight="700" fill="#c0392b">201 talents + 11 maneh</text>
+  <text x="596" y="200" font-size="13" text-anchor="end" fill="#c0392b">but only 100 talents given?</text>
+
+  <rect x="24" y="230" width="592" height="128" rx="14" fill="#eef7ef" stroke="#b9dcbf"/>
+  <text x="44" y="258" font-size="15" font-weight="700" fill="#1f2d3d">Counted in a Sanctuary maneh, “double”</text>
+  <text x="44" y="282" font-size="13" fill="#56657a">maneh = 50 shekels · talent = 60 maneh = 3,000 shekels</text>
+  <text x="44" y="308" font-size="14" fill="#3d4b5f">301,775 = 100 × 3,000 + 1,775</text>
+  <text x="44" y="340" font-size="20" font-weight="700" fill="#2e7d32">100 talents + 1,775 shekels</text>
+  <text x="596" y="340" font-size="13" text-anchor="end" fill="#2e7d32">✓ Exodus 38:27–28</text>
+
+  <text x="32" y="392" font-size="15" font-weight="700" fill="#1f2d3d">The leftover shekels: two proofs the Gemara sets aside</text>
+  <rect x="24" y="404" width="290" height="132" rx="14" fill="#fff" stroke="#dbe3ee"/>
+  <text x="40" y="430" font-size="14" font-weight="700" fill="#1f2d3d">Silver: 1,775 shekels</text>
+  <text x="40" y="454" font-size="13" fill="#3d4b5f">common: 71 maneh</text>
+  <text x="40" y="474" font-size="13" fill="#56657a">more than a talent of 60</text>
+  <text x="40" y="500" font-size="13" fill="#3d4b5f">Sanctuary: 35½ maneh</text>
+  <text x="40" y="520" font-size="13" fill="#56657a">less than a talent</text>
+
+  <rect x="326" y="404" width="290" height="132" rx="14" fill="#fff" stroke="#dbe3ee"/>
+  <text x="342" y="430" font-size="14" font-weight="700" fill="#1f2d3d">Brass: 2,400 shekels</text>
+  <text x="342" y="454" font-size="13" fill="#3d4b5f">common: 96 maneh</text>
+  <text x="342" y="474" font-size="13" fill="#56657a">more than a talent of 60</text>
+  <text x="342" y="500" font-size="13" fill="#3d4b5f">Sanctuary: 48 maneh</text>
+  <text x="342" y="520" font-size="13" fill="#56657a">less than a talent</text>
+</svg>

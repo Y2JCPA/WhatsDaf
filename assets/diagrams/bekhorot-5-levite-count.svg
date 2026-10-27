@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Where did three hundred Levites go?</title>
+  <rect width="640" height="420" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Where did 300 Levites go?</text>
+  <text x="32" y="70" font-size="14" fill="#56657a">Numbers 3: the three families’ counts against the tribe’s total</text>
+
+  <text x="40" y="110" font-size="14" font-weight="700" fill="#1f2d3d">Family by family (Numbers 3:22–34)</text>
+  <rect x="40" y="122" width="188.3" height="46" fill="#5b8def"/>
+  <rect x="228.3" y="122" width="216" height="46" fill="#3f6fb8"/>
+  <rect x="444.3" y="122" width="155.7" height="46" fill="#2c4f86"/>
+  <text x="134" y="142" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">Gershon</text>
+  <text x="134" y="160" font-size="13" fill="#fff" text-anchor="middle">7,500</text>
+  <text x="336" y="142" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">Kehat</text>
+  <text x="336" y="160" font-size="13" fill="#fff" text-anchor="middle">8,600</text>
+  <text x="522" y="142" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">Merari</text>
+  <text x="522" y="160" font-size="13" fill="#fff" text-anchor="middle">6,200</text>
+  <text x="580" y="192" font-size="16" font-weight="700" fill="#1f2d3d" text-anchor="end">= 22,300</text>
+
+  <text x="40" y="226" font-size="14" font-weight="700" fill="#1f2d3d">The tribe’s total (Numbers 3:39)</text>
+  <rect x="40" y="238" width="552.4" height="46" fill="#8a9bb3"/>
+  <rect x="592.4" y="238" width="7.6" height="46" fill="#fbe3df" stroke="#c0392b" stroke-width="1.5" stroke-dasharray="3 2"/>
+  <text x="316" y="266" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">22,000 Levites, who redeemed the Israelite firstborn</text>
+  <text x="580" y="308" font-size="16" font-weight="700" fill="#1f2d3d" text-anchor="end">= 22,000</text>
+  <path d="M596 290 L596 326" stroke="#c0392b" stroke-width="2" fill="none"/>
+  <path d="M590 320 L596 330 L602 320" stroke="#c0392b" stroke-width="2" fill="none"/>
+
+  <rect x="24" y="334" width="592" height="66" rx="14" fill="#fff" stroke="#e7c3bd"/>
+  <text x="44" y="360" font-size="15" font-weight="700" fill="#c0392b">The missing 300 were firstborn Levites themselves</text>
+  <text x="44" y="384" font-size="13" fill="#3d4b5f">A firstborn Levite cannot abrogate a firstborn’s sanctity: enough that he abrogates his own.</text>
+</svg>
