@@ -1,0 +1,44 @@
+{
+  "people": {
+    "rabbi-yosei-ben-hameshullam": {
+      "name": "Rabbi Yosei ben HaMeshullam",
+      "he": "רבי יוסי בן המשולם",
+      "era": "Tanna · Land of Israel, late 2nd century",
+      "bio": "Tanna of the generation of Rabbi Yehuda HaNasi.",
+      "color": "#5d4037",
+      "initials": "ריב״מ",
+      "image": "rabbi-yosei-ben-hameshullam.jpg",
+      "prompt": "A Tanna in his 60s with a long silver beard and a serious, careful expression, one hand resting on a small slaughterer’s blade laid on a cloth; background of limestone arches and olive trees."
+    },
+    "achai-beribbi": {
+      "name": "Aḥai Beribbi",
+      "he": "אחאי בריבי",
+      "era": "Sage cited by Rabbi Yoḥanan",
+      "bio": "Sage whose dilemma Rabbi Yoḥanan reports; Rashi calls him a great and distinguished man of his generation.",
+      "color": "#1565c0",
+      "initials": "אחאי",
+      "image": "achai-beribbi.jpg",
+      "prompt": "A distinguished sage in his 50s with a dark beard touched with grey and a thoughtful, questioning look, a finger raised as if posing a problem; background of limestone arches and olive trees."
+    },
+    "rav-chananel": {
+      "name": "Rav Ḥananel",
+      "he": "רב חננאל",
+      "era": "Amora · Babylonia, 3rd century",
+      "bio": "Babylonian Amora, a disciple of Rav who transmitted his teachings.",
+      "color": "#6a1b9a",
+      "initials": "רב חנ",
+      "image": "rav-chananel.jpg",
+      "prompt": "A Babylonian scholar in his 40s with a neat dark beard and a steady, reliable expression, holding a wax tablet of his teacher’s rulings; background of mudbrick academy walls and oil lamps."
+    },
+    "rav-chananya-bar-shelamya": {
+      "name": "Rav Ḥananya bar Shelamya",
+      "he": "רב חנניה בר שלמיא",
+      "era": "Amora · Babylonia, 3rd century",
+      "bio": "Babylonian Amora who transmitted teachings in the name of Rav.",
+      "color": "#00695c",
+      "initials": "רחב״ש",
+      "image": "rav-chananya-bar-shelamya.jpg",
+      "prompt": "A Babylonian scholar in his 50s with a greying brown beard and an earnest expression, one hand open as if reporting a teaching; background of palm groves along the Euphrates."
+    }
+  }
+}

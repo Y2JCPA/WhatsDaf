@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 532" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Aḥai Beribbi’s dilemma</title>
+  <rect width="640" height="532" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2a3a">Aḥai Beribbi’s dilemma</text>
+  <text x="32" y="70" font-size="14" fill="#5a6678">A pig-like young is trailing after a ewe. Does a ewe’s mercy reach another species?</text>
+
+  <!-- column headers -->
+  <rect x="160" y="88" width="224" height="102" rx="12" fill="#ffffff" stroke="#d5dde9"/>
+  <text x="272" y="112" font-size="15" font-weight="700" text-anchor="middle" fill="#1f2a3a">According to the Rabbis</text>
+  <text x="272" y="132" font-size="12" text-anchor="middle" fill="#5a6678">an animal may nurse young</text>
+  <text x="272" y="147" font-size="12" text-anchor="middle" fill="#5a6678">that are not its own</text>
+  <text x="272" y="180" font-size="13" font-weight="700" text-anchor="middle" fill="#1565c0">Question: the firstborn</text>
+
+  <rect x="396" y="88" width="224" height="102" rx="12" fill="#ffffff" stroke="#d5dde9"/>
+  <text x="508" y="112" font-size="15" font-weight="700" text-anchor="middle" fill="#1f2a3a">According to Rabban</text>
+  <text x="508" y="130" font-size="15" font-weight="700" text-anchor="middle" fill="#1f2a3a">Shimon ben Gamliel</text>
+  <text x="508" y="145" font-size="12" text-anchor="middle" fill="#5a6678">if one that has given birth</text>
+  <text x="508" y="159" font-size="12" text-anchor="middle" fill="#5a6678">may be merciful</text>
+  <text x="508" y="180" font-size="13" font-weight="700" text-anchor="middle" fill="#1565c0">Question: eating it</text>
+
+  <!-- row 1 -->
+  <rect x="20" y="204" width="128" height="120" rx="12" fill="#e3ebf6"/>
+  <text x="84" y="248" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2a3a">Mercy only</text>
+  <text x="84" y="266" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2a3a">toward its own</text>
+  <text x="84" y="284" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2a3a">species</text>
+
+  <rect x="160" y="204" width="224" height="120" rx="12" fill="#ffffff" stroke="#d5dde9"/>
+  <text x="272" y="240" font-size="13" text-anchor="middle" fill="#3a4658">It nursed, so the young</text>
+  <text x="272" y="258" font-size="13" text-anchor="middle" fill="#3a4658">is the ewe’s own</text>
+  <text x="272" y="292" font-size="15" font-weight="700" text-anchor="middle" fill="#2e7d32">Ewe exempt</text>
+  <text x="272" y="310" font-size="12" text-anchor="middle" fill="#5a6678">from the firstborn</text>
+
+  <rect x="396" y="204" width="224" height="120" rx="12" fill="#ffffff" stroke="#d5dde9"/>
+  <text x="508" y="240" font-size="13" text-anchor="middle" fill="#3a4658">It is not merciful to a pig,</text>
+  <text x="508" y="258" font-size="13" text-anchor="middle" fill="#3a4658">so the young is the ewe’s own</text>
+  <text x="508" y="292" font-size="15" font-weight="700" text-anchor="middle" fill="#2e7d32">Kosher: may be eaten</text>
+  <text x="508" y="310" font-size="12" text-anchor="middle" fill="#5a6678">born of a kosher animal (Rashi)</text>
+
+  <!-- row 2 -->
+  <rect x="20" y="336" width="128" height="120" rx="12" fill="#e3ebf6"/>
+  <text x="84" y="380" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2a3a">Mercy also</text>
+  <text x="84" y="398" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2a3a">toward another</text>
+  <text x="84" y="416" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2a3a">species</text>
+
+  <rect x="160" y="336" width="224" height="120" rx="12" fill="#ffffff" stroke="#d5dde9"/>
+  <text x="272" y="372" font-size="13" text-anchor="middle" fill="#3a4658">The young may not be hers</text>
+  <text x="272" y="410" font-size="15" font-weight="700" text-anchor="middle" fill="#c0392b">Ewe not exempt</text>
+  <text x="272" y="428" font-size="12" text-anchor="middle" fill="#5a6678">its next young is a firstborn</text>
+  <text x="272" y="443" font-size="12" text-anchor="middle" fill="#5a6678">out of doubt (Rashi)</text>
+  
+
+  <rect x="396" y="336" width="224" height="120" rx="12" fill="#ffffff" stroke="#d5dde9"/>
+  <text x="508" y="372" font-size="13" text-anchor="middle" fill="#3a4658">The young may not be hers</text>
+  <text x="508" y="390" font-size="13" text-anchor="middle" fill="#3a4658">and may not be kosher</text>
+  <text x="508" y="420" font-size="15" font-weight="700" text-anchor="middle" fill="#c0392b">May not be eaten</text>
+
+  <text x="32" y="488" font-size="13" fill="#3a4658">According to Rabban Shimon ben Gamliel the ewe is exempt from the firstborn</text>
+  <text x="32" y="506" font-size="13" fill="#3a4658">either way (Rashi). The dilemma stands unresolved: <tspan font-weight="700">teiku</tspan>.</text>
+</svg>
