@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 528" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Two out as the tenth</title>
+  <rect width="640" height="528" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Two out as the tenth</text>
+  <text x="32" y="70" font-size="14" fill="#56657a">Both called “tenth”: the tithe and the eleventh are intermingled.</text>
+
+  <!-- Row 1 -->
+  <rect x="24" y="90" width="592" height="132" rx="14" fill="#fff" stroke="#dbe3ee"/>
+  <rect x="24" y="90" width="8" height="132" rx="4" fill="#7fb77e"/>
+  <text x="48" y="120" font-size="17" font-weight="700" fill="#1f2d3d">Both graze until blemished</text>
+  <text x="600" y="120" font-size="12" text-anchor="end" fill="#7a879a">ruling on 60b</text>
+  <text x="48" y="146" font-size="14" fill="#3d4b5f"><tspan font-weight="700">The Rabbis:</tspan> one may not bring sacrificial animals</text>
+  <text x="48" y="166" font-size="14" fill="#3d4b5f">to a situation of disqualification.</text>
+  <text x="48" y="190" font-size="13" fill="#7a879a">Offered together, both would be eaten under both sets of rules:</text>
+  <text x="48" y="208" font-size="13" fill="#7a879a">within two days, with the breast and thigh going to the priests.</text>
+
+  <!-- Row 2 -->
+  <rect x="24" y="234" width="592" height="84" rx="14" fill="#fff" stroke="#dbe3ee"/>
+  <rect x="24" y="234" width="8" height="84" rx="4" fill="#e3a857"/>
+  <text x="48" y="264" font-size="17" font-weight="700" fill="#1f2d3d">Both are sacrificed</text>
+  <text x="600" y="264" font-size="12" text-anchor="end" fill="#7a879a">61a</text>
+  <text x="48" y="290" font-size="14" fill="#3d4b5f"><tspan font-weight="700">Rabbi Shimon:</tspan> one may bring sacrificial animals</text>
+  <text x="48" y="308" font-size="14" fill="#3d4b5f">to a situation of disqualification.</text>
+
+  <!-- Row 3 -->
+  <rect x="24" y="330" width="592" height="174" rx="14" fill="#fff" stroke="#dbe3ee"/>
+  <rect x="24" y="330" width="8" height="174" rx="4" fill="#c96a6a"/>
+  <text x="48" y="360" font-size="17" font-weight="700" fill="#1f2d3d">Both must die</text>
+  <text x="600" y="360" font-size="12" text-anchor="end" fill="#7a879a">61a</text>
+
+  <rect x="48" y="374" width="552" height="54" rx="10" fill="#f6f7f9" stroke="#e1e6ee"/>
+  <text x="64" y="396" font-size="13.5" fill="#7a879a"><tspan text-decoration="line-through">Rabbi Yehuda: a mistaken tithe is a substitute, and it dies</tspan></text>
+  <text x="64" y="417" font-size="13" fill="#7a879a">No: for him the eleventh is offered as a peace offering (mishna, baraita, Sifra).</text>
+
+  <text x="48" y="456" font-size="14" fill="#3d4b5f"><tspan font-weight="700">Rabbi Shimon, son of Rabbi Abba:</tspan> it speaks of tithe</text>
+  <text x="48" y="476" font-size="14" fill="#3d4b5f">in the present time, for fear of a mishap.</text>
+  <text x="48" y="494" font-size="13" fill="#7a879a">Even one would die; two are taught, lest the greater loss let them graze.</text>
+</svg>

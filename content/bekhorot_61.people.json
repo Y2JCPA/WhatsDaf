@@ -1,0 +1,24 @@
+{
+  "people": {
+    "rav-pappi": {
+      "name": "Rav Pappi",
+      "he": "רב פפי",
+      "era": "Amora · Babylonia, 4th century",
+      "bio": "Babylonian Amora who often transmits rulings in the name of Rava.",
+      "color": "#37474f",
+      "initials": "פפי",
+      "image": "rav-pappi.jpg",
+      "prompt": "A careful, attentive scholar in his 40s with a short dark beard and a listening, precise expression. Teal wool robe under a dark mantle. Mudbrick academy walls and a Babylonian canal lined with palms softly behind him."
+    },
+    "rabbi-shimon-berabbi-abba": {
+      "name": "Rabbi Shimon, son of Rabbi Abba",
+      "he": "רבי שמעון ברבי אבא",
+      "era": "Amora · Land of Israel, 3rd century",
+      "bio": "Amora of the Land of Israel who studied before Rabbi Yoḥanan.",
+      "color": "#5e35b1",
+      "initials": "רש״א",
+      "image": "rabbi-shimon-berabbi-abba.jpg",
+      "prompt": "A modest, thoughtful scholar in his 40s with a dark beard and an earnest, explaining gaze, in a plain cream wool mantle over a grey robe. Limestone arches of a Tiberias study house and the lake softly behind him."
+    }
+  }
+}
