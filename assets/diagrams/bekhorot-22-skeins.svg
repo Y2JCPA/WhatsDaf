@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 470" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Rabbi Yoḥanan’s three skeins</title>
+  <rect width="640" height="470" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2a3c">Rabbi Yoḥanan’s three skeins</text>
+  <text x="32" y="68" font-size="13" fill="#5b6b82">As Ravin explained them in his name · sizes are schematic</text>
+
+  <rect x="22" y="86" width="190" height="250" rx="14" fill="#fff" stroke="#d6deea"/>
+  <text x="117" y="114" font-size="16" font-weight="700" text-anchor="middle" fill="#1f2a3c">Skein of warp</text>
+  <text x="117" y="133" font-size="12" text-anchor="middle" fill="#7a879b">small (Rashi, R. Gershom)</text>
+  <circle cx="117" cy="190" r="26" fill="#9db8dc"/>
+  <path d="M95 178 Q117 168 139 178 M92 192 Q117 182 142 192 M96 205 Q117 196 138 205" fill="none" stroke="#fff" stroke-width="2"/>
+  <text x="117" y="262" font-size="12" text-anchor="middle" fill="#7a879b">measure for</text>
+  <text x="117" y="284" font-size="15" font-weight="700" text-anchor="middle" fill="#1f2a3c">the head of a</text>
+  <text x="117" y="304" font-size="15" font-weight="700" text-anchor="middle" fill="#1f2a3c">woman’s fetus</text>
+
+  <rect x="224" y="86" width="190" height="250" rx="14" fill="#fff" stroke="#d6deea"/>
+  <text x="319" y="114" font-size="16" font-weight="700" text-anchor="middle" fill="#1f2a3c">Skein of woof</text>
+  <text x="319" y="133" font-size="12" text-anchor="middle" fill="#7a879b">large (Rashi, R. Gershom)</text>
+  <circle cx="319" cy="190" r="38" fill="#6f95c8"/>
+  <path d="M287 174 Q319 160 351 174 M283 192 Q319 178 355 192 M288 210 Q319 197 350 210" fill="none" stroke="#fff" stroke-width="2"/>
+  <text x="319" y="262" font-size="12" text-anchor="middle" fill="#7a879b">measure for</text>
+  <text x="319" y="284" font-size="15" font-weight="700" text-anchor="middle" fill="#1f2a3c">the head of an</text>
+  <text x="319" y="304" font-size="15" font-weight="700" text-anchor="middle" fill="#1f2a3c">animal’s fetus</text>
+
+  <rect x="426" y="86" width="190" height="250" rx="14" fill="#fff" stroke="#d6deea"/>
+  <text x="521" y="114" font-size="16" font-weight="700" text-anchor="middle" fill="#1f2a3c">Large skein</text>
+  <text x="521" y="133" font-size="12" text-anchor="middle" fill="#7a879b">of sack makers</text>
+  <circle cx="521" cy="190" r="50" fill="#3f6aa6"/>
+  <path d="M479 170 Q521 152 563 170 M473 192 Q521 174 569 192 M479 214 Q521 197 563 214" fill="none" stroke="#fff" stroke-width="2"/>
+  <text x="521" y="262" font-size="12" text-anchor="middle" fill="#7a879b">measure for</text>
+  <text x="521" y="284" font-size="15" font-weight="700" text-anchor="middle" fill="#1f2a3c">a clod from a beit</text>
+  <text x="521" y="304" font-size="15" font-weight="700" text-anchor="middle" fill="#1f2a3c">haperas or gentile lands</text>
+  <text x="521" y="324" font-size="11.5" text-anchor="middle" fill="#7a879b">like the seal of large sacks</text>
+
+  <rect x="22" y="350" width="596" height="100" rx="14" fill="#fff" stroke="#d6deea"/>
+  <text x="40" y="376" font-size="14" font-weight="700" fill="#1f2a3c">The baraita: when does a deceased fetus’s “opening of the womb” count?</text>
+  <text x="40" y="402" font-size="13.5" fill="#33425a"><tspan font-weight="700">Rabbi Meir:</tspan> head the size of a skein of warp</text>
+  <text x="370" y="402" font-size="13.5" fill="#33425a"><tspan font-weight="700">Rabbi Yehuda:</tspan> a skein of woof</text>
+  <text x="40" y="428" font-size="13.5" fill="#33425a"><tspan font-weight="700">Rabbi Eliezer son of Rabbi Tzadok:</tspan> from when tefifiyot are seen</text>
+</svg>

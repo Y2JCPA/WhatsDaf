@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 664" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Which mishna is Rav’s rule about?</title>
+  <rect width="640" height="664" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Which mishna is Rav’s rule about?</text>
+  <text x="32" y="70" font-size="14" fill="#5b6b7d">Rav: the halakha follows the mishna throughout the whole chapter,</text>
+  <text x="32" y="90" font-size="14" fill="#5b6b7d">except where there is a dispute. Rav Sheshet: to which mishna?</text>
+  <g font-size="13" font-weight="700" fill="#5b6b7d">
+    <text x="32" y="116">MISHNA</text>
+    <text x="542" y="116" text-anchor="middle">VERDICT</text>
+  </g>
+  <g font-size="14">
+    <rect x="24" y="128" width="592" height="80" rx="12" fill="#ffffff"/>
+    <text x="40" y="154" font-weight="700" fill="#1f2d3d">1. The first mishna (19b)</text>
+    <text x="40" y="176" fill="#33475b">Rabbi Yishmael and Rabbi Akiva</text>
+    <text x="40" y="195" fill="#33475b">disagree in it.</text>
+    <rect x="484" y="151" width="116" height="34" rx="17" fill="#fde2e1"/><text x="542" y="173" text-anchor="middle" fill="#a12d22" font-weight="600">a dispute</text>
+    <rect x="24" y="218" width="592" height="80" rx="12" fill="#ffffff"/>
+    <text x="40" y="244" font-weight="700" fill="#1f2d3d">2. Rabbi Eliezer ben Ya’akov (21b)</text>
+    <text x="40" y="266" fill="#33475b">His teaching is “a kav but clean”:</text>
+    <text x="40" y="285" fill="#33475b">the halakha follows him anyway.</text>
+    <rect x="484" y="241" width="116" height="34" rx="17" fill="#e8ecf1"/><text x="542" y="263" text-anchor="middle" fill="#4a5a6b" font-weight="600">not needed</text>
+    <rect x="24" y="308" width="592" height="80" rx="12" fill="#ffffff"/>
+    <text x="40" y="334" font-weight="700" fill="#1f2d3d">3. Rabban Shimon ben Gamliel (23b)</text>
+    <text x="40" y="356" fill="#33475b">A tanna disagrees with him,</text>
+    <text x="40" y="375" fill="#33475b">but only in a baraita (24a).</text>
+    <rect x="484" y="331" width="116" height="34" rx="17" fill="#dff1e4"/><text x="542" y="353" text-anchor="middle" fill="#1e6b3a" font-weight="600">the answer</text>
+    <rect x="24" y="398" width="592" height="80" rx="12" fill="#ffffff"/>
+    <text x="40" y="424" font-weight="700" fill="#1f2d3d">4. Rabbi Yosei ben HaMeshullam (24b)</text>
+    <text x="40" y="446" fill="#33475b">Rav already said once: the halakha</text>
+    <text x="40" y="465" fill="#33475b">follows Rabbi Yosei ben HaMeshullam.</text>
+    <rect x="484" y="421" width="116" height="34" rx="17" fill="#e8ecf1"/><text x="542" y="443" text-anchor="middle" fill="#4a5a6b" font-weight="600">said already</text>
+    <rect x="24" y="488" width="592" height="80" rx="12" fill="#ffffff"/>
+    <text x="40" y="514" font-weight="700" fill="#1f2d3d">5. Hair of a blemished firstborn (25b)</text>
+    <text x="40" y="536" fill="#33475b">Akavya ben Mahalalel and the Rabbis</text>
+    <text x="40" y="555" fill="#33475b">disagree in it.</text>
+    <rect x="484" y="511" width="116" height="34" rx="17" fill="#fde2e1"/><text x="542" y="533" text-anchor="middle" fill="#a12d22" font-weight="600">a dispute</text>
+  </g>
+  <rect x="24" y="578" width="592" height="62" rx="12" fill="#e3edf9"/>
+  <text x="40" y="603" font-size="14" font-weight="700" fill="#1f2d3d">The Gemara: Rav means Rabban Shimon ben Gamliel,</text>
+  <text x="40" y="624" font-size="14" fill="#33475b">and teaches that a dissent in a baraita is not a dispute.</text>
+</svg>
