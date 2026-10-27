@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 520" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Which flocks join for the tithe</title>
+  <rect width="640" height="520" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2a3a">Which flocks join for the tithe</text>
+  <text x="32" y="68" font-size="13.5" fill="#5b6b80">16 mil is how far a shepherd’s eye reaches (Rabba bar Sheila, Jeremiah 33:13).</text>
+
+  <!-- Row 1: within 16 mil -->
+  <rect x="20" y="84" width="600" height="96" rx="12" fill="#fff" stroke="#dde3ee"/>
+  <text x="36" y="110" font-size="15" font-weight="700" fill="#1f2a3a">Up to 16 mil apart</text>
+  <line x1="112" y1="148" x2="228" y2="148" stroke="#8a97a8" stroke-width="2" stroke-dasharray="5 4"/>
+  <text x="170" y="140" font-size="12.5" text-anchor="middle" fill="#5b6b80">16 mil</text>
+  <circle cx="90" cy="148" r="22" fill="#e8eef7" stroke="#546e7a" stroke-width="2"/>
+  <text x="90" y="152" font-size="11" text-anchor="middle" fill="#37474f">flock</text>
+  <circle cx="250" cy="148" r="22" fill="#e8eef7" stroke="#546e7a" stroke-width="2"/>
+  <text x="250" y="152" font-size="11" text-anchor="middle" fill="#37474f">flock</text>
+  <rect x="470" y="131" width="134" height="34" rx="17" fill="#e3f1e4"/>
+  <text x="537" y="153" font-size="14" font-weight="700" text-anchor="middle" fill="#2e7d32">Join</text>
+
+  <!-- Row 2: 32 mil, nothing between -->
+  <rect x="20" y="190" width="600" height="96" rx="12" fill="#fff" stroke="#dde3ee"/>
+  <text x="36" y="216" font-size="15" font-weight="700" fill="#1f2a3a">32 mil apart, nothing between</text>
+  <line x1="112" y1="254" x2="388" y2="254" stroke="#8a97a8" stroke-width="2" stroke-dasharray="5 4"/>
+  <text x="250" y="246" font-size="12.5" text-anchor="middle" fill="#5b6b80">32 mil</text>
+  <circle cx="90" cy="254" r="22" fill="#e8eef7" stroke="#546e7a" stroke-width="2"/>
+  <text x="90" y="258" font-size="11" text-anchor="middle" fill="#37474f">flock</text>
+  <circle cx="410" cy="254" r="22" fill="#e8eef7" stroke="#546e7a" stroke-width="2"/>
+  <text x="410" y="258" font-size="11" text-anchor="middle" fill="#37474f">flock</text>
+  <rect x="470" y="237" width="134" height="34" rx="17" fill="#fbe5e5"/>
+  <text x="537" y="259" font-size="14" font-weight="700" text-anchor="middle" fill="#c62828">Do not join</text>
+
+  <!-- Row 3: 32 mil with a flock in the middle -->
+  <rect x="20" y="296" width="600" height="96" rx="12" fill="#fff" stroke="#dde3ee"/>
+  <text x="36" y="322" font-size="15" font-weight="700" fill="#1f2a3a">32 mil apart, animals in the middle</text>
+  <text x="318" y="322" font-size="12.5" fill="#5b6b80">· how many? Rav: 5 · Shmuel: even 1</text>
+  <line x1="112" y1="360" x2="228" y2="360" stroke="#8a97a8" stroke-width="2" stroke-dasharray="5 4"/>
+  <line x1="272" y1="360" x2="388" y2="360" stroke="#8a97a8" stroke-width="2" stroke-dasharray="5 4"/>
+  <text x="170" y="352" font-size="12.5" text-anchor="middle" fill="#5b6b80">16 mil</text>
+  <text x="330" y="352" font-size="12.5" text-anchor="middle" fill="#5b6b80">16 mil</text>
+  <circle cx="90" cy="360" r="22" fill="#e8eef7" stroke="#546e7a" stroke-width="2"/>
+  <text x="90" y="364" font-size="11" text-anchor="middle" fill="#37474f">flock</text>
+  <circle cx="250" cy="360" r="22" fill="#fff4d6" stroke="#b8860b" stroke-width="2"/>
+  <text x="250" y="364" font-size="11" text-anchor="middle" fill="#7a5a00">middle</text>
+  <circle cx="410" cy="360" r="22" fill="#e8eef7" stroke="#546e7a" stroke-width="2"/>
+  <text x="410" y="364" font-size="11" text-anchor="middle" fill="#37474f">flock</text>
+  <rect x="470" y="343" width="134" height="34" rx="17" fill="#e3f1e4"/>
+  <text x="537" y="358" font-size="13" font-weight="700" text-anchor="middle" fill="#2e7d32">Join,</text>
+  <text x="537" y="372" font-size="11" text-anchor="middle" fill="#2e7d32">tithed in the middle</text>
+
+  <!-- Row 4: the Jordan -->
+  <rect x="20" y="402" width="600" height="96" rx="12" fill="#fff" stroke="#dde3ee"/>
+  <text x="36" y="428" font-size="15" font-weight="700" fill="#1f2a3a">Rabbi Meir: the Jordan between them</text>
+  <path d="M160 444 C 150 452, 170 460, 160 468 S 170 484, 160 492" fill="none" stroke="#4f8fd6" stroke-width="12" stroke-linecap="round" opacity="0.75"/>
+  <text x="178" y="471" font-size="12.5" fill="#2f6db3">Jordan</text>
+  <circle cx="90" cy="466" r="22" fill="#e8eef7" stroke="#546e7a" stroke-width="2"/>
+  <text x="90" y="470" font-size="11" text-anchor="middle" fill="#37474f">flock</text>
+  <circle cx="270" cy="466" r="22" fill="#e8eef7" stroke="#546e7a" stroke-width="2"/>
+  <text x="270" y="470" font-size="11" text-anchor="middle" fill="#37474f">flock</text>
+  <text x="304" y="470" font-size="12" fill="#5b6b80">even if close</text>
+  <rect x="470" y="449" width="134" height="34" rx="17" fill="#fbe5e5"/>
+  <text x="537" y="471" font-size="14" font-weight="700" text-anchor="middle" fill="#c62828">Do not join</text>
+</svg>

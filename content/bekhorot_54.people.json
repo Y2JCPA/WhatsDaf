@@ -1,0 +1,54 @@
+{
+  "people": {
+    "rava-bar-rav-chanan": {
+      "name": "Rava bar Rav Ḥanan",
+      "he": "רבא בר רב חנן",
+      "era": "Amora · Babylonia, 4th century",
+      "bio": "Babylonian Amora of Abaye’s generation who often puts questions to Abaye.",
+      "color": "#00695c",
+      "initials": "רב״ח",
+      "image": "rava-bar-rav-chanan.jpg",
+      "prompt": "An inquisitive scholar in his 40s with a dark beard, leaning forward as one about to press a question, in a plain brown wool robe. Mudbrick study hall walls and oil lamps of Pumbedita behind him."
+    },
+    "rabbi-ilea": {
+      "name": "Rabbi Ile’a",
+      "he": "רבי אילעא",
+      "era": "Amora · Land of Israel, 3rd–4th century",
+      "bio": "Amora of the Land of Israel; not the Tanna Rabbi Ilai, father of Rabbi Yehuda.",
+      "color": "#6a1b9a",
+      "initials": "ר״א",
+      "image": "rabbi-ilea.jpg",
+      "prompt": "A scholar of the Land of Israel in his 50s with a greying beard and a calm, measured expression, in a cream linen robe and a light wool mantle. Limestone arches and Galilean olive trees softly behind him."
+    },
+    "rav-huna-brei-derav-nachman": {
+      "name": "Rav Huna, son of Rav Naḥman",
+      "he": "רב הונא בריה דרב נחמן",
+      "era": "Amora · Babylonia, 4th century",
+      "bio": "Babylonian Amora, son of Rav Naḥman.",
+      "color": "#ad1457",
+      "initials": "רה״נ",
+      "image": "rav-huna-brei-derav-nachman.jpg",
+      "prompt": "A young Babylonian scholar in his 30s with a short dark beard and a sharp, questioning look, one hand raised in objection, in a dark blue wool robe. Palm groves along the Euphrates behind him."
+    },
+    "mar-zutra-brei-derav-nachman": {
+      "name": "Mar Zutra, son of Rav Naḥman",
+      "he": "מר זוטרא בריה דרב נחמן",
+      "era": "Amora · Babylonia, 4th century",
+      "bio": "Babylonian Amora, son of Rav Naḥman.",
+      "color": "#558b2f",
+      "initials": "מז״נ",
+      "image": "mar-zutra-brei-derav-nachman.jpg",
+      "prompt": "A composed Babylonian scholar in his 30s with a neat dark beard and a patient, explaining gesture, in a russet wool robe. Mudbrick academy walls and oil lamps behind him."
+    },
+    "rabba-bar-sheila": {
+      "name": "Rabba bar Sheila",
+      "he": "רבה בר שילא",
+      "era": "Amora · Babylonia, 4th century",
+      "bio": "Babylonian Amora; the Talmud tells that he once met Elijah the prophet (Ḥagiga 15b).",
+      "color": "#37474f",
+      "initials": "רב״ש",
+      "image": "rabba-bar-sheila.jpg",
+      "prompt": "A thoughtful Babylonian scholar in his 50s with a greying beard and a contemplative gaze, as one who once spoke with Elijah, in a grey-brown wool mantle. A dusty road and palm trees at dusk behind him."
+    }
+  }
+}
