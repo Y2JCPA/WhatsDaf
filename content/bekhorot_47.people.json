@@ -1,0 +1,94 @@
+{
+  "people": {
+    "rabbi-yosei-hagelili": {
+      "name": "Rabbi Yosei HaGelili",
+      "he": "רבי יוסי הגלילי",
+      "era": "Tanna · Yavne, 2nd century",
+      "bio": "Rabbi Yosei of the Galilee, a Tanna of the Yavne generation who debated Rabbi Akiva and Rabbi Tarfon.",
+      "color": "#558b2f",
+      "initials": "רי״ה",
+      "image": "rabbi-yosei-hagelili.jpg",
+      "prompt": "A lean, earnest Galilean scholar in his 40s with a short dark beard and keen eyes, a plain wool mantle over a linen robe; he came to Yavne as a young newcomer and held his own against its masters. Galilean hills and olive trees softly behind, with the Yavne study hall's limestone arches."
+    },
+    "ravina": {
+      "name": "Ravina",
+      "he": "רבינא",
+      "era": "Amora · Babylonia, 5th century",
+      "bio": "Babylonian Amora of the late generations, a colleague of Rav Ashi.",
+      "color": "#6a1b9a",
+      "initials": "רבינא",
+      "image": "ravina.jpg",
+      "prompt": "A thoughtful Babylonian sage in his 50s with a neat greying beard and a composed, organized look, a stack of notes and scrolls at his elbow, as one of the late scholars who gathered the teachings of the generations. Babylonian academy with mudbrick walls and oil lamps behind him."
+    },
+    "rav-adda-bar-ahava": {
+      "name": "Rav Adda bar Ahava",
+      "he": "רב אדא בר אהבה",
+      "era": "Amora · Babylonia, 3rd century",
+      "bio": "Babylonian Amora, a student of Rav, remembered for his piety and his long life.",
+      "color": "#00695c",
+      "initials": "רא״א",
+      "image": "rav-adda-bar-ahava.jpg",
+      "prompt": "A very old, gentle and pious man in his 80s with a long white beard and a humble, kindly face; he was famous for his long life, which he credited to never losing his temper and never walking ahead of a greater scholar. A plain white mantle. Babylonian academy with oil lamps behind him."
+    },
+    "mar-bereih-derav-yosef": {
+      "name": "Mar, son of Rav Yosef",
+      "he": "מר בריה דרב יוסף",
+      "era": "Amora · Babylonia, 4th century",
+      "bio": "Babylonian Amora who transmits teachings in the name of Rava.",
+      "color": "#4e342e",
+      "initials": "מב״י",
+      "image": "mar-bereih-derav-yosef.jpg",
+      "prompt": "A modest, attentive Babylonian scholar in his 40s with a dark beard, holding a wax tablet as one who carefully passes on his teacher's words. Simple brown robe. Palm groves along the Euphrates at dusk behind him."
+    },
+    "rabba": {
+      "name": "Rabba",
+      "he": "רבה",
+      "era": "Amora · Pumbedita, 4th century",
+      "bio": "Rabba bar Naḥmani, head of the academy at Pumbedita and teacher of Abaye, called an “uprooter of mountains” for his sharp reasoning.",
+      "color": "#ef6c00",
+      "initials": "רבה",
+      "image": "rabba.jpg",
+      "prompt": "A lean, intense sage in his 50s with a dark beard touched with grey and penetrating eyes; he was famed as an “uprooter of mountains” in debate and lived in poverty. A plain, slightly worn mantle. Pumbedita academy hall with many oil lamps behind him."
+    },
+    "rabba-bar-rav-huna": {
+      "name": "Rabba bar Rav Huna",
+      "he": "רבה בר רב הונא",
+      "era": "Amora · Sura, 3rd–4th century",
+      "bio": "Son of Rav Huna, who headed the academy at Sura after Rav Ḥisda.",
+      "color": "#827717",
+      "initials": "רב״ה",
+      "image": "rabba-bar-rav-huna.jpg",
+      "prompt": "A dignified man in his 50s with a full brown beard and a family resemblance to his broad-shouldered father Rav Huna; calm authority, fine but simple robes. Large Babylonian academy hall with oil lamps behind him."
+    },
+    "rabbi-shimon-yasinia": {
+      "name": "Rabbi Shimon Yasinia",
+      "he": "רבי שמעון יאסיניא",
+      "era": "Amora · Land of Israel",
+      "bio": "Amora of the Land of Israel who transmits teachings of Reish Lakish.",
+      "color": "#0277bd",
+      "initials": "ר״ש",
+      "image": "rabbi-shimon-yasinia.jpg",
+      "prompt": "A quiet scholar in his 40s with a short dark beard and an attentive expression, as one who reports his teacher's words. Plain linen robe and mantle. Tiberias hills and the Sea of Galilee softly behind him."
+    },
+    "rabbi-yirmeya": {
+      "name": "Rabbi Yirmeya",
+      "he": "רבי ירמיה",
+      "era": "Amora · Land of Israel, 4th century",
+      "bio": "Babylonian-born Amora who settled in the Land of Israel, known for his probing and provocative questions.",
+      "color": "#ad1457",
+      "initials": "ר״י",
+      "image": "rabbi-yirmeya.jpg",
+      "prompt": "A wiry, quick-witted scholar in his 40s with a mischievous, questioning look and a raised finger mid-question; he was once sent out of the study hall for asking one question too many. Simple dark robe. Tiberias study hall with limestone arches behind him."
+    },
+    "rabbi-yannai": {
+      "name": "Rabbi Yannai",
+      "he": "רבי ינאי",
+      "era": "Amora · Land of Israel, 3rd century",
+      "bio": "Early Amora of the Land of Israel and a teacher of Rabbi Yoḥanan.",
+      "color": "#5d4037",
+      "initials": "ר״י",
+      "image": "rabbi-yannai.jpg",
+      "prompt": "A stately, prosperous scholar in his 60s with a silver beard and a fine mantle, calm and authoritative, one of the first teachers of the Amoraic age. Galilean limestone arches and olive trees softly behind him."
+    }
+  }
+}
