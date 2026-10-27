@@ -1,0 +1,24 @@
+{
+  "people": {
+    "rabbi-shimon-ben-elyakim": {
+      "name": "Rabbi Shimon ben Elyakim",
+      "he": "רבי שמעון בן אליקים",
+      "era": "Amora · Land of Israel, 3rd century",
+      "bio": "Amora of the Land of Israel who appears in discussion with Rabbi Elazar.",
+      "color": "#6a1b9a",
+      "initials": "רשב״א",
+      "image": "rabbi-shimon-ben-elyakim.jpg",
+      "prompt": "A keen-eyed scholar in his 40s with a short dark beard and a questioning, slightly raised brow, as one ready to raise an objection, in a cream wool mantle, background Galilean limestone arches and olive trees of Tiberias."
+    },
+    "rav-anan": {
+      "name": "Rav Anan",
+      "he": "רב ענן",
+      "era": "Amora · Babylonia, 3rd century",
+      "bio": "Babylonian Amora, a student of Shmuel.",
+      "color": "#2e7d32",
+      "initials": "ר״ע",
+      "image": "rav-anan.jpg",
+      "prompt": "A careful, practical judge in his 50s with a full brown beard touched with grey and a steady, measured gaze, in a dark wool mantle over a linen robe, background mudbrick academy walls of Neharde’a lit by oil lamps."
+    }
+  }
+}
