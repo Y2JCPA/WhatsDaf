@@ -199,3 +199,22 @@ Same output spec and shared style as above. Save to `assets/portraits/<file>`.
 | `rav-achai.jpg` | Rav Aḥai, Late Amora or early Savora · Babylonia, 5th–6th century | A keen-eyed Babylonian scholar in his 50s with a trimmed dark beard flecked with grey and a sharp, probing expression, one finger raised as if pressing an objection; background of mudbrick academy walls and oil lamps. |
 | `rav-acha-brei-derava.jpg` | Rav Aḥa son of Rava, Amora · Babylonia, 4th–5th century | An earnest Babylonian scholar in his 40s with a short brown beard and an inquiring look, leaning forward as if asking his teacher a question; background of palm groves along the Euphrates at dusk. |
 | `shimon-haamasoni.jpg` | Shimon HaAmasoni, Tanna · Land of Israel, 1st–2nd century | A humble, reverent scholar in his 60s with a long grey beard and gentle, searching eyes, an open Torah scroll before him; background of a Judean limestone study hall in soft lamplight. |
+
+---
+
+## Round 8: people needed for Bekhorot 7–11
+
+Same output spec and shared style as above. Save to `assets/portraits/<file>`.
+
+| File | Person | Add to the shared style |
+|---|---|---|
+| `rabbi-yaakov.jpg` | Rabbi Ya’akov, Tanna · 2nd century | A thoughtful Tanna in his 50s with a dark beard touched with grey and a calm, contemplative gaze, standing in a lamp-lit stone vestibule whose doorway opens onto a bright hall beyond. |
+| `rav-mari-brei-derav-kahana.jpg` | Rav Mari, son of Rav Kahana, Amora · Babylonia | A practical Babylonian scholar in his 40s with a dark, neatly kept beard and an observant, matter-of-fact expression, as if reporting a careful household ruling; background of mudbrick academy walls and oil lamps. |
+| `roman-emperor.jpg` | The Emperor, Roman ruler · 2nd century | A Roman emperor in his 40s with a short curled beard and a laurel wreath, wearing a white toga with a broad purple border, with a curious, testing expression; background of marble columns in a palace hall. Roman dress rather than a tallit or head covering. |
+| `elders-of-athens.jpg` | The Elders of Athens, Sages of Athens | A proud Greek philosopher in his 60s with a long white beard and a haughty, challenging look, wearing a draped himation, standing for the elders of an Athenian school; background of a stone stoa with columns. Greek dress rather than a tallit or head covering. |
+| `butcher-of-athens.jpg` | The Butcher, Athens | A burly, wary tradesman in his 40s with a short beard and rolled sleeves, a leather apron over a plain tunic, glancing over his shoulder nervously; background of a market stall in an ancient Greek city. Simple Greek work clothes rather than a tallit or head covering. |
+| `rabba-bar-avuh.jpg` | Rabba bar Avuh, Amora · Babylonia, 3rd century | A dignified, gentle Babylonian scholar in his 60s with a full grey beard and a patient, teaching expression, holding a few fragrant green leaves in a fold of his cloak (from the story that Elijah led him into the Garden of Eden); background of mudbrick academy walls and oil lamps. |
+| `rabbi-yosei-bar-yehuda.jpg` | Rabbi Yosei bar Yehuda, Tanna · 2nd century | A composed scholar of the Land of Israel in his 40s with a short dark beard and a precise, measuring look, one hand resting on a small silver coin; background of a Galilean stone study hall in soft lamplight. |
+| `rabbi-yehuda-nesia.jpg` | Rabbi Yehuda Nesia, Nasi · Land of Israel, 3rd century | A dignified patriarch of the Jewish community in his 50s with a well-kept dark beard and fine, richly woven robes of office, with a composed, inquiring expression; background of limestone arches and olive trees. |
+| `rav-sheizevi.jpg` | Rav Sheizevi, Amora · Babylonia | A quiet, attentive Babylonian scholar in his 40s with a short dark beard and a steady, faithful expression, as if repeating his teacher's words; background of mudbrick academy walls and oil lamps. |
+| `rabbi-shmuel-bar-natan.jpg` | Rabbi Shmuel bar Natan, Amora · Land of Israel | A thoughtful scholar of the Land of Israel in his 40s with a dark beard and a careful, precise expression; background of limestone arches and olive trees. |

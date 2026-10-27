@@ -82,6 +82,86 @@
   },
   {
    "masechet": "bekhorot",
+   "daf": 7,
+   "title": "Bekhorot 7",
+   "he": "בכורות ז׳",
+   "preview": {
+    "from": "baraita",
+    "text": "With regard to a kosher animal that gave birth to a non-kosher animal of sorts, the offspring is forbidden for consumpti"
+   },
+   "last": {
+    "from": "baraita",
+    "text": "A non-kosher fish spawns its offspring, while a kosher fish lays eggs. Any animal that gives birth to its offspring nurs"
+   },
+   "messages": 71,
+   "members": 17
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 8,
+   "title": "Bekhorot 8",
+   "he": "בכורות ח׳",
+   "preview": {
+    "from": "baraita",
+    "text": "The dulfanin reproduce like people."
+   },
+   "last": {
+    "from": "gemara",
+    "text": "While they were coming to the emperor in Rome, he took out some dirt that he had taken from the dirt of Athens."
+   },
+   "messages": 122,
+   "members": 13
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 9,
+   "title": "Bekhorot 9",
+   "he": "בכורות ט׳",
+   "preview": {
+    "from": "roman-emperor",
+    "text": "@Rabbi Yehoshua These individuals cannot be the sages of Athens, because those sages are strong and arrogant."
+   },
+   "last": {
+    "from": "rabbi-asi",
+    "text": "The use of the Hebrew root alef, khaf, lamed twice in this phrase indicates that specifically food that you are able to "
+   },
+   "messages": 78,
+   "members": 17
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 10,
+   "title": "Bekhorot 10",
+   "he": "בכורות י׳",
+   "preview": {
+    "from": "rabbi-shimon-ben-yehuda",
+    "text": "With regard to meat cooked in milk, eating it is forbidden and deriving benefit from it is permitted, as it is stated: “"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "And the Rabbis who disagree with him hold that that verse …"
+   },
+   "messages": 79,
+   "members": 16
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 11,
+   "title": "Bekhorot 11",
+   "he": "בכורות י״א",
+   "preview": {
+    "from": "rav-nachman",
+    "text": "The halakha is in accordance with the statement of the Rabbis that one may redeem a firstborn donkey with a lamb that is"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "It might enter your mind to say that as long as the lamb has not reached the possession of the priest, the priest has no"
+   },
+   "messages": 77,
+   "members": 21
+  },
+  {
+   "masechet": "bekhorot",
    "daf": 40,
    "title": "Bekhorot 40",
    "he": "בכורות מ׳",
