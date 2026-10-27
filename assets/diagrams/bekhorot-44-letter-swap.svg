@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Subtract and add: mero’aḥ ashekh</title>
+  <rect width="640" height="380" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Subtract and add: Rabbi Ḥanina’s reading</text>
+  <text x="32" y="68" font-size="13.5" fill="#5b6b7d">Hebrew reads right to left. Swap the two highlighted letters between the words.</text>
+
+  <text x="608" y="104" font-size="12" font-weight="700" fill="#5b6b7d" text-anchor="end" letter-spacing=".5">IN THE VERSE</text>
+  <!-- word 1: מרוח, right to left -->
+  <g font-size="34" font-weight="600" text-anchor="middle" fill="#1f2d3d">
+    <rect x="566" y="116" width="44" height="54" rx="8" fill="#fff" stroke="#d7e0ec"/><text x="588" y="155">מ</text>
+    <rect x="518" y="116" width="44" height="54" rx="8" fill="#fff" stroke="#d7e0ec"/><text x="540" y="155">ר</text>
+    <rect x="470" y="116" width="44" height="54" rx="8" fill="#fff" stroke="#d7e0ec"/><text x="492" y="155">ו</text>
+    <rect x="422" y="116" width="44" height="54" rx="8" fill="#fde7d4" stroke="#e8914a" stroke-width="2"/><text x="444" y="155" fill="#b4541a">ח</text>
+    <!-- word 2: אשך -->
+    <rect x="310" y="116" width="44" height="54" rx="8" fill="#dcebfb" stroke="#4a8fd9" stroke-width="2"/><text x="332" y="155" fill="#1d5fa8">א</text>
+    <rect x="262" y="116" width="44" height="54" rx="8" fill="#fff" stroke="#d7e0ec"/><text x="284" y="155">ש</text>
+    <rect x="214" y="116" width="44" height="54" rx="8" fill="#fff" stroke="#d7e0ec"/><text x="236" y="155">ך</text>
+  </g>
+  <text x="516" y="192" font-size="14" text-anchor="middle" fill="#5b6b7d">mero’aḥ</text>
+  <text x="284" y="192" font-size="14" text-anchor="middle" fill="#5b6b7d">ashekh</text>
+
+  <!-- arrows -->
+  <defs>
+    <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#8a98a8"/></marker>
+  </defs>
+  <path d="M444 200 C 444 228, 332 222, 332 250" fill="none" stroke="#e8914a" stroke-width="2.2" marker-end="url(#ah)"/>
+  <path d="M332 200 C 332 228, 444 222, 444 250" fill="none" stroke="#4a8fd9" stroke-width="2.2" marker-end="url(#ah)"/>
+
+  <text x="608" y="250" font-size="12" font-weight="700" fill="#5b6b7d" text-anchor="end" letter-spacing=".5">AS EXPOUNDED</text>
+  <g font-size="34" font-weight="600" text-anchor="middle" fill="#1f2d3d">
+    <rect x="566" y="262" width="44" height="54" rx="8" fill="#fff" stroke="#d7e0ec"/><text x="588" y="301">מ</text>
+    <rect x="518" y="262" width="44" height="54" rx="8" fill="#fff" stroke="#d7e0ec"/><text x="540" y="301">ר</text>
+    <rect x="470" y="262" width="44" height="54" rx="8" fill="#fff" stroke="#d7e0ec"/><text x="492" y="301">ו</text>
+    <rect x="422" y="262" width="44" height="54" rx="8" fill="#dcebfb" stroke="#4a8fd9" stroke-width="2"/><text x="444" y="301" fill="#1d5fa8">א</text>
+    <rect x="310" y="262" width="44" height="54" rx="8" fill="#fde7d4" stroke="#e8914a" stroke-width="2"/><text x="332" y="301" fill="#b4541a">ח</text>
+    <rect x="262" y="262" width="44" height="54" rx="8" fill="#fff" stroke="#d7e0ec"/><text x="284" y="301">ש</text>
+    <rect x="214" y="262" width="44" height="54" rx="8" fill="#fff" stroke="#d7e0ec"/><text x="236" y="301">ך</text>
+  </g>
+  <text x="516" y="338" font-size="14" text-anchor="middle" fill="#5b6b7d">mar’av · his appearance</text>
+  <text x="284" y="338" font-size="14" text-anchor="middle" fill="#5b6b7d">ḥashukh · dark</text>
+  <text x="32" y="300" font-size="13" fill="#5b6b7d">“whose</text>
+  <text x="32" y="318" font-size="13" fill="#5b6b7d">appearance</text>
+  <text x="32" y="336" font-size="13" fill="#5b6b7d">is dark”</text>
+</svg>

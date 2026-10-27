@@ -1,0 +1,114 @@
+{
+  "people": {
+    "rav-yehuda": {
+      "name": "Rav Yehuda",
+      "he": "רב יהודה",
+      "era": "Amora · Pumbedita, 3rd century",
+      "bio": "Rav Yehuda bar Yeḥezkel, student of Rav and Shmuel and founder of the academy at Pumbedita.",
+      "color": "#6a1b9a",
+      "initials": "ר״י",
+      "image": "rav-yehuda.jpg",
+      "prompt": "A tall, broad-shouldered Babylonian sage in his 60s with a full dark-grey beard and a serious, dignified bearing, background mudbrick academy walls of Pumbedita and oil lamps."
+    },
+    "rav-shimi-bar-chiyya": {
+      "name": "Rav Shimi bar Ḥiyya",
+      "he": "רב שימי בר חייא",
+      "era": "Amora · Babylonia, 3rd century",
+      "bio": "Rav’s grandson and student, who challenges him twice in this chapter.",
+      "color": "#00838f",
+      "initials": "ר״ש",
+      "image": "rav-shimi-bar-chiyya.jpg",
+      "prompt": "A young Babylonian scholar in his 20s with a short dark beard and an eager, questioning look, background mudbrick academy walls and oil lamps."
+    },
+    "ameimar": {
+      "name": "Ameimar",
+      "he": "אמימר",
+      "era": "Amora · Babylonia",
+      "bio": "A Babylonian Amora associated with the academy at Neharde’a.",
+      "color": "#4e342e",
+      "initials": "אמ",
+      "image": "ameimar.jpg",
+      "prompt": "A Babylonian sage in his 60s with a long white beard and a composed, authoritative bearing, background palm groves along the Euphrates."
+    },
+    "zeeiri": {
+      "name": "Ze’eiri",
+      "he": "זעירי",
+      "era": "Amora · 3rd century",
+      "bio": "A Babylonian-born Amora who studied under Rabbi Ḥanina in the Land of Israel.",
+      "color": "#558b2f",
+      "initials": "זע",
+      "image": "zeeiri.jpg",
+      "prompt": "A slight, scholarly man in his 50s with a neat grey beard and an attentive expression, background limestone arches and olive trees."
+    },
+    "rabbi-abba-bar-chiyya-bar-abba": {
+      "name": "Rabbi Abba, son of Rabbi Ḥiyya bar Abba",
+      "he": "רבי אבא בריה דרבי חייא בר אבא",
+      "era": "Amora · Land of Israel, 4th century",
+      "bio": "Son of Rabbi Ḥiyya bar Abba, an Amora of the Land of Israel.",
+      "color": "#ad1457",
+      "initials": "ר״א",
+      "image": "rabbi-abba-bar-chiyya-bar-abba.jpg",
+      "prompt": "A sage in his 40s with a dark brown beard and a thoughtful, practical look, background limestone arches and olive trees."
+    },
+    "avuha-dishmuel": {
+      "name": "Shmuel’s father",
+      "he": "אבוה דשמואל",
+      "era": "Amora · Neharde’a, early 3rd century",
+      "bio": "Abba bar Abba of Neharde’a, usually called simply “Shmuel’s father.”",
+      "color": "#5d4037",
+      "initials": "אד",
+      "image": "avuha-dishmuel.jpg",
+      "prompt": "A dignified Babylonian elder in his 60s with a white beard and a kind but firm expression, background palm groves along the Euphrates."
+    },
+    "mar-bar-rav-ashi": {
+      "name": "Mar bar Rav Ashi",
+      "he": "מר בר רב אשי",
+      "era": "Amora · Mata Meḥasya, 5th century",
+      "bio": "Son of Rav Ashi; he later headed the academy at Mata Meḥasya.",
+      "color": "#283593",
+      "initials": "מב",
+      "image": "mar-bar-rav-ashi.jpg",
+      "prompt": "A Babylonian sage in his 40s with a dark beard and a brisk, self-assured look, background mudbrick academy walls and oil lamps."
+    },
+    "rabbi-yehoshua-ben-levi": {
+      "name": "Rabbi Yehoshua ben Levi",
+      "he": "רבי יהושע בן לוי",
+      "era": "Amora · Lod, 3rd century",
+      "bio": "The leading Amora of Lod in the first generation of Amoraim in the Land of Israel.",
+      "color": "#00695c",
+      "initials": "ריב״ל",
+      "image": "rabbi-yehoshua-ben-levi.jpg",
+      "prompt": "A gentle sage in his 70s with a long white beard and kind eyes, background limestone arches and olive trees."
+    },
+    "rabba-bar-rav-huna": {
+      "name": "Rabba bar Rav Huna",
+      "he": "רבה בר רב הונא",
+      "era": "Amora · Sura, 3rd–4th century",
+      "bio": "Son of Rav Huna of Sura, and later head of its academy.",
+      "color": "#827717",
+      "initials": "רב״ה",
+      "image": "rabba-bar-rav-huna.jpg",
+      "prompt": "A Babylonian sage in his 50s with a greying beard and a calm, scholarly look, background mudbrick academy walls and oil lamps."
+    },
+    "rav-ketina": {
+      "name": "Rav Ketina",
+      "he": "רב קטינא",
+      "era": "Amora · Babylonia, 3rd century",
+      "bio": "A Babylonian Amora of the second generation.",
+      "color": "#37474f",
+      "initials": "ר״ק",
+      "image": "rav-ketina.jpg",
+      "prompt": "A Babylonian sage in his 50s with a trimmed dark-grey beard and a quiet, observant expression, background palm groves along the Euphrates."
+    },
+    "rabbi-eliezer-ben-yaakov": {
+      "name": "Rabbi Eliezer ben Ya’akov",
+      "he": "רבי אליעזר בן יעקב",
+      "era": "Tanna",
+      "bio": "A Tanna whose teaching, the Talmud says, is “a small measure, but clean.”",
+      "color": "#bf360c",
+      "initials": "ראב״י",
+      "image": "rabbi-eliezer-ben-yaakov.jpg",
+      "prompt": "A Tanna in his 60s with a neat grey beard and a careful, precise expression, background the Yavne study hall."
+    }
+  }
+}
