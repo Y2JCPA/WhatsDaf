@@ -242,6 +242,86 @@
   },
   {
    "masechet": "bekhorot",
+   "daf": 17,
+   "title": "Bekhorot 17",
+   "he": "בכורות י״ז",
+   "preview": {
+    "from": "mishnah",
+    "text": "With regard to one who accepts animals as part of a guaranteed investment from a gentile, the direct offspring are exemp"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "No, Rabbi Eliezer …"
+   },
+   "messages": 66,
+   "members": 19
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 18,
+   "title": "Bekhorot 18",
+   "he": "בכורות י״ח",
+   "preview": {
+    "from": "baraita",
+    "text": "If the corpse of a slain person was found precisely between two towns, they would not break the heifer’s neck at all."
+   },
+   "last": {
+    "from": "gemara",
+    "text": "And had the mishna taught only that second case, one might have thought that Rabbi Akiva stated his opinion only in that"
+   },
+   "messages": 93,
+   "members": 18
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 19,
+   "title": "Bekhorot 19",
+   "he": "בכורות י״ט",
+   "preview": {
+    "from": "mishnah",
+    "text": "With regard to an animal born by caesarean section and the offspring that follows it, since there is uncertainty whether"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "Rather, Rava says:"
+   },
+   "messages": 44,
+   "members": 12
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 20,
+   "title": "Bekhorot 20",
+   "he": "בכורות כ׳",
+   "preview": {
+    "from": "rava",
+    "text": "It is clear, as was suggested initially, that Rabbi Yishmael holds in accordance with the opinion of Rabbi Meir, who say"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "But why do I need to teach that any goat gave birth to three at once at all? Let all the second-generation goats give bi"
+   },
+   "messages": 47,
+   "members": 11
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 21,
+   "title": "Bekhorot 21",
+   "he": "בכורות כ״א",
+   "preview": {
+    "from": "rabbi-shimon",
+    "text": "I saw a single kid that yielded enough offspring to be subject to the tithe within its first year of life."
+   },
+   "last": {
+    "from": "gemara",
+    "text": "But since it does not impart impurity, neither through contact nor through carrying, which indicates that it is not cons"
+   },
+   "messages": 46,
+   "members": 12
+  },
+  {
+   "masechet": "bekhorot",
    "daf": 40,
    "title": "Bekhorot 40",
    "he": "בכורות מ׳",
