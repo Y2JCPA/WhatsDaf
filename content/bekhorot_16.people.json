@@ -1,0 +1,14 @@
+{
+  "people": {
+    "rav-amram": {
+      "name": "Rav Amram",
+      "he": "רב עמרם",
+      "era": "Amora · Babylonia, 3rd century",
+      "bio": "Babylonian Amora who often transmits teachings in the name of Rav.",
+      "color": "#8a5a3c",
+      "initials": "ר״ע",
+      "image": "rav-amram.jpg",
+      "prompt": "A Babylonian scholar in his 50s with a dark, greying beard and a probing, questioning expression, as if challenging a ruling he has just heard; background of mudbrick academy walls and oil lamps."
+    }
+  }
+}

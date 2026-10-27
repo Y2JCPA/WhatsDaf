@@ -1,0 +1,14 @@
+{
+  "people": {
+    "rabbi-levi": {
+      "name": "Rabbi Levi",
+      "he": "רבי לוי",
+      "era": "Amora · Land of Israel, 3rd century",
+      "bio": "Amora of the Land of Israel, cited here explaining the decree behind Rabbi Ḥanina’s ruling.",
+      "color": "#7b5e2a",
+      "initials": "ר״ל",
+      "image": "rabbi-levi.jpg",
+      "prompt": "A scholar of the Land of Israel in his 50s with a greying beard and an animated, eloquent expression, as if in the middle of a homily; background of a Galilean stone study house in warm lamplight."
+    }
+  }
+}
