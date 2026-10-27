@@ -1,0 +1,14 @@
+{
+  "people": {
+    "rav-safra": {
+      "name": "Rav Safra",
+      "he": "רב ספרא",
+      "era": "Amora · Babylonia, 4th century",
+      "bio": "Babylonian Amora, a colleague of Abaye and Rava who traveled between Babylonia and the Land of Israel, remembered for his scrupulous honesty.",
+      "color": "#7d5a3c",
+      "initials": "ר״ס",
+      "image": "rav-safra.jpg",
+      "prompt": "A scrupulously honest merchant-scholar in his 50s with a greying dark beard and a steady, sincere gaze, a traveler’s mantle over his robe and a merchant’s satchel at his shoulder; background of a road with palm trees and a distant caravan at dusk."
+    }
+  }
+}

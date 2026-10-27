@@ -1,0 +1,34 @@
+{
+  "people": {
+    "rav-achai": {
+      "name": "Rav Aḥai",
+      "he": "רב אחאי",
+      "era": "Late Amora or early Savora · Babylonia, 5th–6th century",
+      "bio": "Babylonian sage whose challenges, introduced with “Rav Aḥai refutes,” appear in a few places in the Talmud; tradition often identifies him with the early Savora Rav Aḥai.",
+      "color": "#7a4a1e",
+      "initials": "ר״אח",
+      "image": "rav-achai.jpg",
+      "prompt": "A keen-eyed Babylonian scholar in his 50s with a trimmed dark beard flecked with grey and a sharp, probing expression, one finger raised as if pressing an objection; background of mudbrick academy walls and oil lamps."
+    },
+    "rav-acha-brei-derava": {
+      "name": "Rav Aḥa son of Rava",
+      "he": "רב אחא בריה דרבא",
+      "era": "Amora · Babylonia, 4th–5th century",
+      "bio": "Babylonian Amora of Rav Ashi’s generation who often puts questions to Rav Ashi in the Talmud.",
+      "color": "#3f6e8c",
+      "initials": "רא״בר",
+      "image": "rav-acha-brei-derava.jpg",
+      "prompt": "An earnest Babylonian scholar in his 40s with a short brown beard and an inquiring look, leaning forward as if asking his teacher a question; background of palm groves along the Euphrates at dusk."
+    },
+    "shimon-haamasoni": {
+      "name": "Shimon HaAmasoni",
+      "he": "שמעון העמסוני",
+      "era": "Tanna · Land of Israel, 1st–2nd century",
+      "bio": "Tanna who expounded every “et” in the Torah until he reached “You shall fear the Lord your God”; elsewhere (Pesaḥim 22b) he is also called Neḥemya HaAmasoni.",
+      "color": "#6b5b95",
+      "initials": "ש״ה",
+      "image": "shimon-haamasoni.jpg",
+      "prompt": "A humble, reverent scholar in his 60s with a long grey beard and gentle, searching eyes, an open Torah scroll before him; background of a Judean limestone study hall in soft lamplight."
+    }
+  }
+}

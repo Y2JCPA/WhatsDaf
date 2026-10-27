@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 540" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Three dilemmas</title>
+  <rect width="640" height="540" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Some of the mother’s features</text>
+  <text x="32" y="68" font-size="14" fill="#5b6b7d">When an offspring looks like another species but keeps some</text>
+  <text x="32" y="87" font-size="14" fill="#5b6b7d">of its mother’s features, is it a firstborn?</text>
+
+  <text x="32" y="120" font-size="12" font-weight="700" fill="#7f8fa3" letter-spacing=".5">THE STARTING POINT</text>
+  <rect x="24" y="130" width="592" height="78" rx="14" fill="#fff" stroke="#dbe3ee"/>
+  <text x="40" y="158" font-size="16" font-weight="700" fill="#1f2d3d">Ewe ⇄ goat of sorts</text>
+  <text x="40" y="180" font-size="13" fill="#5b6b7d">Both kosher</text>
+  <text x="40" y="198" font-size="13" fill="#5b6b7d">Both offered on the altar</text>
+  <rect x="404" y="144" width="198" height="50" rx="10" fill="#e3f0e5"/>
+  <text x="418" y="166" font-size="14" font-weight="700" fill="#1b5e20">Obligated</text>
+  <text x="418" y="184" font-size="12" fill="#2e5e33">the mishna, 16b</text>
+
+  <text x="32" y="240" font-size="12" font-weight="700" fill="#7f8fa3" letter-spacing=".5">THE THREE DILEMMAS</text>
+  <rect x="24" y="250" width="592" height="78" rx="14" fill="#fff" stroke="#dbe3ee"/>
+  <text x="40" y="278" font-size="16" font-weight="700" fill="#1f2d3d">1 · Cow → donkey of sorts</text>
+  <text x="40" y="300" font-size="13" fill="#5b6b7d">Kosher → non-kosher</text>
+  <text x="40" y="318" font-size="13" fill="#5b6b7d">Both species have firstborn sanctity</text>
+  <rect x="404" y="264" width="198" height="50" rx="10" fill="#e3f0e5"/>
+  <text x="418" y="286" font-size="14" font-weight="700" fill="#1b5e20">Obligated</text>
+  <text x="418" y="304" font-size="12" fill="#2e5e33">both baraitot, as read</text>
+
+  <rect x="24" y="338" width="592" height="78" rx="14" fill="#fff" stroke="#dbe3ee"/>
+  <text x="40" y="366" font-size="16" font-weight="700" fill="#1f2d3d">2 · Donkey → horse of sorts</text>
+  <text x="40" y="388" font-size="13" fill="#5b6b7d">Both non-kosher</text>
+  <text x="40" y="406" font-size="13" fill="#5b6b7d">Horses have no firstborn sanctity</text>
+  <rect x="404" y="352" width="198" height="50" rx="10" fill="#fdf1dc"/>
+  <text x="418" y="374" font-size="14" font-weight="700" fill="#8a5a00">Left open</text>
+  <text x="418" y="392" font-size="12" fill="#8a5a00">without features: exempt</text>
+
+  <rect x="24" y="426" width="592" height="78" rx="14" fill="#fff" stroke="#dbe3ee"/>
+  <text x="40" y="454" font-size="16" font-weight="700" fill="#1f2d3d">3 · Cow → horse of sorts</text>
+  <text x="40" y="476" font-size="13" fill="#5b6b7d">Kosher → non-kosher</text>
+  <text x="40" y="494" font-size="13" fill="#5b6b7d">Horses have no firstborn sanctity</text>
+  <rect x="404" y="440" width="198" height="50" rx="10" fill="#eceff3"/>
+  <text x="418" y="462" font-size="14" font-weight="700" fill="#455a64">Left open</text>
+  <text x="418" y="480" font-size="12" fill="#5b6b7d">no baraita resolves it</text>
+
+  <text x="32" y="526" font-size="12" fill="#7f8fa3">Firstborn sanctity: cow, sheep and goat are offered; a donkey is redeemed with a lamb.</text>
+</svg>
