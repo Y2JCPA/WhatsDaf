@@ -1,0 +1,44 @@
+{
+  "people": {
+    "rabbi-yishmael-ben-yochanan-ben-beroka": {
+      "name": "Rabbi Yishmael son of Rabbi Yoḥanan ben Beroka",
+      "he": "רבי ישמעאל בנו של רבי יוחנן בן ברוקה",
+      "era": "Tanna · 2nd century",
+      "bio": "Tanna, son of Rabbi Yoḥanan ben Beroka; Pirkei Avot (4:5) preserves his saying on learning in order to teach and to practice.",
+      "color": "#6a1b9a",
+      "initials": "רי״ב",
+      "image": "rabbi-yishmael-ben-yochanan-ben-beroka.jpg",
+      "prompt": "A studious scholar in his 40s with a dark brown beard and a calm, earnest gaze. Plain grey wool robe and a white mantle. A Galilean study hall with limestone walls and soft daylight behind him."
+    },
+    "rabbi-elazar-berabbi-yehuda-ish-bartota": {
+      "name": "Rabbi Elazar son of Rabbi Yehuda of Kefar Bartota",
+      "he": "רבי אלעזר ברבי יהודה איש כפר ברתותא",
+      "era": "Tanna · 2nd century",
+      "bio": "Tanna of the village of Bartota who passes on teachings of Rabbi Yehoshua.",
+      "color": "#4e342e",
+      "initials": "רא״ב",
+      "image": "rabbi-elazar-berabbi-yehuda-ish-bartota.jpg",
+      "prompt": "A generous-looking village scholar in his 50s with a greying beard and warm, open eyes. Brown wool robe and a cream mantle. Terraced hills and a small stone village softly behind him."
+    },
+    "rabbi-yishmael-ben-satriel": {
+      "name": "Rabbi Yishmael ben Satriel",
+      "he": "רבי ישמעאל בן סתריאל",
+      "era": "Tanna · late 2nd century",
+      "bio": "A sage from Arkat Leveina who testified before Rabbi Yehuda HaNasi about the customs and wonders of his town.",
+      "color": "#0277bd",
+      "initials": "רי״ס",
+      "image": "rabbi-yishmael-ben-satriel.jpg",
+      "prompt": "A lively, wide-eyed traveler in his 50s with a full dark beard streaked with grey and an animated expression. Blue-grey wool robe and a travel-worn mantle. Mountain cedars and a far-off town softly behind him."
+    },
+    "rabba-bar-sheila": {
+      "name": "Rabba bar Sheila",
+      "he": "רבה בר שילא",
+      "era": "Amora · Babylonia",
+      "bio": "A Babylonian Amora.",
+      "color": "#2e7d32",
+      "initials": "רב״ש",
+      "image": "rabba-bar-sheila.jpg",
+      "prompt": "A practical, steady scholar in his 50s with a trimmed dark beard and a measured gaze. Olive wool robe under a dark mantle. Pastures and grazing flocks by a Babylonian canal softly behind him."
+    }
+  }
+}
