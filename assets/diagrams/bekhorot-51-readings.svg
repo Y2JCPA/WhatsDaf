@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 668" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Two readings of Numbers 18:16</title>
+  <rect width="640" height="668" rx="18" fill="#f3f6fb"/>
+  <text x="24" y="44" font-size="22" font-weight="700" fill="#1f2a3c">Two readings of Numbers 18:16</text>
+  <text x="24" y="68" font-size="14" fill="#556179">What may a father use to redeem his firstborn son?</text>
+
+  <!-- the three phrases -->
+  <text x="124" y="98" font-size="12" fill="#7a869c">The three phrases, in the order the Gemara reads them</text>
+  <rect x="124" y="108" width="160" height="56" rx="10" fill="#fff" stroke="#c9d3e3"/>
+  <text x="204" y="131" font-size="13" text-anchor="middle" fill="#1f2a3c">“And its redemption</text>
+  <text x="204" y="150" font-size="13" text-anchor="middle" fill="#1f2a3c">from one month”</text>
+  <rect x="294" y="108" width="160" height="56" rx="10" fill="#fff" stroke="#c9d3e3"/>
+  <text x="374" y="131" font-size="13" text-anchor="middle" fill="#1f2a3c">“by the valuation of</text>
+  <text x="374" y="150" font-size="13" text-anchor="middle" fill="#1f2a3c">five silver shekels”</text>
+  <rect x="464" y="108" width="152" height="56" rx="10" fill="#fff" stroke="#c9d3e3"/>
+  <text x="540" y="141" font-size="13" text-anchor="middle" fill="#1f2a3c">“you shall redeem”</text>
+
+  <!-- Rabbi -->
+  <text x="24" y="207" font-size="16" font-weight="700" fill="#6a1b9a">Rabbi</text>
+  <rect x="124" y="184" width="160" height="36" rx="18" fill="#efe3f6"/>
+  <text x="204" y="207" font-size="14" text-anchor="middle" fill="#6a1b9a">amplifies</text>
+  <rect x="294" y="184" width="160" height="36" rx="18" fill="#efe3f6"/>
+  <text x="374" y="207" font-size="14" text-anchor="middle" fill="#6a1b9a">restricts</text>
+  <rect x="464" y="184" width="152" height="36" rx="18" fill="#efe3f6"/>
+  <text x="540" y="207" font-size="14" text-anchor="middle" fill="#6a1b9a">amplifies again</text>
+  <text x="124" y="246" font-size="13.5" fill="#4a2a5c">→ it amplified everything; it restricted only promissory notes</text>
+
+  <!-- the Rabbis -->
+  <text x="24" y="297" font-size="16" font-weight="700" fill="#2e7d32">The Rabbis</text>
+  <rect x="124" y="274" width="160" height="36" rx="18" fill="#e3f2e4"/>
+  <text x="204" y="297" font-size="14" text-anchor="middle" fill="#2e7d32">generalization</text>
+  <rect x="294" y="274" width="160" height="36" rx="18" fill="#e3f2e4"/>
+  <text x="374" y="297" font-size="14" text-anchor="middle" fill="#2e7d32">detail</text>
+  <rect x="464" y="274" width="152" height="36" rx="18" fill="#e3f2e4"/>
+  <text x="540" y="297" font-size="14" text-anchor="middle" fill="#2e7d32">generalization</text>
+  <text x="124" y="336" font-size="13.5" fill="#1f4d22">→ only what is like the detail: movable, with intrinsic value</text>
+
+  <!-- table -->
+  <rect x="16" y="360" width="608" height="262" rx="12" fill="#fff" stroke="#d6deea"/>
+  <text x="32" y="388" font-size="13" font-weight="700" fill="#556179">Redeemed with</text>
+  <text x="440" y="388" font-size="13" font-weight="700" text-anchor="middle" fill="#6a1b9a">Rabbi</text>
+  <text x="555" y="388" font-size="13" font-weight="700" text-anchor="middle" fill="#2e7d32">The Rabbis</text>
+  <text x="555" y="403" font-size="11" text-anchor="middle" fill="#7a869c">(our mishna)</text>
+  <line x1="28" y1="412" x2="612" y2="412" stroke="#e3e8f0"/>
+  <text x="32" y="437" font-size="15" fill="#1f2a3c">Coins</text>
+  <text x="440" y="439" font-size="18" text-anchor="middle" fill="#2e7d32">✓</text>
+  <text x="555" y="439" font-size="18" text-anchor="middle" fill="#2e7d32">✓</text>
+  <line x1="28" y1="453" x2="612" y2="453" stroke="#eef1f6"/>
+  <text x="32" y="479" font-size="15" fill="#1f2a3c">Other movable goods</text>
+  <text x="440" y="481" font-size="18" text-anchor="middle" fill="#2e7d32">✓</text>
+  <text x="555" y="481" font-size="18" text-anchor="middle" fill="#2e7d32">✓</text>
+  <line x1="28" y1="495" x2="612" y2="495" stroke="#eef1f6"/>
+  <text x="32" y="514" font-size="15" fill="#1f2a3c">Land</text>
+  <text x="32" y="530" font-size="11.5" fill="#7a869c">not movable</text>
+  <text x="440" y="523" font-size="18" text-anchor="middle" fill="#2e7d32">✓</text>
+  <text x="555" y="523" font-size="18" text-anchor="middle" fill="#c62828">✗</text>
+  <line x1="28" y1="537" x2="612" y2="537" stroke="#eef1f6"/>
+  <text x="32" y="556" font-size="15" fill="#1f2a3c">Canaanite slaves</text>
+  <text x="32" y="572" font-size="11.5" fill="#7a869c">compared to land</text>
+  <text x="440" y="565" font-size="18" text-anchor="middle" fill="#2e7d32">✓</text>
+  <text x="555" y="565" font-size="18" text-anchor="middle" fill="#c62828">✗</text>
+  <line x1="28" y1="579" x2="612" y2="579" stroke="#eef1f6"/>
+  <text x="32" y="598" font-size="15" fill="#1f2a3c">Promissory notes</text>
+  <text x="32" y="614" font-size="11.5" fill="#7a869c">movable, but no intrinsic value</text>
+  <text x="440" y="607" font-size="18" text-anchor="middle" fill="#c62828">✗</text>
+  <text x="555" y="607" font-size="18" text-anchor="middle" fill="#c62828">✗</text>
+
+  <text x="24" y="648" font-size="12" fill="#7a869c">In the verse itself, “you shall redeem” stands before the detail (Rashi on 51a).</text>
+</svg>

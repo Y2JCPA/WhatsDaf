@@ -1,0 +1,34 @@
+{
+  "people": {
+    "rav-nachman": {
+      "name": "Rav Naḥman",
+      "he": "רב נחמן",
+      "era": "Amora · Neharde’a, 3rd century",
+      "bio": "Rav Naḥman bar Ya’akov, a leading judge of Neharde’a and student of Shmuel, linked by marriage to the Exilarch’s family.",
+      "color": "#37474f",
+      "initials": "ר״נ",
+      "image": "rav-nachman.jpg",
+      "prompt": "A confident, authoritative judge in his 50s with a full dark beard going grey, in fine layered robes befitting a man connected to the Exilarch’s household, seated as if hearing a case, background mudbrick court walls of Neharde’a lit by oil lamps."
+    },
+    "rav-dimi": {
+      "name": "Rav Dimi",
+      "he": "רב דימי",
+      "era": "Amora · 4th century",
+      "bio": "A Babylonian Amora who carried teachings from the Land of Israel back to Babylonia.",
+      "color": "#5e35b1",
+      "initials": "ר״ד",
+      "image": "rav-dimi.jpg",
+      "prompt": "A travel-worn scholar in his 40s with a short brown beard and an alert, attentive face, a satchel strap across his travel cloak as one who brought teachings from the Land of Israel to Babylonia, background a road with palm trees fading into Babylonian mudbrick walls."
+    },
+    "rabbi-yonatan": {
+      "name": "Rabbi Yonatan",
+      "he": "רבי יונתן",
+      "era": "Amora · Land of Israel, 3rd century",
+      "bio": "An early Amora of the Land of Israel, often cited by later sages.",
+      "color": "#00695c",
+      "initials": "ר״י",
+      "image": "rabbi-yonatan.jpg",
+      "prompt": "A thoughtful elder sage in his 60s with a grey beard and a gentle, steady gaze, in a simple wool mantle with a scroll in his hands, background Galilean limestone arches and olive trees."
+    }
+  }
+}
