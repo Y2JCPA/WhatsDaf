@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 470" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>This and that cause</title>
+  <rect width="640" height="470" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">“This and that cause”</text>
+  <text x="32" y="68" font-size="14" fill="#5b6b7d">When a permitted and a forbidden parent both produce the offspring</text>
+
+  <g font-size="15" font-weight="700" fill="#1f2d3d" text-anchor="middle">
+    <rect x="240" y="88" width="178" height="36" rx="10" fill="#dfe8f3"/><text x="329" y="111">Rabbi Eliezer</text>
+    <rect x="430" y="88" width="178" height="36" rx="10" fill="#dfe8f3"/><text x="519" y="111">Rabbi Yehoshua</text>
+  </g>
+
+  <!-- row 1: general rule -->
+  <text x="32" y="156" font-size="14" font-weight="700" fill="#1f2d3d">Generally</text>
+  <text x="32" y="174" font-size="12.5" fill="#5b6b7d">(the Gemara’s answer)</text>
+  <rect x="240" y="138" width="178" height="48" rx="8" fill="#fde2e1"/>
+  <text x="329" y="168" font-size="14" font-weight="600" fill="#a12d22" text-anchor="middle">✖ forbidden</text>
+  <rect x="430" y="138" width="178" height="48" rx="8" fill="#ddf1e3"/>
+  <text x="519" y="168" font-size="14" font-weight="600" fill="#1e7a3c" text-anchor="middle">✔ permitted</text>
+
+  <!-- row 2: tereifa offspring -->
+  <text x="32" y="216" font-size="14" font-weight="700" fill="#1f2d3d">Offspring of a tereifa</text>
+  <text x="32" y="234" font-size="12.5" fill="#5b6b7d">father kosher: to the altar?</text>
+  <rect x="240" y="198" width="178" height="48" rx="8" fill="#fde2e1"/>
+  <text x="329" y="228" font-size="14" font-weight="600" fill="#a12d22" text-anchor="middle">✖ not sacrificed</text>
+  <rect x="430" y="198" width="178" height="48" rx="8" fill="#ddf1e3"/>
+  <text x="519" y="228" font-size="14" font-weight="600" fill="#1e7a3c" text-anchor="middle">✔ sacrificed</text>
+
+  <!-- row 3: the lamb -->
+  <text x="32" y="276" font-size="14" font-weight="700" fill="#1f2d3d">Lamb of a kosher ewe,</text>
+  <text x="32" y="294" font-size="14" font-weight="700" fill="#1f2d3d">non-kosher father</text>
+  <text x="32" y="312" font-size="12.5" fill="#5b6b7d">to eat?</text>
+  <rect x="240" y="258" width="178" height="58" rx="8" fill="#ddf1e3"/>
+  <text x="329" y="292" font-size="14" font-weight="600" fill="#1e7a3c" text-anchor="middle">✔ permitted</text>
+  <rect x="430" y="258" width="178" height="58" rx="8" fill="#fde2e1"/>
+  <text x="519" y="292" font-size="14" font-weight="600" fill="#a12d22" text-anchor="middle">✖ forbidden</text>
+
+  <!-- row 4: why -->
+  <text x="32" y="350" font-size="14" font-weight="700" fill="#1f2d3d">Why the lamb</text>
+  <text x="32" y="368" font-size="14" font-weight="700" fill="#1f2d3d">is different</text>
+  <text x="32" y="386" font-size="12.5" fill="#5b6b7d">Deuteronomy 14:4</text>
+  <rect x="240" y="330" width="178" height="112" rx="8" fill="#ffffff" stroke="#c9d5e3"/>
+  <g font-size="13" fill="#33475b" text-anchor="middle">
+    <text x="329" y="356" font-weight="700">“seh … veseh”</text>
+    <text x="329" y="378">“seh” is repeated:</text>
+    <text x="329" y="396">a seh is permitted</text>
+    <text x="329" y="414">in any case</text>
+  </g>
+  <rect x="430" y="330" width="178" height="112" rx="8" fill="#ffffff" stroke="#c9d5e3"/>
+  <g font-size="13" fill="#33475b" text-anchor="middle">
+    <text x="519" y="356" font-weight="700">“kesavim … izzim”</text>
+    <text x="519" y="378">plural: not kosher</text>
+    <text x="519" y="396">unless its father and</text>
+    <text x="519" y="414">its mother are sheep</text>
+  </g>
+</svg>
