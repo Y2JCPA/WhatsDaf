@@ -243,7 +243,7 @@ Same output spec and shared style as above. Save to `assets/portraits/<file>`.
 
 | File | Person | Add to the shared style |
 |---|---|---|
-| `rabbi-acha-bar-yaakov.jpg` | Rabbi Aḥa bar Ya’akov, Amora | A thoughtful scholar in his 60s with a long greying beard and a steady, attentive gaze, wrapped in a plain wool mantle; background of a dim study house with mud-brick walls and oil lamps. |
+| `rav-acha-bar-yaakov.jpg` | Rav Aḥa bar Ya’akov, Amora · Babylonia, 3rd–4th century | An elderly Babylonian scholar in his 80s with a long white beard and alert, steady eyes, a finger resting on an open scroll as he cites a verse; background of mudbrick academy walls and oil lamps. |
 | `rav-chiyya-bar-avin.jpg` | Rav Ḥiyya bar Avin, Amora · Babylonia, 3rd–4th century | A Babylonian scholar in his 50s with a dark beard touched with grey and an attentive, careful look, as if repeating a teaching word for word; background of mudbrick academy walls and oil lamps. |
 | `rabbi-chiyya.jpg` | Rabbi Ḥiyya, Tanna/Amora · Babylonia and the Land of Israel, late 2nd–early 3rd century | A venerable Babylonian-born scholar in his 60s with a full silver beard and a warm, steady gaze, holding a bundle of scrolls of the teachings he collected; background of limestone arches and olive trees in the Land of Israel. |
 | `rav-sherevya.jpg` | Rav Sherevya, Amora · Babylonia, 4th century | A Babylonian scholar in his 40s with a dark beard and an attentive, questioning expression, a scroll open in his hands as if pointing out a difficulty to his teacher; background of mudbrick academy walls and oil lamps. |
