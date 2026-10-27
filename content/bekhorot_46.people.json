@@ -1,0 +1,24 @@
+{
+  "people": {
+    "ameimar": {
+      "name": "Ameimar",
+      "he": "אמימר",
+      "era": "Amora · Nehardea, 4th–5th century",
+      "bio": "Babylonian Amora who headed the scholars of Nehardea in the generation of Rav Ashi.",
+      "color": "#6d4c41",
+      "initials": "א",
+      "image": "ameimar.jpg",
+      "prompt": "A composed, authoritative scholar in his 60s with a long grey beard and a steady, judicial gaze, the head of the scholars of Nehardea. He wears a dark wool mantle over a cream robe and a wrapped turban. Mudbrick academy walls and oil lamps behind him."
+    },
+    "rabbi-yosei-hagelili": {
+      "name": "Rabbi Yosei HaGelili",
+      "he": "רבי יוסי הגלילי",
+      "era": "Tanna · Galilee and Yavne, 2nd century",
+      "bio": "Tanna from the Galilee who came to Yavne and debated Rabbi Akiva and Rabbi Tarfon.",
+      "color": "#2e7d32",
+      "initials": "ריה״ג",
+      "image": "rabbi-yosei-hagelili.jpg",
+      "prompt": "A lean, keen-eyed Galilean scholar in his 40s with a dark beard, plain undyed wool robes and a confident, debating expression. Galilean hills and olive trees softly behind him."
+    }
+  }
+}

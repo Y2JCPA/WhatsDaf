@@ -18,12 +18,15 @@ function loadDaf(slug, daf) {
   const sourceFile = path.join(__dirname, 'sources', `${slug}_${daf}.json`);
   if (!fs.existsSync(sourceFile)) throw new Error(`missing ${path.relative(ROOT, sourceFile)}; run: node pipeline/fetch-sefaria.js ${slug} ${daf}`);
   const notesFile = path.join(ROOT, 'content', `${slug}_${daf}.notes.json`);
+  // New people can be staged per daf (content/<slug>_<daf>.people.json) until they are merged into data/people.json.
+  const stagedFile = path.join(ROOT, 'content', `${slug}_${daf}.people.json`);
+  const staged = fs.existsSync(stagedFile) ? readJSON(stagedFile).people || {} : {};
   return {
     masechet,
     source: readJSON(sourceFile),
     content: readJSON(path.join(ROOT, 'content', `${slug}_${daf}.json`)),
     notes: fs.existsSync(notesFile) ? readJSON(notesFile) : {},
-    people: readJSON(path.join(ROOT, 'data', 'people.json')).people,
+    people: { ...readJSON(path.join(ROOT, 'data', 'people.json')).people, ...staged },
   };
 }
 
