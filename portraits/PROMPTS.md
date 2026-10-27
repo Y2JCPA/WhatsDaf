@@ -65,3 +65,20 @@ Rabban Gamliel, the Gemara (stam), the Sages, Rav, Shmuel, Abaye, Rava, Ulla, Ra
 Rabbi Yehuda HaNasi, and the others in that repo's portrait set.
 
 Until a file above exists, the app shows a Hebrew-initials avatar for that person, so the daf can go live first.
+
+---
+
+## Round 2: people needed for Bekhorot 41–42
+
+Same output spec and shared style as above. Save to `assets/portraits/<file>`.
+
+| File | Person | Add to the shared style |
+|---|---|---|
+| `rabbi-shimon.jpg` | Rabbi Shimon bar Yoḥai, Tanna, student of Rabbi Akiva | An intense, ascetic sage in his 50s with a long dark beard streaked with grey and deep-set, burning eyes. He hid in a cave with his son for thirteen years: rough, earth-toned robes and the rocky mouth of a cave with a carob tree softly behind him. Galilean hills. |
+| `rabbi-ilai.jpg` | Rabbi Ilai, Tanna, father of Rabbi Yehuda bar Ilai | A gentle elderly teacher in his 70s with a full white beard and a kind, attentive face. Simple wool robe and mantle. A Galilean courtyard with an olive tree at golden hour. |
+| `rabbi-shimon-ben-yehuda.jpg` | Rabbi Shimon ben Yehuda of Kefar Akko, Tanna, who passes on Rabbi Shimon's teachings | A devoted student-scholar in his 40s with a neat brown beard, listening expression, holding a small scroll of his master's teachings. The coast near Akko with the sea faintly behind him. |
+| `rabbi-elazar-ben-shamua.jpg` | Rabbi Elazar ben Shamua, Tanna, one of Rabbi Akiva's last students | A dignified, warm kohen-scholar in his 50s with a greying beard. Simple white linen under a blue-grey mantle. A modest study hall of the Galilee behind him. |
+| `rabbi-yosei-berabbi-yehuda.jpg` | Rabbi Yosei son of Rabbi Yehuda, Tanna | A thoughtful man in his 30s with a short dark beard, a clear family resemblance to an older joyful sage (his father, Rabbi Yehuda bar Ilai). Plain wool cloak. Village of Usha in the Galilee behind him. |
+| `rav-chisda.jpg` | Rav Ḥisda, head of the academy at Sura (3rd-generation Babylonian Amora), a kohen | A sharp-eyed, energetic scholar in his 60s with a grey beard, an alert questioning expression. Fine but practical robes; a hint of a priestly white linen collar. Babylonian academy with oil lamps. |
+| `rav-oshaya.jpg` | Rav Oshaya, Babylonian Amora | A quiet, probing scholar in his 40s with a dark trimmed beard, one hand raised mid-objection. Brown wool robe. Mudbrick academy walls and lamplight. |
+| `abaye-bar-avin.jpg` | Abaye bar Avin, Babylonian Amora (quoted together with his brother Rav Ḥananya bar Avin) | A friendly scholar in his 40s with a black beard, turning slightly as if conferring with someone beside him (his brother). Simple robe and turban. Palm grove at dusk behind him. |

@@ -39,7 +39,8 @@ Check with `node pipeline/validate.js <masechet> <daf>`; build with `node pipeli
     Rabbeinu Gershom's does not, so place each of his notes by its content.
 12. **Commentary English** goes in `content/<masechet>_<daf>.notes.json`, keyed like the notes. Translate the Hebrew
     faithfully and plainly; put our clarifications in [square brackets]; say "(Rashi adds an Old French gloss)" rather
-    than guessing at a gloss.
+    than guessing at a gloss. A Tosafot longer than about 250 words may be condensed: start it with "In brief:",
+    keep every question and answer in order, cite the sources it cites, and end with "Open on Sefaria for the full text."
 13. Write `description` (one sentence) and 5–8 `topics` (emoji + short line) for the group-info panel.
 
 ## Message fields

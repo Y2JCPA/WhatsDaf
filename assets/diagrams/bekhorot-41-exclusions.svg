@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 500" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Words that exclude from the altar</title>
+  <rect width="640" height="500" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Every “from” leaves something out</text>
+  <text x="32" y="68" font-size="14" fill="#5b6b7d">Animals excluded from the altar, though not blemished</text>
+  <text x="32" y="106" font-size="15" font-weight="700" fill="#1f2d3d">Leviticus 1:10</text>
+  <text x="150" y="106" font-size="14" fill="#5b6b7d">“…from the flock, from the sheep or from the goats”</text>
+  <g font-size="14">
+    <rect x="32" y="124" width="180" height="34" rx="17" fill="#dfe8f3"/><text x="122" y="146" text-anchor="middle" fill="#1f2d3d" font-weight="600">from the flock</text>
+    <rect x="228" y="124" width="180" height="34" rx="17" fill="#dfe8f3"/><text x="318" y="146" text-anchor="middle" fill="#1f2d3d" font-weight="600">from the sheep</text>
+    <rect x="424" y="124" width="180" height="34" rx="17" fill="#dfe8f3"/><text x="514" y="146" text-anchor="middle" fill="#1f2d3d" font-weight="600">from the goats</text>
+  </g>
+  <path d="M320 166 v18" stroke="#7f8fa3" stroke-width="2"/><text x="320" y="208" font-size="14" text-anchor="middle" fill="#33475b">three “from”s exclude three animals:</text>
+  <rect x="32" y="220" width="180" height="34" rx="8" fill="#fde2e1"/><text x="122" y="242" font-size="14" text-anchor="middle" fill="#a12d22" font-weight="600">✖ the old</text>
+  <rect x="228" y="220" width="180" height="34" rx="8" fill="#fde2e1"/><text x="318" y="242" font-size="14" text-anchor="middle" fill="#a12d22" font-weight="600">✖ the sick</text>
+  <rect x="424" y="220" width="180" height="34" rx="8" fill="#fde2e1"/><text x="514" y="242" font-size="14" text-anchor="middle" fill="#a12d22" font-weight="600">✖ the foul-smelling</text>
+  <text x="32" y="294" font-size="15" font-weight="700" fill="#1f2d3d">Leviticus 1:2</text>
+  <text x="150" y="294" font-size="14" fill="#5b6b7d">“…from the cattle, from the herd, or from the flock”</text>
+  <rect x="32" y="314" width="180" height="34" rx="17" fill="#dfe8f3"/><text x="122" y="336" font-size="14" text-anchor="middle" fill="#1f2d3d" font-weight="600">from the cattle</text>
+  <path d="M218 331 h22" stroke="#7f8fa3" stroke-width="2"/>
+  <rect x="246" y="314" width="362" height="34" rx="8" fill="#fde2e1"/><text x="258" y="336" font-size="13.5" fill="#a12d22" font-weight="600">✖ copulated with a person, or was its object</text>
+  <rect x="32" y="358" width="180" height="34" rx="17" fill="#dfe8f3"/><text x="122" y="380" font-size="14" text-anchor="middle" fill="#1f2d3d" font-weight="600">from the herd</text>
+  <path d="M218 375 h22" stroke="#7f8fa3" stroke-width="2"/>
+  <rect x="246" y="358" width="362" height="34" rx="8" fill="#fde2e1"/><text x="258" y="380" font-size="13.5" fill="#a12d22" font-weight="600">✖ worshipped as a deity</text>
+  <rect x="32" y="402" width="180" height="34" rx="17" fill="#dfe8f3"/><text x="122" y="424" font-size="14" text-anchor="middle" fill="#1f2d3d" font-weight="600">from the flock</text>
+  <path d="M218 419 h22" stroke="#7f8fa3" stroke-width="2"/>
+  <rect x="246" y="402" width="362" height="34" rx="8" fill="#fde2e1"/><text x="258" y="424" font-size="13.5" fill="#a12d22" font-weight="600">✖ set aside for idol worship</text>
+  <rect x="32" y="446" width="180" height="34" rx="17" fill="#dfe8f3"/><text x="122" y="468" font-size="14" text-anchor="middle" fill="#1f2d3d" font-weight="600">or (from the flock)</text>
+  <path d="M218 463 h22" stroke="#7f8fa3" stroke-width="2"/>
+  <rect x="246" y="446" width="362" height="34" rx="8" fill="#fde2e1"/><text x="258" y="468" font-size="13.5" fill="#a12d22" font-weight="600">✖ gored and killed a person</text>
+</svg>

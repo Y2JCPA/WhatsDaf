@@ -8,7 +8,7 @@ const COMMENTARY_TITLES = { rashi: 'Rashi', tosafot: 'Tosafot', gershom: 'Rabbei
 const ALLOWED_TAGS = new Set(['b', 'i', 'br']);
 // Bold words the chat may drop: the sender label already says who is speaking.
 const DROPPABLE = new Set(['and']);
-const SPEAKER_VERBS = ['says', 'said', 'say', 'comes', 'to', 'asked'];
+const SPEAKER_VERBS = ['says', 'said', 'say', 'comes', 'to', 'him', 'asked'];
 
 const readJSON = f => JSON.parse(fs.readFileSync(f, 'utf8'));
 
@@ -92,9 +92,10 @@ function messageWords(msg, people) {
   return [
     ...words(msg.quote || ''),
     ...speakerWords(msg.from, people),
-    ...(msg.forwardedFrom ? speakerWords(msg.forwardedFrom, people) : []),
+    ...(msg.forwardedFrom ? ['in', 'the', 'name', 'of', 'that', ...speakerWords(msg.forwardedFrom, people)] : []),
     ...words(msg.alt || ''),
     ...words(expandMentions(msg.lead || '', people)),
+    ...speakerWords(msg.from, people), // a lead line can restate the source before the speaker's tag
     ...words(expandMentions(msg.text || '', people)),
   ];
 }
