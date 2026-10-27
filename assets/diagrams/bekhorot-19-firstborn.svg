@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 520" width="640" height="520" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <rect width="640" height="520" rx="18" fill="#f3f6fb"/>
+  <text x="320" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#1b2a41">Which births are a firstborn?</text>
+  <text x="320" y="70" text-anchor="middle" font-size="14" fill="#4a5a70">The three aspects of “firstborn,” and the word of the verse that excludes each case</text>
+
+  <!-- header -->
+  <rect x="20" y="88" width="600" height="58" rx="10" fill="#dfe7f3"/>
+  <text x="34" y="122" font-size="14" font-weight="700" fill="#1b2a41">The male in question</text>
+  <text font-size="12.5" font-weight="700" fill="#1b2a41" text-anchor="middle">
+    <tspan x="330" y="112">first to</tspan><tspan x="330" y="128">be born</tspan>
+    <tspan x="398" y="112">opens</tspan><tspan x="398" y="128">the womb</tspan>
+    <tspan x="466" y="112">first</tspan><tspan x="466" y="128">male</tspan>
+  </text>
+  <text x="508" y="122" font-size="14" font-weight="700" fill="#1b2a41">Excluded by</text>
+
+  <!-- row 1 -->
+  <rect x="20" y="152" width="600" height="62" rx="10" fill="#ffffff"/>
+  <text font-size="14" fill="#1b2a41"><tspan x="34" y="178">Itself born by caesarean</tspan><tspan x="34" y="197">section</tspan></text>
+  <text x="330" y="190" text-anchor="middle" font-size="20" fill="#2e7d32">✓</text>
+  <text x="398" y="190" text-anchor="middle" font-size="20" fill="#c62828">✗</text>
+  <text x="466" y="190" text-anchor="middle" font-size="20" fill="#2e7d32">✓</text>
+  <text font-size="13.5" fill="#1b2a41"><tspan x="508" y="178">“that which</tspan><tspan x="508" y="196">opens the womb”</tspan></text>
+
+  <!-- row 2 -->
+  <rect x="20" y="220" width="600" height="62" rx="10" fill="#ffffff"/>
+  <text font-size="14" fill="#1b2a41"><tspan x="34" y="246">Through the womb, after a</tspan><tspan x="34" y="265">female born through the womb</tspan></text>
+  <text x="330" y="258" text-anchor="middle" font-size="20" fill="#c62828">✗</text>
+  <text x="398" y="258" text-anchor="middle" font-size="20" fill="#c62828">✗</text>
+  <text x="466" y="258" text-anchor="middle" font-size="20" fill="#2e7d32">✓</text>
+  <text font-size="13.5" fill="#1b2a41"><tspan x="508" y="246">“that which</tspan><tspan x="508" y="264">opens the womb”</tspan></text>
+
+  <!-- row 3 -->
+  <rect x="20" y="288" width="600" height="62" rx="10" fill="#ffffff"/>
+  <text font-size="14" fill="#1b2a41"><tspan x="34" y="314">Through the womb, after a</tspan><tspan x="34" y="333">male born by caesarean section</tspan></text>
+  <text x="330" y="326" text-anchor="middle" font-size="20" fill="#c62828">✗</text>
+  <text x="398" y="326" text-anchor="middle" font-size="20" fill="#2e7d32">✓</text>
+  <text x="466" y="326" text-anchor="middle" font-size="20" fill="#c62828">✗</text>
+  <text x="508" y="324" font-size="13.5" fill="#1b2a41">“firstborn”</text>
+
+  <!-- row 4 -->
+  <rect x="20" y="356" width="600" height="62" rx="10" fill="#fff6e0" stroke="#e0b44c" stroke-width="1.5"/>
+  <text font-size="14" fill="#1b2a41"><tspan x="34" y="382">Through the womb, after a</tspan><tspan x="34" y="401">female born by caesarean section</tspan></text>
+  <text x="330" y="394" text-anchor="middle" font-size="20" fill="#c62828">✗</text>
+  <text x="398" y="394" text-anchor="middle" font-size="20" fill="#2e7d32">✓</text>
+  <text x="466" y="394" text-anchor="middle" font-size="20" fill="#2e7d32">✓</text>
+  <text font-size="13.5" fill="#1b2a41"><tspan x="508" y="382">“firstborn”</tspan><tspan x="508" y="400">(for Abaye)</tspan></text>
+
+  <!-- footer -->
+  <text font-size="13" fill="#33445c">
+    <tspan x="34" y="448"><tspan font-weight="700">Abaye:</tspan> “firstborn” means first in every aspect, so the word itself</tspan>
+    <tspan x="34" y="466">excludes both of the last two cases.</tspan>
+    <tspan x="34" y="490"><tspan font-weight="700">Ravina:</tspan> only the extra word excludes, and it covers one case (the third).</tspan>
+    <tspan x="34" y="508">Rav Aḥa of Difti asks about the fourth, so the Gemara follows Abaye.</tspan>
+  </text>
+</svg>

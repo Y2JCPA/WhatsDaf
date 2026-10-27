@@ -1,0 +1,24 @@
+{
+  "people": {
+    "rav-sherevya": {
+      "name": "Rav Sherevya",
+      "he": "רב שרביא",
+      "era": "Amora · Babylonia, 4th century",
+      "bio": "Babylonian Amora who raised questions before Abaye.",
+      "color": "#00838f",
+      "initials": "רב ש",
+      "image": "rav-sherevya.jpg",
+      "prompt": "A Babylonian scholar in his 40s with a dark beard and an attentive, questioning expression, a scroll open in his hands as if pointing out a difficulty to his teacher; background of mudbrick academy walls and oil lamps."
+    },
+    "rav-acha-midifti": {
+      "name": "Rav Aḥa of Difti",
+      "he": "רב אחא מדיפתי",
+      "era": "Amora · Babylonia, 5th century",
+      "bio": "Babylonian Amora from the town of Difti, of the generation of Ravina and Rav Ashi.",
+      "color": "#6d4c41",
+      "initials": "רא״מ",
+      "image": "rav-acha-midifti.jpg",
+      "prompt": "A Babylonian scholar in his 50s with a greying beard and a sharp, probing expression, one hand raised as if pressing an objection; background of palm groves along the Euphrates."
+    }
+  }
+}

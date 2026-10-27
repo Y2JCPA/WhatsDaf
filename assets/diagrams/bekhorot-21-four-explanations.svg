@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 520" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>First tanna and Rabbi Shimon: four explanations</title>
+  <rect width="640" height="520" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">What does “within its year” turn on?</text>
+  <text x="32" y="70" font-size="14" fill="#5b6b7d">Rabbi Shimon saw a kid tithed “within its year”; the first tanna does not say it.</text>
+  <text x="32" y="90" font-size="14" fill="#5b6b7d">The Gemara offers four ways to explain the difference.</text>
+  <g font-size="13" font-weight="700" fill="#5b6b7d">
+    <text x="32" y="124">THE QUESTION</text>
+    <text x="456" y="124" text-anchor="middle">FIRST TANNA</text>
+    <text x="558" y="124" text-anchor="middle">R. SHIMON</text>
+  </g>
+  <g font-size="14">
+    <rect x="24" y="136" width="592" height="84" rx="12" fill="#ffffff"/>
+    <text x="40" y="162" font-weight="700" fill="#1f2d3d">1. Ze’eiri’s rule</text>
+    <text x="40" y="184" fill="#33475b">A discharge means no pregnancy</text>
+    <text x="40" y="203" fill="#33475b">for at least thirty days.</text>
+    <rect x="408" y="160" width="96" height="34" rx="17" fill="#dff1e4"/><text x="456" y="182" text-anchor="middle" fill="#1e6b3a" font-weight="600">accepts</text>
+    <rect x="510" y="160" width="96" height="34" rx="17" fill="#fde2e1"/><text x="558" y="182" text-anchor="middle" fill="#a12d22" font-weight="600">rejects</text>
+
+    <rect x="24" y="230" width="592" height="84" rx="12" fill="#ffffff"/>
+    <text x="40" y="256" font-weight="700" fill="#1f2d3d">2. Birth after incomplete months?</text>
+    <text x="40" y="278" fill="#33475b">Both accept Ze’eiri. Can an animal</text>
+    <text x="40" y="297" fill="#33475b">give birth prematurely?</text>
+    <rect x="408" y="254" width="96" height="34" rx="17" fill="#fde2e1"/><text x="456" y="276" text-anchor="middle" fill="#a12d22" font-weight="600">no</text>
+    <rect x="510" y="254" width="96" height="34" rx="17" fill="#dff1e4"/><text x="558" y="276" text-anchor="middle" fill="#1e6b3a" font-weight="600">yes</text>
+
+    <rect x="24" y="324" width="592" height="84" rx="12" fill="#ffffff"/>
+    <text x="40" y="350" font-weight="700" fill="#1f2d3d">3. Part of a day like a whole day?</text>
+    <text x="40" y="372" fill="#33475b">Both: Ze’eiri, and no premature birth.</text>
+    <text x="40" y="391" fill="#33475b">Does part of the last day count?</text>
+    <rect x="408" y="348" width="96" height="34" rx="17" fill="#fde2e1"/><text x="456" y="370" text-anchor="middle" fill="#a12d22" font-weight="600">no</text>
+    <rect x="510" y="348" width="96" height="34" rx="17" fill="#dff1e4"/><text x="558" y="370" text-anchor="middle" fill="#1e6b3a" font-weight="600">yes</text>
+
+    <rect x="24" y="418" width="592" height="84" rx="12" fill="#ffffff"/>
+    <text x="40" y="444" font-weight="700" fill="#1f2d3d">4. Not yet of age: into the tithe pen?</text>
+    <text x="40" y="466" fill="#33475b">Both: part of a day counts. Does a newborn</text>
+    <text x="40" y="485" fill="#33475b">“whose time has not yet arrived” enter?</text>
+    <rect x="408" y="442" width="96" height="34" rx="17" fill="#fde2e1"/><text x="456" y="464" text-anchor="middle" fill="#a12d22" font-weight="600">no</text>
+    <rect x="510" y="442" width="96" height="34" rx="17" fill="#dff1e4"/><text x="558" y="464" text-anchor="middle" fill="#1e6b3a" font-weight="600">yes</text>
+    <text x="558" y="494" font-size="11" text-anchor="middle" fill="#5b6b7d">a baraita supports this (21b)</text>
+  </g>
+</svg>

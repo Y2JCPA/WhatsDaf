@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 490" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Tithe: like the firstborn or like offerings</title>
+  <rect width="640" height="490" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Learn the tithe from which?</text>
+  <text x="32" y="70" font-size="14" fill="#5b6b7d">Can an animal not yet of age be consecrated as tithe? Two models, four points each.</text>
+  <rect x="24" y="90" width="290" height="268" rx="14" fill="#ffffff"/>
+  <text x="169" y="120" font-size="16" font-weight="700" text-anchor="middle" fill="#1f2d3d">Like the firstborn</text>
+  <text x="169" y="140" font-size="12.5" text-anchor="middle" fill="#5b6b7d">consecrated before its time</text>
+  <g font-size="14" fill="#33475b">
+    <rect x="40" y="156" width="258" height="40" rx="8" fill="#e6eefb"/><text x="54" y="181"><tspan font-weight="700" fill="#1f2d3d">Redeem:</tspan> not redeemed</text>
+    <rect x="40" y="204" width="258" height="40" rx="8" fill="#e6eefb"/><text x="54" y="229"><tspan font-weight="700" fill="#1f2d3d">Blemish:</tspan> still becomes sacred</text>
+    <rect x="40" y="252" width="258" height="40" rx="8" fill="#e6eefb"/><text x="54" y="277"><tspan font-weight="700" fill="#1f2d3d">Substitute:</tspan> not sacrificed</text>
+    <rect x="40" y="300" width="258" height="40" rx="8" fill="#e6eefb"/><text x="54" y="325"><tspan font-weight="700" fill="#1f2d3d">Eaten:</tspan> without redemption</text>
+  </g>
+  <rect x="326" y="90" width="290" height="268" rx="14" fill="#ffffff"/>
+  <text x="471" y="120" font-size="16" font-weight="700" text-anchor="middle" fill="#1f2d3d">Like other offerings</text>
+  <text x="471" y="140" font-size="12.5" text-anchor="middle" fill="#5b6b7d">not consecrated before their time</text>
+  <g font-size="14" fill="#33475b">
+    <rect x="342" y="156" width="258" height="40" rx="8" fill="#fbeee0"/><text x="356" y="181"><tspan font-weight="700" fill="#1f2d3d">Males:</tspan> not males only</text>
+    <rect x="342" y="204" width="258" height="40" rx="8" fill="#fbeee0"/><text x="356" y="229"><tspan font-weight="700" fill="#1f2d3d">Consecrated:</tspan> by human action</text>
+    <rect x="342" y="252" width="258" height="40" rx="8" fill="#fbeee0"/><text x="356" y="277"><tspan font-weight="700" fill="#1f2d3d">Gifts:</tspan> not given to the priest</text>
+    <rect x="342" y="300" width="258" height="40" rx="8" fill="#fbeee0"/><text x="356" y="325"><tspan font-weight="700" fill="#1f2d3d">Regular:</tspan> not born first</text>
+  </g>
+  <path d="M320 366 v18" stroke="#7f8fa3" stroke-width="2"/>
+  <rect x="24" y="390" width="592" height="84" rx="14" fill="#dff1e4"/>
+  <text x="320" y="416" font-size="15" font-weight="700" text-anchor="middle" fill="#1e6b3a">Rather: “pass” / “passes,” a verbal analogy</text>
+  <text x="320" y="440" font-size="13.5" text-anchor="middle" fill="#33475b">“You shall pass” (Exodus 13:12), said of the firstborn</text>
+  <text x="320" y="460" font-size="13.5" text-anchor="middle" fill="#33475b">“Whatsoever passes under the rod” (Leviticus 27:32), said of the tithe</text>
+</svg>
