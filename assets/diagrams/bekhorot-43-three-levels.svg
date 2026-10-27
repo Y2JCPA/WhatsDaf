@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 410" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Three levels of disqualification</title>
+  <rect width="640" height="410" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Three levels of disqualification</text>
+  <text x="32" y="68" font-size="14" fill="#5b6b7d">All three may not serve. What if he serves anyway?</text>
+
+  <rect x="24" y="88" width="592" height="94" rx="14" fill="#fff" stroke="#dbe3ee"/>
+  <rect x="24" y="88" width="8" height="94" rx="4" fill="#c62828"/>
+  <text x="46" y="116" font-size="16" font-weight="700" fill="#c62828">1. A full blemish</text>
+  <text x="46" y="138" font-size="13" fill="#5b6b7d">The blemishes shared with animals · Torah law</text>
+  <text x="46" y="164" font-size="14" fill="#1f2d3d">He profanes the service: “that he not profane” (Lev. 21:23).</text>
+
+  <rect x="24" y="196" width="592" height="94" rx="14" fill="#fff" stroke="#dbe3ee"/>
+  <rect x="24" y="196" width="8" height="94" rx="4" fill="#ef6c00"/>
+  <text x="46" y="224" font-size="16" font-weight="700" fill="#ef6c00">2. Not equal among the seed of Aaron</text>
+  <text x="46" y="246" font-size="13" fill="#5b6b7d">E.g. an oddly shaped head · Torah law</text>
+  <text x="46" y="272" font-size="14" fill="#1f2d3d">The service is not profaned, but he violates a positive mitzva.</text>
+
+  <rect x="24" y="304" width="592" height="94" rx="14" fill="#fff" stroke="#dbe3ee"/>
+  <rect x="24" y="304" width="8" height="94" rx="4" fill="#1565c0"/>
+  <text x="46" y="332" font-size="16" font-weight="700" fill="#1565c0">3. Only because of appearance</text>
+  <text x="46" y="354" font-size="13" fill="#5b6b7d">E.g. eyelashes that fell out · rabbinic decree</text>
+  <text x="46" y="380" font-size="14" fill="#1f2d3d">He transgresses no Torah prohibition.</text>
+</svg>

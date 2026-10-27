@@ -1,0 +1,24 @@
+{
+  "people": {
+    "rabbi-dosa": {
+      "name": "Rabbi Dosa",
+      "he": "רבי דוסא",
+      "era": "Tanna",
+      "bio": "A Tanna quoted in the Mishna; here he defines the Torah’s gibben as one whose eyebrows lie over his eyes.",
+      "color": "#7e57c2",
+      "initials": "ר״ד",
+      "image": "rabbi-dosa.jpg",
+      "prompt": "A thoughtful Tanna in his 60s with a long grey beard and a careful, measured expression. He wears a plain undyed wool robe and a light mantle. Judean limestone study hall with an arched window behind him."
+    },
+    "rav-shimi-bar-chiyya": {
+      "name": "Rav Shimi bar Ḥiyya",
+      "he": "רב שימי בר חייא",
+      "era": "Amora · Babylonia, 3rd century",
+      "bio": "A Babylonian Amora, grandson and student of Rav.",
+      "color": "#8d4f2a",
+      "initials": "רשב״ח",
+      "image": "rav-shimi-bar-chiyya.jpg",
+      "prompt": "A young Babylonian scholar in his 20s, Rav’s grandson and student, with a short dark beard and an eager, questioning look, a wax writing tablet in one hand. Mudbrick academy walls and oil lamps of Sura behind him."
+    }
+  }
+}
