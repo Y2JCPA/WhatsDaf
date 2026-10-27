@@ -306,3 +306,23 @@ Same output spec and shared style as above. Save to `assets/portraits/<file>`.
 | `rafram.jpg` | Rafram, Amora · Pumbedita | A Babylonian sage in his 50s with a dark beard touched with grey and tired, squinting eyes, in a russet robe and white mantle. A mudbrick courtyard in Pumbedita with palm trees behind him. |
 | `rabbi-simlai.jpg` | Rabbi Simlai, Amora · Land of Israel, 3rd century | A warm, eloquent preacher in his 50s with a dark beard and expressive hands, in a sky-blue robe and cream mantle, mid-sermon. A stone study house at Lod with arched windows behind him. |
 | `rav-chiyya-bar-amram.jpg` | Rav Ḥiyya bar Amram, Amora · Babylonia | A sober Babylonian scholar in his 50s with a full greying beard and a calm, thoughtful face, in an olive-green robe and white mantle. A plain mudbrick study hall with oil lamps behind him. |
+
+---
+
+## Round 14: people needed for Bekhorot 37–39
+
+Same output spec and shared style as above. Save to `assets/portraits/<file>`.
+
+| File | Person | Add to the shared style |
+|---|---|---|
+| `rav-chana-bar-ketina.jpg` | Rav Ḥana bar Ketina, Amora · Babylonia | A level-headed Babylonian scholar in his 50s with a dark beard flecked with grey and a calm, reconciling expression, one hand raised with two fingers apart as if separating two cases, in a brown wool robe and a cream mantle. Mudbrick academy walls and oil lamps softly blurred behind him. |
+| `rav-shmuel-bar-yehuda.jpg` | Rav Shmuel bar Yehuda, Amora · Babylonia | A careful scholar in his 50s with a neat dark beard and an attentive, reciting expression, a small scroll of teachings in his hand, in a slate-blue wool robe and a white mantle. Mudbrick academy walls and oil lamps softly blurred behind him. |
+| `rav-tachlifa-bar-avudimi.jpg` | Rav Taḥlifa bar Avudimi, Amora · Babylonia | A composed Babylonian scholar in his 50s with a dark beard touched with grey and a quiet, thoughtful look, in a plain sand-colored wool robe and a cream mantle. Mudbrick academy walls and oil lamps behind him. |
+| `rabbi-yitzchak-bar-avin.jpg` | Rabbi Yitzḥak bar Avin, Amora | A precise, measured scholar in his 50s with a short greying beard and an attentive gaze, in a blue-grey linen robe and a white mantle, a small wooden bowl beside him. Limestone arches and olive trees softly blurred behind him. |
+| `rabbi-shimon-ben-yosei-lakonya.jpg` | Rabbi Shimon ben Yosei Lakonya, Tanna | A dignified elder in his 80s with a long white beard and a kindly, beckoning expression, in a white linen robe and a pale mantle, seated on a stone bench. A quiet Galilean neighborhood lane with olive trees softly blurred behind him. |
+| `rav-idi-bar-avin.jpg` | Rav Idi bar Avin, Amora · Babylonia | A steady Babylonian scholar in his 50s with a full dark beard and a calm, practical look, in an olive-brown wool robe and a cream mantle. Palm groves along the Euphrates softly blurred behind him. |
+| `rav-yitzchak-bar-ashiyan.jpg` | Rav Yitzḥak bar Ashiyan, Amora | A weathered scholar in his 60s with a grey beard and sun-creased eyes, in a coarse brown wool robe and a tan mantle, a sheaf of dry straw at his side. Fields under a late-summer sky softly blurred behind him. |
+| `rabbi-pinchas-ben-arova.jpg` | Rabbi Pineḥas ben Arova, Sage of the Land of Israel | A gentle scholar in his 60s with a neat grey beard and a patient expression, in an undyed wool robe and a white mantle. Limestone arches and olive trees softly blurred behind him. |
+| `pinchas-achuha-demar-shmuel.jpg` | Pineḥas, brother of Mar Shmuel, Amora · Babylonia, 3rd century | An earnest Babylonian man in his 40s with a short dark beard and a questioning look, in a plain brown wool robe and a cream mantle. Mudbrick houses and date palms of Nehardea softly blurred behind him. |
+| `rav-achadvoi-bar-ami.jpg` | Rav Aḥadvoi bar Ami, Amora · Babylonia | A thoughtful Babylonian scholar in his 40s with a black beard and a probing gaze, in a dark blue wool robe and a white mantle. Oil lamps and mudbrick academy walls softly behind him. |
+| `rav-chiyya-bar-yosef.jpg` | Rav Ḥiyya bar Yosef, Amora · 3rd century | A steady scholar in his 50s with a greying beard and a calm, independent look, in an undyed wool robe and an olive-green mantle. A stone study hall with arched windows softly blurred behind him. |

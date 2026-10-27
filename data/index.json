@@ -562,6 +562,54 @@
   },
   {
    "masechet": "bekhorot",
+   "daf": 37,
+   "title": "Bekhorot 37",
+   "he": "בכורות ל״ז",
+   "preview": {
+    "from": "baraita",
+    "text": "Dissolution of vows requires a court of three."
+   },
+   "last": {
+    "from": "mishnah",
+    "text": "But if the window was made by the hand of a person, its measure for which ritual impurity is transmitted is like the siz"
+   },
+   "messages": 93,
+   "members": 24
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 38,
+   "title": "Bekhorot 38",
+   "he": "בכורות ל״ח",
+   "preview": {
+    "from": "mishnah",
+    "text": "like the size of the hole of a yoke of an animal."
+   },
+   "last": {
+    "from": "rava",
+    "text": "They raise a dilemma in the West, Eretz Yisrael: Does this mean that it is fed the amount of a fig-bulk at its first mea"
+   },
+   "messages": 88,
+   "members": 23
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 39,
+   "title": "Bekhorot 39",
+   "he": "בכורות ל״ט",
+   "preview": {
+    "from": "rava",
+    "text": "or perhaps does it mean it is fed the amount of a fig-bulk at each and every meal?"
+   },
+   "last": {
+    "from": "mishnah",
+    "text": "There were two rods for measuring cubits…"
+   },
+   "messages": 91,
+   "members": 23
+  },
+  {
+   "masechet": "bekhorot",
    "daf": 40,
    "title": "Bekhorot 40",
    "he": "בכורות מ׳",
