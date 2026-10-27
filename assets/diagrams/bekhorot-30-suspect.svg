@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 520" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Suspect of one, suspect of another?</title>
+  <rect width="640" height="520" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Suspect of one, suspect of another?</text>
+  <text x="32" y="68" font-size="13.5" fill="#5b6b7d">The mishna’s rules, with the Gemara’s reason in grey</text>
+
+  <!-- Row 1 -->
+  <rect x="24" y="84" width="592" height="88" rx="14" fill="#fff" stroke="#d6dfea"/>
+  <text x="44" y="112" font-size="15" font-weight="700" fill="#1f2d3d">Suspect on the Sabbatical Year</text>
+  <text x="300" y="112" font-size="15" fill="#5b6b7d">→</text>
+  <rect x="326" y="96" width="270" height="24" rx="12" fill="#e3f1e5"/>
+  <text x="461" y="113" font-size="13.5" font-weight="700" text-anchor="middle" fill="#2e7d32">not suspect on tithes</text>
+  <text x="44" y="140" font-size="13" fill="#6b7a8c">Second tithe must be eaten within the wall of Jerusalem,</text>
+  <text x="44" y="159" font-size="13" fill="#6b7a8c">so it may seem more stringent to him.</text>
+
+  <!-- Row 2 -->
+  <rect x="24" y="182" width="592" height="88" rx="14" fill="#fff" stroke="#d6dfea"/>
+  <text x="44" y="210" font-size="15" font-weight="700" fill="#1f2d3d">Suspect on tithes</text>
+  <text x="300" y="210" font-size="15" fill="#5b6b7d">→</text>
+  <rect x="326" y="194" width="270" height="24" rx="12" fill="#e3f1e5"/>
+  <text x="461" y="211" font-size="13.5" font-weight="700" text-anchor="middle" fill="#2e7d32">not suspect on the Sabbatical Year</text>
+  <text x="44" y="238" font-size="13" fill="#6b7a8c">Tithes can be redeemed; Sabbatical produce stays prohibited</text>
+  <text x="44" y="257" font-size="13" fill="#6b7a8c">and has no redemption, so it may seem more stringent to him.</text>
+
+  <!-- Row 3 -->
+  <rect x="24" y="280" width="592" height="88" rx="14" fill="#fff" stroke="#d6dfea"/>
+  <text x="44" y="308" font-size="15" font-weight="700" fill="#1f2d3d">Suspect on either one</text>
+  <text x="300" y="308" font-size="15" fill="#5b6b7d">→</text>
+  <rect x="326" y="292" width="270" height="24" rx="12" fill="#fbe4e1"/>
+  <text x="461" y="309" font-size="13.5" font-weight="700" text-anchor="middle" fill="#c0392b">suspect on ritually pure items</text>
+  <text x="44" y="336" font-size="13" fill="#6b7a8c">Suspect on Torah law, all the more so on rabbinic law:</text>
+  <text x="44" y="355" font-size="13" fill="#6b7a8c">eating non-sacred food in purity is an ordinance of the Sages.</text>
+
+  <!-- Row 4 -->
+  <rect x="24" y="378" width="592" height="88" rx="14" fill="#fff" stroke="#d6dfea"/>
+  <text x="44" y="406" font-size="15" font-weight="700" fill="#1f2d3d">Suspect on ritually pure items</text>
+  <text x="300" y="406" font-size="15" fill="#5b6b7d">→</text>
+  <rect x="326" y="390" width="270" height="24" rx="12" fill="#e3f1e5"/>
+  <text x="461" y="407" font-size="13.5" font-weight="700" text-anchor="middle" fill="#2e7d32">not necessarily on either</text>
+  <text x="44" y="434" font-size="13" fill="#6b7a8c">Suspect on rabbinic law, not on Torah law. (A baraita implies</text>
+  <text x="44" y="453" font-size="13" fill="#6b7a8c">otherwise; Rabbi Ilai and Rabbi Yannai reconcile them.)</text>
+
+  <text x="32" y="494" font-size="12.5" fill="#5b6b7d">Rabbi Yoḥanan: this mishna is Rabbi Akiva’s. The Rabbis say Sabbatical → tithe</text>
+  <text x="32" y="511" font-size="12.5" fill="#5b6b7d">(Rabbi Yehuda), or, in another version, tithe → Sabbatical (Rabbi Meir).</text>
+</svg>
