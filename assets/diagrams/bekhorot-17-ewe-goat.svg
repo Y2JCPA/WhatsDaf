@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 714" width="640" height="714" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <rect width="640" height="714" rx="18" fill="#f3f6fb"/>
+  <text x="320" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#1b2a3a">A ewe born to a goat: the readings</text>
+  <text x="320" y="68" text-anchor="middle" font-size="13.5" fill="#4a5a6a">Rav Oshaya’s baraita: Rabbi Meir obligates, the Rabbis exempt. In what case?</text>
+
+  <!-- column headers -->
+  <text x="32" y="104" font-size="13" font-weight="700" fill="#4a5a6a">THE CASE</text>
+  <text x="290" y="104" font-size="13" font-weight="700" fill="#6a1b9a">RABBI MEIR</text>
+  <text x="464" y="104" font-size="13" font-weight="700" fill="#2e7d32">THE RABBIS</text>
+
+  <!-- row 1: Rabba -->
+  <rect x="20" y="116" width="600" height="136" rx="12" fill="#ffffff" stroke="#d6dde8"/>
+  <rect x="280" y="124" width="168" height="120" rx="8" fill="#f4ecf8"/>
+  <rect x="454" y="124" width="158" height="120" rx="8" fill="#edf6ee"/>
+  <text x="32" y="142" font-size="14" font-weight="700" fill="#1b2a3a">Rabba</text>
+  <text x="32" y="162" font-size="13" fill="#1b2a3a">A ewe’s young looks like a goat,</text>
+  <text x="32" y="179" font-size="13" fill="#1b2a3a">and its father is a he-goat.</text>
+  <text x="32" y="198" font-size="12" fill="#4a5a6a">Issue: slaughtering “it and its</text>
+  <text x="32" y="213" font-size="12" fill="#4a5a6a">offspring” on one day</text>
+  <text x="32" y="230" font-size="11.5" font-style="italic" fill="#b23c17">Questioned: then say they dispute</text>
+  <text x="32" y="244" font-size="11.5" font-style="italic" fill="#b23c17">paternity in general</text>
+  <text x="290" y="146" font-size="13" fill="#1b2a3a">Concerned with</text>
+  <text x="290" y="163" font-size="13" fill="#1b2a3a">paternity: liable for the</text>
+  <text x="290" y="180" font-size="13" fill="#1b2a3a">he-goat and its young</text>
+  <text x="290" y="197" font-size="13" fill="#1b2a3a">on one day</text>
+  <text x="464" y="146" font-size="13" fill="#1b2a3a">Not concerned</text>
+  <text x="464" y="163" font-size="13" fill="#1b2a3a">with paternity</text>
+
+  <g transform="translate(0,14)">
+  <!-- row 2: rather, firstborn -->
+  <rect x="20" y="246" width="600" height="112" rx="12" fill="#ffffff" stroke="#d6dde8"/>
+  <rect x="280" y="254" width="168" height="96" rx="8" fill="#f4ecf8"/>
+  <rect x="454" y="254" width="158" height="96" rx="8" fill="#edf6ee"/>
+  <text x="32" y="272" font-size="14" font-weight="700" fill="#1b2a3a">Rather: the firstborn</text>
+  <text x="32" y="292" font-size="13" fill="#1b2a3a">A ewe born to a ewe born to a goat</text>
+  <g font-size="12" text-anchor="middle">
+    <rect x="32" y="304" width="60" height="22" rx="11" fill="#fde9d9"/><text x="62" y="319" fill="#7a3b12">goat</text>
+    <text x="104" y="319" fill="#4a5a6a">→</text>
+    <rect x="116" y="304" width="60" height="22" rx="11" fill="#e3edf9"/><text x="146" y="319" fill="#1a4f8a">ewe</text>
+    <text x="188" y="319" fill="#4a5a6a">→</text>
+    <rect x="200" y="304" width="60" height="22" rx="11" fill="#e3edf9"/><text x="230" y="319" fill="#1a4f8a">ewe</text>
+  </g>
+  <text x="32" y="344" font-size="11.5" fill="#4a5a6a">grandmother → mother → the young</text>
+  <text x="290" y="276" font-size="13" fill="#1b2a3a">Follow its mother:</text>
+  <text x="290" y="293" font-size="13" fill="#1b2a3a">not a look-alike,</text>
+  <text x="290" y="310" font-size="13" fill="#1b2a3a">so a firstborn</text>
+  <text x="464" y="276" font-size="13" fill="#1b2a3a">Follow its mother’s</text>
+  <text x="464" y="293" font-size="13" fill="#1b2a3a">mother: a look-alike,</text>
+  <text x="464" y="310" font-size="13" fill="#1b2a3a">so not a firstborn</text>
+
+  <!-- row 3: or say -->
+  <rect x="20" y="366" width="600" height="112" rx="12" fill="#ffffff" stroke="#d6dde8"/>
+  <rect x="280" y="374" width="168" height="96" rx="8" fill="#f4ecf8"/>
+  <rect x="454" y="374" width="158" height="96" rx="8" fill="#edf6ee"/>
+  <text x="32" y="392" font-size="14" font-weight="700" fill="#1b2a3a">Or say: the firstborn</text>
+  <text x="32" y="412" font-size="13" fill="#1b2a3a">A ewe born to a goat born to a ewe</text>
+  <g font-size="12" text-anchor="middle">
+    <rect x="32" y="424" width="60" height="22" rx="11" fill="#e3edf9"/><text x="62" y="439" fill="#1a4f8a">ewe</text>
+    <text x="104" y="439" fill="#4a5a6a">→</text>
+    <rect x="116" y="424" width="60" height="22" rx="11" fill="#fde9d9"/><text x="146" y="439" fill="#7a3b12">goat</text>
+    <text x="188" y="439" fill="#4a5a6a">→</text>
+    <rect x="200" y="424" width="60" height="22" rx="11" fill="#e3edf9"/><text x="230" y="439" fill="#1a4f8a">ewe</text>
+  </g>
+  <text x="32" y="464" font-size="11.5" fill="#4a5a6a">grandmother → mother → the young</text>
+  <text x="290" y="396" font-size="13" fill="#1b2a3a">Its ovine nature</text>
+  <text x="290" y="413" font-size="13" fill="#1b2a3a">was restored:</text>
+  <text x="290" y="430" font-size="13" fill="#1b2a3a">a firstborn</text>
+  <text x="464" y="396" font-size="13" fill="#1b2a3a">Not restored: unlike</text>
+  <text x="464" y="413" font-size="13" fill="#1b2a3a">its mother, so</text>
+  <text x="464" y="430" font-size="13" fill="#1b2a3a">exempt</text>
+
+  <!-- row 4: Rav Ashi -->
+  <rect x="20" y="486" width="600" height="112" rx="12" fill="#ffffff" stroke="#d6dde8"/>
+  <rect x="280" y="494" width="168" height="96" rx="8" fill="#f4ecf8"/>
+  <rect x="454" y="494" width="158" height="96" rx="8" fill="#edf6ee"/>
+  <text x="32" y="512" font-size="14" font-weight="700" fill="#1b2a3a">Rav Ashi: the firstborn</text>
+  <text x="32" y="532" font-size="13" fill="#1b2a3a">The young has some of its</text>
+  <text x="32" y="549" font-size="13" fill="#1b2a3a">mother’s characteristics</text>
+  <text x="290" y="516" font-size="13" fill="#1b2a3a">As the mishna here:</text>
+  <text x="290" y="533" font-size="13" fill="#1b2a3a">some characteristics</text>
+  <text x="290" y="550" font-size="13" fill="#1b2a3a">are enough, so a</text>
+  <text x="290" y="567" font-size="13" fill="#1b2a3a">firstborn</text>
+  <text x="464" y="516" font-size="13" fill="#1b2a3a">They are Rabbi</text>
+  <text x="464" y="533" font-size="13" fill="#1b2a3a">Shimon: its head and</text>
+  <text x="464" y="550" font-size="13" fill="#1b2a3a">most of its body must</text>
+  <text x="464" y="567" font-size="13" fill="#1b2a3a">be like its mother</text>
+
+  <!-- footnote -->
+  <text x="32" y="628" font-size="12" fill="#4a5a6a">Rav Hoshaya’s first two guesses fall away: a plain firstborn (“an ox and its</text>
+  <text x="32" y="646" font-size="12" fill="#4a5a6a">firstborn an ox”) and the first shearing (tough fleece cannot “warm”).</text>
+  <text x="32" y="670" font-size="12" fill="#4a5a6a">Rabbi Yoḥanan: Rabbi Meir concedes the New Moon goat must be the son of a female goat.</text>
+  </g>
+</svg>

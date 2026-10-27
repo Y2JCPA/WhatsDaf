@@ -1,0 +1,24 @@
+{
+  "people": {
+    "rav-chiyya-bar-avin": {
+      "name": "Rav Ḥiyya bar Avin",
+      "he": "רב חייא בר אבין",
+      "era": "Amora · Babylonia, 3rd–4th century",
+      "bio": "Babylonian Amora who often transmits the teachings of earlier sages.",
+      "color": "#6d5a2e",
+      "initials": "רח״א",
+      "image": "rav-chiyya-bar-avin.jpg",
+      "prompt": "A Babylonian scholar in his 50s with a dark beard touched with grey and an attentive, careful look, as if repeating a teaching word for word; background of mudbrick academy walls and oil lamps."
+    },
+    "rabbi-chiyya": {
+      "name": "Rabbi Ḥiyya",
+      "he": "רבי חייא",
+      "era": "Tanna/Amora · Babylonia and the Land of Israel, late 2nd–early 3rd century",
+      "bio": "Rabbi Ḥiyya the Great, a Babylonian-born student and colleague of Rabbi Yehuda HaNasi who settled in the Land of Israel and taught collections of baraitot.",
+      "color": "#3f6b4a",
+      "initials": "ר״ח",
+      "image": "rabbi-chiyya.jpg",
+      "prompt": "A venerable Babylonian-born scholar in his 60s with a full silver beard and a warm, steady gaze, holding a bundle of scrolls of the teachings he collected; background of limestone arches and olive trees in the Land of Israel."
+    }
+  }
+}
