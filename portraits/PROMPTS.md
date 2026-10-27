@@ -269,3 +269,20 @@ Same output spec and shared style as above. Save to `assets/portraits/<file>`.
 | `rav-chiyya-bar-ashi.jpg` | Rav Ḥiyya bar Ashi, Amora · Babylonia, 3rd century | A Babylonian scholar in his 50s with a dark beard streaked with grey and a careful, reverent expression, as if repeating his teacher’s ruling word for word; background of mudbrick academy walls and oil lamps. |
 | `rav-chanan-bar-ami.jpg` | Rav Ḥanan bar Ami, Amora · Babylonia, 3rd century | A Babylonian scholar in his 40s with a short dark beard and an attentive, steady look, one hand raised as if reporting a ruling; background of palm groves along the Euphrates. |
 | `rav-natan-bar-oshaya.jpg` | Rav Natan bar Oshaya, Amora · 3rd century | A scholar in his 50s with a dark beard touched with grey and a plain, precise expression, one hand resting flat as if pressing down a fleece; background of limestone arches and olive trees. |
+
+---
+
+## Round 12: people needed for Bekhorot 27–31
+
+Same output spec and shared style as above. Save to `assets/portraits/<file>`.
+
+| File | Person | Add to the shared style |
+|---|---|---|
+| `todos-harofe.jpg` | Todos the Doctor, Physician · Tannaitic period | A physician in his 50s with a neatly trimmed greying beard and a composed, observant expression, a small leather case of instruments at his side; background of limestone arches and olive trees. |
+| `rav-yehuda-bar-ami.jpg` | Rav Yehuda bar Ami, Amora · Babylonia | A scholar in his 40s with a short dark beard and attentive eyes, one hand gesturing down toward a well-trodden dirt path; background of a Babylonian field track between low mud-brick walls. |
+| `rabbi-yannai-berabbi-yishmael.jpg` | Rabbi Yannai son of Rabbi Yishmael, Amora · Land of Israel | A scholar in his 50s with a dark beard touched with grey and a thoughtful, measured expression, one hand raised as if offering an alternative answer; background of limestone arches and olive trees. |
+| `abba-shaul.jpg` | Abba Shaul, Tanna · 2nd century | A tall sage in his 60s with a full grey beard and a calm, unhurried expression, standing upright among seated students; background of the Yavne study hall with limestone arches. |
+| `rabbi-shimon-ben-elazar.jpg` | Rabbi Shimon ben Elazar, Tanna · late 2nd century | A sage in his 50s with a dark beard streaked with grey and a warm storyteller's expression, one hand open as if recounting an incident he heard from his teacher; background of limestone arches and olive trees. |
+| `rabbi-yitzchak-ish-kefar-akko.jpg` | Rabbi Yitzḥak of Kefar Akko, Amora · Land of Israel, 3rd century | A gentle, careful scholar in his 50s with a greying dark beard and an attentive expression, in a light linen robe and a sea-blue mantle, as one who faithfully repeats his teacher's ruling. A village on the coast near Akko with the Mediterranean softly behind him. |
+| `rav-huna-bar-chiyya.jpg` | Rav Huna bar Ḥiyya, Amora · Babylonia, 3rd–4th century | A dignified, well-to-do Babylonian scholar in his 50s with a full dark beard touched with grey and a composed, slightly contrite expression, in a fine brown robe with a simple mantle. A courtyard set with many rows of wooden chairs, palm trees beyond. |
+| `rabbi-yitzchak-ben-zeeiri.jpg` | Rabbi Yitzḥak ben Ze’eiri, Amora | A warm, poetic scholar in his 40s with a short dark beard and a quiet smile, in a plain cream robe and a deep purple mantle, one hand resting on an open scroll. A vineyard with heaped grape clusters at dusk behind him. |
