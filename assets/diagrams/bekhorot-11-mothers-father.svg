@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 540" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+<title>Through a priestly grandfather</title>
+<defs><marker id="ar11" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#7a8699"/></marker></defs>
+<rect width="640" height="540" rx="18" fill="#f3f6fb"/>
+<text x="32" y="44" font-size="22" font-weight="700" fill="#1f2a3a">Through a priestly grandfather</text>
+<text x="32" y="68" font-size="13" fill="#4a5568">Rabba bar Avuh’s cases: ten certain firstborn donkeys, or smoothed untithed piles</text>
+
+<rect x="32" y="88" width="576" height="76" rx="10" fill="#e6e8ec"/>
+<text x="48" y="113" font-size="14" font-weight="700" fill="#1f2a3a">1 · An Israelite</text>
+<text x="48" y="133" font-size="12" fill="#3a4556">The donkeys were born in his domain, so they need redemption (Rashi);</text>
+<text x="48" y="151" font-size="12" fill="#3a4556">the produce in his house owes teruma and tithes.</text>
+<line x1="320" y1="166" x2="320" y2="196" stroke="#7a8699" stroke-width="2" marker-end="url(#ar11)"/>
+<text x="334" y="186" font-size="11.5" fill="#6b7280">bequeathed to his daughter’s son</text>
+
+<rect x="32" y="204" width="576" height="76" rx="10" fill="#fde6c4"/>
+<text x="48" y="229" font-size="14" font-weight="700" fill="#8a5a00">2 · A priest: the heir’s mother’s father</text>
+<text x="48" y="249" font-size="12" fill="#5c3d00">He would have designated lambs and kept them himself, since he is a priest</text>
+<text x="48" y="267" font-size="12" fill="#5c3d00">(Rashi); he could also separate the teruma and keep it.</text>
+<line x1="320" y1="282" x2="320" y2="312" stroke="#7a8699" stroke-width="2" marker-end="url(#ar11)"/>
+<text x="334" y="302" font-size="11.5" fill="#6b7280">bequeathed to his daughter’s son</text>
+
+<rect x="32" y="320" width="576" height="104" rx="10" fill="#d6efd9"/>
+<text x="48" y="345" font-size="14" font-weight="700" fill="#1e6b34">3 · An Israelite heir</text>
+<text x="48" y="368" font-size="12.5" font-weight="700" fill="#1e6b34">Donkeys:</text>
+<text x="118" y="368" font-size="12.5" fill="#1e4d2b">designates ten lambs, tithes them, and they are his.</text>
+<text x="48" y="390" font-size="12.5" font-weight="700" fill="#1e6b34">Produce:</text>
+<text x="118" y="390" font-size="12.5" fill="#1e4d2b">separates teruma and tithes, and it is his.</text>
+<text x="48" y="412" font-size="11.5" fill="#3d6b4a">As if the priest had separated them and left them to him.</text>
+
+<line x1="24" y1="444" x2="616" y2="444" stroke="#cfd8e6"/>
+<text x="32" y="466" font-size="12.5" font-weight="700" fill="#1f2a3a">Why both rulings are needed</text>
+<text x="32" y="487" font-size="11.5" fill="#4a5568">Donkeys alone: perhaps only there, since the lamb “stands separated,” while unseparated gifts</text>
+<text x="32" y="503" font-size="11.5" fill="#4a5568">are as if not separated. Produce alone: perhaps only there, since it is tithed from itself,</text>
+<text x="32" y="519" font-size="11.5" fill="#4a5568">while for a donkey a lamb must be brought from elsewhere.</text>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 470" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+<title>How much the lamb is worth</title>
+<rect width="640" height="470" rx="18" fill="#f3f6fb"/>
+<text x="32" y="44" font-size="22" font-weight="700" fill="#1f2a3a">How much must the lamb be worth?</text>
+<text x="32" y="68" font-size="13" fill="#4a5568">Value of the lamb that redeems a firstborn donkey, in dinars (zuz)</text>
+<line x1="230" y1="92" x2="230" y2="372" stroke="#cfd8e6"/>
+<text x="230" y="388" font-size="11" text-anchor="middle" fill="#6b7280">0</text>
+<line x1="320" y1="92" x2="320" y2="372" stroke="#e3e8f0"/>
+<text x="320" y="388" font-size="11" text-anchor="middle" fill="#6b7280">1</text>
+<line x1="410" y1="92" x2="410" y2="372" stroke="#e3e8f0"/>
+<text x="410" y="388" font-size="11" text-anchor="middle" fill="#6b7280">2</text>
+<line x1="500" y1="92" x2="500" y2="372" stroke="#e3e8f0"/>
+<text x="500" y="388" font-size="11" text-anchor="middle" fill="#6b7280">3</text>
+<line x1="590" y1="92" x2="590" y2="372" stroke="#e3e8f0"/>
+<text x="590" y="388" font-size="11" text-anchor="middle" fill="#6b7280">4 dinars</text>
+
+<text x="32" y="122" font-size="14" font-weight="700" fill="#1f2a3a">Generous disposition</text>
+<text x="32" y="139" font-size="11.5" fill="#6b7280">Rabbi Tarfon</text>
+<rect x="230" y="104" width="360" height="40" rx="8" fill="#d6efd9"/>
+<text x="246" y="129" font-size="13" font-weight="700" fill="#1e6b34">a sela · 4 dinars</text>
+
+<text x="32" y="192" font-size="14" font-weight="700" fill="#1f2a3a">Intermediate</text>
+<text x="32" y="209" font-size="11.5" fill="#6b7280">Rabbi Tarfon; Rava’s halakha</text>
+<rect x="230" y="174" width="270" height="40" rx="8" fill="#cfe0f5"/>
+<text x="246" y="192" font-size="13" font-weight="700" fill="#1f4f8a">a ragya · 3 dinars</text>
+<text x="246" y="207" font-size="11" fill="#1f4f8a">for one who comes to consult</text>
+
+<text x="32" y="262" font-size="14" font-weight="700" fill="#1f2a3a">Miserly disposition</text>
+<text x="32" y="279" font-size="11.5" fill="#6b7280">Rabbi Tarfon</text>
+<rect x="230" y="244" width="180" height="40" rx="8" fill="#fde6c4"/>
+<text x="246" y="269" font-size="13" font-weight="700" fill="#8a5a00">a shekel · 2 dinars</text>
+
+<text x="32" y="332" font-size="14" font-weight="700" fill="#1f2a3a">Even a lean lamb</text>
+<text x="32" y="349" font-size="11.5" fill="#6b7280">Rav Yosef</text>
+<rect x="230" y="314" width="15" height="40" rx="4" fill="#e6c9c9"/>
+<text x="256" y="332" font-size="13" font-weight="700" fill="#7a2e2e">a ma’a (danka) · ⅙ dinar (Rashi)</text>
+<text x="256" y="347" font-size="11" fill="#7a2e2e">valid for one who acts on his own</text>
+
+<line x1="24" y1="404" x2="616" y2="404" stroke="#cfd8e6"/>
+<text x="32" y="426" font-size="11.5" fill="#4a5568">Rav Naḥman: the halakha follows the Rabbis, a lamb of any value. A ragya is “close here and close there”:</text>
+<text x="32" y="443" font-size="11.5" fill="#4a5568">one dinar less than a sela, one more than a shekel. With no lamb, one may redeem at the donkey’s value</text>
+<text x="32" y="460" font-size="11.5" fill="#4a5568">(Reish Lakish), even with boiled vegetables.</text>
+</svg>
