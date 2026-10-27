@@ -322,6 +322,86 @@
   },
   {
    "masechet": "bekhorot",
+   "daf": 22,
+   "title": "Bekhorot 22",
+   "he": "בכורות כ״ב",
+   "preview": {
+    "from": "rabbi-yochanan",
+    "text": "It is due to the halakhic nullification of a forbidden substance in a majority of permitted substances that the Sages to"
+   },
+   "last": {
+    "from": "baraita",
+    "text": "Concerning those one hundred se’a of non-sacred produce,"
+   },
+   "messages": 39,
+   "members": 19
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 23,
+   "title": "Bekhorot 23",
+   "he": "בכורות כ״ג",
+   "preview": {
+    "from": "baraita",
+    "text": "…according to Rabbi Eliezer, what will be with them? Let them be eaten dry or roasted, or kneaded with fruit juice, or d"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "But once Rav said the halakha is in accordance with the opinion of the anonymous tanna in the mishnayot throughout the w"
+   },
+   "messages": 56,
+   "members": 14
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 24,
+   "title": "Bekhorot 24",
+   "he": "בכורות כ״ד",
+   "preview": {
+    "from": "baraita",
+    "text": "In the case of one who purchases a nursing female animal from a gentile, the young that is born after the offspring curr"
+   },
+   "last": {
+    "from": "rav-chananya-bar-shelamya",
+    "text": "In the parallel case of one who wishes to slaughter a non-sacred animal on a Festival, …"
+   },
+   "messages": 56,
+   "members": 11
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 25,
+   "title": "Bekhorot 25",
+   "he": "בכורות כ״ה",
+   "preview": {
+    "from": "rav-chananya-bar-shelamya",
+    "text": "it is permitted to pluck the hair in order to facilitate proper slaughter."
+   },
+   "last": {
+    "from": "gemara",
+    "text": "The reason this is the halakha is that the animal was unblemished."
+   },
+   "messages": 95,
+   "members": 28
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 26,
+   "title": "Bekhorot 26",
+   "he": "בכורות כ״ו",
+   "preview": {
+    "from": "baraita",
+    "text": "With regard to one who plucks the wool from an unblemished firstborn, even though it later developed a blemish and the o"
+   },
+   "last": {
+    "from": "baraita",
+    "text": "And in all of these cases, although it is prohibited to give the teruma and tithe to a priest or Levite as his wages, ne"
+   },
+   "messages": 88,
+   "members": 15
+  },
+  {
+   "masechet": "bekhorot",
    "daf": 40,
    "title": "Bekhorot 40",
    "he": "בכורות מ׳",

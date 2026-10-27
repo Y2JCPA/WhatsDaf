@@ -249,3 +249,23 @@ Same output spec and shared style as above. Save to `assets/portraits/<file>`.
 | `rav-sherevya.jpg` | Rav Sherevya, Amora · Babylonia, 4th century | A Babylonian scholar in his 40s with a dark beard and an attentive, questioning expression, a scroll open in his hands as if pointing out a difficulty to his teacher; background of mudbrick academy walls and oil lamps. |
 | `rav-acha-midifti.jpg` | Rav Aḥa of Difti, Amora · Babylonia, 5th century | A Babylonian scholar in his 50s with a greying beard and a sharp, probing expression, one hand raised as if pressing an objection; background of palm groves along the Euphrates. |
 | `rabbi-chanina-misura.jpg` | Rabbi Ḥanina of Sura, Amora · Babylonia | A Babylonian scholar in his 50s with a dark beard streaked with grey and a measured, thoughtful expression, as if weighing two opinions; background of mudbrick academy walls and oil lamps along the Euphrates. |
+
+---
+
+## Round 11: people needed for Bekhorot 22–26
+
+Same output spec and shared style as above. Save to `assets/portraits/<file>`.
+
+| File | Person | Add to the shared style |
+|---|---|---|
+| `chiyya-bar-rav.jpg` | Ḥiyya bar Rav, Amora · Babylonia, 3rd century | A young Babylonian scholar in his 20s with a short dark beard and an eager, questioning look, as if about to ask his teacher to explain; background of the Sura academy with oil lamps and mudbrick walls. |
+| `rabbi-eliezer-berabbi-tzadok.jpg` | Rabbi Eliezer son of Rabbi Tzadok, Tanna · Jerusalem and Yavne, 1st century | An elderly sage in his 60s with a long white beard and a gentle, remembering expression, as if recalling the city of his youth; background of Jerusalem stone walls and the Temple Mount at dusk. |
+| `bar-padda.jpg` | Bar Padda, Tanna/Amora · Land of Israel, early 3rd century | A lively, sharp-eyed scholar of the Land of Israel in his 50s with a dark beard touched with grey and a quick, witty expression, wearing a simple woven mantle; background of a sunlit Galilean courtyard with a stone bench and olive trees. |
+| `rabbi-yosei-ben-hameshullam.jpg` | Rabbi Yosei ben HaMeshullam, Tanna · Land of Israel, late 2nd century | A Tanna in his 60s with a long silver beard and a serious, careful expression, one hand resting on a small slaughterer’s blade laid on a cloth; background of limestone arches and olive trees. |
+| `achai-beribbi.jpg` | Aḥai Beribbi, Sage cited by Rabbi Yoḥanan | A distinguished sage in his 50s with a dark beard touched with grey and a thoughtful, questioning look, a finger raised as if posing a problem; background of limestone arches and olive trees. |
+| `rav-chananel.jpg` | Rav Ḥananel, Amora · Babylonia, 3rd century | A Babylonian scholar in his 40s with a neat dark beard and a steady, reliable expression, holding a wax tablet of his teacher’s rulings; background of mudbrick academy walls and oil lamps. |
+| `rav-chananya-bar-shelamya.jpg` | Rav Ḥananya bar Shelamya, Amora · Babylonia, 3rd century | A Babylonian scholar in his 50s with a greying brown beard and an earnest expression, one hand open as if reporting a teaching; background of palm groves along the Euphrates. |
+| `akavya-ben-mahalalel.jpg` | Akavya ben Mahalalel, Tanna · Jerusalem, 1st century | An elderly sage in his 70s with a long white beard and a firm, unyielding yet gentle expression, standing upright as one who will not retract his teaching; background of Jerusalem stone walls at dusk. |
+| `rav-chiyya-bar-ashi.jpg` | Rav Ḥiyya bar Ashi, Amora · Babylonia, 3rd century | A Babylonian scholar in his 50s with a dark beard streaked with grey and a careful, reverent expression, as if repeating his teacher’s ruling word for word; background of mudbrick academy walls and oil lamps. |
+| `rav-chanan-bar-ami.jpg` | Rav Ḥanan bar Ami, Amora · Babylonia, 3rd century | A Babylonian scholar in his 40s with a short dark beard and an attentive, steady look, one hand raised as if reporting a ruling; background of palm groves along the Euphrates. |
+| `rav-natan-bar-oshaya.jpg` | Rav Natan bar Oshaya, Amora · 3rd century | A scholar in his 50s with a dark beard touched with grey and a plain, precise expression, one hand resting flat as if pressing down a fleece; background of limestone arches and olive trees. |
