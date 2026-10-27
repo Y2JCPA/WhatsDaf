@@ -143,3 +143,23 @@ Same output spec and shared style as above. Save to `assets/portraits/<file>`.
 | `rav-sheshet.jpg` | Rav Sheshet, Amora · Babylonia, 3rd–4th century | A sturdy, sharp-witted man in his 60s with a full grey beard and his eyes gently closed, for he was blind; his face is alert, as if listening closely. Dark wool robes and a simple mantle. Mudbrick academy walls and oil lamps behind him. |
 | `rav-chama.jpg` | Rav Ḥama, Amora · Babylonia | A wry, observant scholar in his 50s with a trimmed dark beard flecked with grey and a faint knowing smile. Ochre wool robe under a dark mantle. Palm groves along the Euphrates softly behind him. |
 | `ravin.jpg` | Ravin, Amora · 4th century | A lean, energetic traveler-scholar in his 40s with a short dark beard and a dusty travel cloak over his robes, a leather satchel of notes at his side. A road between the Galilean hills and the Euphrates plain, softly blurred, behind him. |
+
+---
+
+## Round 5: people needed for Bekhorot 53–56
+
+Same output spec and shared style as above. Save to `assets/portraits/<file>`.
+
+| File | Person | Add to the shared style |
+|---|---|---|
+| `rava-bar-rav-chanan.jpg` | Rava bar Rav Ḥanan, Amora · Babylonia, 4th century | An inquisitive scholar in his 40s with a dark beard, leaning forward as one about to press a question, in a plain brown wool robe. Mudbrick study hall walls and oil lamps of Pumbedita behind him. |
+| `rabbi-ilea.jpg` | Rabbi Ile’a, Amora · Land of Israel, 3rd–4th century | A scholar of the Land of Israel in his 50s with a greying beard and a calm, measured expression, in a cream linen robe and a light wool mantle. Limestone arches and Galilean olive trees softly behind him. |
+| `rav-huna-brei-derav-nachman.jpg` | Rav Huna, son of Rav Naḥman, Amora · Babylonia, 4th century | A young Babylonian scholar in his 30s with a short dark beard and a sharp, questioning look, one hand raised in objection, in a dark blue wool robe. Palm groves along the Euphrates behind him. |
+| `mar-zutra-brei-derav-nachman.jpg` | Mar Zutra, son of Rav Naḥman, Amora · Babylonia, 4th century | A composed Babylonian scholar in his 30s with a neat dark beard and a patient, explaining gesture, in a russet wool robe. Mudbrick academy walls and oil lamps behind him. |
+| `rabba-bar-sheila.jpg` | Rabba bar Sheila, Amora · Babylonia, 4th century | A thoughtful Babylonian scholar in his 50s with a greying beard and a contemplative gaze, as one who once spoke with Elijah, in a grey-brown wool mantle. A dusty road and palm trees at dusk behind him. |
+| `rav-kahana.jpg` | Rav Kahana, Amora · Babylonia, 3rd–4th century | A Babylonian scholar in his 50s with a full dark-grey beard and a steady, attentive gaze, in a deep brown wool robe with a plain head covering. Mudbrick study hall walls and flickering oil lamps behind him. |
+| `rav-mesharshiyya.jpg` | Rav Mesharshiyya, Amora · Babylonia, 4th century | A Babylonian scholar in his 40s with a neat black beard and a lively, explaining expression, one hand raised as if tracing water rising through the ground, in a slate-blue wool robe. Palm trees along the Euphrates at dusk behind him. |
+| `rabbi-yehuda-ben-beteira.jpg` | Rabbi Yehuda ben Beteira, Tanna · Netzivin, 1st–2nd century | A venerable sage in his 60s with a long white beard and a calm, authoritative bearing, in an off-white linen robe and a dark wool mantle. The stone courtyard of a study house in Nisibis, with distant hills, behind him. |
+| `rav-ami.jpg` | Rav Ami, Amora | A scholar in his 40s with a short brown beard and a thoughtful, listening expression, in a teal-grey wool robe. A study hall with oil lamps and a window onto a rain-swollen river behind him. |
+| `rabbi-shimon-ben-elyakim.jpg` | Rabbi Shimon ben Elyakim, Amora · Land of Israel, 3rd century | A keen-eyed scholar in his 40s with a short dark beard and a questioning, slightly raised brow, as one ready to raise an objection, in a cream wool mantle, background Galilean limestone arches and olive trees of Tiberias. |
+| `rav-anan.jpg` | Rav Anan, Amora · Babylonia, 3rd century | A careful, practical judge in his 50s with a full brown beard touched with grey and a steady, measured gaze, in a dark wool mantle over a linen robe, background mudbrick academy walls of Neharde’a lit by oil lamps. |

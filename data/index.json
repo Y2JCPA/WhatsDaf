@@ -207,6 +207,70 @@
    },
    "messages": 54,
    "members": 16
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 53,
+   "title": "Bekhorot 53",
+   "he": "בכורות נ״ג",
+   "preview": {
+    "from": "mishnah",
+    "text": "The mitzva of animal tithe is in effect both in Eretz Yisrael and outside of Eretz Yisrael, in the presence of, i.e., in"
+   },
+   "last": {
+    "from": "rabbi-ami",
+    "text": "The verse states with regard to teruma: “All the best of the oil, and all the best of the wine, and of the grain, the fi"
+   },
+   "messages": 71,
+   "members": 11
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 54,
+   "title": "Bekhorot 54",
+   "he": "בכורות נ״ד",
+   "preview": {
+    "from": "rava-bar-rav-chanan",
+    "text": "@Abaye If that is so, then with regard to animal tithe, where it is not written in the Torah: And all the tithe of the h"
+   },
+   "last": {
+    "from": "shmuel",
+    "text": "Even if there are five from here and five from there and only one in the middle they may be tithed together. The reason "
+   },
+   "messages": 39,
+   "members": 12
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 55,
+   "title": "Bekhorot 55",
+   "he": "בכורות נ״ה",
+   "preview": {
+    "from": "baraita",
+    "text": "If one had five sheep in the village of Ḥananya and five sheep in the village of Otnai, which is a distance of thirty-tw"
+   },
+   "last": {
+    "from": "rav-kahana",
+    "text": "“You shall not delay to offer of the fullness of your harvest, and of the outflow of your presses. The firstborn of your"
+   },
+   "messages": 63,
+   "members": 21
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 56,
+   "title": "Bekhorot 56",
+   "he": "בכורות נ״ו",
+   "preview": {
+    "from": "rav-kahana",
+    "text": "Just as the redemption of your firstborn son does not apply to a child who was purchased or received as a gift, i.e., th"
+   },
+   "last": {
+    "from": "rabbi-yochanan",
+    "text": "Even if they divided the estate in the manner of nine large goats for nine large goats and ten kids for ten kids, one do"
+   },
+   "messages": 56,
+   "members": 13
   }
  ]
 }
