@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 580" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Let it be investigated: three readings</title>
+  <rect width="640" height="580" rx="18" fill="#f3f6fb"/>
+  <text x="24" y="44" font-size="22" font-weight="700" fill="#1f2a3a">“Let it be investigated”: three readings</text>
+  <text x="24" y="68" font-size="13" fill="#5b6778">Baraita: blemished animals render all prohibited; Rabbi Yosei: let it be investigated.</text>
+
+  <!-- column headers -->
+  <rect x="128" y="86" width="162" height="62" rx="10" fill="#dfe8f5"/>
+  <text x="209" y="110" font-size="13.5" font-weight="700" text-anchor="middle" fill="#1f2a3a">Rav Naḥman</text>
+  <text x="209" y="128" font-size="11.5" text-anchor="middle" fill="#5b6778">in the name of</text>
+  <text x="209" y="142" font-size="11.5" text-anchor="middle" fill="#5b6778">Rabba bar Avuh</text>
+
+  <rect x="296" y="86" width="162" height="62" rx="10" fill="#e3f1e6"/>
+  <text x="377" y="110" font-size="13.5" font-weight="700" text-anchor="middle" fill="#1f2a3a">R. Ḥiyya bar Abba</text>
+  <text x="377" y="128" font-size="11.5" text-anchor="middle" fill="#5b6778">in the name of</text>
+  <text x="377" y="142" font-size="11.5" text-anchor="middle" fill="#5b6778">Rabbi Yoḥanan</text>
+
+  <rect x="464" y="86" width="162" height="62" rx="10" fill="#f6eadb"/>
+  <text x="545" y="110" font-size="13.5" font-weight="700" text-anchor="middle" fill="#1f2a3a">Rabbi Asi</text>
+  <text x="545" y="128" font-size="11.5" text-anchor="middle" fill="#5b6778">in the name of</text>
+  <text x="545" y="142" font-size="11.5" text-anchor="middle" fill="#5b6778">Rabbi Yoḥanan</text>
+
+  <!-- row 1: what became mixed -->
+  <rect x="14" y="156" width="612" height="84" rx="10" fill="#ffffff" stroke="#d6dfeb"/>
+  <text x="24" y="186" font-size="13" font-weight="700" fill="#1f2a3a">What became</text>
+  <text x="24" y="203" font-size="13" font-weight="700" fill="#1f2a3a">mixed in</text>
+  <text x="209" y="180" font-size="12.5" text-anchor="middle" fill="#2c3a4d"><tspan x="209">Shearings of a blemished</tspan><tspan x="209" dy="17">firstborn, mixed with</tspan><tspan x="209" dy="17">non-sacred wool</tspan></text>
+  <text x="377" y="180" font-size="12.5" text-anchor="middle" fill="#2c3a4d"><tspan x="377">The blemished animal</tspan><tspan x="377" dy="17">itself; he examined and</tspan><tspan x="377" dy="17" font-weight="700">did not find it</tspan></text>
+  <text x="545" y="180" font-size="12.5" text-anchor="middle" fill="#2c3a4d"><tspan x="545">The blemished animal</tspan><tspan x="545" dy="17">itself; he examined and</tspan><tspan x="545" dy="17" font-weight="700">found one</tspan></text>
+
+  <!-- row 2: first tanna -->
+  <rect x="14" y="248" width="612" height="100" rx="10" fill="#ffffff" stroke="#d6dfeb"/>
+  <text x="24" y="280" font-size="13" font-weight="700" fill="#1f2a3a">First tanna:</text>
+  <text x="24" y="297" font-size="13" fill="#1f2a3a">all prohibited</text>
+  <text x="209" y="274" font-size="12.5" text-anchor="middle" fill="#2c3a4d"><tspan x="209" font-weight="700">Rabbi Yehuda</tspan><tspan x="209" dy="17">even when slaughtered,</tspan><tspan x="209" dy="17">the Rabbis prohibit</tspan></text>
+  <text x="377" y="274" font-size="12.5" text-anchor="middle" fill="#2c3a4d"><tspan x="377" font-weight="700">like Rabbi Meir</tspan><tspan x="377" dy="17">impure forever until the</tspan><tspan x="377" dy="17">impurity becomes known</tspan></text>
+  <text x="545" y="274" font-size="12.5" text-anchor="middle" fill="#2c3a4d"><tspan x="545" font-weight="700">like Rabban Shimon</tspan><tspan x="545" dy="17" font-weight="700">ben Gamliel</tspan><tspan x="545" dy="17">let the entire field</tspan><tspan x="545" dy="17">be examined</tspan></text>
+
+  <!-- row 3: Rabbi Yosei -->
+  <rect x="14" y="356" width="612" height="100" rx="10" fill="#ffffff" stroke="#d6dfeb"/>
+  <text x="24" y="388" font-size="13" font-weight="700" fill="#1f2a3a">Rabbi Yosei:</text>
+  <text x="24" y="405" font-size="13" fill="#1f2a3a">investigate</text>
+  <text x="209" y="382" font-size="12.5" text-anchor="middle" fill="#2c3a4d"><tspan x="209" font-weight="700">his own view</tspan><tspan x="209" dy="17">when slaughtered,</tspan><tspan x="209" dy="17">the Rabbis permit</tspan></text>
+  <text x="377" y="382" font-size="12.5" text-anchor="middle" fill="#2c3a4d"><tspan x="377" font-weight="700">like the Rabbis</tspan><tspan x="377" dy="17">dig to bedrock or</tspan><tspan x="377" dy="17">virgin soil, and it is pure</tspan></text>
+  <text x="545" y="382" font-size="12.5" text-anchor="middle" fill="#2c3a4d"><tspan x="545" font-weight="700">like Rabbi</tspan><tspan x="545" dy="17">the grave that was lost</tspan><tspan x="545" dy="17">is the one that was found</tspan></text>
+
+  <!-- row 4: objections -->
+  <rect x="14" y="464" width="612" height="104" rx="10" fill="#ffffff" stroke="#d6dfeb"/>
+  <text x="24" y="508" font-size="13" font-weight="700" fill="#1f2a3a">Against it</text>
+  <text x="209" y="504" font-size="12.5" text-anchor="middle" fill="#2c3a4d"><tspan x="209">Rabbi Yirmeya:</tspan><tspan x="209" dy="17" font-style="italic">“Foolish Babylonians!”</tspan></text>
+  <text x="377" y="488" font-size="12.5" text-anchor="middle" fill="#2c3a4d"><tspan x="377" font-weight="700">Rabbi Asi:</tspan><tspan x="377" dy="17">where could the blemished</tspan><tspan x="377" dy="17">animal have gone?</tspan><tspan x="377" dy="20" fill="#5b6778">Reply: the blemish healed</tspan></text>
+  <text x="545" y="488" font-size="12.5" text-anchor="middle" fill="#2c3a4d"><tspan x="545" font-weight="700">R. Ḥiyya bar Abba:</tspan><tspan x="545" dy="17">do examined animals</tspan><tspan x="545" dy="17">develop blemishes?</tspan><tspan x="545" dy="20" fill="#5b6778">Reply: goring is common</tspan></text>
+</svg>
