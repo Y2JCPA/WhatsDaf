@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 877" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Intermingled newborns</title>
+  <rect width="640" height="877" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1d2738">Intermingled newborns</text>
+  <text x="32" y="68" font-size="14" fill="#56637a">When no one knows which child opened the womb, what does the priest get?</text>
+  <text x="40" y="100" font-size="12" font-weight="700" fill="#56637a">CHILDREN BORN, THEN MIXED UP</text>
+  <text x="262" y="100" font-size="12" font-weight="700" fill="#56637a">THE PRIEST RECEIVES</text>
+  <text x="452" y="100" font-size="12" font-weight="700" fill="#56637a">IF ONE DIES IN 30 DAYS</text>
+  <rect x="24" y="114" width="592" height="96" rx="12" fill="#fff" stroke="#d9e1ee"/>
+  <text x="40" y="137" font-size="14" font-weight="700" fill="#1f4f8a">One man, one wife giving birth for the first time</text>
+  <text x="600" y="137" font-size="12" text-anchor="end" fill="#8a96aa">48a</text>
+  <text x="40" y="164" font-size="13" font-weight="400" fill="#1d2738">Two males</text>
+  <text x="262" y="164" font-size="13" font-weight="600" fill="#2e6b2a">5 sela</text>
+  <text x="452" y="164" font-size="13" font-weight="400" fill="#8a2a2a">Father exempt</text>
+  <line x1="40" x2="600" y1="177" y2="177" stroke="#eef2f8"/>
+  <text x="40" y="193" font-size="13" font-weight="400" fill="#1d2738">A male and a female</text>
+  <text x="262" y="193" font-size="13" font-weight="600" fill="#8a2a2a">Nothing</text>
+  <rect x="24" y="222" width="592" height="176" rx="12" fill="#fff" stroke="#d9e1ee"/>
+  <text x="40" y="245" font-size="14" font-weight="700" fill="#1f4f8a">One man, two wives, neither has given birth before</text>
+  <text x="600" y="245" font-size="12" text-anchor="end" fill="#8a96aa">48b</text>
+  <text x="40" y="272" font-size="13" font-weight="400" fill="#1d2738">Two males</text>
+  <text x="262" y="272" font-size="13" font-weight="600" fill="#2e6b2a">10 sela</text>
+  <text x="452" y="272" font-size="13" font-weight="400" fill="#8a2a2a">One priest returns 5;</text>
+  <text x="452" y="289" font-size="13" font-weight="400" fill="#8a2a2a">two priests keep it all</text>
+  <line x1="40" x2="600" y1="302" y2="302" stroke="#eef2f8"/>
+  <text x="40" y="318" font-size="13" font-weight="400" fill="#1d2738">A male and a female, or</text>
+  <text x="40" y="335" font-size="13" font-weight="400" fill="#1d2738">two males and a female</text>
+  <text x="262" y="318" font-size="13" font-weight="600" fill="#2e6b2a">5 sela</text>
+  <line x1="40" x2="600" y1="348" y2="348" stroke="#eef2f8"/>
+  <text x="40" y="364" font-size="13" font-weight="400" fill="#1d2738">Two females and a male, or</text>
+  <text x="40" y="381" font-size="13" font-weight="400" fill="#1d2738">two males and two females</text>
+  <text x="262" y="364" font-size="13" font-weight="600" fill="#8a2a2a">Nothing</text>
+  <rect x="24" y="410" width="592" height="96" rx="12" fill="#fff" stroke="#d9e1ee"/>
+  <text x="40" y="433" font-size="14" font-weight="700" fill="#1f4f8a">One man, two wives, one has given birth before</text>
+  <text x="600" y="433" font-size="12" text-anchor="end" fill="#8a96aa">48b</text>
+  <text x="40" y="460" font-size="13" font-weight="400" fill="#1d2738">Two males</text>
+  <text x="262" y="460" font-size="13" font-weight="600" fill="#2e6b2a">5 sela</text>
+  <text x="452" y="460" font-size="13" font-weight="400" fill="#8a2a2a">Father exempt</text>
+  <line x1="40" x2="600" y1="473" y2="473" stroke="#eef2f8"/>
+  <text x="40" y="489" font-size="13" font-weight="400" fill="#1d2738">A male and a female</text>
+  <text x="262" y="489" font-size="13" font-weight="600" fill="#8a2a2a">Nothing</text>
+  <rect x="24" y="518" width="592" height="176" rx="12" fill="#fff" stroke="#d9e1ee"/>
+  <text x="40" y="541" font-size="14" font-weight="700" fill="#1f4f8a">Two men, neither wife has given birth before</text>
+  <text x="600" y="541" font-size="12" text-anchor="end" fill="#8a96aa">48b</text>
+  <text x="40" y="568" font-size="13" font-weight="400" fill="#1d2738">Two males</text>
+  <text x="262" y="568" font-size="13" font-weight="600" fill="#2e6b2a">5 sela from each father</text>
+  <text x="452" y="568" font-size="13" font-weight="400" fill="#8a2a2a">One priest returns 5;</text>
+  <text x="452" y="585" font-size="13" font-weight="400" fill="#8a2a2a">two priests keep it all</text>
+  <line x1="40" x2="600" y1="598" y2="598" stroke="#eef2f8"/>
+  <text x="40" y="614" font-size="13" font-weight="400" fill="#1d2738">A male and a female</text>
+  <text x="262" y="614" font-size="13" font-weight="600" fill="#8a5a00">Fathers exempt;</text>
+  <text x="262" y="631" font-size="13" font-weight="400" fill="#8a5a00">the son redeems himself</text>
+  <line x1="40" x2="600" y1="644" y2="644" stroke="#eef2f8"/>
+  <text x="40" y="660" font-size="13" font-weight="400" fill="#1d2738">Two females and a male, or</text>
+  <text x="40" y="677" font-size="13" font-weight="400" fill="#1d2738">two males and two females</text>
+  <text x="262" y="660" font-size="13" font-weight="600" fill="#8a2a2a">Nothing</text>
+  <rect x="24" y="706" width="592" height="113" rx="12" fill="#fff" stroke="#d9e1ee"/>
+  <text x="40" y="729" font-size="14" font-weight="700" fill="#1f4f8a">Two men, one wife has given birth before</text>
+  <text x="600" y="729" font-size="12" text-anchor="end" fill="#8a96aa">48b</text>
+  <text x="40" y="756" font-size="13" font-weight="400" fill="#1d2738">Two males</text>
+  <text x="262" y="756" font-size="13" font-weight="600" fill="#2e6b2a">5 sela from the father whose</text>
+  <text x="262" y="773" font-size="13" font-weight="400" fill="#2e6b2a">wife had not given birth</text>
+  <line x1="40" x2="600" y1="786" y2="786" stroke="#eef2f8"/>
+  <text x="40" y="802" font-size="13" font-weight="400" fill="#1d2738">A male and a female</text>
+  <text x="262" y="802" font-size="13" font-weight="600" fill="#8a2a2a">Nothing</text>
+  <text x="32" y="837" font-size="12.5" fill="#56637a">If the father dies before paying (first and third cases), Rabbi Meir frees brothers</text>
+  <text x="32" y="855" font-size="12.5" fill="#56637a">who have divided the estate; Rabbi Yehuda says the property is obligated.</text>
+</svg>

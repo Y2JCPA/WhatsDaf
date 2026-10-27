@@ -1,0 +1,580 @@
+{
+  "masechet": "bekhorot",
+  "daf": 48,
+  "description": "Twins and intermingled newborns whose firstborn cannot be identified: when the priest receives five sela, ten or nothing, what happens if a child dies or the father dies, and Rava’s reading of the dispute between Rabbi Meir and Rabbi Yehuda through Rav Asi’s brothers who are “half heirs, half purchasers” and Rav Pappa’s oral loan.",
+  "topics": [
+    "👶 Twin males to a first-time mother: five sela, unless one dies within thirty days",
+    "⚖️ The father died: Rabbi Meir frees brothers who divided, Rabbi Yehuda says the property is obligated",
+    "🏡 Rabbi Yirmeya’s two men named Yosef ben Shimon and their shared field",
+    "🤝 Rava: can one collect from the guarantor when the borrower himself cannot be claimed from?",
+    "🖐️ “Five, but not half of five”, or Rav Asi and Rav Pappa: two readings of the dispute",
+    "🔀 Newborns of two wives, or of two men’s wives, intermingled: who pays the priest",
+    "🧾 One priest or two: when the priest must give back five sela"
+  ],
+  "messages": [
+    {
+      "kind": "divider",
+      "text": "48a"
+    },
+    {
+      "kind": "system",
+      "text": "47b closed with Rabbi Shimon on a child born by caesarean section and the son after him. Now a new mishna in chapter 8: births where it is not known which child opened the womb."
+    },
+    {
+      "kind": "section",
+      "text": "Mishna"
+    },
+    {
+      "id": "mish-twins",
+      "from": "mishnah",
+      "seg": "a1",
+      "mishna": true,
+      "text": "With regard to <b>one whose wife had not</b> previously <b>given birth and</b> then <b>gave birth</b> to <b>two males,</b> i.e., twin males, and it is unknown which is the firstborn, <b>he gives five <i>sela</i></b> coins <b>to the priest</b> after thirty days have passed.",
+      "notes": [
+        "rashi:a1.1"
+      ]
+    },
+    {
+      "from": "mishnah",
+      "seg": "a1",
+      "mishna": true,
+      "text": "If <b>one of them dies within thirty days</b> of birth, before the obligation to redeem the firstborn takes effect, <b>the father is exempt</b> from the payment due to uncertainty, as perhaps it was the firstborn who died.",
+      "notes": [
+        "rashi:a1.2",
+        "gershom:a1.1"
+      ]
+    },
+    {
+      "from": "mishnah",
+      "seg": "a2",
+      "mishna": true,
+      "text": "In a case where <b>the father died and the sons are alive,</b>"
+    },
+    {
+      "id": "mish-meir",
+      "from": "rabbi-meir",
+      "seg": "a2",
+      "mishna": true,
+      "text": "<b>If they gave</b> the five <i>sela</i> coins to the priest <b>before they divided</b> their father’s property between them, <b>they gave</b> it, and it remains in the possession of the priest. <b>But if not,</b> they are <b>exempt</b> from giving the redemption money to the priest.",
+      "notes": [
+        "rashi:a2.1",
+        "gershom:a2.1"
+      ]
+    },
+    {
+      "id": "mish-yehuda",
+      "from": "rabbi-yehuda",
+      "seg": "a2",
+      "mishna": true,
+      "text": "<b>The obligation</b> to redeem the firstborn already <b>took effect on the property</b> of the father; therefore, in either case the sons, his heirs, are required to pay the priest.",
+      "notes": [
+        "rashi:a2.2",
+        "gershom:a3.1"
+      ]
+    },
+    {
+      "from": "mishnah",
+      "seg": "a2",
+      "mishna": true,
+      "text": "If the wife gave birth to <b>a male and a female</b> and it is not known which was born first, <b>the priest has nothing here,</b> as it is possible that the female was born first.",
+      "notes": [
+        "rashi:a2.3"
+      ]
+    },
+    {
+      "kind": "section",
+      "text": "Gemara"
+    },
+    {
+      "from": "gemara",
+      "seg": "a3",
+      "replyTo": "mish-meir",
+      "quote": "If they gave the five sela coins to the priest before they divided their father’s property … But if not, they are exempt",
+      "text": "<b>When did the father die? If we say that he died after</b> the <b>thirty days</b> following the birth of his sons, does <b>Rabbi Meir say in this</b> case that <b>if they divided</b> their father’s property they are <b>exempt</b> from giving the redemption money to the priest? <b>But the property is</b> already <b>on lien</b> for the mitzva of redemption.",
+      "notes": [
+        "rashi:a3.1",
+        "tosafot:a3.1"
+      ]
+    },
+    {
+      "from": "gemara",
+      "seg": "a4",
+      "text": "<b>Rather,</b> it is referring to a case <b>where</b> the father <b>died within thirty days</b> of the birth of his sons, and the obligation of redemption applies to the firstborn himself, whose identity is unknown, but not to the father’s property."
+    },
+    {
+      "from": "gemara",
+      "seg": "a4",
+      "text": "If so, <b>what is different</b> about a case <b>where they</b> already <b>divided</b> the property between them, that Rabbi Meir deems them exempt? The reason must be <b>that</b> the priest <b>will go to this</b> son, <b>and</b> the son <b>will reject him</b> by demanding that the priest prove he is the firstborn; and likewise <b>he will go to that</b> other son, <b>and he</b> too <b>will reject him</b> in the same manner.",
+      "notes": [
+        "rashi:a4.1"
+      ]
+    },
+    {
+      "from": "gemara",
+      "seg": "a4",
+      "text": "The same should apply <b>even</b> in a case <b>where they did not divide</b> the property: <b>Let</b> the priest <b>go to this</b> son <b>and he will reject him, and let him go to that</b> son <b>and he</b> too <b>will reject him.</b>",
+      "notes": [
+        "rashi:a4.2"
+      ]
+    },
+    {
+      "id": "yirmeya-a",
+      "from": "rabbi-yirmeya",
+      "seg": "a5",
+      "text": "<b>That is to say,</b> i.e., it can be inferred from here, that in a case involving <b>two</b> people named <b>Yosef ben Shimon who were</b> residents <b>of one city, and they acquired a field in partnership, a creditor</b> of one of them <b>can collect</b> payment of his debt <b>from</b> either of <b>them,</b> despite the fact that he does not know which of them owes him the money."
+    },
+    {
+      "from": "rabbi-yirmeya",
+      "seg": "a5",
+      "text": "The reason is <b>that he can say to</b> each of them: <b>If I have a claim against you, I am taking the one hundred dinars</b> that is <b>your</b> share in the joint field, <b>and if I have a claim against the other</b> Yosef ben Shimon, <b>I am taking the one hundred dinars that</b> is his share in the field. This is similar to the case in the mishna, as the brothers who have yet to divide their father’s property are considered partners, and therefore the priest can claim his debt from that property.",
+      "notes": [
+        "rashi:a5.1",
+        "gershom:a8.1"
+      ]
+    },
+    {
+      "from": "rava",
+      "seg": "a6",
+      "replyTo": "yirmeya-a",
+      "quote": "a creditor of one of them can collect payment of his debt from either of them",
+      "text": "<b>Now</b> consider the principle that <b>a person’s property is a guarantee for him,</b> i.e., it serves as a guarantee for the loan if the debtor does not repay it. <b>Is there any</b> case <b>where one cannot claim</b> repayment from the debtor <b>himself, and</b> yet <b>he can claim from a guarantor?</b>",
+      "notes": [
+        "rashi:a6.1",
+        "gershom:a9.1"
+      ]
+    },
+    {
+      "from": "rava",
+      "seg": "a6",
+      "text": "<b>But didn’t we learn</b> in a mishna (<i>Bava Batra</i> 173a): In the case of <b>one who lends</b> money <b>to another with</b> the assurance of <b>a guarantor,</b> he <b>cannot claim</b> payment of the debt <b>from the guarantor? And we maintain</b> in this regard <b>that</b> he <b>cannot claim</b> payment of the debt <b>from the guarantor at the outset,</b> before first claiming the debt from the debtor. How, then, may the priest not claim the redemption money from either brother, and yet he can take it from their property?",
+      "notes": [
+        "rashi:a6.2"
+      ]
+    },
+    {
+      "from": "rava",
+      "seg": "a7",
+      "lead": "<b>Rather, Rava says:</b>",
+      "text": "<b>Actually,</b> the mishna is referring to a case <b>where</b> the father <b>died after thirty days</b> following the birth of his sons and the property is already on lien for the mitzva of redemption. <b>And if</b> this is a case <b>where there is a lot of property, so too,</b> the <i>halakha</i> is <b>that</b> the priest <b>takes</b> the five <i>sela</i> coins from that property, even after the sons have divided it, as they are obligated to pay their father’s debt from their inheritance.",
+      "notes": [
+        "rashi:a7.1",
+        "gershom:a10.1"
+      ]
+    },
+    {
+      "from": "rava",
+      "seg": "a7",
+      "text": "<b>And what are we dealing with here?</b> With a case <b>where there is only</b> the <b>five <i>sela</i></b> coins received from their father. That was the entire estate."
+    },
+    {
+      "from": "rava",
+      "seg": "a8",
+      "text": "<b>And everyone accepts</b> the opinion <b>of Rav Asi,</b>",
+      "notes": [
+        "tosafot:a8.1"
+      ]
+    },
+    {
+      "from": "rav-asi",
+      "seg": "a8",
+      "lead": "<b>as Rav Asi says:</b>",
+      "text": "In the case of <b>brothers who divided</b> property they received as an inheritance, with regard to <b>half</b> of it they are considered <b>heirs and</b> with regard to the other <b>half</b> they are considered <b>purchasers</b> from each other.",
+      "notes": [
+        "rashi:a8.1",
+        "rashi:a8.2",
+        "tosafot:a8.2",
+        "gershom:a11.1"
+      ]
+    },
+    {
+      "from": "rava",
+      "seg": "a8",
+      "text": "<b>And</b> furthermore, <b>everyone</b> agrees that <b>a loan written in the Torah,</b> i.e., a financial obligation by Torah law, such as the redemption of the firstborn,",
+      "notes": [
+        "rashi:a8.3",
+        "tosafot:a8.3",
+        "tosafot:a8.4",
+        "gershom:a12.1"
+      ]
+    },
+    {
+      "kind": "divider",
+      "text": "48b"
+    },
+    {
+      "from": "rava",
+      "seg": "b1",
+      "text": "<b>is not like</b> one <b>written in a document,</b> but like an oral loan. <b>And everyone accepts</b> the opinion <b>of Rav Pappa,</b>"
+    },
+    {
+      "from": "rav-pappa",
+      "seg": "b1",
+      "lead": "<b>as Rav Pappa says:</b>",
+      "text": "When a creditor gives <b>a loan by oral</b> agreement, he can <b>collect</b> the debt <b>from the heirs</b> of the debtor after his death <b>but he cannot collect</b> the debt <b>from the purchasers</b> of the debtor’s property."
+    },
+    {
+      "from": "rava",
+      "seg": "b1",
+      "text": "Consequently, the priest can collect the redemption money only from the half of the property with regard to which the sons are considered heirs, and since the entire property is worth only five <i>sela</i> coins he would be able to take only two and a half <i>sela</i> coins."
+    },
+    {
+      "id": "rava-five",
+      "from": "rava",
+      "seg": "b2",
+      "text": "<b>And here</b> Rabbi Meir and Rabbi Yehuda <b>disagree</b> with regard to the issue <b>of: Five, but not with half of five.</b>"
+    },
+    {
+      "from": "rava",
+      "seg": "b2",
+      "text": "<b>As Rabbi Meir holds</b> that the Torah requires giving specifically <b>five</b> <i>sela</i> coins, <b>but not half</b> or part <b>of five;</b> therefore, the brothers are exempt from giving a priest those two and a half <i>sela</i> coins.",
+      "notes": [
+        "rashi:b2.1",
+        "tosafot:b2.1",
+        "gershom:b1.1"
+      ]
+    },
+    {
+      "from": "rava",
+      "seg": "b2",
+      "text": "<b>And Rabbi Yehuda maintains</b> that the Torah requires giving <b>five</b> <i>sela</i> coins, <b>and even half</b> or part <b>of five.</b> Therefore, he rules that the priest takes those two and a half <i>sela</i> coins from the property with regard to which the sons are considered heirs.",
+      "notes": [
+        "rashi:b2.2",
+        "gershom:b2.1"
+      ]
+    },
+    {
+      "from": "gemara",
+      "seg": "b3",
+      "replyTo": "mish-yehuda",
+      "quote": "The obligation took effect on the property",
+      "text": "<b>If so,</b> when <b>Rabbi Yehuda says: The obligation</b> to redeem the firstborn already <b>took effect</b> on <b>the property</b> of the father, <b>he should</b> have said that <b>the obligation</b> to redeem the firstborn <b>took effect</b> on <b>the man,</b> i.e., the brothers who are obligated to pay the sum, as Rabbi Yehuda agrees that the priest forfeits the half of the obligation that applies to the property.",
+      "notes": [
+        "rashi:b3.1",
+        "rashi:b3.2",
+        "gershom:b3.1"
+      ]
+    },
+    {
+      "id": "baraita-ten",
+      "from": "rabbi-yehuda",
+      "seg": "b3",
+      "forwarded": "Baraita",
+      "lead": "<b>And furthermore, it is taught</b> in a <i>baraita</i>:",
+      "text": "In a case <b>where</b> the identity of the firstborn is unknown, and <b>the brothers divided</b> their father’s property, <b>if there are ten dinars,</b> which equals two and a half <i>sela</i> coins, <b>for this</b> brother, <b>and ten dinars for that</b> brother, <b>they are obligated</b> to pay the priest; <b>and if not, they are exempt.</b>",
+      "notes": [
+        "rashi:b3.3",
+        "rashi:b3.4",
+        "gershom:b4.1"
+      ]
+    },
+    {
+      "from": "gemara",
+      "seg": "b4",
+      "replyTo": "baraita-ten",
+      "quote": "ten dinars for this brother, and ten dinars for that brother",
+      "text": "<b>What</b> is the meaning of the clause: <b>Ten dinars for this</b> brother <b>and ten dinars for that</b> brother?"
+    },
+    {
+      "from": "gemara",
+      "seg": "b4",
+      "text": "<b>If we say</b> each has ten dinars from the father’s property, which is the total sum of <b>both</b> the half <b>of the inheritance</b> and the half <b>with regard to</b> which they are <b>purchasers</b> together, which equals two and a half <i>sela</i> coins, <b>and</b> Rabbi Yehuda says they are obligated to pay the priest because he maintains that there is a mitzva to give <b>five</b> <i>sela</i> coins <b>and even half</b> or part <b>of five,</b> this is difficult.",
+      "notes": [
+        "rashi:b4.1",
+        "gershom:b5.1"
+      ]
+    },
+    {
+      "from": "gemara",
+      "seg": "b4",
+      "text": "<b>If so, why specifically</b> state that they are obligated only when there are <b>ten</b> dinars? The same <i>halakha</i> would apply <b>even</b> to <b>fewer than ten</b> dinars, as the priest is entitled to whatever is available.",
+      "notes": [
+        "rashi:b4.2",
+        "gershom:b6.1"
+      ]
+    },
+    {
+      "from": "gemara",
+      "seg": "b5",
+      "text": "<b>Rather, it</b> is <b>obvious</b> that in this case there are <b>ten dinars of inheritance for this</b> brother <b>and ten dinars of inheritance for that</b> brother, which totals five <i>sela</i> coins. According to Rabbi Yehuda, it is only in this case that they are obligated to pay the priest. <b>Evidently,</b> Rabbi Yehuda <b>maintains</b> that there is a mitzva to give specifically <b>five</b> <i>sela</i> coins, <b>but not half</b> or part <b>of five,</b> which contradicts the suggested explanation of the dispute.",
+      "notes": [
+        "rashi:b5.1",
+        "gershom:b7.1"
+      ]
+    },
+    {
+      "from": "gemara",
+      "seg": "b6",
+      "text": "<b>Rather,</b> the mishna is referring to a case where the father’s property is worth five <i>sela</i> coins, and <b>everyone,</b> both Rabbi Meir and Rabbi Yehuda, agree that the Torah requires giving <b>five</b> <i>sela</i> coins, <b>but not half of five.</b>"
+    },
+    {
+      "from": "gemara",
+      "seg": "b6",
+      "text": "<b>And here they disagree with regard to</b> the statements <b>of Rav Asi and Rav Pappa</b> that the portion of the inheritance includes only two and a half <i>sela</i>, which the priest is not entitled to collect. Rabbi Meir holds in accordance with their opinion, while Rabbi Yehuda disagrees and holds that all five <i>sela</i> coins are available for the redemption.",
+      "notes": [
+        "rashi:b6.1",
+        "gershom:b8.1"
+      ]
+    },
+    {
+      "from": "gemara",
+      "seg": "b7",
+      "replyTo": "mish-yehuda",
+      "quote": "The obligation took effect on the property",
+      "lead": "<b>And there are</b> those <b>who teach</b> this discussion <b>with regard to the latter clause</b> of the mishna:",
+      "text": "If one had two sons and it is unknown which is the firstborn, and the father died, Rabbi Yehuda says the <b>obligation</b> to redeem the firstborn already <b>took effect on the property</b> of the father. Therefore, even if the father’s property has been divided, the sons are required to pay the priest.",
+      "notes": [
+        "rashi:b7.1"
+      ]
+    },
+    {
+      "from": "gemara",
+      "seg": "b7",
+      "text": "<b>When did the father die? If we say that he died after thirty</b> days following the birth of his sons, should one conclude <b>by inference that Rabbi Meir maintains</b> that <b>if they divided</b> their father’s property they are <b>exempt</b> from giving the redemption payment to the priest? <b>But the property is</b> already <b>on lien</b> for the mitzva of redemption."
+    },
+    {
+      "from": "gemara",
+      "seg": "b8",
+      "text": "<b>Rather,</b> it is referring to a case <b>where</b> the father <b>died within thirty</b> days of the birth of his sons and the obligation of redemption applies to the firstborn himself, though it is unknown which is the firstborn."
+    },
+    {
+      "from": "gemara",
+      "seg": "b8",
+      "text": "If so, <b>why does Rabbi Yehuda obligate</b> them even <b>when</b> the brothers had already <b>divided</b> their father’s property between them? <b>Let</b> the priest <b>go to this</b> son, and <b>he will reject him,</b> by claiming that he is not the firstborn, <b>and</b> let him go <b>to that</b> son <b>and he</b> too <b>will reject him</b> on the same grounds."
+    },
+    {
+      "id": "yirmeya-b",
+      "from": "rabbi-yirmeya",
+      "seg": "b9",
+      "text": "<b>That is to say:</b> In a case involving <b>two</b> people named <b>Yosef ben Shimon, who were</b> residents <b>of one city, and one of them purchased a field from the other,</b> an earlier <b>creditor can collect</b> payment of his debt <b>from</b> that field.",
+      "notes": [
+        "rashi:b9.1"
+      ]
+    },
+    {
+      "from": "rabbi-yirmeya",
+      "seg": "b9",
+      "text": "This is <b>because he can say</b> to the buyer: <b>If you are indebted to me I am taking the one hundred dinars</b> that is <b>your</b> share in the field, <b>and if the other</b> Yosef ben Shimon is <b>indebted to me,</b> then this field <b>was on lien to me before you</b> acquired it.",
+      "notes": [
+        "gershom:b9.1"
+      ]
+    },
+    {
+      "from": "rava",
+      "seg": "b10",
+      "replyTo": "yirmeya-b",
+      "quote": "an earlier creditor can collect payment of his debt from that field",
+      "text": "<b>Now</b> consider, <b>a person’s property is a guarantee for him,</b> so why can the creditor not claim his debt from the debtor himself but can claim it from the guarantor, i.e., his property?"
+    },
+    {
+      "from": "gemara",
+      "seg": "b10",
+      "text": "<b>And</b> from here onward, <b>all</b> the rest of the discussion is the same <b>as</b> in <b>the first version</b> of the passage, as cited earlier.",
+      "notes": [
+        "rashi:b10.1",
+        "gershom:b10.1"
+      ]
+    },
+    {
+      "kind": "section",
+      "text": "Mishna"
+    },
+    {
+      "from": "mishnah",
+      "seg": "b11",
+      "mishna": true,
+      "text": "With regard to <b>two wives</b> of one man, both of <b>whom had not</b> previously <b>given birth, and they gave birth</b> to <b>two males,</b> i.e., each bore one male, and the sons were intermingled, the father <b>gives ten <i>sela</i></b> coins <b>to the priest</b> even if it is unknown which son was born first, because it is certain that each is firstborn of his mother.",
+      "notes": [
+        "rashi:b11.1",
+        "rashi:b11.2"
+      ]
+    },
+    {
+      "from": "mishnah",
+      "seg": "b11",
+      "mishna": true,
+      "text": "In a case where <b>one of them dies within thirty days</b> of birth, <b>if he gave</b> all ten <i>sela</i> coins <b>to one priest,</b> the priest <b>must return five <i>sela</i> to him,</b> because the father was not obligated to redeem the son who then died.",
+      "notes": [
+        "rashi:b11.3"
+      ]
+    },
+    {
+      "from": "mishnah",
+      "seg": "b11",
+      "mishna": true,
+      "text": "<b>And if he gave</b> the redemption payment <b>to two</b> different <b>priests, he cannot reclaim</b> the money <b>from the possession</b> of either priest, as each could claim that the money that he received was for the living child.",
+      "notes": [
+        "rashi:b11.4",
+        "tosafot:b11.1",
+        "gershom:a4.1"
+      ]
+    },
+    {
+      "from": "mishnah",
+      "seg": "b12",
+      "mishna": true,
+      "text": "If one mother gave birth to <b>a male and</b> one gave birth to <b>a female,</b> or if between them they gave birth to <b>two males and</b> one <b>female,</b> and the children were intermingled, the father <b>gives five <i>sela</i></b> coins <b>to the priest:</b> In the first case because the male might have preceded the female and in the second case because one of the males is certainly firstborn.",
+      "notes": [
+        "rashi:b12.1",
+        "gershom:a5.1"
+      ]
+    },
+    {
+      "from": "mishnah",
+      "seg": "b12",
+      "mishna": true,
+      "text": "If the children were <b>two females and a male, or two males and two females, the priest has nothing here,</b> as it is possible the female was born first to each mother.",
+      "notes": [
+        "rashi:b12.2",
+        "gershom:a6.1"
+      ]
+    },
+    {
+      "from": "mishnah",
+      "seg": "b13",
+      "mishna": true,
+      "text": "If <b>one</b> of his wives <b>had</b> previously <b>given birth and one had not</b> previously <b>given birth and</b> they <b>gave birth</b> to <b>two males</b> who became intermingled, the father <b>gives five <i>sela</i></b> coins <b>to the priest,</b> as it is certain that one of them was born to the mother who had not yet given birth."
+    },
+    {
+      "from": "mishnah",
+      "seg": "b13",
+      "mishna": true,
+      "text": "If <b>one of them dies within thirty days</b> of birth <b>the father is exempt</b> from that payment, as it is possible that the one who died was born to the mother who had not yet given birth.",
+      "notes": [
+        "rashi:b13.1",
+        "gershom:a7.1"
+      ]
+    },
+    {
+      "from": "mishnah",
+      "seg": "b14",
+      "mishna": true,
+      "text": "In a case of intermingling where <b>the father died and the sons are alive,</b>"
+    },
+    {
+      "from": "rabbi-meir",
+      "seg": "b14",
+      "mishna": true,
+      "text": "<b>If they gave</b> the five <i>sela</i> coins to the priest <b>before they divided</b> their father’s property between them, <b>they gave</b> it, and it remains in the possession of the priest. <b>But if not,</b> they are <b>exempt</b> from giving the redemption payment to the priest.",
+      "notes": [
+        "rashi:b14.1",
+        "tosafot:b14.1"
+      ]
+    },
+    {
+      "from": "rabbi-yehuda",
+      "seg": "b14",
+      "mishna": true,
+      "text": "The <b>obligation</b> to redeem the firstborn already <b>took effect</b> on <b>the property</b> of the father."
+    },
+    {
+      "from": "mishnah",
+      "seg": "b14",
+      "mishna": true,
+      "text": "If the wives gave birth to <b>a male and a female the priest has nothing here,</b> as perhaps the female was born to the mother who had not yet given birth.",
+      "notes": [
+        "rashi:b14.2"
+      ]
+    },
+    {
+      "from": "mishnah",
+      "seg": "b15",
+      "mishna": true,
+      "text": "With regard to <b>two women who had not</b> previously <b>given birth,</b> who were married <b>to two</b> different <b>men, and they gave birth</b> to <b>two males</b> and the sons were intermingled, <b>this</b> father <b>gives five <i>sela</i></b> coins <b>to a priest and that</b> father <b>gives five <i>sela</i></b> coins to a priest, as each is certainly firstborn to his mother.",
+      "notes": [
+        "gershom:b11.1"
+      ]
+    },
+    {
+      "from": "mishnah",
+      "seg": "b15",
+      "mishna": true,
+      "text": "In a case where <b>one of them dies within thirty</b> days of birth, <b>if</b> the fathers <b>gave</b> all ten <i>sela</i> coins <b>to one priest,</b> the priest <b>must return five <i>sela</i></b> coins <b>to them.</b>",
+      "notes": [
+        "rashi:b15.1"
+      ]
+    },
+    {
+      "id": "mish-two-priests",
+      "from": "mishnah",
+      "seg": "b15",
+      "mishna": true,
+      "text": "<b>But if they gave</b> the redemption payment <b>to two</b> different <b>priests they cannot reclaim</b> the money <b>from the possession of</b> either priest, as each could claim that the money that he received was for the living child.",
+      "notes": [
+        "rashi:b15.2",
+        "gershom:b12.1"
+      ]
+    },
+    {
+      "from": "mishnah",
+      "seg": "b16",
+      "mishna": true,
+      "text": "If the women gave birth to <b>a male and a female</b> and the children became intermingled, <b>the fathers are exempt,</b> as each could claim that he is the father of the female, <b>but the son is obligated to redeem himself,</b> as he is certainly a firstborn.",
+      "notes": [
+        "rashi:b16.1",
+        "rashi:b16.2",
+        "gershom:b13.1"
+      ]
+    },
+    {
+      "from": "mishnah",
+      "seg": "b16",
+      "mishna": true,
+      "text": "If <b>two females and a male</b> were born, <b>or two females and two males, the priest has nothing here,</b> as it is possible the female was born first to each mother.",
+      "notes": [
+        "rashi:b16.3",
+        "gershom:b14.1"
+      ]
+    },
+    {
+      "from": "mishnah",
+      "seg": "b17",
+      "mishna": true,
+      "text": "If <b>one</b> woman <b>had</b> previously <b>given birth and one had not</b> previously <b>given birth,</b> and they were married <b>to two men and they gave birth to two males,</b> who then became intermingled, <b>this</b> one <b>whose wife had not</b> previously <b>given birth gives five <i>sela</i></b> coins <b>to the priest.</b>",
+      "notes": [
+        "gershom:b15.1"
+      ]
+    },
+    {
+      "from": "mishnah",
+      "seg": "b17",
+      "mishna": true,
+      "text": "If the women gave birth to <b>a male and a female the priest has nothing here,</b> as it is possible the female was born to the mother who had not yet given birth.",
+      "notes": [
+        "gershom:b16.1"
+      ]
+    },
+    {
+      "kind": "image",
+      "src": "assets/diagrams/bekhorot-48-intermingled.svg",
+      "caption": "The mishnayot’s cases at a glance: who bore what, and what the priest receives."
+    },
+    {
+      "kind": "section",
+      "text": "Gemara"
+    },
+    {
+      "from": "gemara",
+      "seg": "b18",
+      "replyTo": "mish-two-priests",
+      "quote": "But if they gave the redemption payment to two different priests they cannot reclaim the money",
+      "text": "<b>What is different</b> about a case where the fathers gave the redemption money to <b>two</b> different <b>priests,</b> and one of the firstborns subsequently died, that they cannot reclaim the money? The reason is <b>that</b> one father <b>will go to this</b> priest <b>and he will reject him,</b> by claiming that he took the redemption money for the surviving firstborn, <b>and</b> likewise <b>he will go to that</b> other priest <b>and he</b> too <b>will reject him</b> in the same manner.",
+      "notes": [
+        "gershom:b17.1"
+      ]
+    },
+    {
+      "from": "gemara",
+      "seg": "b19",
+      "text": "The same is <b>also</b> true in a case where they gave their redemption money to <b>one priest: This</b> father <b>will go to</b> the priest <b>and</b> the priest <b>will reject him,</b> by claiming that his son is still alive, <b>and that</b> father <b>will go to</b> the priest <b>and he will reject him</b> too, on the same grounds.",
+      "notes": [
+        "rashi:b19.1",
+        "gershom:b18.1"
+      ]
+    },
+    {
+      "kind": "system",
+      "seg": "b19",
+      "text": "<b>Shmuel says:</b> … his answer continues on 49a: one father comes with authorization to claim on behalf of the other."
+    }
+  ]
+}
