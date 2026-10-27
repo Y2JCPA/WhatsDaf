@@ -2,17 +2,19 @@
 /**
  * Fold staged people (content/<masechet>_<daf>.people.json) into data/people.json, append their
  * portrait prompts to portraits/PROMPTS.md under a new round heading, and delete the staged files.
- * Usage: node pipeline/merge-people.js "<round heading>"
+ * Usage: node pipeline/merge-people.js "<round heading>" <masechet>_<daf> [...]
+ *        (only the named dapim are merged, so dapim still being written keep their staged files)
  * An id that already exists in data/people.json is skipped (the existing entry wins) and reported.
  */
 const fs = require('fs');
 const path = require('path');
 const L = require('./lib');
 
-const heading = process.argv[2] || 'New people';
+const [heading = 'New people', ...only] = process.argv.slice(2);
+if (!only.length) { console.error('name the dapim to merge, e.g. bekhorot_53 bekhorot_54'); process.exit(2); }
 const peopleFile = path.join(L.ROOT, 'data', 'people.json');
 const data = L.readJSON(peopleFile);
-const staged = fs.readdirSync(path.join(L.ROOT, 'content')).filter(f => f.endsWith('.people.json')).sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
+const staged = fs.readdirSync(path.join(L.ROOT, 'content')).filter(f => f.endsWith('.people.json') && only.includes(f.replace('.people.json', ''))).sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
 const added = [];
 
 for (const f of staged) {
