@@ -482,6 +482,86 @@
   },
   {
    "masechet": "bekhorot",
+   "daf": 32,
+   "title": "Bekhorot 32",
+   "he": "בכורות ל״ב",
+   "preview": {
+    "from": "rava",
+    "text": "But with regard to an item that is not appraised when an animal is sold when alive, e.g., the hide and sinews, as these "
+   },
+   "last": {
+    "from": "gemara",
+    "text": "Just as there, with regard to the breast and the thigh, priests may partake of it but an Israelite, i.e., a non-priest, "
+   },
+   "messages": 68,
+   "members": 10
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 33,
+   "title": "Bekhorot 33",
+   "he": "בכורות ל״ג",
+   "preview": {
+    "from": "baraita",
+    "text": "One may not give a blemished firstborn offering to menstruating women to eat; this is the statement of Beit Shammai. And"
+   },
+   "last": {
+    "from": "baraita",
+    "text": "The verse states: “There shall not be any blemish in it”; from here I have derived…"
+   },
+   "messages": 73,
+   "members": 17
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 34,
+   "title": "Bekhorot 34",
+   "he": "בכורות ל״ד",
+   "preview": {
+    "from": "baraita",
+    "text": "…only the prohibition that one may not directly cause a blemish. From where is it derived that one may not bring pressed"
+   },
+   "last": {
+    "from": "abaye",
+    "text": "We have a tradition…"
+   },
+   "messages": 59,
+   "members": 17
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 35,
+   "title": "Bekhorot 35",
+   "he": "בכורות ל״ה",
+   "preview": {
+    "from": "abaye",
+    "text": "that if one rendered impure the ritually pure items of another and died before paying, the Sages did not penalize his so"
+   },
+   "last": {
+    "from": "rav-pappa",
+    "text": "§ @Abaye, according to Rabbi Meir, who says that a priest who is suspect about the matter of causing a blemish may neith"
+   },
+   "messages": 72,
+   "members": 13
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 36,
+   "title": "Bekhorot 36",
+   "he": "בכורות ל״ו",
+   "preview": {
+    "from": "rav-ashi",
+    "text": "Emend the baraita and teach it like this: Testimony based on hearsay is valid only for that testimony for which the test"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "The ruling that a group of three laymen may permit a blemished firstborn animal in a place where there is no expert to c"
+   },
+   "messages": 94,
+   "members": 21
+  },
+  {
+   "masechet": "bekhorot",
    "daf": 40,
    "title": "Bekhorot 40",
    "he": "בכורות מ׳",

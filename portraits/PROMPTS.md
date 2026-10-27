@@ -286,3 +286,23 @@ Same output spec and shared style as above. Save to `assets/portraits/<file>`.
 | `rabbi-yitzchak-ish-kefar-akko.jpg` | Rabbi Yitzḥak of Kefar Akko, Amora · Land of Israel, 3rd century | A gentle, careful scholar in his 50s with a greying dark beard and an attentive expression, in a light linen robe and a sea-blue mantle, as one who faithfully repeats his teacher's ruling. A village on the coast near Akko with the Mediterranean softly behind him. |
 | `rav-huna-bar-chiyya.jpg` | Rav Huna bar Ḥiyya, Amora · Babylonia, 3rd–4th century | A dignified, well-to-do Babylonian scholar in his 50s with a full dark beard touched with grey and a composed, slightly contrite expression, in a fine brown robe with a simple mantle. A courtyard set with many rows of wooden chairs, palm trees beyond. |
 | `rabbi-yitzchak-ben-zeeiri.jpg` | Rabbi Yitzḥak ben Ze’eiri, Amora | A warm, poetic scholar in his 40s with a short dark beard and a quiet smile, in a plain cream robe and a deep purple mantle, one hand resting on an open scroll. A vineyard with heaped grape clusters at dusk behind him. |
+
+---
+
+## Round 13: people needed for Bekhorot 32–36
+
+Same output spec and shared style as above. Save to `assets/portraits/<file>`.
+
+| File | Person | Add to the shared style |
+|---|---|---|
+| `rav-shmuel-bar-rav-yitzchak.jpg` | Rav Shmuel bar Rav Yitzḥak, Amora · 3rd–4th century | A joyful elderly scholar in his 70s with a long white beard and a broad smile, in a white linen robe, holding three green myrtle branches aloft as if about to dance. A lamp-lit wedding courtyard softly behind him. |
+| `rav-chinnana.jpg` | Rav Ḥinnana, Amora · Babylonia | A careful Babylonian scholar in his 50s with a greying dark beard and an attentive look, in a plain brown wool robe and a cream mantle. Mudbrick academy walls and oil lamps behind him. |
+| `rav-huna-brei-derav-yehoshua.jpg` | Rav Huna, son of Rav Yehoshua, Amora · Babylonia, 4th century | A prosperous Babylonian scholar in his 40s with a neat dark beard and a thoughtful expression, his head covered with a wrapped cloth, in a fine dark green robe. A Babylonian study hall with palm trees beyond its archway. |
+| `rabbi-yehoshua-ben-kefusai.jpg` | Rabbi Yehoshua ben Kefusai, Tanna | A sober, careful scholar in his 60s with a long grey beard and a measured, questioning gaze, in an undyed wool robe and a brown mantle. A stone-paved marketplace of a Galilean town, softly blurred, behind him. |
+| `mareimar.jpg` | Mareimar, Amora · Sura, 5th century | A dignified Babylonian academy head in his 60s with a long grey beard and a stern, measured gaze, in a dark blue robe and white mantle. A lamp-lit hall at Sura with mudbrick columns behind him. |
+| `rava-zuti.jpg` | Rava Zuti, Amora · Babylonia | A slight Babylonian scholar in his 40s with a short dark beard and an alert, precise look, in a plain tan robe and cream mantle. Shelves of scrolls in a mudbrick study hall behind him. |
+| `rabbi-tzadok.jpg` | Rabbi Tzadok, Tanna · Jerusalem and Yavne, 1st century | A very thin, gaunt elderly priest in his 70s with a long white beard and deep-set gentle eyes, in a white linen robe and simple headcloth. A modest courtyard at Yavne with a stone wall behind him. |
+| `rabbi-yirmeya-bar-abba.jpg` | Rabbi Yirmeya bar Abba, Amora · Babylonia, 3rd century | A careful Babylonian scholar in his 50s with a greying brown beard and a firm, attentive expression, in a deep green robe and cream mantle. A study hall at Sura with oil lamps behind him. |
+| `rafram.jpg` | Rafram, Amora · Pumbedita | A Babylonian sage in his 50s with a dark beard touched with grey and tired, squinting eyes, in a russet robe and white mantle. A mudbrick courtyard in Pumbedita with palm trees behind him. |
+| `rabbi-simlai.jpg` | Rabbi Simlai, Amora · Land of Israel, 3rd century | A warm, eloquent preacher in his 50s with a dark beard and expressive hands, in a sky-blue robe and cream mantle, mid-sermon. A stone study house at Lod with arched windows behind him. |
+| `rav-chiyya-bar-amram.jpg` | Rav Ḥiyya bar Amram, Amora · Babylonia | A sober Babylonian scholar in his 50s with a full greying beard and a calm, thoughtful face, in an olive-green robe and white mantle. A plain mudbrick study hall with oil lamps behind him. |
