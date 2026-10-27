@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 470" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>The sela, before and after</title>
+  <rect width="640" height="470" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">The sela, before and after</text>
+  <text x="32" y="70" font-size="14" fill="#56657a">1 dinar = 6 ma’a = 12 pundeyon</text>
+
+  <rect x="24" y="88" width="288" height="200" rx="14" fill="#fff" stroke="#dbe3ee"/>
+  <text x="168" y="118" font-size="16" font-weight="700" text-anchor="middle" fill="#1f2d3d">The Torah’s sela</text>
+  <text x="168" y="138" font-size="12" text-anchor="middle" fill="#7a879a">Rava · “twenty gera the shekel”</text>
+  <rect x="48" y="156" width="200" height="22" rx="5" fill="#8fb3de"/>
+  <text x="56" y="172" font-size="12.5" fill="#fff" font-weight="700">20 ma’a</text>
+  <text x="168" y="214" font-size="22" font-weight="700" text-anchor="middle" fill="#1f2d3d">3⅓ dinars</text>
+  <text x="168" y="244" font-size="13" text-anchor="middle" fill="#3d4b5f">five sela = 16⅔ dinars</text>
+  <text x="168" y="268" font-size="12" text-anchor="middle" fill="#7a879a">“it is twenty gera”: never less</text>
+
+  <rect x="328" y="88" width="288" height="200" rx="14" fill="#fff" stroke="#dbe3ee"/>
+  <text x="472" y="118" font-size="16" font-weight="700" text-anchor="middle" fill="#1f2d3d">After the Sages added</text>
+  <text x="472" y="138" font-size="12" text-anchor="middle" fill="#7a879a">“shall be”: one may add · the Tyrian sela</text>
+  <rect x="352" y="156" width="200" height="22" rx="5" fill="#8fb3de"/>
+  <rect x="552" y="156" width="40" height="22" rx="5" fill="#e3a857"/>
+  <text x="360" y="172" font-size="12.5" fill="#fff" font-weight="700">20 ma’a</text>
+  <text x="572" y="172" font-size="12.5" fill="#fff" font-weight="700" text-anchor="middle">+4</text>
+  <text x="472" y="214" font-size="22" font-weight="700" text-anchor="middle" fill="#1f2d3d">4 dinars</text>
+  <text x="472" y="244" font-size="13" text-anchor="middle" fill="#3d4b5f">five sela = 20 dinars</text>
+  <text x="472" y="268" font-size="12" text-anchor="middle" fill="#7a879a">= 48 pundeyon</text>
+
+  <rect x="24" y="302" width="592" height="144" rx="14" fill="#fff" stroke="#dbe3ee"/>
+  <text x="44" y="330" font-size="15" font-weight="700" fill="#1f2d3d">Rav Ashi sends 17 dinars</text>
+  <line x1="60" y1="374" x2="580" y2="374" stroke="#c7d2e0" stroke-width="2"/>
+  <line x1="60" y1="366" x2="60" y2="382" stroke="#c7d2e0" stroke-width="2"/>
+  <text x="60" y="400" font-size="12" text-anchor="middle" fill="#7a879a">16</text>
+  <line x1="580" y1="366" x2="580" y2="382" stroke="#c7d2e0" stroke-width="2"/>
+  <text x="580" y="400" font-size="12" text-anchor="middle" fill="#7a879a">20</text>
+  <circle cx="147" cy="374" r="7" fill="#8fb3de"/>
+  <text x="147" y="358" font-size="13" text-anchor="middle" fill="#3d4b5f">16⅔</text>
+  <circle cx="190" cy="374" r="8" fill="#1f2d3d"/>
+  <text x="190" y="358" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2d3d">17 sent</text>
+  <circle cx="580" cy="374" r="7" fill="#e3a857"/>
+  <text x="572" y="358" font-size="13" text-anchor="end" fill="#3d4b5f">owed after the addition</text>
+  <text x="44" y="424" font-size="13" fill="#3d4b5f">Rav Ashi: “send me back the extra third.” Rav Aḥa: “send me the other three.”</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 430" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Rabbi Yoḥanan’s arithmetic</title>
+  <rect width="640" height="430" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Rabbi Yoḥanan’s arithmetic</text>
+  <text x="32" y="70" font-size="14" fill="#56657a">One gold dinar = 25 silver dinars. The goal: 20 dinars = five sela of 4 dinars each.</text>
+
+  <rect x="24" y="92" width="592" height="94" rx="14" fill="#fff" stroke="#dbe3ee"/>
+  <text x="44" y="120" font-size="15" font-weight="700" fill="#1f2d3d">1 · Deduct one-sixth</text>
+  <text x="44" y="146" font-size="14" fill="#3d4b5f">25 − 4⅙ (a sixth of 25)</text>
+  <text x="44" y="170" font-size="13" fill="#56657a">“twenty-one less a danka”</text>
+  <text x="470" y="146" font-size="24" font-weight="700" text-anchor="end" fill="#c0392b">20⅚</text>
+  <text x="596" y="146" font-size="15" font-weight="700" text-anchor="end" fill="#c0392b">✗ too much</text>
+
+  <rect x="24" y="198" width="592" height="94" rx="14" fill="#fff" stroke="#dbe3ee"/>
+  <text x="44" y="226" font-size="15" font-weight="700" fill="#1f2d3d">2 · Deduct one-sixth, then a dinar</text>
+  <text x="44" y="252" font-size="14" fill="#3d4b5f">25 − 4⅙ − 1</text>
+  <text x="44" y="276" font-size="13" fill="#56657a">“still twenty less a danka”</text>
+  <text x="470" y="252" font-size="24" font-weight="700" text-anchor="end" fill="#c0392b">19⅚</text>
+  <text x="596" y="252" font-size="15" font-weight="700" text-anchor="end" fill="#c0392b">✗ too little</text>
+
+  <rect x="24" y="304" width="592" height="102" rx="14" fill="#eef7ef" stroke="#b9dcbf"/>
+  <text x="44" y="332" font-size="15" font-weight="700" fill="#1f2d3d">3 · First deduct a dinar, then one-sixth</text>
+  <text x="44" y="358" font-size="14" fill="#3d4b5f">25 − 1 = 24 · 24 − 4 (a sixth of 24)</text>
+  <text x="44" y="384" font-size="13" fill="#56657a">“and these are for the redemption of the son”</text>
+  <text x="470" y="358" font-size="24" font-weight="700" text-anchor="end" fill="#2e7d32">20</text>
+  <text x="596" y="358" font-size="15" font-weight="700" text-anchor="end" fill="#2e7d32">✓ 5 sela</text>
+</svg>
