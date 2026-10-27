@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 350" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Whatever passes under the rod</title>
+  <rect width="640" height="350" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2a3c">Whatever passes under the rod</text>
+  <text x="32" y="68" font-size="13.5" fill="#5b6b82">The animals leave the pen one at a time; the count runs as they pass.</text>
+  <!-- pen -->
+  <rect x="32" y="96" width="118" height="150" rx="10" fill="#e3eaf5" stroke="#9fb0c8" stroke-width="2"/>
+  <rect x="146" y="148" width="8" height="46" fill="#f3f6fb"/>
+  <text x="91" y="124" font-size="14" font-weight="700" text-anchor="middle" fill="#3a4a63">Pen</text>
+  <circle cx="68" cy="160" r="12" fill="#c7d3e6"/><circle cx="104" cy="152" r="12" fill="#c7d3e6"/>
+  <circle cx="80" cy="196" r="12" fill="#c7d3e6"/><circle cx="118" cy="208" r="12" fill="#c7d3e6"/>
+  <circle cx="60" cy="226" r="12" fill="#c7d3e6"/>
+  <!-- rod -->
+  <line x1="190" y1="104" x2="190" y2="150" stroke="#7a5a2e" stroke-width="5" stroke-linecap="round"/>
+  <text x="190" y="96" font-size="13" text-anchor="middle" fill="#7a5a2e">rod</text>
+  <!-- line of animals: tenth is under the rod, first one out is farthest right -->
+  <g font-size="13" font-weight="700" text-anchor="middle">
+    <circle cx="190" cy="171" r="17" fill="#e8b04a" stroke="#b07d1e" stroke-width="2.5"/><text x="190" y="176" fill="#3b2a08">10</text>
+    <circle cx="236" cy="171" r="15" fill="#ffffff" stroke="#9fb0c8" stroke-width="2"/><text x="236" y="176" fill="#3a4a63">9</text>
+    <circle cx="280" cy="171" r="15" fill="#ffffff" stroke="#9fb0c8" stroke-width="2"/><text x="280" y="176" fill="#3a4a63">8</text>
+    <circle cx="324" cy="171" r="15" fill="#ffffff" stroke="#9fb0c8" stroke-width="2"/><text x="324" y="176" fill="#3a4a63">7</text>
+    <circle cx="368" cy="171" r="15" fill="#ffffff" stroke="#9fb0c8" stroke-width="2"/><text x="368" y="176" fill="#3a4a63">6</text>
+    <circle cx="412" cy="171" r="15" fill="#ffffff" stroke="#9fb0c8" stroke-width="2"/><text x="412" y="176" fill="#3a4a63">5</text>
+    <circle cx="456" cy="171" r="15" fill="#ffffff" stroke="#9fb0c8" stroke-width="2"/><text x="456" y="176" fill="#3a4a63">4</text>
+    <circle cx="500" cy="171" r="15" fill="#ffffff" stroke="#9fb0c8" stroke-width="2"/><text x="500" y="176" fill="#3a4a63">3</text>
+    <circle cx="544" cy="171" r="15" fill="#ffffff" stroke="#9fb0c8" stroke-width="2"/><text x="544" y="176" fill="#3a4a63">2</text>
+    <circle cx="588" cy="171" r="15" fill="#ffffff" stroke="#9fb0c8" stroke-width="2"/><text x="588" y="176" fill="#3a4a63">1</text>
+  </g>
+  <path d="M 520 128 L 600 128" stroke="#9fb0c8" stroke-width="2" fill="none"/>
+  <path d="M 594 123 L 602 128 L 594 133" stroke="#9fb0c8" stroke-width="2" fill="none"/>
+  <text x="514" y="132" font-size="12.5" text-anchor="end" fill="#5b6b82">first out</text>
+  <text x="172" y="216" font-size="13.5" font-weight="700" fill="#9a6a10">tenth: sacred</text>
+  <text x="430" y="216" font-size="13.5" text-anchor="middle" fill="#5b6b82">first to ninth: remain ordinary</text>
+  <!-- notes -->
+  <line x1="32" y1="248" x2="608" y2="248" stroke="#d5deeb" stroke-width="1.5"/>
+  <text x="32" y="276" font-size="14" fill="#1f2a3c">“He shall not inquire whether it be good or bad” (Lev. 27:33): the owner may not</text>
+  <text x="32" y="296" font-size="14" fill="#1f2a3c">pick or place the tenth, so he cannot blemish it in advance (53b).</text>
+  <text x="32" y="328" font-size="12.5" fill="#5b6b82">How the count is run and the tenth is marked is set out in the mishna on 58b.</text>
+</svg>
