@@ -47,6 +47,86 @@
    },
    "messages": 69,
    "members": 20
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 43,
+   "title": "Bekhorot 43",
+   "he": "בכורות מ״ג",
+   "preview": {
+    "from": "rava",
+    "text": "There is a practical difference with regard to disqualifying the widow, through his ḥalitza, from entering into levirate"
+   },
+   "last": {
+    "from": "sages",
+    "text": "@Rabbi Yosei You have gone too far in limiting your definition of a ḥarum."
+   },
+   "messages": 83,
+   "members": 11
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 44,
+   "title": "Bekhorot 44",
+   "he": "בכורות מ״ד",
+   "preview": {
+    "from": "sages",
+    "text": "@Rabbi Yosei Rather, even if he does not paint both of his eyes as one, any priest with an abnormally sunken nose is con"
+   },
+   "last": {
+    "from": "mishnah",
+    "text": "The mishna lists additional blemishes that disqualify a priest from performing the Temple service: One whose legs are cr"
+   },
+   "messages": 95,
+   "members": 26
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 45,
+   "title": "Bekhorot 45",
+   "he": "בכורות מ״ה",
+   "preview": {
+    "from": "mishnah",
+    "text": "and a ba’al happikim, and the ikkel. What is the ikkel? It is anyone who places his feet together and his knees do not k"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "That we administer the vow …"
+   },
+   "messages": 98,
+   "members": 30
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 46,
+   "title": "Bekhorot 46",
+   "he": "בכורות מ״ו",
+   "preview": {
+    "from": "ameimar",
+    "text": "The halakha is as follows: Even according to the one who says a vow that was taken in public has the option of nullifica"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "And if you wish, say instead that Rabbi Yoḥanan can resolve the difficulty as follows:"
+   },
+   "messages": 52,
+   "members": 11
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 47,
+   "title": "Bekhorot 47",
+   "he": "בכורות מ״ז",
+   "preview": {
+    "from": "rabbi-yochanan",
+    "text": "He does not have a firstborn with regard to inheritance, i.e., a son who is his firstborn after his conversion does not "
+   },
+   "last": {
+    "from": "gemara",
+    "text": "And Rabbi Shimon also rules that the second son is a firstborn with regard to redemption from a priest for five sela coi"
+   },
+   "messages": 82,
+   "members": 18
   }
  ]
 }
