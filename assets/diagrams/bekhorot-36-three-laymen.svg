@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 560" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Three synagogue-goers may permit a firstborn</title>
+  <rect width="640" height="560" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Three synagogue-goers may permit a firstborn</text>
+  <text x="32" y="68" font-size="14" fill="#5b6b7d">The mishna’s ruling, and what each Amora on 36b adds to it</text>
+
+  <rect x="32" y="88" width="576" height="84" rx="12" fill="#fff4d6" stroke="#e6c766"/>
+  <text x="48" y="114" font-size="15" font-weight="700" fill="#7a5a00">Mishna</text>
+  <text x="222" y="114" font-size="14" fill="#1f2d3d">Three synagogue-goers, who are not Sages, may</text>
+  <text x="222" y="134" font-size="14" fill="#1f2d3d">permit a firstborn whose eye was blinded, whose</text>
+  <text x="222" y="154" font-size="14" fill="#1f2d3d">foreleg was severed or whose hind leg was broken.</text>
+
+  <rect x="32" y="180" width="576" height="64" rx="12" fill="#fde2e1" stroke="#e8a9a3"/>
+  <text x="48" y="206" font-size="15" font-weight="700" fill="#a12d22">Rabbi Yosei</text>
+  <text x="48" y="226" font-size="12.5" fill="#a12d22">disagrees</text>
+  <text x="222" y="206" font-size="14" fill="#1f2d3d">Even if twenty-three are there, it may be</text>
+  <text x="222" y="226" font-size="14" fill="#1f2d3d">slaughtered only on the ruling of an expert.</text>
+
+  <text x="32" y="276" font-size="13" font-weight="700" fill="#5b6b7d" letter-spacing=".5">THE AMORAIM ADD</text>
+
+  <rect x="32" y="288" width="576" height="64" rx="12" fill="#dfe8f3"/>
+  <text x="48" y="314" font-size="15" font-weight="700" fill="#1f2d3d">Rabbi Simlai</text>
+  <text x="48" y="334" font-size="12.5" fill="#5b6b7d">and colleagues</text>
+  <text x="222" y="314" font-size="14" fill="#1f2d3d">Permitting a firstborn on the word of three</text>
+  <text x="222" y="334" font-size="14" fill="#1f2d3d">synagogue-goers: outside Eretz Yisrael.</text>
+
+  <rect x="32" y="360" width="576" height="44" rx="12" fill="#dfe8f3"/>
+  <text x="48" y="388" font-size="15" font-weight="700" fill="#1f2d3d">Rava</text>
+  <text x="222" y="388" font-size="14" fill="#1f2d3d">Only for clear-cut blemishes.</text>
+
+  <rect x="32" y="412" width="576" height="64" rx="12" fill="#dfe8f3"/>
+  <text x="48" y="438" font-size="15" font-weight="700" fill="#1f2d3d">Rav Yehuda</text>
+  <text x="48" y="458" font-size="12.5" fill="#5b6b7d">from R. Yirmeya bar Abba</text>
+  <text x="222" y="438" font-size="14" fill="#1f2d3d">Only where there is no expert. Where there</text>
+  <text x="222" y="458" font-size="14" fill="#1f2d3d">is an expert, three laymen may not.</text>
+
+  <rect x="32" y="484" width="576" height="64" rx="12" fill="#dfe8f3"/>
+  <text x="48" y="510" font-size="15" font-weight="700" fill="#1f2d3d">Rav Ḥiyya</text>
+  <text x="48" y="530" font-size="15" font-weight="700" fill="#1f2d3d">bar Amram</text>
+  <text x="222" y="510" font-size="14" fill="#1f2d3d">The same where there is no expert; and three</text>
+  <text x="222" y="530" font-size="14" fill="#1f2d3d">may dissolve a vow where there is no Sage.</text>
+</svg>
