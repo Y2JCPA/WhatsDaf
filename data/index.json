@@ -127,6 +127,86 @@
    },
    "messages": 82,
    "members": 18
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 48,
+   "title": "Bekhorot 48",
+   "he": "בכורות מ״ח",
+   "preview": {
+    "from": "mishnah",
+    "text": "With regard to one whose wife had not previously given birth and then gave birth to two males, i.e., twin males, and it "
+   },
+   "last": {
+    "from": "gemara",
+    "text": "The same is also true in a case where they gave their redemption money to one priest: This father will go to the priest "
+   },
+   "messages": 61,
+   "members": 8
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 49,
+   "title": "Bekhorot 49",
+   "he": "בכורות מ״ט",
+   "preview": {
+    "from": "shmuel",
+    "text": "This is referring to a case where one of the fathers comes with authorization to act on behalf of the other father to st"
+   },
+   "last": {
+    "from": "rabbi-chanina",
+    "text": "There is a Syrian sela [istera], eight of which are sold for a large golden dinar. One must give five of these for the r"
+   },
+   "messages": 55,
+   "members": 14
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 50,
+   "title": "Bekhorot 50",
+   "he": "בכורות נ׳",
+   "preview": {
+    "from": "rabbi-yochanan",
+    "text": "If one wishes to know how much to give for the redemption of the firstborn son, take the worn-out gold dinars of Hadrian"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "which is the fine imposed for such an action. Ḥanan had …"
+   },
+   "messages": 49,
+   "members": 14
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 51,
+   "title": "Bekhorot 51",
+   "he": "בכורות נ״א",
+   "preview": {
+    "from": "mishnah",
+    "text": "The thirty shekels paid to the owner of a Canaanite slave who is killed by an ox, and the fifty shekels paid by a rapist"
+   },
+   "last": {
+    "from": "mishnah",
+    "text": "And neither does he take twice the portion in any enhancement of the value of the property after the death of the father"
+   },
+   "messages": 60,
+   "members": 16
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 52,
+   "title": "Bekhorot 52",
+   "he": "בכורות נ״ב",
+   "preview": {
+    "from": "mishnah",
+    "text": "And neither does a woman take these portions, i.e., any enhancement of the value of the property or the property due the"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "And what is the meaning of the clause: And deduct for them part of the monetary value of the property? It means that he "
+   },
+   "messages": 54,
+   "members": 16
   }
  ]
 }
