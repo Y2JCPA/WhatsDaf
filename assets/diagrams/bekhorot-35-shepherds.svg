@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 560" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Two readings of the shepherds mishna</title>
+  <rect width="640" height="560" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Who are the “Israelite shepherds”?</text>
+  <text x="32" y="68" font-size="14" fill="#5b6b7d">Rabbi Yoḥanan and Rabbi Elazar read the mishna two ways (35a–b)</text>
+
+  <!-- column headers -->
+  <rect x="32" y="88" width="280" height="52" rx="10" fill="#dfe8f3"/>
+  <text x="172" y="110" font-size="15" font-weight="700" fill="#1f2d3d" text-anchor="middle">One says</text>
+  <text x="172" y="129" font-size="13" fill="#5b6b7d" text-anchor="middle">35a</text>
+  <rect x="328" y="88" width="280" height="52" rx="10" fill="#dfe8f3"/>
+  <text x="468" y="110" font-size="15" font-weight="700" fill="#1f2d3d" text-anchor="middle">The other says</text>
+  <text x="468" y="129" font-size="13" fill="#5b6b7d" text-anchor="middle">35a–b</text>
+
+  <!-- row 1: Israelite shepherds -->
+  <text x="32" y="168" font-size="14" font-weight="700" fill="#1f2d3d">“Israelite shepherds”: credible</text>
+  <rect x="32" y="178" width="280" height="76" rx="10" fill="#e3f4e8"/>
+  <text x="46" y="200" font-size="14" font-weight="600" fill="#1f2d3d">Israelites working for a priest</text>
+  <text x="46" y="222" font-size="13" fill="#33475b">No concern that they lie for</text>
+  <text x="46" y="240" font-size="13" fill="#33475b">“a swallow” of the firstborn</text>
+  <rect x="328" y="178" width="280" height="76" rx="10" fill="#e3f4e8"/>
+  <text x="342" y="200" font-size="14" font-weight="600" fill="#1f2d3d">Priests working for an Israelite</text>
+  <text x="342" y="222" font-size="13" fill="#33475b">He thinks: the owner will not forsake</text>
+  <text x="342" y="240" font-size="13" fill="#33475b">a Torah scholar to give it to me</text>
+
+  <!-- row 2: priest-shepherds -->
+  <text x="32" y="282" font-size="14" font-weight="700" fill="#1f2d3d">“Priest-shepherds”: not credible</text>
+  <rect x="32" y="292" width="280" height="76" rx="10" fill="#fde2e1"/>
+  <text x="46" y="314" font-size="14" font-weight="600" fill="#1f2d3d">Priests working for an Israelite</text>
+  <text x="46" y="336" font-size="13" fill="#33475b">He thinks: I toiled with it, the owner</text>
+  <text x="46" y="354" font-size="13" fill="#33475b">will not give it to another priest</text>
+  <rect x="328" y="292" width="280" height="76" rx="10" fill="#fde2e1"/>
+  <text x="342" y="314" font-size="14" font-weight="600" fill="#1f2d3d">Israelites working for a priest</text>
+  <text x="342" y="336" font-size="13" fill="#33475b">Concern that they lie for</text>
+  <text x="342" y="354" font-size="13" fill="#33475b">“a swallow” of the firstborn</text>
+
+  <!-- row 3: priest for priest -->
+  <text x="32" y="396" font-size="14" font-weight="700" fill="#1f2d3d">A priest for another priest: not credible</text>
+  <rect x="32" y="406" width="280" height="56" rx="10" fill="#fde2e1"/>
+  <text x="46" y="428" font-size="13" fill="#33475b">“The same is true”:</text>
+  <text x="46" y="446" font-size="13" fill="#33475b">concern about reciprocity</text>
+  <rect x="328" y="406" width="280" height="56" rx="10" fill="#fde2e1"/>
+  <text x="342" y="428" font-size="13" fill="#33475b">“All the more so”: concern about</text>
+  <text x="342" y="446" font-size="13" fill="#33475b">reciprocity and a swallow</text>
+
+  <!-- shared row -->
+  <text x="32" y="490" font-size="14" font-weight="700" fill="#1f2d3d">On both readings</text>
+  <text x="32" y="512" font-size="13" fill="#33475b">Rabban Shimon ben Gamliel: a priest is credible about another’s firstborn, not his own.</text>
+  <text x="32" y="532" font-size="13" fill="#33475b">Rabbi Meir: one suspect in the matter may neither adjudicate nor testify.</text>
+</svg>
