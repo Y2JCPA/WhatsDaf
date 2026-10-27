@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 650" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Fourteen lambs, two openings</title>
+  <rect width="640" height="650" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2a3c">Fourteen lambs, two openings</text>
+  <text x="32" y="68" font-size="13.5" fill="#5b6b82">Rava (59b): the pen has openings A and B; where the last group goes out decides it.</text>
+  <g font-size="13">
+    <circle cx="38" cy="92" r="6" fill="#e8b04a"/><text x="50" y="96.5" fill="#9a6a10" font-weight="700">tithe</text><text x="87" y="96.5" fill="#5b6b82">the tenth</text>
+    <circle cx="190" cy="92" r="6" fill="#66bb6a"/><text x="202" y="96.5" fill="#2e7d32" font-weight="700">exempt</text><text x="254" y="96.5" fill="#5b6b82">by a fit tally</text>
+    <circle cx="380" cy="92" r="6" fill="#90a9cf"/><text x="392" y="96.5" fill="#4a6fa5" font-weight="700">wait</text><text x="426" y="96.5" fill="#5b6b82">for the next gathering</text>
+  </g>
+  <g>
+    <rect x="24" y="112" width="592" height="150" rx="12" fill="#ffffff" stroke="#d5deeb" stroke-width="1.5"/>
+    <text x="40" y="138" font-size="15" font-weight="700" fill="#1f2a3c">Case 1 · 6 out by A, then 4 by B, 4 still inside</text>
+    <rect x="112" y="160" width="96" height="80" rx="10" fill="#e3eaf5" stroke="#9fb0c8" stroke-width="2"/>
+    <rect x="108" y="186" width="8" height="28" fill="#ffffff"/>
+    <rect x="204" y="186" width="8" height="28" fill="#ffffff"/>
+    <text x="112" y="254" font-size="12.5" font-weight="700" text-anchor="middle" fill="#5b6b82">A</text>
+    <text x="208" y="254" font-size="12.5" font-weight="700" text-anchor="middle" fill="#5b6b82">B</text>
+    <text x="160" y="176" font-size="11.5" text-anchor="middle" fill="#5b6b82">inside</text>
+    <circle cx="160" cy="206" r="20" fill="#c7d3e6"/><text x="160" y="212" font-size="17" font-weight="700" text-anchor="middle" fill="#1f2a3c">4</text>
+    <circle cx="62" cy="200" r="20" fill="#ffffff" stroke="#9fb0c8" stroke-width="2"/><text x="62" y="206" font-size="17" font-weight="700" text-anchor="middle" fill="#1f2a3c">6</text>
+    <text x="62" y="236" font-size="11.5" text-anchor="middle" fill="#5b6b82">1st out</text>
+    <circle cx="258" cy="200" r="20" fill="#ffffff" stroke="#9fb0c8" stroke-width="2"/><text x="258" y="206" font-size="17" font-weight="700" text-anchor="middle" fill="#1f2a3c">4</text>
+    <text x="258" y="236" font-size="11.5" text-anchor="middle" fill="#5b6b82">2nd out</text>
+    <line x1="300" y1="154" x2="300" y2="248" stroke="#d5deeb" stroke-width="1.5"/>
+    <text x="314" y="168" font-size="13" font-weight="700" fill="#3a4a63">If the 4 inside go out by A (ten at A):</text>
+    <text x="314" y="190" font-size="13.5"><tspan fill="#1f2a3c">the tenth is </tspan><tspan fill="#9a6a10" font-weight="700">tithe</tspan><tspan fill="#1f2a3c">; the 4 at B </tspan><tspan fill="#4a6fa5" font-weight="700">wait</tspan></text>
+    <text x="314" y="220" font-size="13" font-weight="700" fill="#3a4a63">Otherwise:</text>
+    <text x="314" y="242" font-size="13.5"><tspan fill="#1f2a3c">the 6 at A are </tspan><tspan fill="#2e7d32" font-weight="700">exempt</tspan><tspan fill="#1f2a3c">; both 4s </tspan><tspan fill="#4a6fa5" font-weight="700">wait</tspan></text>
+  </g>
+  <g>
+    <rect x="24" y="274" width="592" height="150" rx="12" fill="#ffffff" stroke="#d5deeb" stroke-width="1.5"/>
+    <text x="40" y="300" font-size="15" font-weight="700" fill="#1f2a3c">Case 2 · 4 out by A, then 6 by B, 4 still inside</text>
+    <rect x="112" y="322" width="96" height="80" rx="10" fill="#e3eaf5" stroke="#9fb0c8" stroke-width="2"/>
+    <rect x="108" y="348" width="8" height="28" fill="#ffffff"/>
+    <rect x="204" y="348" width="8" height="28" fill="#ffffff"/>
+    <text x="112" y="416" font-size="12.5" font-weight="700" text-anchor="middle" fill="#5b6b82">A</text>
+    <text x="208" y="416" font-size="12.5" font-weight="700" text-anchor="middle" fill="#5b6b82">B</text>
+    <text x="160" y="338" font-size="11.5" text-anchor="middle" fill="#5b6b82">inside</text>
+    <circle cx="160" cy="368" r="20" fill="#c7d3e6"/><text x="160" y="374" font-size="17" font-weight="700" text-anchor="middle" fill="#1f2a3c">4</text>
+    <circle cx="62" cy="362" r="20" fill="#ffffff" stroke="#9fb0c8" stroke-width="2"/><text x="62" y="368" font-size="17" font-weight="700" text-anchor="middle" fill="#1f2a3c">4</text>
+    <text x="62" y="398" font-size="11.5" text-anchor="middle" fill="#5b6b82">1st out</text>
+    <circle cx="258" cy="362" r="20" fill="#ffffff" stroke="#9fb0c8" stroke-width="2"/><text x="258" y="368" font-size="17" font-weight="700" text-anchor="middle" fill="#1f2a3c">6</text>
+    <text x="258" y="398" font-size="11.5" text-anchor="middle" fill="#5b6b82">2nd out</text>
+    <line x1="300" y1="316" x2="300" y2="410" stroke="#d5deeb" stroke-width="1.5"/>
+    <text x="314" y="330" font-size="13" font-weight="700" fill="#3a4a63">If the 4 inside go out by B (ten at B):</text>
+    <text x="314" y="352" font-size="13.5"><tspan fill="#1f2a3c">the tenth is </tspan><tspan fill="#9a6a10" font-weight="700">tithe</tspan><tspan fill="#1f2a3c">; the 4 at A are </tspan><tspan fill="#2e7d32" font-weight="700">exempt</tspan></text>
+    <text x="314" y="382" font-size="13" font-weight="700" fill="#3a4a63">Otherwise:</text>
+    <text x="314" y="404" font-size="13.5"><tspan fill="#1f2a3c">the 4 at A and the 6 are </tspan><tspan fill="#2e7d32" font-weight="700">exempt</tspan><tspan fill="#1f2a3c">; last 4 </tspan><tspan fill="#4a6fa5" font-weight="700">wait</tspan></text>
+  </g>
+  <g>
+    <rect x="24" y="436" width="592" height="150" rx="12" fill="#ffffff" stroke="#d5deeb" stroke-width="1.5"/>
+    <text x="40" y="462" font-size="15" font-weight="700" fill="#1f2a3c">Case 3 · 4 out by A, then 4 by B, 6 still inside</text>
+    <rect x="112" y="484" width="96" height="80" rx="10" fill="#e3eaf5" stroke="#9fb0c8" stroke-width="2"/>
+    <rect x="108" y="510" width="8" height="28" fill="#ffffff"/>
+    <rect x="204" y="510" width="8" height="28" fill="#ffffff"/>
+    <text x="112" y="578" font-size="12.5" font-weight="700" text-anchor="middle" fill="#5b6b82">A</text>
+    <text x="208" y="578" font-size="12.5" font-weight="700" text-anchor="middle" fill="#5b6b82">B</text>
+    <text x="160" y="500" font-size="11.5" text-anchor="middle" fill="#5b6b82">inside</text>
+    <circle cx="160" cy="530" r="20" fill="#c7d3e6"/><text x="160" y="536" font-size="17" font-weight="700" text-anchor="middle" fill="#1f2a3c">6</text>
+    <circle cx="62" cy="524" r="20" fill="#ffffff" stroke="#9fb0c8" stroke-width="2"/><text x="62" y="530" font-size="17" font-weight="700" text-anchor="middle" fill="#1f2a3c">4</text>
+    <text x="62" y="560" font-size="11.5" text-anchor="middle" fill="#5b6b82">1st out</text>
+    <circle cx="258" cy="524" r="20" fill="#ffffff" stroke="#9fb0c8" stroke-width="2"/><text x="258" y="530" font-size="17" font-weight="700" text-anchor="middle" fill="#1f2a3c">4</text>
+    <text x="258" y="560" font-size="11.5" text-anchor="middle" fill="#5b6b82">2nd out</text>
+    <line x1="300" y1="478" x2="300" y2="572" stroke="#d5deeb" stroke-width="1.5"/>
+    <text x="314" y="492" font-size="13" font-weight="700" fill="#3a4a63">If the 6 inside all go out by one opening:</text>
+    <text x="314" y="514" font-size="13.5"><tspan fill="#1f2a3c">the tenth is </tspan><tspan fill="#9a6a10" font-weight="700">tithe</tspan><tspan fill="#1f2a3c">; the other 4 are </tspan><tspan fill="#2e7d32" font-weight="700">exempt</tspan></text>
+    <text x="314" y="544" font-size="13" font-weight="700" fill="#3a4a63">Otherwise:</text>
+    <text x="314" y="566" font-size="13.5"><tspan fill="#1f2a3c">both 4s are </tspan><tspan fill="#2e7d32" font-weight="700">exempt</tspan><tspan fill="#1f2a3c">; the 6 </tspan><tspan fill="#4a6fa5" font-weight="700">wait</tspan></text>
+  </g>
+  <text x="32" y="608" font-size="13" fill="#1f2a3c">A group that left while enough lambs stayed inside to make ten is exempt,</text>
+  <text x="32" y="628" font-size="13" fill="#1f2a3c">even when, as in Case 3, it is uncertain which side those lambs will join.</text>
+</svg>
