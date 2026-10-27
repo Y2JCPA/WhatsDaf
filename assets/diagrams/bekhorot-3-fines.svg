@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 510" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Fines for selling to a gentile, in two versions</title>
+  <rect width="640" height="510" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Buying it back: two versions of the fines</text>
+  <text x="32" y="68" font-size="13.5" fill="#5b6b7d">The most the Sages make the seller pay to recover it from the gentile.</text>
+
+  <text x="44" y="104" font-size="12" font-weight="700" fill="#5b6b7d" letter-spacing=".5">CASE</text>
+  <text x="330" y="104" font-size="12" font-weight="700" fill="#5b6b7d" letter-spacing=".5">FIRST VERSION</text>
+  <text x="478" y="104" font-size="12" font-weight="700" fill="#5b6b7d" letter-spacing=".5">“SOME SAY”</text>
+
+  <rect x="24" y="114" width="592" height="64" rx="12" fill="#fff" stroke="#d7e0ec"/>
+  <text x="44" y="141" font-size="16" font-weight="700" fill="#1f2d3d">Large livestock sold</text>
+  <text x="44" y="162" font-size="13" fill="#7a8899">Reish Lakish</text>
+  <rect x="322" y="128" width="128" height="36" rx="18" fill="#e3f0ff"/>
+  <text x="386" y="152" font-size="16" font-weight="700" fill="#1565c0" text-anchor="middle">up to 10×</text>
+  <rect x="470" y="128" width="128" height="36" rx="18" fill="#fde8e1"/>
+  <text x="534" y="152" font-size="16" font-weight="700" fill="#bf360c" text-anchor="middle">up to 100×</text>
+
+  <rect x="24" y="186" width="592" height="64" rx="12" fill="#fff" stroke="#d7e0ec"/>
+  <text x="44" y="213" font-size="16" font-weight="700" fill="#1f2d3d">Animal given in receivership</text>
+  <text x="44" y="234" font-size="13" fill="#7a8899">The baraita of 2b (Rabbi Yehuda)</text>
+  <rect x="322" y="200" width="128" height="36" rx="18" fill="#e3f0ff"/>
+  <text x="386" y="224" font-size="16" font-weight="700" fill="#1565c0" text-anchor="middle">up to 10×</text>
+  <rect x="470" y="200" width="128" height="36" rx="18" fill="#e3f0ff"/>
+  <text x="534" y="224" font-size="16" font-weight="700" fill="#1565c0" text-anchor="middle">up to 10×</text>
+
+  <rect x="24" y="258" width="592" height="64" rx="12" fill="#fff" stroke="#d7e0ec"/>
+  <text x="44" y="285" font-size="16" font-weight="700" fill="#1f2d3d">Canaanite slave sold</text>
+  <text x="44" y="306" font-size="13" fill="#7a8899">Rabbi Yehoshua ben Levi</text>
+  <rect x="322" y="272" width="128" height="36" rx="18" fill="#fde8e1"/>
+  <text x="386" y="296" font-size="16" font-weight="700" fill="#bf360c" text-anchor="middle">up to 100×</text>
+  <rect x="470" y="272" width="128" height="36" rx="18" fill="#e3f0ff"/>
+  <text x="534" y="296" font-size="16" font-weight="700" fill="#1565c0" text-anchor="middle">up to 10×</text>
+
+  <text x="44" y="356" font-size="12" font-weight="700" fill="#5b6b7d" letter-spacing=".5">WHY THE NUMBERS DIFFER</text>
+  <rect x="24" y="366" width="288" height="120" rx="12" fill="#fff" stroke="#d7e0ec"/>
+  <text x="40" y="390" font-size="13.5" font-weight="700" fill="#1f2d3d">First version</text>
+  <text x="40" y="412" font-size="13" fill="#3d4b5c">A slave sold to a gentile is kept</text>
+  <text x="40" y="430" font-size="13" fill="#3d4b5c">from mitzvot every day, so the</text>
+  <text x="40" y="448" font-size="13" fill="#3d4b5c">fine for a slave is heavier.</text>
+  <rect x="328" y="366" width="288" height="120" rx="12" fill="#fff" stroke="#d7e0ec"/>
+  <text x="344" y="390" font-size="13.5" font-weight="700" fill="#1f2d3d">“Some say”</text>
+  <text x="344" y="412" font-size="13" fill="#3d4b5c">A sale cuts the animal off; receivership</text>
+  <text x="344" y="430" font-size="13" fill="#3d4b5c">does not. Selling a slave is uncommon,</text>
+  <text x="344" y="448" font-size="13" fill="#3d4b5c">and the Sages did not decree for the</text>
+  <text x="344" y="466" font-size="13" fill="#3d4b5c">uncommon.</text>
+</svg>
