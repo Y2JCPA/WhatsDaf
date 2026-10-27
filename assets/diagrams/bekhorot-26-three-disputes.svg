@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 500" width="640" height="500" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <rect width="640" height="500" rx="18" fill="#f3f6fb"/>
+  <text x="320" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2937">Shed wool of a blemished firstborn</text>
+  <text x="320" y="70" text-anchor="middle" font-size="14" fill="#4b5563">Rava: three disputes. All agree it is permitted only if an expert</text>
+  <text x="320" y="88" text-anchor="middle" font-size="14" fill="#4b5563">deemed the animal permitted before its wool was shed.</text>
+
+  <text x="112" y="124" text-anchor="middle" font-size="14" font-weight="700" fill="#374151">Whose reading</text>
+  <text x="314" y="124" text-anchor="middle" font-size="14" font-weight="700" fill="#374151">If he slaughtered it</text>
+  <text x="518" y="124" text-anchor="middle" font-size="14" font-weight="700" fill="#374151">If it died</text>
+
+  <!-- row 1: first tanna -->
+  <rect x="24" y="138" width="176" height="74" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="112" y="172" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">First tanna</text>
+  <text x="112" y="192" text-anchor="middle" font-size="12" fill="#6b7280">of the baraita</text>
+  <rect x="212" y="138" width="204" height="74" rx="10" fill="#fff3d6" stroke="#e0b450"/>
+  <text x="314" y="170" text-anchor="middle" font-size="15" font-weight="700" fill="#7a5200">Dispute</text>
+  <text x="314" y="192" text-anchor="middle" font-size="12" fill="#7a5200">“the same is true”</text>
+  <rect x="428" y="138" width="188" height="74" rx="10" fill="#fff3d6" stroke="#e0b450"/>
+  <text x="522" y="170" text-anchor="middle" font-size="15" font-weight="700" fill="#7a5200">Dispute</text>
+  <text x="522" y="192" text-anchor="middle" font-size="12" fill="#7a5200">to show Akavya’s reach</text>
+
+  <!-- row 2: Rabbi Yehuda -->
+  <rect x="24" y="224" width="176" height="74" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="112" y="266" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">Rabbi Yehuda</text>
+  <rect x="212" y="224" width="204" height="74" rx="10" fill="#fff3d6" stroke="#e0b450"/>
+  <text x="314" y="266" text-anchor="middle" font-size="15" font-weight="700" fill="#7a5200">Dispute</text>
+  <rect x="428" y="224" width="188" height="74" rx="10" fill="#fde2e2" stroke="#e08a8a"/>
+  <text x="522" y="266" text-anchor="middle" font-size="15" font-weight="700" fill="#8b1c1c">All prohibit</text>
+
+  <!-- row 3: Rabbi Yosei -->
+  <rect x="24" y="310" width="176" height="74" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="112" y="344" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">Rabbi Yosei</text>
+  <text x="112" y="364" text-anchor="middle" font-size="12" fill="#6b7280">citing his father Ḥalafta</text>
+  <rect x="212" y="310" width="204" height="74" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="314" y="352" text-anchor="middle" font-size="15" font-weight="700" fill="#1d5e2c">All permit</text>
+  <rect x="428" y="310" width="188" height="74" rx="10" fill="#fff3d6" stroke="#e0b450"/>
+  <text x="522" y="352" text-anchor="middle" font-size="15" font-weight="700" fill="#7a5200">Dispute</text>
+
+  <rect x="24" y="400" width="592" height="80" rx="10" fill="#e8eef8"/>
+  <text x="40" y="424" font-size="13" fill="#374151"><tspan font-weight="700">Dispute:</tspan> Akavya ben Mahalalel permits the wool; the Rabbis prohibit it.</text>
+  <text x="40" y="446" font-size="13" fill="#374151"><tspan font-weight="700">Rav Naḥman:</tspan> the halakha follows Rabbi Yehuda (Eduyyot 5:6),</text>
+  <text x="40" y="466" font-size="13" fill="#374151">and Rav Naḥman bar Yitzḥak shows the dangling-wool mishna agrees.</text>
+</svg>

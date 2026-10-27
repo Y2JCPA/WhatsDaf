@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 520" width="640" height="520" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <rect width="640" height="520" rx="18" fill="#f3f6fb"/>
+  <text x="320" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2937">Whose is the dangling-wool mishna?</text>
+  <text x="320" y="70" text-anchor="middle" font-size="14" fill="#4b5563">Dangling wool that appears with the fleece is permitted;</text>
+  <text x="320" y="88" text-anchor="middle" font-size="14" fill="#4b5563">wool that does not appear with it is prohibited.</text>
+
+  <!-- row 1 -->
+  <rect x="24" y="108" width="180" height="70" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="114" y="138" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">Rabbi Yosei</text>
+  <text x="114" y="158" text-anchor="middle" font-size="13" fill="#6b7280">he slaughtered it</text>
+  <rect x="214" y="108" width="402" height="70" rx="10" fill="#fde2e2" stroke="#e08a8a"/>
+  <text x="230" y="148" font-size="14" fill="#5b1a1a">Akavya or the Rabbis: both kinds permitted</text>
+  <text x="596" y="150" text-anchor="end" font-size="20" font-weight="700" fill="#b42318">✗</text>
+
+  <!-- row 2 -->
+  <rect x="24" y="190" width="180" height="70" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="114" y="220" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">Rabbi Yosei</text>
+  <text x="114" y="240" text-anchor="middle" font-size="13" fill="#6b7280">it died</text>
+  <rect x="214" y="190" width="402" height="70" rx="10" fill="#fde2e2" stroke="#e08a8a"/>
+  <text x="230" y="219" font-size="14" fill="#5b1a1a">The Rabbis: both kinds prohibited</text>
+  <text x="230" y="241" font-size="14" fill="#5b1a1a">Akavya: the ruling should be the reverse</text>
+  <text x="596" y="232" text-anchor="end" font-size="20" font-weight="700" fill="#b42318">✗</text>
+
+  <!-- row 3 -->
+  <rect x="24" y="272" width="180" height="70" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="114" y="302" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">Rabbi Yehuda</text>
+  <text x="114" y="322" text-anchor="middle" font-size="13" fill="#6b7280">it died</text>
+  <rect x="214" y="272" width="402" height="70" rx="10" fill="#fde2e2" stroke="#e08a8a"/>
+  <text x="230" y="312" font-size="14" fill="#5b1a1a">Akavya or the Rabbis: both kinds prohibited</text>
+  <text x="596" y="314" text-anchor="end" font-size="20" font-weight="700" fill="#b42318">✗</text>
+
+  <!-- row 4 -->
+  <rect x="24" y="354" width="180" height="70" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="114" y="384" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">Rabbi Yehuda</text>
+  <text x="114" y="404" text-anchor="middle" font-size="13" fill="#6b7280">he slaughtered it</text>
+  <rect x="214" y="354" width="402" height="70" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="230" y="383" font-size="14" fill="#1d4d29">Akavya: both kinds permitted ✗</text>
+  <text x="230" y="405" font-size="14" font-weight="700" fill="#1d5e2c">The Rabbis: the mishna fits ✓</text>
+
+  <rect x="24" y="440" width="592" height="60" rx="10" fill="#e8eef8"/>
+  <text x="320" y="465" text-anchor="middle" font-size="14" fill="#374151">Conclude: Akavya and the Rabbis disagree where he</text>
+  <text x="320" y="485" text-anchor="middle" font-size="14" fill="#374151">slaughtered it, as Rabbi Yehuda says.</text>
+</svg>
