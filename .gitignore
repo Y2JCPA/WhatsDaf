@@ -1,0 +1,7 @@
+node_modules/
+.DS_Store
+.vercel
+.env*
+
+# Fetched Sefaria source text (regenerate with pipeline/fetch-sefaria.js)
+pipeline/sources/
