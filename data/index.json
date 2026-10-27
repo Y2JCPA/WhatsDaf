@@ -271,6 +271,86 @@
    },
    "messages": 56,
    "members": 13
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 57,
+   "title": "Bekhorot 57",
+   "he": "בכורות נ״ז",
+   "preview": {
+    "from": "rabbi-asi",
+    "text": "Brothers who divided real estate received as an inheritance are considered purchasers who have purchased from each other"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "And what is different about these three times, i.e., before Passover, Shavuot, and Sukkot, that they are chosen?"
+   },
+   "messages": 62,
+   "members": 18
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 58,
+   "title": "Bekhorot 58",
+   "he": "בכורות נ״ח",
+   "preview": {
+    "from": "rabbi-tanchum-brei-derav-chiyya",
+    "text": "The reason is so that animals will be readily available to those ascending to Jerusalem for the pilgrimage Festivals. Th"
+   },
+   "last": {
+    "from": "abba-elazar-ben-gomel",
+    "text": "Just as standard teruma is taken by estimate, as there is no requirement for the amount separated to be measured precise"
+   },
+   "messages": 64,
+   "members": 14
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 59,
+   "title": "Bekhorot 59",
+   "he": "בכורות נ״ט",
+   "preview": {
+    "from": "abba-elazar-ben-gomel",
+    "text": "so too, teruma of the tithe may be taken by estimate and by thought."
+   },
+   "last": {
+    "from": "baraita",
+    "text": "If one had fifteen lambs, …"
+   },
+   "messages": 53,
+   "members": 7
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 60,
+   "title": "Bekhorot 60",
+   "he": "בכורות ס׳",
+   "preview": {
+    "from": "baraita",
+    "text": "… he may not say: I will separate ten and bring them into the pen, and I will take one of them as animal tithe, and the "
+   },
+   "last": {
+    "from": "gemara",
+    "text": "If both animals were to be sacrificed they would have to be eaten in accordance with the stringencies of both the animal"
+   },
+   "messages": 71,
+   "members": 16
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 61,
+   "title": "Bekhorot 61",
+   "he": "בכורות ס״א",
+   "preview": {
+    "from": "sages",
+    "text": "In response to the statement of Rabbi Yehuda: The eleventh animal is not considered a substitute for the animal tithe, s"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "But here, with regard to animal tithe, it is a mistake, and therefore the owner can say: I did not want you to make a mi"
+   },
+   "messages": 25,
+   "members": 10
   }
  ]
 }

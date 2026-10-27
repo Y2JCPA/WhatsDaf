@@ -163,3 +163,22 @@ Same output spec and shared style as above. Save to `assets/portraits/<file>`.
 | `rav-ami.jpg` | Rav Ami, Amora | A scholar in his 40s with a short brown beard and a thoughtful, listening expression, in a teal-grey wool robe. A study hall with oil lamps and a window onto a rain-swollen river behind him. |
 | `rabbi-shimon-ben-elyakim.jpg` | Rabbi Shimon ben Elyakim, Amora · Land of Israel, 3rd century | A keen-eyed scholar in his 40s with a short dark beard and a questioning, slightly raised brow, as one ready to raise an objection, in a cream wool mantle, background Galilean limestone arches and olive trees of Tiberias. |
 | `rav-anan.jpg` | Rav Anan, Amora · Babylonia, 3rd century | A careful, practical judge in his 50s with a full brown beard touched with grey and a steady, measured gaze, in a dark wool mantle over a linen robe, background mudbrick academy walls of Neharde’a lit by oil lamps. |
+
+---
+
+## Round 6: people needed for Bekhorot 57–61
+
+Same output spec and shared style as above. Save to `assets/portraits/<file>`.
+
+| File | Person | Add to the shared style |
+|---|---|---|
+| `rabbi-yishmael-ben-yochanan-ben-beroka.jpg` | Rabbi Yishmael son of Rabbi Yoḥanan ben Beroka, Tanna · 2nd century | A studious scholar in his 40s with a dark brown beard and a calm, earnest gaze. Plain grey wool robe and a white mantle. A Galilean study hall with limestone walls and soft daylight behind him. |
+| `rabbi-elazar-berabbi-yehuda-ish-bartota.jpg` | Rabbi Elazar son of Rabbi Yehuda of Kefar Bartota, Tanna · 2nd century | A generous-looking village scholar in his 50s with a greying beard and warm, open eyes. Brown wool robe and a cream mantle. Terraced hills and a small stone village softly behind him. |
+| `rabbi-yishmael-ben-satriel.jpg` | Rabbi Yishmael ben Satriel, Tanna · late 2nd century | A lively, wide-eyed traveler in his 50s with a full dark beard streaked with grey and an animated expression. Blue-grey wool robe and a travel-worn mantle. Mountain cedars and a far-off town softly behind him. |
+| `rabbi-tanchum-brei-derav-chiyya.jpg` | Rabbi Tanḥum, son of Rav Ḥiyya, Amora · Land of Israel, 3rd–4th century | A practical, kindly scholar in his 50s with a greying brown beard and a warm, explaining expression, in a sand-colored linen robe and a blue-grey mantle. The stone walls of a small village near Akko, with the Mediterranean softly behind him. |
+| `abba-elazar-ben-gomel.jpg` | Abba Elazar ben Gomel, Tanna · 2nd century | A careful, generous-eyed sage in his 60s with a long grey beard and a measured gaze, in an undyed wool robe and a brown mantle. Heaps of threshed grain on a stone threshing floor in soft evening light behind him. |
+| `rav-huna-bar-sechora.jpg` | Rav Huna bar Seḥora, Amora · Babylonia, 4th century | A modest young scholar in his 30s with a short dark beard and an attentive, slightly shy expression. Plain brown wool robe and a cream mantle. A crowded Babylonian lecture hall with mud-brick walls and oil lamps softly behind him. |
+| `rav-mari.jpg` | Rav Mari, Amora · Babylonia | A thoughtful scholar in his 50s with a greying brown beard and a measured gaze. Dark blue wool robe and a white mantle. A Babylonian study house with mud-brick walls and a flickering oil lamp softly behind him. |
+| `rabbi-elazar-berabbi-shimon.jpg` | Rabbi Elazar son of Rabbi Shimon, Tanna · 2nd century | A lean, intense scholar in his 40s with a long dark beard and piercing eyes, weathered from years of hiding. Simple undyed wool robe and a worn mantle. The mouth of a rocky Galilean cave with a carob tree softly behind him. |
+| `rav-pappi.jpg` | Rav Pappi, Amora · Babylonia, 4th century | A careful, attentive scholar in his 40s with a short dark beard and a listening, precise expression. Teal wool robe under a dark mantle. Mudbrick academy walls and a Babylonian canal lined with palms softly behind him. |
+| `rabbi-shimon-berabbi-abba.jpg` | Rabbi Shimon, son of Rabbi Abba, Amora · Land of Israel, 3rd century | A modest, thoughtful scholar in his 40s with a dark beard and an earnest, explaining gaze, in a plain cream wool mantle over a grey robe. Limestone arches of a Tiberias study house and the lake softly behind him. |
