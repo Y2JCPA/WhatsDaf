@@ -1,0 +1,24 @@
+{
+  "people": {
+    "rabbi-asi": {
+      "name": "Rabbi Asi",
+      "he": "רבי אסי",
+      "era": "Amora · Land of Israel, 3rd–4th century",
+      "bio": "Babylonian-born Amora who settled in Tiberias, a student of Rabbi Yoḥanan and the constant colleague of Rabbi Ami.",
+      "color": "#0277bd",
+      "initials": "ר״א",
+      "image": "rabbi-asi.jpg",
+      "prompt": "A quiet, devoted scholar in his 50s with a dark beard touched with grey and a gentle, attentive face, an emigrant from Babylonia to the Land of Israel; simple linen robe and mantle. Tiberias study hall with limestone arches and the lake glinting beyond."
+    },
+    "rabbi-ami": {
+      "name": "Rabbi Ami",
+      "he": "רבי אמי",
+      "era": "Amora · Land of Israel, 3rd–4th century",
+      "bio": "Amora of the Land of Israel, a priest and student of Rabbi Yoḥanan, who often appears alongside Rabbi Asi.",
+      "color": "#8d6e63",
+      "initials": "ר״א",
+      "image": "rabbi-ami.jpg",
+      "prompt": "A serious, upright priestly scholar in his 50s with a full brown-grey beard and a firm, judicious gaze, one of the leading judges of Tiberias; white linen robe with a plain mantle. Tiberias study hall with limestone arches behind him."
+    }
+  }
+}

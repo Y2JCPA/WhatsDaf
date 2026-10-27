@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 414" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Redeeming before thirty days</title>
+  <rect width="640" height="414" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2a3a">Redeeming before thirty days</text>
+  <text x="32" y="68" font-size="13.5" fill="#5b6778">A father gives the priest five sela within the son’s first month · Bekhorot 49a–b</text>
+
+  <text x="40" y="106" font-size="13" font-weight="700" fill="#5b6778">WHAT THE FATHER SAID</text>
+  <text x="430" y="106" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2a3a">Rav</text>
+  <text x="550" y="106" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2a3a">Shmuel</text>
+
+  <rect x="24" y="120" width="592" height="62" rx="12" fill="#fff" stroke="#dbe2ec"/>
+  <text x="40" y="146" font-size="15" font-weight="700" fill="#1f2a3a">“Redeemed from now”</text>
+  <text x="40" y="167" font-size="12.5" fill="#5b6778">the obligation has not begun yet</text>
+  <rect x="374" y="139" width="112" height="24" rx="12" fill="#fbe3e0"/>
+  <text x="430" y="156" font-size="13" font-weight="700" text-anchor="middle" fill="#b23b2e">Not redeemed</text>
+  <rect x="494" y="139" width="112" height="24" rx="12" fill="#fbe3e0"/>
+  <text x="550" y="156" font-size="13" font-weight="700" text-anchor="middle" fill="#b23b2e">Not redeemed</text>
+
+  <rect x="24" y="190" width="592" height="62" rx="12" fill="#fff" stroke="#dbe2ec"/>
+  <text x="40" y="216" font-size="15" font-weight="700" fill="#1f2a3a">“After thirty days”</text>
+  <text x="40" y="237" font-size="12.5" fill="#5b6778">and the coins are still with the priest</text>
+  <rect x="374" y="209" width="112" height="24" rx="12" fill="#dff1e3"/>
+  <text x="430" y="226" font-size="13" font-weight="700" text-anchor="middle" fill="#2e7d32">Redeemed</text>
+  <rect x="494" y="209" width="112" height="24" rx="12" fill="#dff1e3"/>
+  <text x="550" y="226" font-size="13" font-weight="700" text-anchor="middle" fill="#2e7d32">Redeemed</text>
+
+  <rect x="24" y="260" width="592" height="62" rx="12" fill="#fff" stroke="#c9b26b" stroke-width="1.5"/>
+  <text x="40" y="286" font-size="15" font-weight="700" fill="#1f2a3a">“After thirty days”</text>
+  <text x="40" y="307" font-size="12.5" fill="#5b6778">but the coins were spent in the meantime</text>
+  <rect x="374" y="279" width="112" height="24" rx="12" fill="#dff1e3"/>
+  <text x="430" y="296" font-size="13" font-weight="700" text-anchor="middle" fill="#2e7d32">Redeemed</text>
+  <rect x="494" y="279" width="112" height="24" rx="12" fill="#fbe3e0"/>
+  <text x="550" y="296" font-size="13" font-weight="700" text-anchor="middle" fill="#b23b2e">Not redeemed</text>
+
+  <text x="40" y="350" font-size="13" fill="#1f2a3a"><tspan font-weight="700">Rav:</tspan> like betrothal that takes effect after thirty days.</text>
+  <text x="40" y="370" font-size="13" fill="#1f2a3a"><tspan font-weight="700">Shmuel:</tspan> a man can betroth now, but cannot redeem now.</text>
+  <text x="40" y="390" font-size="12.5" fill="#8a6d1f">The halakha follows Shmuel here.</text>
+</svg>

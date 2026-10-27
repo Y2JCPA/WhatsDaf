@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 470" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Himself or his son first?</title>
+  <rect width="640" height="470" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2a3a">Himself or his son first?</text>
+  <text x="32" y="68" font-size="13.5" fill="#5b6778">A firstborn who was never redeemed now has a firstborn son · Rabbi Yirmeya, 49b</text>
+
+  <rect x="24" y="88" width="592" height="78" rx="12" fill="#fff" stroke="#dbe2ec"/>
+  <text x="40" y="114" font-size="15" font-weight="700" fill="#1f2a3a">He has only five sela</text>
+  <text x="40" y="136" font-size="13" fill="#1f2a3a">Everyone agrees: he redeems himself.</text>
+  <text x="40" y="155" font-size="12.5" fill="#5b6778">His own mitzva is preferable.</text>
+
+  <text x="40" y="198" font-size="15" font-weight="700" fill="#1f2a3a">Five sela of sold land + five sela of unsold land</text>
+  <text x="40" y="218" font-size="12.5" fill="#5b6778">the sold land was his, but buyers now hold it; this is where they disagree</text>
+
+  <rect x="24" y="232" width="290" height="218" rx="12" fill="#fff" stroke="#dbe2ec"/>
+  <text x="40" y="258" font-size="15" font-weight="700" fill="#ef6c00">Rabbi Yehuda</text>
+  <text x="40" y="279" font-size="12.5" fill="#5b6778">A debt written in the Torah</text>
+  <text x="40" y="296" font-size="12.5" fill="#5b6778">is like one written in a document.</text>
+  <rect x="40" y="310" width="258" height="44" rx="10" fill="#fdf1e2"/>
+  <text x="52" y="328" font-size="12.5" fill="#1f2a3a">Sold land: the priest seizes it</text>
+  <text x="52" y="345" font-size="12.5" fill="#1f2a3a">from the buyers, for <tspan font-weight="700">the father</tspan></text>
+  <rect x="40" y="362" width="258" height="44" rx="10" fill="#fdf1e2"/>
+  <text x="52" y="380" font-size="12.5" fill="#1f2a3a">Unsold land: redeems</text>
+  <text x="52" y="397" font-size="12.5" fill="#1f2a3a"><tspan font-weight="700">the son</tspan>, first</text>
+  <text x="40" y="432" font-size="13" font-weight="700" fill="#2e7d32">Both are redeemed</text>
+
+  <rect x="326" y="232" width="290" height="218" rx="12" fill="#fff" stroke="#dbe2ec"/>
+  <text x="342" y="258" font-size="15" font-weight="700" fill="#2e7d32">The Rabbis</text>
+  <text x="342" y="279" font-size="12.5" fill="#5b6778">A debt written in the Torah is not</text>
+  <text x="342" y="296" font-size="12.5" fill="#5b6778">like one written in a document.</text>
+  <rect x="342" y="310" width="258" height="44" rx="10" fill="#e8ecf2"/>
+  <text x="354" y="328" font-size="12.5" fill="#1f2a3a">Sold land: the priest cannot</text>
+  <text x="354" y="345" font-size="12.5" fill="#1f2a3a">take it from the buyers</text>
+  <rect x="342" y="362" width="258" height="44" rx="10" fill="#e3f1e5"/>
+  <text x="354" y="380" font-size="12.5" fill="#1f2a3a">Unsold land: redeems</text>
+  <text x="354" y="397" font-size="12.5" fill="#1f2a3a"><tspan font-weight="700">the father</tspan>, his own mitzva</text>
+  <text x="342" y="432" font-size="13" font-weight="700" fill="#b23b2e">Only the father is redeemed</text>
+</svg>
