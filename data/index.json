@@ -2,6 +2,86 @@
  "dafim": [
   {
    "masechet": "bekhorot",
+   "daf": 2,
+   "title": "Bekhorot 2",
+   "he": "בכורות ב׳",
+   "preview": {
+    "from": "mishnah",
+    "text": "With regard to one who purchases the fetus of a donkey that belongs to a gentile,"
+   },
+   "last": {
+    "from": "sages",
+    "text": "As long as the ownership of the gentile is involved, in that he possesses at least partial ownership of the mother or th"
+   },
+   "messages": 76,
+   "members": 6
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 3,
+   "title": "Bekhorot 3",
+   "he": "בכורות ג׳",
+   "preview": {
+    "from": "reish-lakish",
+    "text": "In the case of one who sells large livestock to a gentile, the Sages penalize him, requiring him to repurchase it from t"
+   },
+   "last": {
+    "from": "mishnah",
+    "text": "If the priests and Levites rendered exempt the firstborn children and donkeys of the Israelites in the wilderness from b"
+   },
+   "messages": 88,
+   "members": 17
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 4,
+   "title": "Bekhorot 4",
+   "he": "בכורות ד׳",
+   "preview": {
+    "from": "abaye",
+    "text": "This is what the mishna is saying: The firstborn animals of priests and Levites are exempt from firstborn status, and th"
+   },
+   "last": {
+    "from": "rav-pappa",
+    "text": "Rather, if a dispute between Rabbi Yoḥanan and Reish Lakish was stated with regard to this matter, it was stated like th"
+   },
+   "messages": 70,
+   "members": 13
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 5,
+   "title": "Bekhorot 5",
+   "he": "בכורות ה׳",
+   "preview": {
+    "from": "rav-pappa",
+    "text": "…and then their sanctity ceased following the census."
+   },
+   "last": {
+    "from": "rabbi-yosei-hagelili",
+    "text": "And still I can say that the phrase “firstborn of a donkey” merely indicates that firstborn donkeys alone are redeemed b"
+   },
+   "messages": 86,
+   "members": 18
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 6,
+   "title": "Bekhorot 6",
+   "he": "בכורות ו׳",
+   "preview": {
+    "from": "rabbi-yosei-hagelili",
+    "text": "Therefore, the verse states the phrase: “Firstborn of a donkey” (Exodus 13:13), “firstborn of a donkey” (Exodus 34:20), "
+   },
+   "last": {
+    "from": "gemara",
+    "text": "But with regard to consumption, where Rabbi Shimon holds a camel born to a kosher animal is forbidden, perhaps it is onl"
+   },
+   "messages": 87,
+   "members": 11
+  },
+  {
+   "masechet": "bekhorot",
    "daf": 40,
    "title": "Bekhorot 40",
    "he": "בכורות מ׳",

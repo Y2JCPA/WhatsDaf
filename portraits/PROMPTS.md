@@ -182,3 +182,20 @@ Same output spec and shared style as above. Save to `assets/portraits/<file>`.
 | `rabbi-elazar-berabbi-shimon.jpg` | Rabbi Elazar son of Rabbi Shimon, Tanna · 2nd century | A lean, intense scholar in his 40s with a long dark beard and piercing eyes, weathered from years of hiding. Simple undyed wool robe and a worn mantle. The mouth of a rocky Galilean cave with a carob tree softly behind him. |
 | `rav-pappi.jpg` | Rav Pappi, Amora · Babylonia, 4th century | A careful, attentive scholar in his 40s with a short dark beard and a listening, precise expression. Teal wool robe under a dark mantle. Mudbrick academy walls and a Babylonian canal lined with palms softly behind him. |
 | `rabbi-shimon-berabbi-abba.jpg` | Rabbi Shimon, son of Rabbi Abba, Amora · Land of Israel, 3rd century | A modest, thoughtful scholar in his 40s with a dark beard and an earnest, explaining gaze, in a plain cream wool mantle over a grey robe. Limestone arches of a Tiberias study house and the lake softly behind him. |
+
+---
+
+## Round 7: people needed for Bekhorot 2–6
+
+Same output spec and shared style as above. Save to `assets/portraits/<file>`.
+
+| File | Person | Add to the shared style |
+|---|---|---|
+| `rav-safra.jpg` | Rav Safra, Amora · Babylonia, 4th century | A scrupulously honest merchant-scholar in his 50s with a greying dark beard and a steady, sincere gaze, a traveler’s mantle over his robe and a merchant’s satchel at his shoulder; background of a road with palm trees and a distant caravan at dusk. |
+| `rav-mordekhai.jpg` | Rav Mordekhai, Amora · Babylonia, 4th–5th century | A careful, exacting Babylonian scholar in his 50s with a neat greying beard and an attentive, precise expression, as if repeating a teaching word for word; background of mudbrick academy walls and oil lamps. |
+| `kontrokos.jpg` | Kontrokos, Roman official · 1st century | A Roman official in his 40s, clean-shaven with short-cropped hair, wearing a white tunic and a dark red military cloak pinned at the shoulder, with a skeptical, challenging look; background of a colonnaded Roman courtyard. Roman dress rather than a tallit or head covering. |
+| `rabbi-chanina-tanna.jpg` | Rabbi Ḥanina, Tanna · 1st–2nd century | An eager young scholar in his 30s with a short dark beard and a questioning, attentive expression, as if asking his teacher a question; background of a large stone study hall in soft lamplight. |
+| `rabbi-yosei-berabbi-chanina.jpg` | Rabbi Yosei son of Rabbi Ḥanina, Amora · Land of Israel, 3rd century | A thoughtful scholar of the Land of Israel in his 40s with a dark beard touched with grey and a calm, analytical expression; background of a Galilean stone study house with olive trees beyond the window. |
+| `rav-achai.jpg` | Rav Aḥai, Late Amora or early Savora · Babylonia, 5th–6th century | A keen-eyed Babylonian scholar in his 50s with a trimmed dark beard flecked with grey and a sharp, probing expression, one finger raised as if pressing an objection; background of mudbrick academy walls and oil lamps. |
+| `rav-acha-brei-derava.jpg` | Rav Aḥa son of Rava, Amora · Babylonia, 4th–5th century | An earnest Babylonian scholar in his 40s with a short brown beard and an inquiring look, leaning forward as if asking his teacher a question; background of palm groves along the Euphrates at dusk. |
+| `shimon-haamasoni.jpg` | Shimon HaAmasoni, Tanna · Land of Israel, 1st–2nd century | A humble, reverent scholar in his 60s with a long grey beard and gentle, searching eyes, an open Torah scroll before him; background of a Judean limestone study hall in soft lamplight. |
