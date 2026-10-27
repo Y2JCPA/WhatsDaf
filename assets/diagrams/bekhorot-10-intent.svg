@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 470" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>When does a carcass count as food?</title>
+  <rect width="640" height="470" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">When does a carcass count as food?</text>
+  <text x="32" y="68" font-size="13" fill="#5b6b7d">The mishna in Okatzin (3:3), as cited on 10a, for the impurity of food</text>
+
+  <rect x="20" y="84" width="600" height="38" rx="10" fill="#dde6f2"/>
+  <text x="34" y="108" font-size="13" font-weight="700" fill="#1f2d3d">What</text>
+  <text x="262" y="108" font-size="13" font-weight="700" fill="#1f2d3d">Where</text>
+  <text x="450" y="108" font-size="13" font-weight="700" fill="#1f2d3d" text-anchor="middle">Intent to eat?</text>
+  <text x="560" y="108" font-size="13" font-weight="700" fill="#1f2d3d" text-anchor="middle">Liquid?</text>
+
+  <text x="34" y="146" font-size="12" font-weight="700" fill="#5b6b7d" letter-spacing="0.5">FIRST CLAUSE, UNATTRIBUTED (THE RABBIS, BY THE GEMARA’S INFERENCE)</text>
+
+  <rect x="20" y="156" width="600" height="46" rx="10" fill="#fff" stroke="#d5deea"/>
+  <text x="34" y="184" font-size="14" fill="#1f2d3d">Carcass of a non-kosher animal</text>
+  <text x="262" y="184" font-size="14" fill="#1f2d3d">anywhere</text>
+  <rect x="410" y="168" width="80" height="24" rx="12" fill="#f7dcd6"/><text x="450" y="185" font-size="13" font-weight="700" fill="#b03a2e" text-anchor="middle">needed</text>
+  <rect x="520" y="168" width="80" height="24" rx="12" fill="#dcefe0"/><text x="560" y="185" font-size="13" font-weight="700" fill="#2e7d32" text-anchor="middle">no</text>
+
+  <rect x="20" y="208" width="600" height="46" rx="10" fill="#fff" stroke="#d5deea"/>
+  <text x="34" y="236" font-size="14" fill="#1f2d3d">Carcass of a kosher bird; fat*</text>
+  <text x="262" y="236" font-size="14" fill="#1f2d3d">in the villages</text>
+  <rect x="410" y="220" width="80" height="24" rx="12" fill="#f7dcd6"/><text x="450" y="237" font-size="13" font-weight="700" fill="#b03a2e" text-anchor="middle">needed</text>
+  <rect x="520" y="220" width="80" height="24" rx="12" fill="#dcefe0"/><text x="560" y="237" font-size="13" font-weight="700" fill="#2e7d32" text-anchor="middle">no</text>
+
+  <rect x="20" y="260" width="600" height="46" rx="10" fill="#fff" stroke="#d5deea"/>
+  <text x="34" y="288" font-size="14" fill="#1f2d3d">Carcass of a kosher animal</text>
+  <text x="262" y="288" font-size="14" fill="#1f2d3d">anywhere</text>
+  <rect x="410" y="272" width="80" height="24" rx="12" fill="#dcefe0"/><text x="450" y="289" font-size="13" font-weight="700" fill="#2e7d32" text-anchor="middle">no</text>
+  <rect x="520" y="272" width="80" height="24" rx="12" fill="#dcefe0"/><text x="560" y="289" font-size="13" font-weight="700" fill="#2e7d32" text-anchor="middle">no</text>
+
+  <rect x="20" y="312" width="600" height="46" rx="10" fill="#fff" stroke="#d5deea"/>
+  <text x="34" y="340" font-size="14" fill="#1f2d3d">Carcass of a kosher bird; fat</text>
+  <text x="262" y="340" font-size="14" fill="#1f2d3d">in the marketplaces</text>
+  <rect x="410" y="324" width="80" height="24" rx="12" fill="#dcefe0"/><text x="450" y="341" font-size="13" font-weight="700" fill="#2e7d32" text-anchor="middle">no</text>
+  <rect x="520" y="324" width="80" height="24" rx="12" fill="#dcefe0"/><text x="560" y="341" font-size="13" font-weight="700" fill="#2e7d32" text-anchor="middle">no</text>
+
+  <text x="34" y="380" font-size="12" font-weight="700" fill="#5b6b7d" letter-spacing="0.5">LATTER CLAUSE: RABBI SHIMON</text>
+  <rect x="20" y="390" width="600" height="46" rx="10" fill="#fff" stroke="#d5deea"/>
+  <text x="34" y="412" font-size="14" fill="#1f2d3d">Camel, hare, rock badger, pig</text>
+  <text x="34" y="428" font-size="12" fill="#5b6b7d">they have some signs of a kosher animal</text>
+  <text x="300" y="418" font-size="14" fill="#5b6b7d">—</text>
+  <rect x="410" y="402" width="80" height="24" rx="12" fill="#dcefe0"/><text x="450" y="419" font-size="13" font-weight="700" fill="#2e7d32" text-anchor="middle">no</text>
+  <rect x="520" y="402" width="80" height="24" rx="12" fill="#dcefe0"/><text x="560" y="419" font-size="13" font-weight="700" fill="#2e7d32" text-anchor="middle">no</text>
+
+  <text x="32" y="456" font-size="11.5" fill="#5b6b7d">* Rashi and Tosafot omit “the fat” from this clause. “Liquid” = contact with liquid to make it susceptible.</text>
+</svg>

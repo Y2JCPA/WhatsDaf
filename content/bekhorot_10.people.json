@@ -1,0 +1,24 @@
+{
+  "people": {
+    "rabba-bar-avuh": {
+      "name": "Rabba bar Avuh",
+      "he": "רבה בר אבוה",
+      "era": "Amora · Babylonia, 3rd century",
+      "bio": "Babylonian Amora of the second generation whose teachings Rav Naḥman often transmits.",
+      "color": "#6d4c41",
+      "initials": "רב״א",
+      "image": "rabba-bar-avuh.jpg",
+      "prompt": "A dignified, gentle Babylonian scholar in his 60s with a full grey beard and a patient, teaching expression, holding a few fragrant green leaves in a fold of his cloak (from the story that Elijah led him into the Garden of Eden); background of mudbrick academy walls and oil lamps."
+    },
+    "rabbi-yosei-bar-yehuda": {
+      "name": "Rabbi Yosei bar Yehuda",
+      "he": "רבי יוסי בר יהודה",
+      "era": "Tanna · 2nd century",
+      "bio": "Tanna cited in baraitot under this name.",
+      "color": "#8d6e63",
+      "initials": "ריב״י",
+      "image": "rabbi-yosei-bar-yehuda.jpg",
+      "prompt": "A composed scholar of the Land of Israel in his 40s with a short dark beard and a precise, measuring look, one hand resting on a small silver coin; background of a Galilean stone study hall in soft lamplight."
+    }
+  }
+}
