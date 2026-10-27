@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 600" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>“Your ox” and “your flock”</title>
+  <rect width="640" height="600" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2a3a">“Your ox” and “your flock”</text>
+  <text x="32" y="68" font-size="14" fill="#5a6678">Deuteronomy 15:19: what each phrase permits, in two readings (9b)</text>
+
+  <text x="252" y="104" font-size="13" font-weight="700" fill="#7a4b16" text-anchor="middle">RABBI YEHUDA</text>
+  <text x="496" y="104" font-size="13" font-weight="700" fill="#1f5c8a" text-anchor="middle">RABBI SHIMON</text>
+
+  <text x="32" y="130" font-size="14" font-weight="700" fill="#2b4a7a">1 · In the baraita</text>
+  <rect x="24" y="140" width="592" height="54" rx="10" fill="#fff" stroke="#dbe3ee"/>
+  <text x="36" y="172" font-size="13" font-weight="700" fill="#1f2a3a">“your ox”</text>
+  <rect x="140" y="148" width="224" height="38" rx="7" fill="#fbefe0"/>
+  <text x="252" y="164" font-size="12.5" fill="#3d4757" text-anchor="middle">may work an animal</text>
+  <text x="252" y="180" font-size="12.5" fill="#3d4757" text-anchor="middle">shared with a gentile</text>
+  <rect x="384" y="148" width="224" height="38" rx="7" fill="#e3eef8"/>
+  <text x="496" y="172" font-size="12.5" fill="#3d4757" text-anchor="middle">may work a firstborn son</text>
+
+  <rect x="24" y="200" width="592" height="54" rx="10" fill="#fff" stroke="#dbe3ee"/>
+  <text x="36" y="232" font-size="13" font-weight="700" fill="#1f2a3a">“your flock”</text>
+  <rect x="140" y="208" width="224" height="38" rx="7" fill="#fbefe0"/>
+  <text x="252" y="224" font-size="12.5" fill="#3d4757" text-anchor="middle">may shear an animal</text>
+  <text x="252" y="240" font-size="12.5" fill="#3d4757" text-anchor="middle">shared with a gentile</text>
+  <rect x="384" y="208" width="224" height="38" rx="7" fill="#e3eef8"/>
+  <text x="496" y="232" font-size="12.5" fill="#3d4757" text-anchor="middle">may shear a firstborn donkey</text>
+
+  <text x="36" y="278" font-size="12.5" fill="#b23b3b">Challenge: for Rabbi Yehuda, why two verses for the same case?</text>
+  <text x="36" y="296" font-size="12.5" fill="#b23b3b">And would a firstborn son then be forbidden for benefit?</text>
+
+  <text x="32" y="332" font-size="14" font-weight="700" fill="#2b4a7a">2 · The Gemara’s second reading</text>
+  <rect x="24" y="342" width="592" height="54" rx="10" fill="#fff" stroke="#dbe3ee"/>
+  <text x="36" y="374" font-size="13" font-weight="700" fill="#1f2a3a">“your ox”</text>
+  <rect x="140" y="350" width="468" height="38" rx="7" fill="#e7f2e7"/>
+  <text x="374" y="374" font-size="12.5" fill="#2e5e2e" text-anchor="middle">everyone: excludes a firstborn son</text>
+
+  <rect x="24" y="402" width="592" height="70" rx="10" fill="#fff" stroke="#dbe3ee"/>
+  <text x="36" y="442" font-size="13" font-weight="700" fill="#1f2a3a">“your flock”</text>
+  <rect x="140" y="410" width="224" height="54" rx="7" fill="#fbefe0"/>
+  <text x="252" y="428" font-size="12.5" fill="#3d4757" text-anchor="middle">may shear and work an animal</text>
+  <text x="252" y="444" font-size="12.5" fill="#3d4757" text-anchor="middle">shared with a gentile, which</text>
+  <text x="252" y="460" font-size="12.5" fill="#3d4757" text-anchor="middle">he holds is obligated</text>
+  <rect x="384" y="410" width="224" height="54" rx="7" fill="#e3eef8"/>
+  <text x="496" y="428" font-size="12.5" fill="#3d4757" text-anchor="middle">a firstborn donkey; a shared</text>
+  <text x="496" y="444" font-size="12.5" fill="#3d4757" text-anchor="middle">animal is exempt, so needs</text>
+  <text x="496" y="460" font-size="12.5" fill="#3d4757" text-anchor="middle">no verse</text>
+
+  <text x="252" y="494" font-size="12" fill="#5a6678" text-anchor="middle">“your ox” is written</text>
+  <text x="252" y="510" font-size="12" fill="#5a6678" text-anchor="middle">because of “your flock”</text>
+  <text x="496" y="494" font-size="12" fill="#b23b3b" text-anchor="middle">why not just “ox” and “flock”?</text>
+  <text x="496" y="510" font-size="12" font-weight="700" fill="#b23b3b" text-anchor="middle">difficult</text>
+
+  <rect x="24" y="530" width="592" height="46" rx="10" fill="#fff" stroke="#dbe3ee"/>
+  <text x="36" y="550" font-size="12.5" font-weight="700" fill="#1f2a3a">A firstborn</text><text x="36" y="566" font-size="12.5" font-weight="700" fill="#1f2a3a">donkey (b4)</text>
+  <text x="252" y="558" font-size="13.5" font-weight="700" fill="#7a4b16" text-anchor="middle">forbidden for benefit</text>
+  <text x="496" y="558" font-size="13.5" font-weight="700" fill="#1f5c8a" text-anchor="middle">permitted</text>
+</svg>

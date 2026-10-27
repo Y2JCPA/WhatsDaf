@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 650" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Firstborn donkeys: who gets the lamb?</title>
+  <rect width="640" height="650" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2a3a">Firstborn donkeys: who gets the lamb?</text>
+  <text x="32" y="68" font-size="14" fill="#5a6678">The mishna on 9a. Where a male may not have come first, the priest gets nothing.</text>
+  <text x="44" y="104" font-size="12" font-weight="700" fill="#5a6678">BORN</text>
+  <text x="330" y="104" font-size="12" font-weight="700" fill="#5a6678" text-anchor="middle">TO THE PRIEST</text>
+  <text x="450" y="104" font-size="12" font-weight="700" fill="#5a6678" text-anchor="middle">OWNER KEEPS</text>
+  <text x="508" y="104" font-size="12" font-weight="700" fill="#5a6678">SOURCE</text>
+  <text x="32" y="138" font-size="14" font-weight="700" fill="#2b4a7a">One donkey that had never given birth</text>
+  <rect x="24" y="148" width="592" height="36" rx="9" fill="#fff" stroke="#dbe3ee"/>
+  <text x="44" y="171" font-size="14.5" fill="#1f2a3a">Two males</text>
+  <rect x="285" y="154" width="90" height="24" rx="6" fill="#3f7fd0"/><text x="330" y="171" font-size="13" font-weight="600" fill="#fff" text-anchor="middle">1 lamb</text>
+  <text x="450" y="171" font-size="13" fill="#9aa4b2" text-anchor="middle">—</text>
+  <rect x="24" y="188" width="592" height="36" rx="9" fill="#fff" stroke="#dbe3ee"/>
+  <text x="44" y="211" font-size="14.5" fill="#1f2a3a">A male and a female</text>
+  <rect x="285" y="194" width="90" height="24" rx="6" fill="#e6eaf0"/><text x="330" y="211" font-size="13" fill="#5a6678" text-anchor="middle">nothing</text>
+  <rect x="405" y="194" width="90" height="24" rx="6" fill="#e08a2e" stroke="#e08a2e" /><text x="450" y="211" font-size="13" font-weight="600" fill="#fff" text-anchor="middle">1 lamb</text>
+  <text x="508" y="211" font-size="11.5" fill="#6b7686">mishna</text>
+  <text x="32" y="252" font-size="14" font-weight="700" fill="#2b4a7a">Two donkeys, neither had given birth</text>
+  <rect x="24" y="262" width="592" height="36" rx="9" fill="#fff" stroke="#dbe3ee"/>
+  <text x="44" y="285" font-size="14.5" fill="#1f2a3a">Two males, one each</text>
+  <rect x="285" y="268" width="90" height="24" rx="6" fill="#3f7fd0"/><text x="330" y="285" font-size="13" font-weight="600" fill="#fff" text-anchor="middle">2 lambs</text>
+  <text x="450" y="285" font-size="13" fill="#9aa4b2" text-anchor="middle">—</text>
+  <rect x="24" y="302" width="592" height="36" rx="9" fill="#fff" stroke="#dbe3ee"/>
+  <text x="44" y="325" font-size="14.5" fill="#1f2a3a">A male and a female</text>
+  <rect x="285" y="308" width="90" height="24" rx="6" fill="#3f7fd0"/><text x="330" y="325" font-size="13" font-weight="600" fill="#fff" text-anchor="middle">1 lamb</text>
+  <text x="450" y="325" font-size="13" fill="#9aa4b2" text-anchor="middle">—</text>
+  <rect x="24" y="342" width="592" height="36" rx="9" fill="#fff" stroke="#dbe3ee"/>
+  <text x="44" y="365" font-size="14.5" fill="#1f2a3a">Two males and a female</text>
+  <rect x="285" y="348" width="90" height="24" rx="6" fill="#3f7fd0"/><text x="330" y="365" font-size="13" font-weight="600" fill="#fff" text-anchor="middle">1 lamb</text>
+  <rect x="405" y="348" width="90" height="24" rx="6" fill="#e08a2e" stroke="#e08a2e" /><text x="450" y="365" font-size="13" font-weight="600" fill="#fff" text-anchor="middle">1 lamb</text>
+  <text x="508" y="365" font-size="11.5" fill="#6b7686">Rashi, Tosafot</text>
+  <rect x="24" y="382" width="592" height="36" rx="9" fill="#fff" stroke="#dbe3ee"/>
+  <text x="44" y="405" font-size="14.5" fill="#1f2a3a">Two females and a male</text>
+  <rect x="285" y="388" width="90" height="24" rx="6" fill="#e6eaf0"/><text x="330" y="405" font-size="13" fill="#5a6678" text-anchor="middle">nothing</text>
+  <rect x="405" y="388" width="90" height="24" rx="6" fill="#fff" stroke="#e08a2e" stroke-dasharray="4 3"/><text x="450" y="405" font-size="13" font-weight="600" fill="#b5651d" text-anchor="middle">1 lamb</text>
+  <text x="508" y="405" font-size="11.5" font-style="italic" fill="#b5651d">implied</text>
+  <rect x="24" y="422" width="592" height="36" rx="9" fill="#fff" stroke="#dbe3ee"/>
+  <text x="44" y="445" font-size="14.5" fill="#1f2a3a">Two males and two females</text>
+  <rect x="285" y="428" width="90" height="24" rx="6" fill="#e6eaf0"/><text x="330" y="445" font-size="13" fill="#5a6678" text-anchor="middle">nothing</text>
+  <rect x="405" y="428" width="90" height="24" rx="6" fill="#e08a2e" stroke="#e08a2e" /><text x="450" y="445" font-size="13" font-weight="600" fill="#fff" text-anchor="middle">2 lambs</text>
+  <text x="508" y="445" font-size="11.5" fill="#6b7686">Rashi</text>
+  <text x="32" y="486" font-size="14" font-weight="700" fill="#2b4a7a">One had given birth, one had not</text>
+  <rect x="24" y="496" width="592" height="36" rx="9" fill="#fff" stroke="#dbe3ee"/>
+  <text x="44" y="519" font-size="14.5" fill="#1f2a3a">Two males</text>
+  <rect x="285" y="502" width="90" height="24" rx="6" fill="#3f7fd0"/><text x="330" y="519" font-size="13" font-weight="600" fill="#fff" text-anchor="middle">1 lamb</text>
+  <text x="450" y="519" font-size="13" fill="#9aa4b2" text-anchor="middle">—</text>
+  <rect x="24" y="536" width="592" height="36" rx="9" fill="#fff" stroke="#dbe3ee"/>
+  <text x="44" y="559" font-size="14.5" fill="#1f2a3a">A male and a female</text>
+  <rect x="285" y="542" width="90" height="24" rx="6" fill="#e6eaf0"/><text x="330" y="559" font-size="13" fill="#5a6678" text-anchor="middle">nothing</text>
+  <rect x="405" y="542" width="90" height="24" rx="6" fill="#e08a2e" stroke="#e08a2e" /><text x="450" y="559" font-size="13" font-weight="600" fill="#fff" text-anchor="middle">1 lamb</text>
+  <text x="508" y="559" font-size="11.5" fill="#6b7686">mishna</text>
+  <text x="32" y="596" font-size="12.5" fill="#3d4757">“Owner keeps”: a lamb he designates for a doubtful firstborn, to remove its forbidden status.</text>
+  <text x="32" y="614" font-size="12.5" fill="#3d4757">— : no kept lamb is mentioned. <tspan font-style="italic" fill="#b5651d">implied</tspan>: inferred from Rashi’s reasoning, not stated.</text>
+</svg>
