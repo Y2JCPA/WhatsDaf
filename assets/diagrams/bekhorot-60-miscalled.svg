@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 520" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>The ninth, tenth and eleventh miscalled</title>
+  <rect width="640" height="520" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Miscalling the ninth, tenth and eleventh</text>
+  <text x="32" y="68" font-size="14" fill="#5b6b7d">The mishna’s two cases (60a): what he called each animal, and what it becomes</text>
+
+  <text x="200" y="106" font-size="12" font-weight="700" fill="#7f8fa3" letter-spacing=".5" text-anchor="middle">9TH OUT</text>
+  <text x="352" y="106" font-size="12" font-weight="700" fill="#7f8fa3" letter-spacing=".5" text-anchor="middle">10TH OUT</text>
+  <text x="504" y="106" font-size="12" font-weight="700" fill="#7f8fa3" letter-spacing=".5" text-anchor="middle">11TH OUT</text>
+
+  <!-- Case 1 -->
+  <rect x="24" y="120" width="592" height="152" rx="14" fill="#fff" stroke="#dbe3ee"/>
+  <text x="40" y="146" font-size="14" font-weight="700" fill="#1f2d3d">Case 1</text>
+  <text x="40" y="166" font-size="12" fill="#7f8fa3">Rabbi Meir</text>
+  <text x="40" y="210" font-size="12" fill="#7f8fa3">called</text>
+  <text x="40" y="250" font-size="12" fill="#7f8fa3">becomes</text>
+  <rect x="134" y="190" width="132" height="30" rx="8" fill="#eef1f5"/>
+  <text x="200" y="210" font-size="14" fill="#1f2d3d" text-anchor="middle">“Tenth”</text>
+  <rect x="286" y="190" width="132" height="30" rx="8" fill="#eef1f5"/>
+  <text x="352" y="210" font-size="14" fill="#1f2d3d" text-anchor="middle">“Ninth”</text>
+  <rect x="438" y="190" width="132" height="30" rx="8" fill="#eef1f5"/>
+  <text x="504" y="210" font-size="14" fill="#1f2d3d" text-anchor="middle">“Tenth”</text>
+  <rect x="134" y="230" width="132" height="30" rx="8" fill="#fdf0d8"/>
+  <text x="200" y="250" font-size="13" font-weight="700" fill="#8a5a00" text-anchor="middle">Eaten if blemished</text>
+  <rect x="286" y="230" width="132" height="30" rx="8" fill="#e3f0e5"/>
+  <text x="352" y="250" font-size="13" font-weight="700" fill="#1b5e20" text-anchor="middle">Animal tithe</text>
+  <rect x="438" y="230" width="132" height="30" rx="8" fill="#e3ecf8"/>
+  <text x="504" y="250" font-size="13" font-weight="700" fill="#0d47a1" text-anchor="middle">Peace offering</text>
+
+  <!-- Case 2 -->
+  <rect x="24" y="288" width="592" height="152" rx="14" fill="#fff" stroke="#dbe3ee"/>
+  <text x="40" y="314" font-size="14" font-weight="700" fill="#1f2d3d">Case 2</text>
+  <text x="40" y="334" font-size="12" fill="#7f8fa3">the mishna</text>
+  <text x="40" y="378" font-size="12" fill="#7f8fa3">called</text>
+  <text x="40" y="418" font-size="12" fill="#7f8fa3">becomes</text>
+  <rect x="134" y="358" width="132" height="30" rx="8" fill="#eef1f5"/>
+  <text x="200" y="378" font-size="14" fill="#1f2d3d" text-anchor="middle">“Tenth”</text>
+  <rect x="286" y="358" width="132" height="30" rx="8" fill="#eef1f5"/>
+  <text x="352" y="378" font-size="14" fill="#1f2d3d" text-anchor="middle">“Tenth”</text>
+  <rect x="438" y="358" width="132" height="30" rx="8" fill="#eef1f5"/>
+  <text x="504" y="378" font-size="14" fill="#1f2d3d" text-anchor="middle">“Tenth”</text>
+  <rect x="134" y="398" width="132" height="30" rx="8" fill="#fdf0d8"/>
+  <text x="200" y="418" font-size="13" font-weight="700" fill="#8a5a00" text-anchor="middle">Eaten if blemished</text>
+  <rect x="286" y="398" width="132" height="30" rx="8" fill="#e3f0e5"/>
+  <text x="352" y="418" font-size="13" font-weight="700" fill="#1b5e20" text-anchor="middle">Animal tithe</text>
+  <rect x="438" y="398" width="132" height="30" rx="8" fill="#eef1f5"/>
+  <text x="504" y="418" font-size="13" fill="#5b6b7d" text-anchor="middle">Not consecrated</text>
+
+  <text x="32" y="468" font-size="13" fill="#5b6b7d">The eleventh is consecrated only once the name “tenth” has been taken off the tenth.</text>
+  <text x="32" y="490" font-size="13" fill="#5b6b7d">Calling the eighth or the twelfth “tenth” sanctifies nothing (baraita, 60b).</text>
+</svg>

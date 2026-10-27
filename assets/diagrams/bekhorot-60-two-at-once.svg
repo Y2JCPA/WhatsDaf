@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 470" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Rava: two animals emerge together</title>
+  <rect width="640" height="470" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Two animals come out as one</text>
+  <text x="32" y="68" font-size="14" fill="#5b6b7d">Rava (60b): which pair is now intermingled, and cannot be told apart</text>
+
+  <text x="32" y="104" font-size="12" font-weight="700" fill="#7f8fa3" letter-spacing=".5">TOGETHER AT THE NINTH (one is the 9th, one the 10th)</text>
+  <rect x="24" y="116" width="290" height="116" rx="14" fill="#fff" stroke="#dbe3ee"/>
+  <text x="40" y="142" font-size="13" fill="#7f8fa3">He calls both “ninth”</text>
+  <rect x="40" y="154" width="258" height="30" rx="8" fill="#e3f0e5"/>
+  <text x="54" y="174" font-size="14" font-weight="700" fill="#1b5e20">Tithe + non-sacred</text>
+  <text x="40" y="214" font-size="12" fill="#5b6b7d">The tenth is sacred of its own accord</text>
+
+  <rect x="326" y="116" width="290" height="116" rx="14" fill="#fff" stroke="#dbe3ee"/>
+  <text x="342" y="142" font-size="13" fill="#7f8fa3">He calls both “tenth”</text>
+  <rect x="342" y="154" width="258" height="30" rx="8" fill="#fdf0d8"/>
+  <text x="356" y="174" font-size="14" font-weight="700" fill="#8a5a00">Tithe + a sacred ninth</text>
+  <text x="342" y="214" font-size="12" fill="#5b6b7d">The ninth was called “tenth”</text>
+
+  <text x="32" y="266" font-size="12" font-weight="700" fill="#7f8fa3" letter-spacing=".5">TOGETHER AT THE TENTH (one is the 10th, one the 11th)</text>
+  <rect x="24" y="278" width="290" height="116" rx="14" fill="#fff" stroke="#dbe3ee"/>
+  <text x="40" y="304" font-size="13" fill="#7f8fa3">He calls both “tenth”</text>
+  <rect x="40" y="316" width="258" height="30" rx="8" fill="#e3ecf8"/>
+  <text x="54" y="336" font-size="14" font-weight="700" fill="#0d47a1">Tithe + peace offering</text>
+  <text x="40" y="376" font-size="12" fill="#5b6b7d">Both sacred, though “tenth” was not removed</text>
+
+  <rect x="326" y="278" width="290" height="116" rx="14" fill="#fff" stroke="#dbe3ee"/>
+  <text x="342" y="304" font-size="13" fill="#7f8fa3">He calls both “eleventh”</text>
+  <rect x="342" y="316" width="258" height="30" rx="8" fill="#e3f0e5"/>
+  <text x="356" y="336" font-size="14" font-weight="700" fill="#1b5e20">Tithe + non-sacred</text>
+  <text x="342" y="376" font-size="12" fill="#5b6b7d">The eleventh was never called “tenth”</text>
+
+  <text x="32" y="426" font-size="13" fill="#5b6b7d">What to do with the tithe and peace offering pair is disputed:</text>
+  <text x="32" y="446" font-size="13" fill="#5b6b7d">both graze until blemished, both are sacrificed, or both must die (60b–61a).</text>
+</svg>
