@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 580" width="640" height="580" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <rect width="640" height="580" rx="18" fill="#f3f6fb"/>
+  <text x="320" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2a44">Bloodletting and the barrel: a proposed match</text>
+  <text x="320" y="70" text-anchor="middle" font-size="14" fill="#55607a">The baraita on the firstborn (33b) set beside the mishna in Terumot 8:8</text>
+
+  <!-- column headers -->
+  <text x="28" y="108" font-size="12" font-weight="700" fill="#55607a">FIRSTBORN CONGESTED WITH BLOOD</text>
+  <text x="360" y="108" font-size="12" font-weight="700" fill="#55607a">BARREL OF TERUMA OF UNCERTAIN PURITY</text>
+
+  <!-- row 1: Rabbi Meir / Rabbi Eliezer -->
+  <rect x="28" y="122" width="270" height="86" rx="12" fill="#ffffff" stroke="#c9d3e6"/>
+  <text x="44" y="148" font-size="16" font-weight="700" fill="#1f2a44">Rabbi Meir</text>
+  <text x="44" y="172" font-size="14" fill="#33405e">Let blood only where the cut</text>
+  <text x="44" y="192" font-size="14" fill="#33405e">causes no blemish</text>
+  <rect x="360" y="122" width="252" height="86" rx="12" fill="#ffffff" stroke="#c9d3e6"/>
+  <text x="376" y="148" font-size="16" font-weight="700" fill="#1f2a44">Rabbi Eliezer</text>
+  <text x="376" y="172" font-size="14" fill="#33405e">Move it to a concealed place;</text>
+  <text x="376" y="192" font-size="14" fill="#33405e">if exposed, cover it</text>
+  <line x1="300" y1="165" x2="358" y2="165" stroke="#7a86a3" stroke-width="2" stroke-dasharray="5 4"/>
+
+  <!-- row 2: Rabbis / Rabbi Yehoshua -->
+  <rect x="28" y="220" width="270" height="86" rx="12" fill="#ffffff" stroke="#c9d3e6"/>
+  <text x="44" y="246" font-size="16" font-weight="700" fill="#1f2a44">The Rabbis</text>
+  <text x="44" y="270" font-size="14" fill="#33405e">Even where it causes a blemish,</text>
+  <text x="44" y="290" font-size="14" fill="#33405e">but not slaughtered for that blemish</text>
+  <rect x="360" y="220" width="252" height="86" rx="12" fill="#ffffff" stroke="#c9d3e6"/>
+  <text x="376" y="246" font-size="16" font-weight="700" fill="#1f2a44">Rabbi Yehoshua</text>
+  <text x="376" y="270" font-size="14" fill="#33405e">May move it to a vulnerable</text>
+  <text x="376" y="290" font-size="14" fill="#33405e">place; if covered, expose it</text>
+  <line x1="300" y1="263" x2="358" y2="263" stroke="#7a86a3" stroke-width="2" stroke-dasharray="5 4"/>
+
+  <!-- row 3: Rabbi Yehuda / Rabban Gamliel -->
+  <rect x="28" y="318" width="270" height="86" rx="12" fill="#ffffff" stroke="#c9d3e6"/>
+  <text x="44" y="344" font-size="16" font-weight="700" fill="#1f2a44">Rabbi Yehuda</text>
+  <text x="44" y="368" font-size="14" fill="#33405e">Even if it will die,</text>
+  <text x="44" y="388" font-size="14" fill="#33405e">one may not let its blood</text>
+  <rect x="360" y="318" width="252" height="86" rx="12" fill="#ffffff" stroke="#c9d3e6"/>
+  <text x="376" y="344" font-size="16" font-weight="700" fill="#1f2a44">Rabban Gamliel</text>
+  <text x="376" y="368" font-size="14" fill="#33405e">Do nothing new with it;</text>
+  <text x="376" y="388" font-size="14" fill="#33405e">leave it as it is</text>
+  <line x1="300" y1="361" x2="358" y2="361" stroke="#7a86a3" stroke-width="2" stroke-dasharray="5 4"/>
+
+  <!-- row 4: Rabbi Shimon, no match -->
+  <rect x="28" y="416" width="270" height="66" rx="12" fill="#ffffff" stroke="#c9d3e6"/>
+  <text x="44" y="442" font-size="16" font-weight="700" fill="#1f2a44">Rabbi Shimon</text>
+  <text x="44" y="466" font-size="14" fill="#33405e">May even slaughter for that blemish</text>
+  <text x="376" y="454" font-size="14" font-style="italic" fill="#7a86a3">No match is proposed</text>
+
+  <!-- footer -->
+  <rect x="28" y="498" width="584" height="62" rx="10" fill="#fdecea" stroke="#e8b4ad"/>
+  <text x="320" y="522" text-anchor="middle" font-size="14" fill="#8a2e22">The Gemara rejects the match: a direct act vs. an indirect one, an animal</text>
+  <text x="320" y="544" text-anchor="middle" font-size="14" fill="#8a2e22">that will die vs. a barrel Elijah may yet purify, and different verses.</text>
+</svg>
