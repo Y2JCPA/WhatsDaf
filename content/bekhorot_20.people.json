@@ -1,0 +1,14 @@
+{
+  "people": {
+    "rabbi-chanina-misura": {
+      "name": "Rabbi Ḥanina of Sura",
+      "he": "רבי חנינא מסורא",
+      "era": "Amora · Babylonia",
+      "bio": "Babylonian Amora from Sura, cited in the Talmud by this name.",
+      "color": "#5e6b2f",
+      "initials": "רח״מ",
+      "image": "rabbi-chanina-misura.jpg",
+      "prompt": "A Babylonian scholar in his 50s with a dark beard streaked with grey and a measured, thoughtful expression, as if weighing two opinions; background of mudbrick academy walls and oil lamps along the Euphrates."
+    }
+  }
+}
