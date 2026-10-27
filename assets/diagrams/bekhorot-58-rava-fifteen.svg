@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 470" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Rava’s fifteen animals</title>
+  <rect width="640" height="470" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Rava’s fifteen animals</text>
+  <text x="32" y="68" font-size="14" fill="#5b6b7d">Five born in each month; ben Azzai is unsure which month starts the tithe year</text>
+  <rect x="224" y="86" width="192" height="282" rx="14" fill="#fdf3d6"/>
+  <rect x="32" y="94" width="176" height="62" rx="12" fill="#fff" stroke="#dbe3ee"/>
+  <text x="120.0" y="118" font-size="15" font-weight="700" fill="#1f2d3d" text-anchor="middle">Av</text>
+  <circle cx="76.0" cy="138" r="7" fill="#7f8fa3"/>
+  <circle cx="98.0" cy="138" r="7" fill="#7f8fa3"/>
+  <circle cx="120.0" cy="138" r="7" fill="#7f8fa3"/>
+  <circle cx="142.0" cy="138" r="7" fill="#7f8fa3"/>
+  <circle cx="164.0" cy="138" r="7" fill="#7f8fa3"/>
+  <rect x="232" y="94" width="176" height="62" rx="12" fill="#fff" stroke="#dbe3ee"/>
+  <text x="320.0" y="118" font-size="15" font-weight="700" fill="#1f2d3d" text-anchor="middle">Elul</text>
+  <circle cx="276.0" cy="138" r="7" fill="#c98a00"/>
+  <circle cx="298.0" cy="138" r="7" fill="#c98a00"/>
+  <circle cx="320.0" cy="138" r="7" fill="#c98a00"/>
+  <circle cx="342.0" cy="138" r="7" fill="#c98a00"/>
+  <circle cx="364.0" cy="138" r="7" fill="#c98a00"/>
+  <rect x="432" y="94" width="176" height="62" rx="12" fill="#fff" stroke="#dbe3ee"/>
+  <text x="520.0" y="118" font-size="15" font-weight="700" fill="#1f2d3d" text-anchor="middle">Tishrei</text>
+  <circle cx="476.0" cy="138" r="7" fill="#7f8fa3"/>
+  <circle cx="498.0" cy="138" r="7" fill="#7f8fa3"/>
+  <circle cx="520.0" cy="138" r="7" fill="#7f8fa3"/>
+  <circle cx="542.0" cy="138" r="7" fill="#7f8fa3"/>
+  <circle cx="564.0" cy="138" r="7" fill="#7f8fa3"/>
+  <text x="32" y="196" font-size="12" font-weight="700" fill="#7f8fa3" letter-spacing=".5">IF THE YEAR BEGINS ON 1 ELUL</text>
+  <rect x="32" y="208" width="176" height="54" rx="10" fill="#eef1f5"/>
+  <text x="120.0" y="231" font-size="14" font-weight="700" fill="#5b6b7d" text-anchor="middle">Exempt</text>
+  <text x="120.0" y="250" font-size="12" fill="#5b6b7d" text-anchor="middle">only five in that year</text>
+  <rect x="232" y="208" width="376" height="54" rx="10" fill="#e3f0e5"/>
+  <text x="420.0" y="231" font-size="14" font-weight="700" fill="#1b5e20" text-anchor="middle">Ten of one year: liable</text>
+  <text x="420.0" y="250" font-size="12" fill="#2e6b33" text-anchor="middle">one animal is the tithe</text>
+  <line x1="220" y1="202" x2="220" y2="268" stroke="#c62828" stroke-width="2" stroke-dasharray="5 4"/>
+  <text x="32" y="290" font-size="12" font-weight="700" fill="#7f8fa3" letter-spacing=".5">IF THE YEAR BEGINS ON 1 TISHREI</text>
+  <rect x="432" y="302" width="176" height="54" rx="10" fill="#eef1f5"/>
+  <text x="520.0" y="325" font-size="14" font-weight="700" fill="#5b6b7d" text-anchor="middle">Exempt</text>
+  <text x="520.0" y="344" font-size="12" fill="#5b6b7d" text-anchor="middle">only five in that year</text>
+  <rect x="32" y="302" width="376" height="54" rx="10" fill="#e3f0e5"/>
+  <text x="220.0" y="325" font-size="14" font-weight="700" fill="#1b5e20" text-anchor="middle">Ten of one year: liable</text>
+  <text x="220.0" y="344" font-size="12" fill="#2e6b33" text-anchor="middle">one animal is the tithe</text>
+  <line x1="420" y1="296" x2="420" y2="362" stroke="#c62828" stroke-width="2" stroke-dasharray="5 4"/>
+  <text x="32" y="400" font-size="13" fill="#1f2d3d">Either way, Elul’s animals are among the liable ten, so he takes the tithe from Elul</text>
+  <text x="32" y="420" font-size="13" fill="#1f2d3d">and the rest are exempt.</text>
+  <text x="32" y="446" font-size="13" fill="#5b6b7d">Tishrei’s five cannot join a later gathering: “a definite tenth, not an uncertain one.”</text>
+</svg>

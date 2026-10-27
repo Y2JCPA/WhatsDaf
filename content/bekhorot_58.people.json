@@ -1,0 +1,24 @@
+{
+  "people": {
+    "rabbi-tanchum-brei-derav-chiyya": {
+      "name": "Rabbi Tanḥum, son of Rav Ḥiyya",
+      "he": "רבי תנחום בריה דרב חייא",
+      "era": "Amora · Land of Israel, 3rd–4th century",
+      "bio": "Amora of the Land of Israel from the village of Akko.",
+      "color": "#00796b",
+      "initials": "ר״ת",
+      "image": "rabbi-tanchum-brei-derav-chiyya.jpg",
+      "prompt": "A practical, kindly scholar in his 50s with a greying brown beard and a warm, explaining expression, in a sand-colored linen robe and a blue-grey mantle. The stone walls of a small village near Akko, with the Mediterranean softly behind him."
+    },
+    "abba-elazar-ben-gomel": {
+      "name": "Abba Elazar ben Gomel",
+      "he": "אבא אלעזר בן גומל",
+      "era": "Tanna · 2nd century",
+      "bio": "Tanna whose rulings on separating teruma and tithes are cited in baraitot.",
+      "color": "#5d4037",
+      "initials": "אאב״ג",
+      "image": "abba-elazar-ben-gomel.jpg",
+      "prompt": "A careful, generous-eyed sage in his 60s with a long grey beard and a measured gaze, in an undyed wool robe and a brown mantle. Heaps of threshed grain on a stone threshing floor in soft evening light behind him."
+    }
+  }
+}
