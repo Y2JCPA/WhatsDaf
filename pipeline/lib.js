@@ -101,7 +101,8 @@ function messageWords(msg, people) {
     ...words(msg.alt || ''),
     ...words(expandMentions(msg.lead || '', people)),
     ...speakerWords(msg.from, people), // a lead line can restate the source before the speaker's tag
-    ...words(expandMentions(msg.text || '', people)),
+    // Davidson sometimes bolds only part of a word (Ḥ<b>ananya</b>); let the bold part count as a word of its own.
+    ...words(expandMentions(msg.text || '', people).replace(/<b>/g, ' <b>')),
   ];
 }
 

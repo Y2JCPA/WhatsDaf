@@ -1,0 +1,44 @@
+{
+  "people": {
+    "rav-kahana": {
+      "name": "Rav Kahana",
+      "he": "רב כהנא",
+      "era": "Amora · Babylonia, 3rd–4th century",
+      "bio": "Babylonian Amora; the Talmud knows several sages of this name, the earliest a student of Rav.",
+      "color": "#4e342e",
+      "initials": "ר״כ",
+      "image": "rav-kahana.jpg",
+      "prompt": "A Babylonian scholar in his 50s with a full dark-grey beard and a steady, attentive gaze, in a deep brown wool robe with a plain head covering. Mudbrick study hall walls and flickering oil lamps behind him."
+    },
+    "rav-mesharshiyya": {
+      "name": "Rav Mesharshiyya",
+      "he": "רב משרשיא",
+      "era": "Amora · Babylonia, 4th century",
+      "bio": "Babylonian Amora, a student of Abaye and Rava.",
+      "color": "#1565c0",
+      "initials": "ר״מ",
+      "image": "rav-mesharshiyya.jpg",
+      "prompt": "A Babylonian scholar in his 40s with a neat black beard and a lively, explaining expression, one hand raised as if tracing water rising through the ground, in a slate-blue wool robe. Palm trees along the Euphrates at dusk behind him."
+    },
+    "rabbi-yehuda-ben-beteira": {
+      "name": "Rabbi Yehuda ben Beteira",
+      "he": "רבי יהודה בן בתירא",
+      "era": "Tanna · Netzivin, 1st–2nd century",
+      "bio": "Tanna who headed a center of Torah study in Netzivin (Nisibis), outside the Land of Israel.",
+      "color": "#827717",
+      "initials": "ריב״ב",
+      "image": "rabbi-yehuda-ben-beteira.jpg",
+      "prompt": "A venerable sage in his 60s with a long white beard and a calm, authoritative bearing, in an off-white linen robe and a dark wool mantle. The stone courtyard of a study house in Nisibis, with distant hills, behind him."
+    },
+    "rav-ami": {
+      "name": "Rav Ami",
+      "he": "רב אמי",
+      "era": "Amora",
+      "bio": "Amora who transmits a teaching of Rav on Bekhorot 55b; the printed text calls him Rav, not Rabbi, Ami.",
+      "color": "#00838f",
+      "initials": "ר״א",
+      "image": "rav-ami.jpg",
+      "prompt": "A scholar in his 40s with a short brown beard and a thoughtful, listening expression, in a teal-grey wool robe. A study hall with oil lamps and a window onto a rain-swollen river behind him."
+    }
+  }
+}

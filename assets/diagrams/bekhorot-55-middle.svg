@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 600" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>What joins the two flocks</title>
+  <rect width="640" height="600" rx="18" fill="#f3f6fb"/>
+  <text x="24" y="44" font-size="22" font-weight="700" fill="#1f2a3a">What in the middle joins the flocks?</text>
+  <text x="24" y="68" font-size="13.5" fill="#56627a">Two flocks 32 mil apart join for animal tithe only through something in between.</text>
+
+  <!-- schematic: the baraita's three villages -->
+  <line x1="92" y1="122" x2="548" y2="122" stroke="#9aa7bd" stroke-width="3"/>
+  <circle cx="92" cy="122" r="9" fill="#3b6fb6"/>
+  <circle cx="320" cy="122" r="9" fill="#c77d1a"/>
+  <circle cx="548" cy="122" r="9" fill="#3b6fb6"/>
+  <text x="92" y="150" font-size="13.5" font-weight="700" text-anchor="middle" fill="#1f2a3a">Kefar Ḥananya</text>
+  <text x="320" y="150" font-size="13.5" font-weight="700" text-anchor="middle" fill="#1f2a3a">Tzippori</text>
+  <text x="548" y="150" font-size="13.5" font-weight="700" text-anchor="middle" fill="#1f2a3a">Kefar Otnai</text>
+  <text x="206" y="112" font-size="12.5" text-anchor="middle" fill="#56627a">16 mil</text>
+  <text x="434" y="112" font-size="12.5" text-anchor="middle" fill="#56627a">16 mil</text>
+
+  <!-- column heads -->
+  <text x="28" y="196" font-size="12.5" font-weight="700" fill="#56627a">WHO</text>
+  <text x="270" y="196" font-size="12.5" font-weight="700" text-anchor="middle" fill="#56627a">ONE SIDE</text>
+  <text x="380" y="196" font-size="12.5" font-weight="700" text-anchor="middle" fill="#56627a">MIDDLE</text>
+  <text x="490" y="196" font-size="12.5" font-weight="700" text-anchor="middle" fill="#56627a">OTHER SIDE</text>
+  <text x="578" y="196" font-size="12.5" font-weight="700" text-anchor="middle" fill="#56627a">JOINS?</text>
+
+  <!-- row 1: Rav -->
+  <rect x="16" y="208" width="608" height="54" rx="12" fill="#ffffff" stroke="#dbe2ee"/>
+  <text x="28" y="232" font-size="15" font-weight="700" fill="#1f2a3a">Rav</text>
+  <text x="28" y="250" font-size="11.5" fill="#56627a">the middle must be fit for both sides</text>
+  <rect x="238" y="219" width="64" height="32" rx="8" fill="#dfe7f3"/>
+  <text x="270" y="240" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2a3a">5</text>
+  <rect x="320" y="219" width="120" height="32" rx="8" fill="#f6e7cf"/>
+  <text x="380" y="240" font-size="14" font-weight="700" text-anchor="middle" fill="#8a4f00">5 animals</text>
+  <rect x="458" y="219" width="64" height="32" rx="8" fill="#dfe7f3"/>
+  <text x="490" y="240" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2a3a">5</text>
+  <rect x="540" y="219" width="76" height="32" rx="8" fill="#e3f2e6"/>
+  <text x="578" y="240" font-size="14" font-weight="700" text-anchor="middle" fill="#1e7a3a">Yes</text>
+
+  <!-- row 2: Shmuel -->
+  <rect x="16" y="270" width="608" height="54" rx="12" fill="#ffffff" stroke="#dbe2ee"/>
+  <text x="28" y="294" font-size="15" font-weight="700" fill="#1f2a3a">Shmuel</text>
+  <text x="28" y="312" font-size="11.5" fill="#56627a">the shepherd counts from the middle</text>
+  <rect x="238" y="281" width="64" height="32" rx="8" fill="#dfe7f3"/>
+  <text x="270" y="302" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2a3a">5</text>
+  <rect x="320" y="281" width="120" height="32" rx="8" fill="#f6e7cf"/>
+  <text x="380" y="302" font-size="14" font-weight="700" text-anchor="middle" fill="#8a4f00">1 animal</text>
+  <rect x="458" y="281" width="64" height="32" rx="8" fill="#dfe7f3"/>
+  <text x="490" y="302" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2a3a">5</text>
+  <rect x="540" y="281" width="76" height="32" rx="8" fill="#e3f2e6"/>
+  <text x="578" y="302" font-size="14" font-weight="700" text-anchor="middle" fill="#1e7a3a">Yes</text>
+
+  <!-- row 3: the baraita as Shmuel reads it for Rav -->
+  <rect x="16" y="332" width="608" height="54" rx="12" fill="#ffffff" stroke="#dbe2ee"/>
+  <text x="28" y="356" font-size="15" font-weight="700" fill="#1f2a3a">The baraita, for Rav</text>
+  <text x="28" y="374" font-size="11.5" fill="#56627a">as Shmuel explains it: 9 + 1 = 10</text>
+  <rect x="238" y="343" width="64" height="32" rx="8" fill="#dfe7f3"/>
+  <text x="270" y="364" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2a3a">9</text>
+  <rect x="320" y="343" width="120" height="32" rx="8" fill="#f6e7cf"/>
+  <text x="380" y="364" font-size="14" font-weight="700" text-anchor="middle" fill="#8a4f00">1 animal</text>
+  <rect x="458" y="343" width="64" height="32" rx="8" fill="#dfe7f3"/>
+  <text x="490" y="364" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2a3a">9</text>
+  <rect x="540" y="343" width="76" height="32" rx="8" fill="#e3f2e6"/>
+  <text x="578" y="364" font-size="14" font-weight="700" text-anchor="middle" fill="#1e7a3a">Yes</text>
+
+  <!-- row 4: Rav Pappa, shepherd -->
+  <rect x="16" y="394" width="608" height="54" rx="12" fill="#ffffff" stroke="#dbe2ee"/>
+  <text x="28" y="418" font-size="15" font-weight="700" fill="#1f2a3a">Rav Pappa</text>
+  <text x="28" y="436" font-size="11.5" fill="#56627a">according to Shmuel</text>
+  <rect x="238" y="405" width="64" height="32" rx="8" fill="#dfe7f3"/>
+  <text x="270" y="426" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2a3a">flock</text>
+  <rect x="320" y="405" width="120" height="32" rx="8" fill="#f6e7cf"/>
+  <text x="380" y="426" font-size="13.5" font-weight="700" text-anchor="middle" fill="#8a4f00">the shepherd</text>
+  <rect x="458" y="405" width="64" height="32" rx="8" fill="#dfe7f3"/>
+  <text x="490" y="426" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2a3a">flock</text>
+  <rect x="540" y="405" width="76" height="32" rx="8" fill="#e3f2e6"/>
+  <text x="578" y="426" font-size="14" font-weight="700" text-anchor="middle" fill="#1e7a3a">Yes</text>
+
+  <!-- row 5: Rav Pappa, implements -->
+  <rect x="16" y="456" width="608" height="54" rx="12" fill="#ffffff" stroke="#dbe2ee"/>
+  <text x="28" y="480" font-size="15" font-weight="700" fill="#1f2a3a">Rav Pappa</text>
+  <text x="28" y="498" font-size="11.5" fill="#56627a">he must go back to fetch them</text>
+  <rect x="238" y="467" width="64" height="32" rx="8" fill="#dfe7f3"/>
+  <text x="270" y="488" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2a3a">flock</text>
+  <rect x="320" y="467" width="120" height="32" rx="8" fill="#f6e7cf"/>
+  <text x="380" y="488" font-size="13" font-weight="700" text-anchor="middle" fill="#8a4f00">his implements</text>
+  <rect x="458" y="467" width="64" height="32" rx="8" fill="#dfe7f3"/>
+  <text x="490" y="488" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2a3a">flock</text>
+  <rect x="540" y="467" width="76" height="32" rx="8" fill="#e3f2e6"/>
+  <text x="578" y="488" font-size="14" font-weight="700" text-anchor="middle" fill="#1e7a3a">Yes</text>
+
+  <!-- row 6: Rav Ashi, dog -->
+  <rect x="16" y="518" width="608" height="54" rx="12" fill="#ffffff" stroke="#dbe2ee"/>
+  <text x="28" y="542" font-size="15" font-weight="700" fill="#1f2a3a">Rav Ashi asks</text>
+  <text x="28" y="560" font-size="11.5" fill="#56627a">it comes when called… usually</text>
+  <rect x="238" y="529" width="64" height="32" rx="8" fill="#dfe7f3"/>
+  <text x="270" y="550" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2a3a">flock</text>
+  <rect x="320" y="529" width="120" height="32" rx="8" fill="#f6e7cf"/>
+  <text x="380" y="550" font-size="13" font-weight="700" text-anchor="middle" fill="#8a4f00">his dog</text>
+  <rect x="458" y="529" width="64" height="32" rx="8" fill="#dfe7f3"/>
+  <text x="490" y="550" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2a3a">flock</text>
+  <rect x="540" y="529" width="76" height="32" rx="8" fill="#fbe9e7"/>
+  <text x="578" y="550" font-size="12" font-weight="700" text-anchor="middle" fill="#b23b1e">Unresolved</text>
+</svg>
