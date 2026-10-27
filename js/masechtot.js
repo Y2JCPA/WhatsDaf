@@ -72,6 +72,17 @@
     return new Date(CYCLE_START + (cycle * CYCLE_LENGTH + offset) * 864e5);
   }
 
-  const api = { MASECHTOT, dafYomiFor, dateForDaf, CYCLE_LENGTH };
+  // 40 → מ׳, 116 → קט״ז. 15 and 16 are written ט״ו and ט״ז.
+  function hebrewNumeral(n) {
+    const ones = ['', 'א', 'ב', 'ג', 'ד', 'ה', 'ו', 'ז', 'ח', 'ט'];
+    const tens = ['', 'י', 'כ', 'ל', 'מ', 'נ', 'ס', 'ע', 'פ', 'צ'];
+    const hundreds = ['', 'ק', 'ר', 'ש', 'ת'];
+    let s = hundreds[Math.floor(n / 100)] || '';
+    const rest = n % 100;
+    s += rest === 15 ? 'טו' : rest === 16 ? 'טז' : tens[Math.floor(rest / 10)] + ones[rest % 10];
+    return s.length > 1 ? `${s.slice(0, -1)}״${s.slice(-1)}` : `${s}׳`;
+  }
+
+  const api = { MASECHTOT, dafYomiFor, dateForDaf, hebrewNumeral, CYCLE_LENGTH };
   if (typeof module !== 'undefined') module.exports = api; else Object.assign(root, api);
 })(typeof window !== 'undefined' ? window : globalThis);

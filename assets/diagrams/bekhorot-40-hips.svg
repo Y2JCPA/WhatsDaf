@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Shaḥul and kasul, schematic</title>
+  <rect width="640" height="400" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Shaḥul and kasul</text>
+  <text x="32" y="68" font-size="14" fill="#5b6b7d">Schematic rear view of the hips · not an anatomy chart</text>
+  <defs>
+    <g id="pelvis"><rect x="-80" y="-14" width="160" height="28" rx="14" fill="#c9d3df"/><text x="0" y="5" font-size="12" text-anchor="middle" fill="#55657a">loin / hip</text></g>
+    <g id="socket"><circle r="13" fill="none" stroke="#7f8fa3" stroke-width="3" stroke-dasharray="4 3"/></g>
+  </defs>
+  <!-- Normal -->
+  <g transform="translate(110,0)">
+    <text x="0" y="112" font-size="17" font-weight="700" text-anchor="middle" fill="#2e7d32">Normal</text>
+    <use href="#pelvis" transform="translate(0,160)"/>
+    <use href="#socket" transform="translate(-48,182)"/><use href="#socket" transform="translate(48,182)"/>
+    <g stroke="#2e7d32" stroke-width="10" stroke-linecap="round"><line x1="-48" y1="182" x2="-56" y2="320"/><line x1="48" y1="182" x2="56" y2="320"/></g>
+    <circle cx="-48" cy="182" r="11" fill="#2e7d32"/><circle cx="48" cy="182" r="11" fill="#2e7d32"/>
+    <text x="0" y="352" font-size="13" text-anchor="middle" fill="#33475b">both thighs</text>
+    <text x="0" y="370" font-size="13" text-anchor="middle" fill="#33475b">seated in their sockets</text>
+  </g>
+  <!-- Shachul -->
+  <g transform="translate(320,0)">
+    <text x="0" y="112" font-size="17" font-weight="700" text-anchor="middle" fill="#c0392b">Shaḥul</text>
+    <use href="#pelvis" transform="translate(0,160)"/>
+    <use href="#socket" transform="translate(-48,182)"/><use href="#socket" transform="translate(48,182)"/>
+    <g stroke-width="10" stroke-linecap="round"><line x1="-48" y1="182" x2="-56" y2="320" stroke="#2e7d32"/><line x1="78" y1="212" x2="76" y2="330" stroke="#c0392b"/></g>
+    <circle cx="-48" cy="182" r="11" fill="#2e7d32"/><circle cx="78" cy="212" r="11" fill="#c0392b"/>
+    <path d="M58 184 Q 74 186 74 200" fill="none" stroke="#c0392b" stroke-width="2" marker-end="url(#a)"/>
+    <text x="0" y="352" font-size="13" text-anchor="middle" fill="#33475b">a thighbone has slipped</text>
+    <text x="0" y="370" font-size="13" text-anchor="middle" fill="#33475b">out of its socket</text>
+  </g>
+  <!-- Kasul -->
+  <g transform="translate(530,0)">
+    <text x="0" y="112" font-size="17" font-weight="700" text-anchor="middle" fill="#c0392b">Kasul</text>
+    <use href="#pelvis" transform="translate(0,160)"/>
+    <use href="#socket" transform="translate(-48,182)"/><use href="#socket" transform="translate(48,182)"/>
+    <g stroke-width="10" stroke-linecap="round"><line x1="-48" y1="182" x2="-56" y2="320" stroke="#2e7d32"/><line x1="52" y1="132" x2="60" y2="290" stroke="#c0392b"/></g>
+    <circle cx="-48" cy="182" r="11" fill="#2e7d32"/><circle cx="52" cy="132" r="11" fill="#c0392b"/>
+    <text x="0" y="352" font-size="13" text-anchor="middle" fill="#33475b">one thigh inside the loin,</text>
+    <text x="0" y="370" font-size="13" text-anchor="middle" fill="#33475b">the other seated above it</text>
+  </g>
+</svg>

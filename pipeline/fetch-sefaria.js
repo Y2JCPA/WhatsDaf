@@ -7,7 +7,7 @@
  */
 const fs = require('fs');
 const path = require('path');
-const { MASECHTOT } = require('./masechtot');
+const { MASECHTOT } = require('../js/masechtot');
 
 const COMMENTARIES = [
   ['rashi', 'Rashi'],

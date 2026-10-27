@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>The three cubits of Bekhorot 40a</title>
+  <rect width="640" height="380" rx="18" fill="#fbf6ea"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#3b2f1e">Two cubit rods in the Shushan chamber</text>
+  <text x="32" y="70" font-size="15" fill="#6b5b45">1 cubit = 6 handbreadths = 24 fingerbreadths · drawn to scale</text>
+  <!-- handbreadth ticks -->
+  <g stroke="#c9b892" stroke-width="1" stroke-dasharray="3 4">
+    <line x1="80" y1="96" x2="80" y2="330"/><line x1="160" y1="96" x2="160" y2="330"/><line x1="240" y1="96" x2="240" y2="330"/>
+    <line x1="320" y1="96" x2="320" y2="330"/><line x1="400" y1="96" x2="400" y2="330"/><line x1="480" y1="96" x2="480" y2="330"/>
+    <line x1="560" y1="96" x2="560" y2="330"/>
+  </g>
+  <g font-size="12" fill="#9a8a6a" text-anchor="middle">
+    <text x="120" y="108">1</text><text x="200" y="108">2</text><text x="280" y="108">3</text><text x="360" y="108">4</text><text x="440" y="108">5</text><text x="520" y="108">6</text><text x="44" y="108" text-anchor="start">hb</text>
+  </g>
+  <!-- Moses -->
+  <rect x="80" y="122" width="480" height="30" rx="5" fill="#8a6a3b"/>
+  <text x="90" y="143" font-size="15" font-weight="600" fill="#fff">Moses’ cubit</text>
+  <text x="80" y="174" font-size="14" fill="#5a4a32">Contracts with the artisans were priced by this one</text>
+  <!-- NE -->
+  <rect x="80" y="196" width="490" height="30" rx="5" fill="#b8862e"/>
+  <rect x="560" y="196" width="10" height="30" fill="#e0a72c"/>
+  <text x="90" y="217" font-size="15" font-weight="600" fill="#fff">Northeast rod</text>
+  <text x="580" y="217" font-size="15" font-weight="700" fill="#a0611a">+½</text>
+  <text x="80" y="248" font-size="14" fill="#5a4a32">Work in silver and gold was delivered by this one</text>
+  <!-- SE -->
+  <rect x="80" y="270" width="500" height="30" rx="5" fill="#a04f2a"/>
+  <rect x="560" y="270" width="20" height="30" fill="#d9682e"/>
+  <text x="90" y="291" font-size="15" font-weight="600" fill="#fff">Southeast rod</text>
+  <text x="590" y="291" font-size="15" font-weight="700" fill="#a0411a">+1</text>
+  <text x="80" y="322" font-size="14" fill="#5a4a32">Building in wood and stone was delivered by this one</text>
+  <text x="32" y="360" font-size="13" fill="#6b5b45">Paid by the small, delivered by the large, so no one misused consecrated property.</text>
+</svg>
