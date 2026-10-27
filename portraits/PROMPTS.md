@@ -218,3 +218,19 @@ Same output spec and shared style as above. Save to `assets/portraits/<file>`.
 | `rabbi-yehuda-nesia.jpg` | Rabbi Yehuda Nesia, Nasi · Land of Israel, 3rd century | A dignified patriarch of the Jewish community in his 50s with a well-kept dark beard and fine, richly woven robes of office, with a composed, inquiring expression; background of limestone arches and olive trees. |
 | `rav-sheizevi.jpg` | Rav Sheizevi, Amora · Babylonia | A quiet, attentive Babylonian scholar in his 40s with a short dark beard and a steady, faithful expression, as if repeating his teacher's words; background of mudbrick academy walls and oil lamps. |
 | `rabbi-shmuel-bar-natan.jpg` | Rabbi Shmuel bar Natan, Amora · Land of Israel | A thoughtful scholar of the Land of Israel in his 40s with a dark beard and a careful, precise expression; background of limestone arches and olive trees. |
+
+---
+
+## Round 9: people needed for Bekhorot 12–16
+
+Same output spec and shared style as above. Save to `assets/portraits/<file>`.
+
+| File | Person | Add to the shared style |
+|---|---|---|
+| `ben-bag-bag.jpg` | Ben Bag Bag, Tanna | A thoughtful scholar in his 50s with a greying beard and an absorbed, searching expression, turning a scroll over in his hands as if looking for everything inside it; background of limestone arches and olive trees. |
+| `mar-zutra.jpg` | Mar Zutra, Amora · Babylonia, 4th–5th century | A composed Babylonian scholar in his 50s with a dark, greying beard and a firm, reasoning expression, as if defending his view to a colleague; background of mudbrick academy walls and oil lamps. |
+| `rabba-bar-shmuel.jpg` | Rabba bar Shmuel, Amora · Babylonia | An attentive Babylonian scholar in his 40s with a short dark beard and a careful, reciting expression, as if repeating a tannaitic teaching word for word; background of palm groves along the Euphrates. |
+| `rami-bar-chama.jpg` | Rami bar Ḥama, Amora · Babylonia, 4th century | A keen young Babylonian scholar in his 30s with a short dark beard and a sharp, probing expression, as if pressing a difficult question; background of mudbrick academy walls and oil lamps. |
+| `rabbi-zeira.jpg` | Rabbi Zeira, Amora · Babylonia and the Land of Israel, 3rd–4th century | A gentle, ascetic scholar in his 60s with a thin grey beard and a humble, kindly expression, lean from fasting; background of limestone arches and olive trees. |
+| `rabbi-levi.jpg` | Rabbi Levi, Amora · Land of Israel, 3rd century | A scholar of the Land of Israel in his 50s with a greying beard and an animated, eloquent expression, as if in the middle of a homily; background of a Galilean stone study house in warm lamplight. |
+| `rav-amram.jpg` | Rav Amram, Amora · Babylonia, 3rd century | A Babylonian scholar in his 50s with a dark, greying beard and a probing, questioning expression, as if challenging a ruling he has just heard; background of mudbrick academy walls and oil lamps. |

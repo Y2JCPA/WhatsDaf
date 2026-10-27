@@ -162,6 +162,86 @@
   },
   {
    "masechet": "bekhorot",
+   "daf": 12,
+   "title": "Bekhorot 12",
+   "he": "בכורות י״ב",
+   "preview": {
+    "from": "mishnah",
+    "text": "One may not redeem a firstborn donkey, neither with a calf, nor with an undomesticated animal, nor with a slaughtered an"
+   },
+   "last": {
+    "from": "rava",
+    "text": "Everyone agrees that if one says within thirty days of his son’s birth that he is redeeming him from now, his son is not"
+   },
+   "messages": 99,
+   "members": 18
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 13,
+   "title": "Bekhorot 13",
+   "he": "בכורות י״ג",
+   "preview": {
+    "from": "rav-sheshet",
+    "text": "The mitzva of redeeming a firstborn donkey takes effect immediately after it is born, as is stated in the first baraita."
+   },
+   "last": {
+    "from": "gemara",
+    "text": "And he holds that this statement applies only to a case where a Jew purchases an item from another Jew, as they are assu"
+   },
+   "messages": 77,
+   "members": 12
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 14,
+   "title": "Bekhorot 14",
+   "he": "בכורות י״ד",
+   "preview": {
+    "from": "mishnah",
+    "text": "All sacrificial animals in which a permanent blemish preceded their consecration do not assume inherent sanctity and onl"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "But in light of this difficulty, according to the Rabbis who disagree with Rabbi Shimon in the mishna in Temura, what is"
+   },
+   "messages": 61,
+   "members": 11
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 15,
+   "title": "Bekhorot 15",
+   "he": "בכורות ט״ו",
+   "preview": {
+    "from": "reish-lakish",
+    "text": "According to the Rabbis, animals consecrated for the Temple maintenance were included in the obligation of standing and "
+   },
+   "last": {
+    "from": "gemara",
+    "text": "The phrase: The principle of the matter, in the latter clause, which states that redeemed animals whose consecration pre"
+   },
+   "messages": 63,
+   "members": 12
+  },
+  {
+   "masechet": "bekhorot",
+   "daf": 16,
+   "title": "Bekhorot 16",
+   "he": "בכורות ט״ז",
+   "preview": {
+    "from": "akiva",
+    "text": "Although animals with a minor blemish may not be sacrificed ab initio, if they ascended the altar they shall not descend"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "Rabban Shimon ben Gamliel’s use of the term: Even, indicates that he disagrees with the first tanna only with regard to "
+   },
+   "messages": 63,
+   "members": 12
+  },
+  {
+   "masechet": "bekhorot",
    "daf": 40,
    "title": "Bekhorot 40",
    "he": "בכורות מ׳",
