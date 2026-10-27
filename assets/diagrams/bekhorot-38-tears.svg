@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 470" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Testing constant tears</title>
+  <rect width="640" height="470" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2a3d">Testing constant tears</text>
+  <text x="32" y="68" font-size="13.5" fill="#55627a">The mishna as the Gemara completes it, following Rabbi Yehuda.</text>
+  <text x="32" y="86" font-size="13.5" fill="#55627a">Each case: the animal is fed the fodder and the tears are not healed.</text>
+
+  <rect x="22" y="102" width="596" height="34" rx="8" fill="#dfe6f1"/>
+  <text x="38" y="124" font-size="13.5" font-weight="700" fill="#1f2a3d">Field</text>
+  <text x="250" y="124" font-size="13.5" font-weight="700" fill="#1f2a3d">Order of fodder</text>
+  <text x="470" y="124" font-size="13.5" font-weight="700" fill="#1f2a3d">Ruling</text>
+
+  <rect x="22" y="142" width="596" height="44" rx="8" fill="#fff" stroke="#d9e1ee"/>
+  <text x="38" y="169" font-size="14" fill="#1f2a3d">Watered by rain</text>
+  <text x="250" y="169" font-size="14" fill="#1f2a3d">moist, then dry</text>
+  <text x="470" y="169" font-size="14" font-weight="700" fill="#c0392b">a blemish</text>
+
+  <rect x="22" y="192" width="596" height="44" rx="8" fill="#fff" stroke="#d9e1ee"/>
+  <text x="38" y="219" font-size="14" fill="#1f2a3d">Watered by rain</text>
+  <text x="250" y="219" font-size="14" fill="#1f2a3d">dry, then moist</text>
+  <text x="470" y="219" font-size="14" font-weight="700" fill="#2e7d32">not a blemish</text>
+
+  <rect x="22" y="242" width="596" height="44" rx="8" fill="#fff" stroke="#d9e1ee"/>
+  <text x="38" y="269" font-size="14" fill="#1f2a3d">Irrigated</text>
+  <text x="250" y="269" font-size="14" fill="#1f2a3d">moist and dry</text>
+  <text x="470" y="269" font-size="14" font-weight="700" fill="#2e7d32">not a blemish</text>
+
+  <text x="32" y="322" font-size="15" font-weight="700" fill="#1f2a3d">Three months in all</text>
+  <rect x="32" y="336" width="276" height="54" rx="10" fill="#d7ecd9" stroke="#9cc9a2"/>
+  <text x="170" y="358" font-size="14" font-weight="700" text-anchor="middle" fill="#1f4d26">Moist</text>
+  <text x="170" y="378" font-size="13" text-anchor="middle" fill="#1f4d26">Adar and half of Nisan</text>
+  <rect x="332" y="336" width="276" height="54" rx="10" fill="#f3e2c2" stroke="#d9b877"/>
+  <text x="470" y="358" font-size="14" font-weight="700" text-anchor="middle" fill="#6b4a12">Dry</text>
+  <text x="470" y="378" font-size="13" text-anchor="middle" fill="#6b4a12">Elul and half of Tishrei</text>
+  <text x="32" y="420" font-size="12.5" fill="#55627a">Whether it is fed the dry fodder in Elul and Tishrei, or that produce already in Adar and</text>
+  <text x="32" y="438" font-size="12.5" fill="#55627a">Nisan, is raised as a dilemma and left open on this daf.</text>
+</svg>

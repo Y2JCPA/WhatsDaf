@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 344" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Two parts of the ear</title>
+  <rect width="640" height="344" rx="18" fill="#f3f6fb"/>
+  <text x="24" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Two parts of the ear</text>
+  <text x="287.5" y="80" font-size="13" font-weight="700" fill="#5b6b80" text-anchor="middle">A firstborn’s ear (mishna)</text>
+  <text x="512.5" y="80" font-size="13" font-weight="700" fill="#5b6b80" text-anchor="middle">Piercing a Hebrew slave (baraita)</text>
+  <rect x="20" y="92" width="150" height="100" rx="12" fill="#e8f1fb" stroke="#b9d2ee"/>
+  <text x="95" y="128" font-size="13.5" fill="#2d3a4a" font-weight="700" text-anchor="middle">Upper part</text>
+  <text x="95" y="146" font-size="13.5" fill="#2d3a4a" font-weight="700" text-anchor="middle">cartilage</text>
+  <text x="95" y="164" font-size="13.5" fill="#2d3a4a" font-weight="700" text-anchor="middle">(ḥasḥus)</text>
+  <rect x="180" y="92" width="215" height="100" rx="12" fill="#ffffff" stroke="#b9d2ee"/>
+  <text x="192" y="116" font-size="13" fill="#2d3a4a">Damaged and lacking:</text>
+  <text x="192" y="134" font-size="13" fill="#2d3a4a">a blemish; the firstborn</text>
+  <text x="192" y="152" font-size="13" fill="#2d3a4a">may be slaughtered</text>
+  <rect x="405" y="92" width="215" height="100" rx="12" fill="#ffffff" stroke="#b9d2ee"/>
+  <text x="417" y="116" font-size="13" fill="#2d3a4a">The Rabbis: pierced here;</text>
+  <text x="417" y="134" font-size="13" fill="#2d3a4a">so a slave who is a priest</text>
+  <text x="417" y="152" font-size="13" fill="#2d3a4a">would be blemished and</text>
+  <text x="417" y="170" font-size="13" fill="#2d3a4a">is not pierced</text>
+  <rect x="20" y="202" width="150" height="82" rx="12" fill="#fff4e5" stroke="#f0d3a8"/>
+  <text x="95" y="229" font-size="13.5" fill="#2d3a4a" font-weight="700" text-anchor="middle">Lower part</text>
+  <text x="95" y="247" font-size="13.5" fill="#2d3a4a" font-weight="700" text-anchor="middle">soft lobe</text>
+  <text x="95" y="265" font-size="13.5" fill="#2d3a4a" font-weight="700" text-anchor="middle">(the “skin”)</text>
+  <rect x="180" y="202" width="215" height="82" rx="12" fill="#ffffff" stroke="#f0d3a8"/>
+  <text x="192" y="226" font-size="13" fill="#2d3a4a">Damaged: not a blemish;</text>
+  <text x="192" y="244" font-size="13" fill="#2d3a4a">it heals (Rashi)</text>
+  <rect x="405" y="202" width="215" height="82" rx="12" fill="#ffffff" stroke="#f0d3a8"/>
+  <text x="417" y="226" font-size="13" fill="#2d3a4a">Yudan the Distinguished:</text>
+  <text x="417" y="244" font-size="13" fill="#2d3a4a">slaves are pierced</text>
+  <text x="417" y="262" font-size="13" fill="#2d3a4a">only in the lobe</text>
+  <text x="24" y="312" font-size="12" fill="#6b7a8c">Schematic only. “Skin” is the mishna’s word; Rashi identifies it with the soft lobe.</text>
+  <text x="24" y="328" font-size="12" fill="#6b7a8c">The Rabbis’ “upper part” is the cartilage (Rashi).</text>
+</svg>

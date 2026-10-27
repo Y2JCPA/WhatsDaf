@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 558" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Narrowing “any ill blemish”</title>
+  <rect width="640" height="558" rx="18" fill="#f3f6fb"/>
+  <text x="24" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Narrowing “any ill blemish”</text>
+  <text x="24" y="68" font-size="13" fill="#5b6b80">Deuteronomy 15:21: “any blemish … lameness or blindness … any ill blemish”</text>
+  <text x="30" y="102" font-size="12.5" font-weight="700" fill="#5b6b80">PROPOSED RULE</text>
+  <text x="218" y="102" font-size="12.5" font-weight="700" fill="#5b6b80">MISHNA CASE THAT TESTS IT</text>
+  <text x="422" y="102" font-size="12.5" font-weight="700" fill="#5b6b80">ANSWER</text>
+  <rect x="20" y="112" width="180" height="73" rx="10" fill="#ffffff" stroke="#d5dde8"/>
+  <text x="30" y="134" font-size="13" fill="#2d3a4a">Generalization + detail:</text>
+  <text x="30" y="151" font-size="13" fill="#2d3a4a">only lameness and</text>
+  <text x="30" y="168" font-size="13" fill="#2d3a4a">blindness</text>
+  <rect x="208" y="112" width="196" height="73" rx="10" fill="#fff4e5" stroke="#f0d3a8"/>
+  <text x="218" y="134" font-size="13" fill="#2d3a4a">This mishna: a damaged</text>
+  <text x="218" y="151" font-size="13" fill="#2d3a4a">ear permits slaughter</text>
+  <rect x="412" y="112" width="208" height="73" rx="10" fill="#e8f1fb" stroke="#b9d2ee"/>
+  <text x="422" y="134" font-size="13" fill="#2d3a4a" font-weight="600">“Any ill blemish” generalizes</text>
+  <text x="422" y="151" font-size="13" fill="#2d3a4a" font-weight="600">again: like the detail, i.e.</text>
+  <text x="422" y="168" font-size="13" fill="#2d3a4a" font-weight="600">exposed and not regenerating</text>
+  <text x="203" y="153.5" font-size="14" fill="#9aa7b8" text-anchor="middle">›</text>
+  <text x="407" y="153.5" font-size="14" fill="#9aa7b8" text-anchor="middle">›</text>
+  <rect x="20" y="195" width="180" height="73" rx="10" fill="#ffffff" stroke="#d5dde8"/>
+  <text x="30" y="217" font-size="13" fill="#2d3a4a">Like the detail: exposed,</text>
+  <text x="30" y="234" font-size="13" fill="#2d3a4a">stops its labor, does</text>
+  <text x="30" y="251" font-size="13" fill="#2d3a4a">not regenerate</text>
+  <rect x="208" y="195" width="196" height="73" rx="10" fill="#fff4e5" stroke="#f0d3a8"/>
+  <text x="218" y="217" font-size="13" fill="#2d3a4a">Ear cartilage damaged:</text>
+  <text x="218" y="234" font-size="13" fill="#2d3a4a">a blemish, though it does</text>
+  <text x="218" y="251" font-size="13" fill="#2d3a4a">not stop the animal’s labor</text>
+  <rect x="412" y="195" width="208" height="73" rx="10" fill="#e8f1fb" stroke="#b9d2ee"/>
+  <text x="422" y="217" font-size="13" fill="#2d3a4a" font-weight="600">“Any” is an amplification</text>
+  <text x="203" y="236.5" font-size="14" fill="#9aa7b8" text-anchor="middle">›</text>
+  <text x="407" y="236.5" font-size="14" fill="#9aa7b8" text-anchor="middle">›</text>
+  <rect x="20" y="278" width="180" height="73" rx="10" fill="#ffffff" stroke="#d5dde8"/>
+  <text x="30" y="300" font-size="13" fill="#2d3a4a">Then hidden blemishes</text>
+  <text x="30" y="317" font-size="13" fill="#2d3a4a">count too</text>
+  <rect x="208" y="278" width="196" height="73" rx="10" fill="#fff4e5" stroke="#f0d3a8"/>
+  <text x="218" y="300" font-size="13" fill="#2d3a4a">Internal gums: only if</text>
+  <text x="218" y="317" font-size="13" fill="#2d3a4a">extracted, not if damaged</text>
+  <text x="218" y="334" font-size="13" fill="#2d3a4a">or scratched (39a)</text>
+  <rect x="412" y="278" width="208" height="73" rx="10" fill="#e8f1fb" stroke="#b9d2ee"/>
+  <text x="422" y="300" font-size="13" fill="#2d3a4a" font-weight="600">It must be an “ill” blemish,</text>
+  <text x="422" y="317" font-size="13" fill="#2d3a4a" font-weight="600">exposed; a hidden one is not</text>
+  <text x="203" y="319.5" font-size="14" fill="#9aa7b8" text-anchor="middle">›</text>
+  <text x="407" y="319.5" font-size="14" fill="#9aa7b8" text-anchor="middle">›</text>
+  <rect x="20" y="361" width="180" height="107" rx="10" fill="#ffffff" stroke="#d5dde8"/>
+  <text x="30" y="383" font-size="13" fill="#2d3a4a">Then temporary blemishes</text>
+  <text x="30" y="400" font-size="13" fill="#2d3a4a">count too</text>
+  <rect x="208" y="361" width="196" height="107" rx="10" fill="#fff4e5" stroke="#f0d3a8"/>
+  <text x="218" y="383" font-size="13" fill="#2d3a4a">Ear damaged in the skin:</text>
+  <text x="218" y="400" font-size="13" fill="#2d3a4a">not a blemish</text>
+  <rect x="412" y="361" width="208" height="107" rx="10" fill="#e8f1fb" stroke="#b9d2ee"/>
+  <text x="422" y="383" font-size="13" fill="#2d3a4a" font-weight="600">Logic: an offering is not</text>
+  <text x="422" y="400" font-size="13" fill="#2d3a4a" font-weight="600">redeemed for a temporary</text>
+  <text x="422" y="417" font-size="13" fill="#2d3a4a" font-weight="600">blemish, so a firstborn is not</text>
+  <text x="422" y="434" font-size="13" fill="#2d3a4a" font-weight="600">slaughtered for one. Or: why</text>
+  <text x="422" y="451" font-size="13" fill="#2d3a4a" font-weight="600">else name lame and blind?</text>
+  <text x="203" y="419.5" font-size="14" fill="#9aa7b8" text-anchor="middle">›</text>
+  <text x="407" y="419.5" font-size="14" fill="#9aa7b8" text-anchor="middle">›</text>
+  <rect x="20" y="482" width="600" height="58" rx="12" fill="#e6f4ea" stroke="#a8d5b5"/>
+  <text x="34" y="506" font-size="13.5" fill="#1e5631" font-weight="600">Result: a firstborn is slaughtered for blemishes that are exposed and permanent,</text>
+  <text x="34" y="523" font-size="13.5" fill="#1e5631" font-weight="600">even if the animal can still work; not for hidden or temporary ones.</text>
+</svg>

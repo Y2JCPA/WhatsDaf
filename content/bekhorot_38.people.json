@@ -1,0 +1,64 @@
+{
+  "people": {
+    "rav-tachlifa-bar-avudimi": {
+      "name": "Rav Taḥlifa bar Avudimi",
+      "he": "רב תחליפא בר אבודימי",
+      "era": "Amora · Babylonia",
+      "bio": "Babylonian Amora who reports to Rav Ḥisda Shmuel’s ruling that Beit Hillel’s measure for a deficient skull is a sela.",
+      "color": "#7b5e2a",
+      "initials": "רתב״א",
+      "image": "rav-tachlifa-bar-avudimi.jpg",
+      "prompt": "A composed Babylonian scholar in his 50s with a dark beard touched with grey and a quiet, thoughtful look, in a plain sand-colored wool robe and a cream mantle. Mudbrick academy walls and oil lamps behind him."
+    },
+    "rabbi-yitzchak-bar-avin": {
+      "name": "Rabbi Yitzḥak bar Avin",
+      "he": "רבי יצחק בר אבין",
+      "era": "Amora",
+      "bio": "Amora who explains Ḥizkiyya the father of Ikkesh’s testimony as referring to vessels purified by rinsing.",
+      "color": "#1565c0",
+      "initials": "ריב״א",
+      "image": "rabbi-yitzchak-bar-avin.jpg",
+      "prompt": "A precise, measured scholar in his 50s with a short greying beard and an attentive gaze, in a blue-grey linen robe and a white mantle, a small wooden bowl beside him. Limestone arches and olive trees softly blurred behind him."
+    },
+    "rabbi-shimon-ben-yosei-lakonya": {
+      "name": "Rabbi Shimon ben Yosei Lakonya",
+      "he": "רבי שמעון בן יוסי לקוניא",
+      "era": "Tanna",
+      "bio": "Tanna, an elder of Rabbi Yoḥanan ben Elazar’s neighborhood, whom Rashi describes as a priest.",
+      "color": "#6d4c41",
+      "initials": "רשב״י",
+      "image": "rabbi-shimon-ben-yosei-lakonya.jpg",
+      "prompt": "A dignified elder in his 80s with a long white beard and a kindly, beckoning expression, in a white linen robe and a pale mantle, seated on a stone bench. A quiet Galilean neighborhood lane with olive trees softly blurred behind him."
+    },
+    "rav-idi-bar-avin": {
+      "name": "Rav Idi bar Avin",
+      "he": "רב אידי בר אבין",
+      "era": "Amora · Babylonia",
+      "bio": "Babylonian Amora who transmits Rav Yitzḥak bar Ashiyan’s dating of the moist and dry fodder seasons.",
+      "color": "#2e7d32",
+      "initials": "ראב״א",
+      "image": "rav-idi-bar-avin.jpg",
+      "prompt": "A steady Babylonian scholar in his 50s with a full dark beard and a calm, practical look, in an olive-brown wool robe and a cream mantle. Palm groves along the Euphrates softly blurred behind him."
+    },
+    "rav-yitzchak-bar-ashiyan": {
+      "name": "Rav Yitzḥak bar Ashiyan",
+      "he": "רב יצחק בר אשיאן",
+      "era": "Amora",
+      "bio": "Amora who names Adar and Nisan as the moist season and Elul and Tishrei as the dry one.",
+      "color": "#ad6800",
+      "initials": "ריב״א",
+      "image": "rav-yitzchak-bar-ashiyan.jpg",
+      "prompt": "A weathered scholar in his 60s with a grey beard and sun-creased eyes, in a coarse brown wool robe and a tan mantle, a sheaf of dry straw at his side. Fields under a late-summer sky softly blurred behind him."
+    },
+    "rabbi-pinchas-ben-arova": {
+      "name": "Rabbi Pineḥas ben Arova",
+      "he": "רבי פנחס בן ערובא",
+      "era": "Sage of the Land of Israel",
+      "bio": "Sage in whose name Rabbi Yoḥanan gives the amount of fodder fed to an animal to test its tears.",
+      "color": "#4a5f8a",
+      "initials": "רפב״ע",
+      "image": "rabbi-pinchas-ben-arova.jpg",
+      "prompt": "A gentle scholar in his 60s with a neat grey beard and a patient expression, in an undyed wool robe and a white mantle. Limestone arches and olive trees softly blurred behind him."
+    }
+  }
+}
