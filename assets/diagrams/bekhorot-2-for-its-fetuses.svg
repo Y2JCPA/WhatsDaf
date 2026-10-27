@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 464" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Selling only the future fetuses</title>
+  <rect width="640" height="464" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2a3a">Selling only the future fetuses</text>
+  <text x="32" y="68" font-size="14" fill="#5a6678">A healthy animal, not yet pregnant; the seller keeps the animal itself.</text>
+  <text x="32" y="88" font-size="14" fill="#5a6678">Each side’s ruling on a damaged animal could be read two ways:</text>
+
+  <text x="44" y="124" font-size="13" font-weight="700" fill="#5a6678">IF THE REASON IS…</text>
+  <text x="480" y="124" font-size="13" font-weight="700" fill="#5a6678" text-anchor="middle">SO THE FETUS SALE IS…</text>
+
+  <text x="32" y="152" font-size="16" font-weight="700" fill="#ef6c00">Rabbi Yehuda permits a damaged animal</text>
+  <rect x="24" y="164" width="592" height="56" rx="10" fill="#fff" stroke="#dbe3ee"/>
+  <text x="44" y="187" font-size="14" fill="#1f2a3a">No one will confuse it with a healthy one;</text>
+  <text x="44" y="207" font-size="14" fill="#1f2a3a">but a healthy animal can be confused</text>
+  <rect x="420" y="178" width="120" height="28" rx="14" fill="#fde8e6"/><text x="480" y="197" font-size="14" font-weight="700" fill="#c0392b" text-anchor="middle">prohibited</text>
+  <rect x="24" y="228" width="592" height="56" rx="10" fill="#fff" stroke="#dbe3ee"/>
+  <text x="44" y="251" font-size="14" fill="#1f2a3a">Even an animal sold off entirely is allowed;</text>
+  <text x="44" y="271" font-size="14" fill="#1f2a3a">all the more so one that is not separated from him</text>
+  <rect x="420" y="242" width="120" height="28" rx="14" fill="#e3f3e5"/><text x="480" y="261" font-size="14" font-weight="700" fill="#2e7d32" text-anchor="middle">permitted</text>
+
+  <text x="32" y="316" font-size="16" font-weight="700" fill="#2e7d32">The Rabbis prohibit a damaged animal</text>
+  <rect x="24" y="328" width="592" height="56" rx="10" fill="#fff" stroke="#dbe3ee"/>
+  <text x="44" y="351" font-size="14" fill="#1f2a3a">Because it is sold off entirely;</text>
+  <text x="44" y="371" font-size="14" fill="#1f2a3a">this animal is not separated from him</text>
+  <rect x="420" y="342" width="120" height="28" rx="14" fill="#e3f3e5"/><text x="480" y="361" font-size="14" font-weight="700" fill="#2e7d32" text-anchor="middle">permitted</text>
+  <rect x="24" y="392" width="592" height="56" rx="10" fill="#fff" stroke="#dbe3ee"/>
+  <text x="44" y="415" font-size="14" fill="#1f2a3a">Even with no risk of confusion it is prohibited;</text>
+  <text x="44" y="435" font-size="14" fill="#1f2a3a">all the more so a healthy one, which can be confused</text>
+  <rect x="420" y="406" width="120" height="28" rx="14" fill="#fde8e6"/><text x="480" y="425" font-size="14" font-weight="700" fill="#c0392b" text-anchor="middle">prohibited</text>
+</svg>

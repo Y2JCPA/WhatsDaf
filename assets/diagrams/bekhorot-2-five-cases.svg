@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 470" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Five cases, one rule</title>
+  <rect width="640" height="470" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2a3a">Five cases, one rule</text>
+  <text x="32" y="68" font-size="14" fill="#5a6678">Who owns the mother donkey, and who owns the fetus or offspring?</text>
+
+  <rect x="32" y="84" width="14" height="14" rx="3" fill="#3f7fd0"/><text x="52" y="96" font-size="13" fill="#3d4757">Jew</text>
+  <rect x="96" y="84" width="14" height="14" rx="3" fill="#e08a2e"/><text x="116" y="96" font-size="13" fill="#3d4757">gentile</text>
+  <rect x="180" y="84" width="7" height="14" fill="#3f7fd0"/><rect x="187" y="84" width="7" height="14" fill="#e08a2e"/><text x="200" y="96" font-size="13" fill="#3d4757">shared</text>
+
+  <text x="44" y="128" font-size="13" font-weight="700" fill="#5a6678">THE CASE</text>
+  <text x="404" y="128" font-size="13" font-weight="700" fill="#5a6678" text-anchor="middle">MOTHER</text>
+  <text x="530" y="128" font-size="13" font-weight="700" fill="#5a6678" text-anchor="middle">FETUS</text>
+
+  <g>
+    <rect x="24" y="138" width="592" height="50" rx="10" fill="#fff" stroke="#dbe3ee"/>
+    <text x="44" y="160" font-size="15" font-weight="600" fill="#1f2a3a">1. Buys the fetus from a gentile</text>
+    <text x="44" y="179" font-size="12.5" fill="#6b7686">the mother stays the gentile’s</text>
+    <rect x="354" y="150" width="100" height="26" rx="6" fill="#e08a2e"/><text x="404" y="168" font-size="13" fill="#fff" text-anchor="middle">gentile</text>
+    <rect x="480" y="150" width="100" height="26" rx="6" fill="#3f7fd0"/><text x="530" y="168" font-size="13" fill="#fff" text-anchor="middle">Jew</text>
+  </g>
+  <g>
+    <rect x="24" y="196" width="592" height="50" rx="10" fill="#fff" stroke="#dbe3ee"/>
+    <text x="44" y="218" font-size="15" font-weight="600" fill="#1f2a3a">2. Sells the fetus to a gentile</text>
+    <text x="44" y="237" font-size="12.5" fill="#6b7686">“although he is not permitted”</text>
+    <rect x="354" y="208" width="100" height="26" rx="6" fill="#3f7fd0"/><text x="404" y="226" font-size="13" fill="#fff" text-anchor="middle">Jew</text>
+    <rect x="480" y="208" width="100" height="26" rx="6" fill="#e08a2e"/><text x="530" y="226" font-size="13" fill="#fff" text-anchor="middle">gentile</text>
+  </g>
+  <g>
+    <rect x="24" y="254" width="592" height="50" rx="10" fill="#fff" stroke="#dbe3ee"/>
+    <text x="44" y="276" font-size="15" font-weight="600" fill="#1f2a3a">3. Partners with a gentile</text>
+    <text x="44" y="295" font-size="12.5" fill="#6b7686">they buy the animal together</text>
+    <rect x="354" y="266" width="50" height="26" rx="6" fill="#3f7fd0"/><rect x="398" y="266" width="56" height="26" rx="6" fill="#e08a2e"/><rect x="398" y="266" width="8" height="26" fill="#e08a2e"/><text x="404" y="284" font-size="13" fill="#fff" text-anchor="middle">shared</text>
+    <rect x="480" y="266" width="50" height="26" rx="6" fill="#3f7fd0"/><rect x="524" y="266" width="56" height="26" rx="6" fill="#e08a2e"/><rect x="524" y="266" width="8" height="26" fill="#e08a2e"/><text x="530" y="284" font-size="13" fill="#fff" text-anchor="middle">shared</text>
+  </g>
+  <g>
+    <rect x="24" y="312" width="592" height="50" rx="10" fill="#fff" stroke="#dbe3ee"/>
+    <text x="44" y="334" font-size="15" font-weight="600" fill="#1f2a3a">4. Receives a gentile’s donkey to tend</text>
+    <text x="44" y="353" font-size="12.5" fill="#6b7686">paid with a share of the offspring</text>
+    <rect x="354" y="324" width="100" height="26" rx="6" fill="#e08a2e"/><text x="404" y="342" font-size="13" fill="#fff" text-anchor="middle">gentile</text>
+    <rect x="480" y="324" width="50" height="26" rx="6" fill="#3f7fd0"/><rect x="524" y="324" width="56" height="26" rx="6" fill="#e08a2e"/><rect x="524" y="324" width="8" height="26" fill="#e08a2e"/><text x="530" y="342" font-size="13" fill="#fff" text-anchor="middle">shared</text>
+  </g>
+  <g>
+    <rect x="24" y="370" width="592" height="50" rx="10" fill="#fff" stroke="#dbe3ee"/>
+    <text x="44" y="392" font-size="15" font-weight="600" fill="#1f2a3a">5. Gives his donkey to a gentile to tend</text>
+    <text x="44" y="411" font-size="12.5" fill="#6b7686">“in receivership”</text>
+    <rect x="354" y="382" width="100" height="26" rx="6" fill="#3f7fd0"/><text x="404" y="400" font-size="13" fill="#fff" text-anchor="middle">Jew</text>
+    <rect x="480" y="382" width="50" height="26" rx="6" fill="#3f7fd0"/><rect x="524" y="382" width="56" height="26" rx="6" fill="#e08a2e"/><rect x="524" y="382" width="8" height="26" fill="#e08a2e"/><text x="530" y="400" font-size="13" fill="#fff" text-anchor="middle">shared</text>
+  </g>
+
+  <text x="320" y="450" font-size="15" font-weight="700" fill="#2e7d32" text-anchor="middle">All five: exempt from firstborn status · “in Israel,” but not among others</text>
+</svg>
