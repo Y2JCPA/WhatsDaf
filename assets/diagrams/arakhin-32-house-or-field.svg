@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" width="640" height="640" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <rect width="640" height="640" rx="18" fill="#f3f6fb"/>
+  <text x="320" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2a3a">Inside the city wall</text>
+  <text x="320" y="70" text-anchor="middle" font-size="14" fill="#55627a">Like the houses of a walled city, or like fields? (32a)</text>
+
+  <!-- headers -->
+  <text x="34" y="106" font-size="13" font-weight="700" fill="#2e5aa8">Within the wall</text>
+  <text x="350" y="106" text-anchor="middle" font-size="13" font-weight="700" fill="#2e5aa8">Rabbi Yehuda</text>
+  <text x="530" y="106" text-anchor="middle" font-size="13" font-weight="700" fill="#2e5aa8">Rabbi Meir</text>
+
+  <!-- row 1: house -->
+  <rect x="24" y="118" width="592" height="52" rx="10" fill="#ffffff" stroke="#c9d3e3"/>
+  <text x="38" y="149" font-size="15" font-weight="700" fill="#1f2a3a">A house</text>
+  <rect x="266" y="128" width="168" height="32" rx="8" fill="#dff1e3"/>
+  <text x="350" y="149" text-anchor="middle" font-size="13" font-weight="600" fill="#1d6b35">like houses</text>
+  <rect x="446" y="128" width="168" height="32" rx="8" fill="#dff1e3"/>
+  <text x="530" y="149" text-anchor="middle" font-size="13" font-weight="600" fill="#1d6b35">like houses</text>
+
+  <!-- row 2: presses etc -->
+  <rect x="24" y="176" width="592" height="78" rx="10" fill="#ffffff" stroke="#c9d3e3"/>
+  <text x="38" y="200" font-size="14" font-weight="700" fill="#1f2a3a">Olive presses, bathhouses,</text>
+  <text x="38" y="218" font-size="14" font-weight="700" fill="#1f2a3a">towers, dovecotes, pits,</text>
+  <text x="38" y="236" font-size="14" font-weight="700" fill="#1f2a3a">ditches, caves</text>
+  <rect x="266" y="186" width="168" height="58" rx="8" fill="#dff1e3"/>
+  <text x="350" y="209" text-anchor="middle" font-size="13" font-weight="600" fill="#1d6b35">included</text>
+  <text x="350" y="228" text-anchor="middle" font-size="12" fill="#1d6b35">“that is in the city”</text>
+  <rect x="446" y="186" width="168" height="58" rx="8" fill="#dff1e3"/>
+  <text x="530" y="209" text-anchor="middle" font-size="13" font-weight="600" fill="#1d6b35">included</text>
+  <text x="530" y="228" text-anchor="middle" font-size="12" fill="#1d6b35">“that is in the city”</text>
+
+  <!-- row 3: quarry -->
+  <rect x="24" y="260" width="592" height="78" rx="10" fill="#ffffff" stroke="#c9d3e3"/>
+  <text x="38" y="290" font-size="14" font-weight="700" fill="#1f2a3a">A quarry and a sand bed</text>
+  <text x="38" y="309" font-size="12" fill="#55627a">the dispute, per Rav Ḥisda</text>
+  <text x="38" y="325" font-size="12" fill="#55627a">citing Rav Ketina, and a baraita</text>
+  <rect x="266" y="270" width="168" height="58" rx="8" fill="#fde9d6"/>
+  <text x="350" y="304" text-anchor="middle" font-size="13" font-weight="600" fill="#8a4a00">like fields</text>
+  <rect x="446" y="270" width="168" height="58" rx="8" fill="#dff1e3"/>
+  <text x="530" y="304" text-anchor="middle" font-size="13" font-weight="600" fill="#1d6b35">like houses</text>
+
+  <!-- row 4: fields -->
+  <rect x="24" y="344" width="592" height="96" rx="10" fill="#ffffff" stroke="#c9d3e3"/>
+  <text x="38" y="378" font-size="14" font-weight="700" fill="#1f2a3a">Fields</text>
+  <rect x="266" y="354" width="168" height="76" rx="8" fill="#fde9d6"/>
+  <text x="350" y="385" text-anchor="middle" font-size="13" font-weight="600" fill="#8a4a00">excluded</text>
+  <text x="350" y="404" text-anchor="middle" font-size="12" fill="#8a4a00">“house”</text>
+  <rect x="446" y="352" width="168" height="80" rx="8" fill="#fff6d9"/>
+  <text x="530" y="372" text-anchor="middle" font-size="12" fill="#6b5400">his baraita: “even fields”</text>
+  <text x="530" y="391" text-anchor="middle" font-size="12" fill="#6b5400">Rav Ḥisda: “house”</text>
+  <text x="530" y="407" text-anchor="middle" font-size="12" fill="#6b5400">excludes a field</text>
+  <text x="530" y="422" text-anchor="middle" font-size="12" fill="#6b5400">for everyone</text>
+
+  <!-- panel: house in the wall -->
+  <text x="320" y="476" text-anchor="middle" font-size="16" font-weight="700" fill="#1f2a3a">A house built into the wall (mishna)</text>
+  <rect x="24" y="490" width="290" height="100" rx="12" fill="#fde9d6" stroke="#e8c39e"/>
+  <text x="169" y="514" text-anchor="middle" font-size="14" font-weight="700" fill="#8a4a00">Rabbi Yehuda</text>
+  <text x="169" y="536" text-anchor="middle" font-size="12.5" fill="#1f2a3a">not like the houses of walled cities:</text>
+  <text x="169" y="556" text-anchor="middle" font-size="12.5" fill="#1f2a3a">“she dwelt upon the wall,”</text>
+  <text x="169" y="574" text-anchor="middle" font-size="12.5" fill="#1f2a3a">not in the walled city</text>
+  <rect x="326" y="490" width="290" height="100" rx="12" fill="#dff1e3" stroke="#a9d4b4"/>
+  <text x="471" y="514" text-anchor="middle" font-size="14" font-weight="700" fill="#1d6b35">Rabbi Shimon</text>
+  <text x="471" y="536" text-anchor="middle" font-size="12.5" fill="#1f2a3a">the outer wall of the house</text>
+  <text x="471" y="556" text-anchor="middle" font-size="12.5" fill="#1f2a3a">is the city wall: the simple</text>
+  <text x="471" y="574" text-anchor="middle" font-size="12.5" fill="#1f2a3a">meaning of the verse</text>
+  <text x="320" y="618" text-anchor="middle" font-size="12.5" fill="#55627a">Rabbi Yoḥanan: both derive it from one verse, Joshua 2:15.</text>
+</svg>

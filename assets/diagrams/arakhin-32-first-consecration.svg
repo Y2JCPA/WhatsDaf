@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 600" width="640" height="600" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <rect width="640" height="600" rx="18" fill="#f3f6fb"/>
+  <text x="320" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2a3a">Joshua’s consecration of the land</text>
+  <text x="320" y="70" text-anchor="middle" font-size="14" fill="#55627a">Did the first consecration last forever? (32b)</text>
+
+  <!-- column headers -->
+  <rect x="24" y="88" width="290" height="44" rx="12" fill="#fde9d6" stroke="#e8c39e"/>
+  <text x="169" y="116" text-anchor="middle" font-size="15" font-weight="700" fill="#8a4a00">For its time, not forever</text>
+  <rect x="326" y="88" width="290" height="44" rx="12" fill="#dff1e3" stroke="#a9d4b4"/>
+  <text x="471" y="116" text-anchor="middle" font-size="15" font-weight="700" fill="#1d6b35">For its time and forever</text>
+
+  <!-- row: who -->
+  <text x="320" y="158" text-anchor="middle" font-size="12" font-weight="700" fill="#2e5aa8">WHO SAYS SO</text>
+  <rect x="24" y="166" width="290" height="64" rx="10" fill="#ffffff" stroke="#c9d3e3"/>
+  <text x="169" y="192" text-anchor="middle" font-size="12.5" fill="#1f2a3a">Rabbi Yishmael son of Rabbi Yosei</text>
+  <text x="169" y="211" text-anchor="middle" font-size="12.5" fill="#1f2a3a">(the first baraita)</text>
+  <rect x="326" y="166" width="290" height="64" rx="10" fill="#ffffff" stroke="#c9d3e3"/>
+  <text x="471" y="186" text-anchor="middle" font-size="12.5" fill="#1f2a3a">Rabbi Yishmael son of Rabbi Yosei</text>
+  <text x="471" y="203" text-anchor="middle" font-size="12.5" fill="#1f2a3a">(the second baraita), or else</text>
+  <text x="471" y="220" text-anchor="middle" font-size="12.5" fill="#1f2a3a">Rabbi Elazar bar Yosei</text>
+
+  <!-- row: the mishna's cities -->
+  <text x="320" y="256" text-anchor="middle" font-size="12" font-weight="700" fill="#2e5aa8">THE CITIES IN THE MISHNA</text>
+  <rect x="24" y="264" width="290" height="82" rx="10" fill="#ffffff" stroke="#c9d3e3"/>
+  <text x="169" y="288" text-anchor="middle" font-size="12.5" fill="#1f2a3a">the returning exiles found these and</text>
+  <text x="169" y="306" text-anchor="middle" font-size="12.5" fill="#1f2a3a">sanctified them; the first walled</text>
+  <text x="169" y="324" text-anchor="middle" font-size="12.5" fill="#1f2a3a">cities were nullified with the land</text>
+  <rect x="326" y="264" width="290" height="82" rx="10" fill="#ffffff" stroke="#c9d3e3"/>
+  <text x="471" y="284" text-anchor="middle" font-size="12.5" fill="#1f2a3a">they found these and counted them;</text>
+  <text x="471" y="301" text-anchor="middle" font-size="12.5" fill="#1f2a3a">any city with a tradition of a wall</text>
+  <text x="471" y="318" text-anchor="middle" font-size="12.5" fill="#1f2a3a">from Joshua’s days keeps all</text>
+  <text x="471" y="335" text-anchor="middle" font-size="12.5" fill="#1f2a3a">these mitzvot</text>
+
+  <!-- row: Nehemiah -->
+  <text x="320" y="372" text-anchor="middle" font-size="12" font-weight="700" fill="#2e5aa8">“FOR SINCE THE DAYS OF JOSHUA” (NEHEMIAH 8:17)</text>
+  <rect x="24" y="380" width="290" height="82" rx="10" fill="#ffffff" stroke="#c9d3e3"/>
+  <text x="169" y="400" text-anchor="middle" font-size="12.5" fill="#1f2a3a">their arrival in Ezra’s days is like</text>
+  <text x="169" y="417" text-anchor="middle" font-size="12.5" fill="#1f2a3a">Joshua’s: they counted Sabbatical</text>
+  <text x="169" y="434" text-anchor="middle" font-size="12.5" fill="#1f2a3a">and Jubilee Years and sanctified</text>
+  <text x="169" y="451" text-anchor="middle" font-size="12.5" fill="#1f2a3a">walled cities</text>
+  <rect x="326" y="380" width="290" height="82" rx="10" fill="#ffffff" stroke="#c9d3e3"/>
+  <text x="471" y="400" text-anchor="middle" font-size="12.5" fill="#1f2a3a">Ezra prayed about the inclination</text>
+  <text x="471" y="417" text-anchor="middle" font-size="12.5" fill="#1f2a3a">of idol worship and nullified it;</text>
+  <text x="471" y="434" text-anchor="middle" font-size="12.5" fill="#1f2a3a">the merit protected them</text>
+  <text x="471" y="451" text-anchor="middle" font-size="12.5" fill="#1f2a3a">like a sukka</text>
+
+  <!-- row: Deuteronomy -->
+  <text x="320" y="488" text-anchor="middle" font-size="12" font-weight="700" fill="#2e5aa8">“YOUR FATHERS POSSESSED, AND YOU SHALL POSSESS IT” (DEUT. 30:5)</text>
+  <rect x="24" y="496" width="290" height="82" rx="10" fill="#ffffff" stroke="#c9d3e3"/>
+  <text x="169" y="522" text-anchor="middle" font-size="12.5" fill="#1f2a3a">your possession is like your</text>
+  <text x="169" y="540" text-anchor="middle" font-size="12.5" fill="#1f2a3a">fathers’: with the renewal of</text>
+  <text x="169" y="558" text-anchor="middle" font-size="12.5" fill="#1f2a3a">all these matters</text>
+  <rect x="326" y="496" width="290" height="82" rx="10" fill="#ffffff" stroke="#c9d3e3"/>
+  <text x="471" y="531" text-anchor="middle" font-size="12.5" fill="#1f2a3a">since your fathers possessed it,</text>
+  <text x="471" y="549" text-anchor="middle" font-size="12.5" fill="#1f2a3a">you possess it</text>
+</svg>
