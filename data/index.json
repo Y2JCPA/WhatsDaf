@@ -1039,6 +1039,86 @@
    },
    "messages": 72,
    "members": 23
+  },
+  {
+   "masechet": "arakhin",
+   "daf": 7,
+   "title": "Arakhin 7",
+   "he": "ערכין ז׳",
+   "preview": {
+    "from": "rav-yosef",
+    "text": "Everyone agrees that his execution may not be delayed. Rather, they disagree as to whether or not one who is owed money "
+   },
+   "last": {
+    "from": "gemara",
+    "text": "Then, at the time he gave one sela for payment of the first vow, he in fact had no more than one sela, as he had given t"
+   },
+   "messages": 91,
+   "members": 21
+  },
+  {
+   "masechet": "arakhin",
+   "daf": 8,
+   "title": "Arakhin 8",
+   "he": "ערכין ח׳",
+   "preview": {
+    "from": "rav-adda-bar-ahava",
+    "text": "If one had in his possession five sela and he said: It is hereby incumbent upon me to donate my valuation twice, and con"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "What is different about nine months, in that the Sages did not deem it appropriate to establish that many full months in"
+   },
+   "messages": 54,
+   "members": 10
+  },
+  {
+   "masechet": "arakhin",
+   "daf": 9,
+   "title": "Arakhin 9",
+   "he": "ערכין ט׳",
+   "preview": {
+    "from": "ulla",
+    "text": "The mishna means that it did not seem appropriate to the Sages to establish more than eight deficient, twenty-nine-day m"
+   },
+   "last": {
+    "from": "rabbi-shimon-berabbi",
+    "text": "Perhaps last year was a leap year…"
+   },
+   "messages": 50,
+   "members": 12
+  },
+  {
+   "masechet": "arakhin",
+   "daf": 10,
+   "title": "Arakhin 10",
+   "he": "ערכין י׳",
+   "preview": {
+    "from": "rabbi-shimon-berabbi",
+    "text": "…and the month that was intercalated, added for the leap year, was thirty days, and last year we turned two months that "
+   },
+   "last": {
+    "from": "rava-bar-sheila",
+    "text": "There was an instrument called magreifa in the Temple."
+   },
+   "messages": 71,
+   "members": 24
+  },
+  {
+   "masechet": "arakhin",
+   "daf": 11,
+   "title": "Arakhin 11",
+   "he": "ערכין י״א",
+   "preview": {
+    "from": "shmuel",
+    "text": "There were ten holes in it and each and every one would emit ten types of tone. It therefore emerges that the entire ins"
+   },
+   "last": {
+    "from": "rav-mari-brei-derav-kahana",
+    "text": "And just as this peace offering has a set time when it must be brought, so too, the burnt offering that must be accompan"
+   },
+   "messages": 79,
+   "members": 26
   }
  ]
 }
