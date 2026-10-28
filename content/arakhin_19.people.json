@@ -1,0 +1,14 @@
+{
+  "people": {
+    "rachava": {
+      "name": "Raḥava",
+      "he": "רחבה",
+      "era": "Amora · Pumbedita, 3rd–4th century",
+      "bio": "Babylonian Amora of Pumbedita, who often transmits teachings in the name of Rav Yehuda.",
+      "color": "#5d4037",
+      "initials": "רח",
+      "image": "rachava.jpg",
+      "prompt": "A practical Babylonian scholar in his 50s with a dark beard touched with grey and a plain brown mantle, gesturing toward a merchant’s balance scale; background of a Pumbedita market stall with jars of pitch and mudbrick walls."
+    }
+  }
+}

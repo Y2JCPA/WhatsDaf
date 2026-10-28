@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 600" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+<title>How far is yad, how far is regel?</title>
+<rect width="640" height="600" rx="18" fill="#f3f6fb"/>
+<text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">How far is <tspan font-style="italic">yad</tspan>, how far is <tspan font-style="italic">regel</tspan>?</text>
+<text x="32" y="70" font-size="14" fill="#56657a">The same word reaches different points, depending on where it is used</text>
+
+<!-- YAD -->
+<rect x="20" y="88" width="600" height="230" rx="12" fill="#fff" stroke="#dbe3ee"/>
+<text x="32" y="116" font-size="16" font-weight="700" fill="#1f2d3d"><tspan font-style="italic">Yad</tspan> · hand, arm</text>
+<line x1="60" y1="146" x2="600" y2="146" stroke="#9aa7b8" stroke-width="2"/>
+<g font-size="12" fill="#56657a" text-anchor="middle">
+<circle cx="60" cy="146" r="5" fill="#9aa7b8"/><text x="60" y="168">hand</text>
+<circle cx="220" cy="146" r="5" fill="#9aa7b8"/><text x="220" y="168">wrist</text>
+<circle cx="400" cy="146" r="5" fill="#9aa7b8"/><text x="400" y="168">elbow</text>
+<circle cx="560" cy="146" r="5" fill="#9aa7b8"/><text x="560" y="168">biceps</text>
+</g>
+<rect x="60" y="184" width="160" height="12" rx="6" fill="#9a4a2f"/>
+<text x="232" y="195" font-size="13" font-weight="700" fill="#9a4a2f">Sanctifying hands and feet in the Temple</text>
+<text x="232" y="211" font-size="11.5" fill="#56657a">up to the wrist: a <tspan font-style="italic">halakha</tspan> learned by tradition</text>
+<rect x="60" y="226" width="340" height="12" rx="6" fill="#2f5d9a"/>
+<text x="412" y="237" font-size="13" font-weight="700" fill="#2f5d9a">Vows</text>
+<text x="412" y="253" font-size="11.5" fill="#56657a">language of people: to the elbow</text>
+<rect x="60" y="268" width="520" height="12" rx="6" fill="#2e7d32"/>
+<text x="60" y="300" font-size="13" font-weight="700" fill="#2e7d32">The Torah: “upon your hand,” tefillin</text>
+<text x="322" y="300" font-size="11.5" fill="#56657a">school of Menashe: the entire biceps</text>
+
+<!-- REGEL -->
+<rect x="20" y="330" width="600" height="230" rx="12" fill="#fff" stroke="#dbe3ee"/>
+<text x="32" y="358" font-size="16" font-weight="700" fill="#1f2d3d"><tspan font-style="italic">Regel</tspan> · foot, leg</text>
+<line x1="60" y1="388" x2="600" y2="388" stroke="#9aa7b8" stroke-width="2"/>
+<g font-size="12" fill="#56657a" text-anchor="middle">
+<circle cx="60" cy="388" r="5" fill="#9aa7b8"/><text x="60" y="410">foot</text>
+<circle cx="220" cy="388" r="5" fill="#9aa7b8"/><text x="220" y="410">ankle</text>
+<circle cx="400" cy="388" r="5" fill="#9aa7b8"/><text x="400" y="410">knee</text>
+<circle cx="560" cy="388" r="5" fill="#9aa7b8"/><text x="560" y="410">above the knee</text>
+</g>
+<rect x="60" y="426" width="160" height="12" rx="6" fill="#2e7d32"/>
+<text x="232" y="437" font-size="13" font-weight="700" fill="#2e7d32">The Torah: “three <tspan font-style="italic">regalim</tspan>,” the Festivals</text>
+<text x="232" y="453" font-size="11.5" fill="#56657a">below the ankle: one with artificial legs is exempt</text>
+<rect x="60" y="468" width="340" height="12" rx="6" fill="#2f5d9a"/>
+<text x="412" y="479" font-size="13" font-weight="700" fill="#2f5d9a">Vows</text>
+<text x="412" y="495" font-size="11.5" fill="#56657a">language of people: to the knee</text>
+<rect x="60" y="510" width="340" height="12" rx="6" fill="#9a4a2f"/>
+<text x="412" y="521" font-size="13" font-weight="700" fill="#9a4a2f"><tspan font-style="italic">Ḥalitza</tspan>: “from upon his foot”</text>
+<text x="412" y="537" font-size="11.5" fill="#56657a">to the knee; above it is “from</text>
+<text x="412" y="551" font-size="11.5" fill="#56657a">upon that which is from upon”</text>
+
+<text x="32" y="584" font-size="11.5" fill="#7a879a">Rabbi Yehuda’s barrel goes by vows: the forearm to the elbow, the leg to the knee.</text>
+</svg>

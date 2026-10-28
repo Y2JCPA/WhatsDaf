@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 470" width="640" height="470" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <rect width="640" height="470" rx="18" fill="#f3f6fb"/>
+  <text x="320" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2a3a">Offering brought for another: consent?</text>
+  <text x="320" y="70" text-anchor="middle" font-size="14" fill="#55627a">“It is incumbent upon me to bring the offering of so-and-so” (21a–b)</text>
+
+  <!-- column headers -->
+  <text x="300" y="112" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2a3a">At separation</text>
+  <text x="300" y="130" text-anchor="middle" font-size="12" fill="#55627a">when the animal is set aside</text>
+  <text x="510" y="112" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2a3a">At atonement</text>
+  <text x="510" y="130" text-anchor="middle" font-size="12" fill="#55627a">when it is sacrificed</text>
+
+  <!-- Shmuel block -->
+  <rect x="24" y="146" width="592" height="122" rx="12" fill="#ffffff" stroke="#c9d3e3"/>
+  <text x="40" y="172" font-size="16" font-weight="700" fill="#2e5aa8">Shmuel</text>
+  <text x="40" y="208" font-size="14" fill="#1f2a3a">Sin and guilt offerings</text>
+  <text x="40" y="248" font-size="14" fill="#1f2a3a">Burnt and peace offerings</text>
+  <rect x="220" y="188" width="160" height="30" rx="8" fill="#dff1e3"/>
+  <text x="300" y="208" text-anchor="middle" font-size="14" font-weight="600" fill="#1d6b35">consent needed</text>
+  <rect x="430" y="188" width="160" height="30" rx="8" fill="#dff1e3"/>
+  <text x="510" y="208" text-anchor="middle" font-size="14" font-weight="600" fill="#1d6b35">consent needed</text>
+  <rect x="220" y="228" width="160" height="30" rx="8" fill="#dff1e3"/>
+  <text x="300" y="248" text-anchor="middle" font-size="14" font-weight="600" fill="#1d6b35">consent needed</text>
+  <rect x="430" y="228" width="160" height="30" rx="8" fill="#fbe3e3"/>
+  <text x="510" y="248" text-anchor="middle" font-size="14" font-weight="600" fill="#9b2c2c">not needed</text>
+
+  <!-- Ulla block -->
+  <rect x="24" y="282" width="592" height="122" rx="12" fill="#ffffff" stroke="#c9d3e3"/>
+  <text x="40" y="308" font-size="16" font-weight="700" fill="#2e5aa8">Ulla</text>
+  <text x="40" y="344" font-size="14" fill="#1f2a3a">Sin and guilt offerings</text>
+  <text x="40" y="384" font-size="14" fill="#1f2a3a">Burnt and peace offerings</text>
+  <rect x="220" y="324" width="160" height="30" rx="8" fill="#dff1e3"/>
+  <text x="300" y="344" text-anchor="middle" font-size="14" font-weight="600" fill="#1d6b35">consent needed</text>
+  <rect x="430" y="324" width="160" height="30" rx="8" fill="#dff1e3"/>
+  <text x="510" y="344" text-anchor="middle" font-size="14" font-weight="600" fill="#1d6b35">consent needed</text>
+  <rect x="220" y="364" width="160" height="30" rx="8" fill="#fbe3e3"/>
+  <text x="300" y="384" text-anchor="middle" font-size="14" font-weight="600" fill="#9b2c2c">not needed</text>
+  <rect x="430" y="364" width="160" height="30" rx="8" fill="#dff1e3"/>
+  <text x="510" y="384" text-anchor="middle" font-size="14" font-weight="600" fill="#1d6b35">consent needed</text>
+
+  <text x="320" y="430" text-anchor="middle" font-size="12.5" fill="#55627a">Rav Pappa: each reads the first baraita (21a–b) and the second (21b) at opposite stages.</text>
+  <text x="320" y="450" text-anchor="middle" font-size="12.5" fill="#55627a">Shmuel’s reason: a person may not want atonement through what is not his own (21a).</text>
+</svg>

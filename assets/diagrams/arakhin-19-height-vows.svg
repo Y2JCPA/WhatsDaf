@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 520" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+<title>Vowing one’s height</title>
+<rect width="640" height="520" rx="18" fill="#f3f6fb"/>
+<text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Vowing one’s height</text>
+<text x="32" y="70" font-size="14" fill="#56657a">A rod as long as he is tall: must it be one that cannot bend?</text>
+
+<text x="32" y="104" font-size="11" font-weight="700" fill="#7a879a">THE VOW</text>
+<text x="200" y="104" font-size="11" font-weight="700" fill="#2f5d9a">RAV YEHUDA</text>
+<text x="420" y="104" font-size="11" font-weight="700" fill="#9a4a2f">THE BARAITA (TOSEFTA 3:1)</text>
+
+<rect x="20" y="116" width="600" height="104" rx="12" fill="#fff" stroke="#dbe3ee"/>
+<text x="32" y="146" font-size="16" font-weight="700" fill="#1f2d3d">“My height</text>
+<text x="32" y="166" font-size="16" font-weight="700" fill="#1f2d3d">is upon me”</text>
+<line x1="188" y1="128" x2="188" y2="208" stroke="#e1e6ee"/>
+<line x1="408" y1="128" x2="408" y2="208" stroke="#e1e6ee"/>
+<rect x="200" y="140" width="190" height="12" rx="3" fill="#2f5d9a"/>
+<text x="200" y="176" font-size="13.5" font-weight="700" fill="#2f5d9a">A thick rod that</text>
+<text x="200" y="194" font-size="13.5" font-weight="700" fill="#2f5d9a">cannot be bent</text>
+<rect x="420" y="140" width="190" height="12" rx="3" fill="#9a4a2f"/>
+<text x="420" y="176" font-size="13.5" font-weight="700" fill="#9a4a2f">A thick rod that</text>
+<text x="420" y="194" font-size="13.5" font-weight="700" fill="#9a4a2f">cannot be bent</text>
+
+<rect x="20" y="230" width="600" height="120" rx="12" fill="#fff" stroke="#dbe3ee"/>
+<text x="32" y="260" font-size="16" font-weight="700" fill="#1f2d3d">“My full height</text>
+<text x="32" y="280" font-size="16" font-weight="700" fill="#1f2d3d">is upon me”</text>
+<line x1="188" y1="242" x2="188" y2="338" stroke="#e1e6ee"/>
+<line x1="408" y1="242" x2="408" y2="338" stroke="#e1e6ee"/>
+<path d="M200 258 C 232 244, 264 272, 296 258 S 360 244, 390 258" fill="none" stroke="#2f5d9a" stroke-width="3" stroke-linecap="round"/>
+<text x="200" y="290" font-size="13.5" font-weight="700" fill="#2f5d9a">Even a thin rod</text>
+<text x="200" y="308" font-size="13.5" font-weight="700" fill="#2f5d9a">that can be bent</text>
+<text x="200" y="328" font-size="11.5" fill="#56657a">the extra word “full” adds</text>
+<rect x="420" y="252" width="190" height="12" rx="3" fill="#9a4a2f"/>
+<text x="420" y="290" font-size="13.5" font-weight="700" fill="#9a4a2f">A thick rod that</text>
+<text x="420" y="308" font-size="13.5" font-weight="700" fill="#9a4a2f">cannot be bent</text>
+<text x="420" y="328" font-size="11.5" fill="#56657a">no different from “my height”</text>
+
+<rect x="20" y="360" width="600" height="104" rx="12" fill="#fff" stroke="#dbe3ee"/>
+<text x="32" y="388" font-size="11" font-weight="700" fill="#7a879a">DILEMMAS THAT SHALL STAND (TEIKU)</text>
+<g font-size="13.5" font-weight="700" fill="#1f2d3d">
+<rect x="32" y="402" width="98" height="30" rx="15" fill="#eef1f6" stroke="#cfd7e3"/>
+<text x="81" y="422" text-anchor="middle">my stature</text>
+<rect x="142" y="402" width="98" height="30" rx="15" fill="#eef1f6" stroke="#cfd7e3"/>
+<text x="191" y="422" text-anchor="middle">my width</text>
+<rect x="252" y="402" width="98" height="30" rx="15" fill="#eef1f6" stroke="#cfd7e3"/>
+<text x="301" y="422" text-anchor="middle">my sitting</text>
+<rect x="362" y="402" width="118" height="30" rx="15" fill="#eef1f6" stroke="#cfd7e3"/>
+<text x="421" y="422" text-anchor="middle">my thickness</text>
+<rect x="492" y="402" width="116" height="30" rx="15" fill="#eef1f6" stroke="#cfd7e3"/>
+<text x="550" y="422" text-anchor="middle">my girth</text>
+</g>
+<text x="32" y="452" font-size="11.5" fill="#56657a">What rod does each wording imply? The Gemara does not say.</text>
+
+<text x="32" y="488" font-size="11.5" fill="#7a879a">Rav Yehuda follows Rabbi Akiva: words one need not have said come to add something,</text>
+<text x="32" y="504" font-size="11.5" fill="#7a879a">as with the seller who wrote “excluding these,” the pit and the cistern (Bava Batra 64a).</text>
+</svg>
