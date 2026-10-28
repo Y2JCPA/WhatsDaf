@@ -1,0 +1,14 @@
+{
+  "people": {
+    "rabbi-dostai-ben-yehuda": {
+      "name": "Rabbi Dostai ben Yehuda",
+      "he": "רבי דוסתאי בן יהודה",
+      "era": "Tanna · late 2nd century",
+      "bio": "Tanna of the generation of Rabbi Yehuda HaNasi, cited in baraitot.",
+      "color": "#37474f",
+      "initials": "רדב״י",
+      "image": "rabbi-dostai-ben-yehuda.jpg",
+      "prompt": "A sage of the Land of Israel in his 50s with a greying dark beard and a plain wool mantle, a precise and measured expression as he weighs a point of exegesis; background of terraced Galilean fields and a stone study house."
+    }
+  }
+}
