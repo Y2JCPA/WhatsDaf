@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 690" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>One verse, many lessons</title>
+  <rect width="640" height="690" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">One verse, many lessons</text>
+  <text x="32" y="68" font-size="13" fill="#5b6b7d">Leviticus 27 in the baraita on 4a–b, as the Gemara’s review settles it</text>
+
+  <!-- Row 1 -->
+  <rect x="20" y="84" width="600" height="78" rx="10" fill="#fff" stroke="#d5deea"/>
+  <rect x="20" y="84" width="180" height="78" rx="10" fill="#dde6f2"/>
+  <text x="110" y="116" font-size="20" font-weight="700" fill="#1f2d3d" text-anchor="middle">בערכך</text>
+  <text x="110" y="138" font-size="12" fill="#3d4f63" text-anchor="middle">“according to your valuation”</text>
+  <text x="216" y="108" font-size="14" fill="#1f2d3d">• An unspecified valuation (three shekels)</text>
+  <text x="216" y="128" font-size="14" fill="#1f2d3d">• The whole self, not the value of a limb</text>
+  <text x="216" y="149" font-size="12" fill="#5b6b7d">Two lessons: it could have said just “valuation” (ערך).</text>
+
+  <!-- Row 2 -->
+  <rect x="20" y="170" width="600" height="96" rx="10" fill="#fff" stroke="#d5deea"/>
+  <rect x="20" y="170" width="180" height="96" rx="10" fill="#dde6f2"/>
+  <text x="110" y="210" font-size="20" font-weight="700" fill="#1f2d3d" text-anchor="middle">נפש</text>
+  <text x="110" y="232" font-size="12" fill="#3d4f63" text-anchor="middle">“person”, the word itself</text>
+  <text x="216" y="194" font-size="14" fill="#1f2d3d">• A vital limb: he pays the valuation of his whole self</text>
+  <text x="216" y="214" font-size="14" fill="#1f2d3d">• One person who valuates a hundred people</text>
+  <text x="216" y="234" font-size="14" fill="#1f2d3d">• A woman who valuates a man or a woman</text>
+  <text x="216" y="254" font-size="12" fill="#5b6b7d">These lessons are equal, so all come from the word “person”.</text>
+
+  <!-- Row 3 -->
+  <rect x="20" y="274" width="600" height="64" rx="10" fill="#fff" stroke="#d5deea"/>
+  <rect x="20" y="274" width="180" height="64" rx="10" fill="#dde6f2"/>
+  <text x="110" y="302" font-size="20" font-weight="700" fill="#1f2d3d" text-anchor="middle">נפשות</text>
+  <text x="110" y="324" font-size="12" fill="#3d4f63" text-anchor="middle">“persons”, the plural</text>
+  <text x="216" y="300" font-size="14" fill="#1f2d3d">• A repulsive man and one afflicted with boils</text>
+  <text x="216" y="321" font-size="12" fill="#5b6b7d">The plural is needed only for this.</text>
+
+  <!-- Row 4 -->
+  <rect x="20" y="346" width="600" height="78" rx="10" fill="#fff" stroke="#d5deea"/>
+  <rect x="20" y="346" width="180" height="78" rx="10" fill="#dde6f2"/>
+  <text x="110" y="378" font-size="17" font-weight="700" fill="#1f2d3d" text-anchor="middle">והעמידו … והעריך</text>
+  <text x="110" y="400" font-size="12" fill="#3d4f63" text-anchor="middle">“then he shall be set…</text>
+  <text x="110" y="415" font-size="12" fill="#3d4f63" text-anchor="middle">and shall value”</text>
+  <text x="216" y="370" font-size="14" fill="#1f2d3d">• Not one who is moribund: he cannot stand</text>
+  <text x="216" y="390" font-size="14" fill="#1f2d3d">• Not the dead either</text>
+  <text x="216" y="411" font-size="12" fill="#5b6b7d">The baraita first drew the dead from “persons”.</text>
+
+  <!-- Row 5 -->
+  <rect x="20" y="432" width="600" height="78" rx="10" fill="#fff" stroke="#d5deea"/>
+  <rect x="20" y="432" width="180" height="78" rx="10" fill="#dde6f2"/>
+  <text x="110" y="464" font-size="20" font-weight="700" fill="#1f2d3d" text-anchor="middle">והיה ערכך</text>
+  <text x="110" y="486" font-size="12" fill="#3d4f63" text-anchor="middle">“then your valuation shall be”</text>
+  <text x="216" y="458" font-size="14" fill="#1f2d3d">• A <tspan font-style="italic">tumtum</tspan> and a hermaphrodite can be assessed</text>
+  <text x="216" y="478" font-size="14" fill="#1f2d3d">• Rava: they are assessed by the significance</text>
+  <text x="228" y="497" font-size="14" fill="#1f2d3d">of the body part named</text>
+
+  <!-- Row 6 -->
+  <rect x="20" y="518" width="600" height="64" rx="10" fill="#fff" stroke="#d5deea"/>
+  <rect x="20" y="518" width="180" height="64" rx="10" fill="#dde6f2"/>
+  <text x="110" y="546" font-size="17" font-weight="700" fill="#1f2d3d" text-anchor="middle">הזכר … ואם נקבה</text>
+  <text x="110" y="568" font-size="12" fill="#3d4f63" text-anchor="middle">“the male… and if a female”</text>
+  <text x="216" y="544" font-size="14" fill="#1f2d3d">• Valuation only for a definite male or a definite female</text>
+  <text x="216" y="565" font-size="14" fill="#1f2d3d">• So not for a <tspan font-style="italic">tumtum</tspan> or a hermaphrodite</text>
+
+  <rect x="20" y="594" width="600" height="76" rx="10" fill="#fff6e0" stroke="#ecd9a8"/>
+  <text x="34" y="618" font-size="13" font-weight="700" fill="#6b4e12">Valuation and assessment</text>
+  <text x="34" y="638" font-size="13" fill="#5a4a2a">Valuation (ערך): the Torah’s fixed sum by age and sex.</text>
+  <text x="34" y="657" font-size="13" fill="#5a4a2a">Assessment (דמים): the person’s value on the market.</text>
+</svg>
