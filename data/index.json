@@ -959,6 +959,86 @@
    },
    "messages": 25,
    "members": 10
+  },
+  {
+   "masechet": "arakhin",
+   "daf": 2,
+   "title": "Arakhin 2",
+   "he": "ערכין ב׳",
+   "preview": {
+    "from": "mishnah",
+    "text": "Everyone takes vows of valuation and is thereby obligated to donate to the Temple treasury the value fixed by the Torah "
+   },
+   "last": {
+    "from": "gemara",
+    "text": "With regard to the ruling of the baraita: Everyone is obligated in the mitzva of reading the Megilla, the Scroll of Esth"
+   },
+   "messages": 70,
+   "members": 6
+  },
+  {
+   "masechet": "arakhin",
+   "daf": 3,
+   "title": "Arakhin 3",
+   "he": "ערכין ג׳",
+   "preview": {
+    "from": "rabbi-yehoshua-ben-levi",
+    "text": "Women are obligated in the mitzva of reading the Megilla, as they too were participants in that miracle."
+   },
+   "last": {
+    "from": "mishnah",
+    "text": "Priests and Levites may sell their fields at any time, even in the Jubilee Year,…"
+   },
+   "messages": 88,
+   "members": 8
+  },
+  {
+   "masechet": "arakhin",
+   "daf": 4,
+   "title": "Arakhin 4",
+   "he": "ערכין ד׳",
+   "preview": {
+    "from": "baraita",
+    "text": "Everyone is obligated in the reading of the Megilla including priests, Levites, and Israelites."
+   },
+   "last": {
+    "from": "gemara",
+    "text": "According to this interpretation, that it is referring to items consecrated for the altar, why is the head alone consecr"
+   },
+   "messages": 93,
+   "members": 11
+  },
+  {
+   "masechet": "arakhin",
+   "daf": 5,
+   "title": "Arakhin 5",
+   "he": "ערכין ה׳",
+   "preview": {
+    "from": "baraita",
+    "text": "“The leg of this animal is a burnt offering,” one might have thought that all of the animal will be a burnt offering. Th"
+   },
+   "last": {
+    "from": "rava",
+    "text": "Actually Rabbi Yehuda maintains that the valuation of a gentile is given to Temple maintenance and is not interred. And "
+   },
+   "messages": 66,
+   "members": 14
+  },
+  {
+   "masechet": "arakhin",
+   "daf": 6,
+   "title": "Arakhin 6",
+   "he": "ערכין ו׳",
+   "preview": {
+    "from": "baraita",
+    "text": "In the case of a gentile who pledged a gift for Temple maintenance, one accepts it from him."
+   },
+   "last": {
+    "from": "rabbi-shimon-ben-elazar",
+    "text": "Even if it was he who injured others, he is exempt, as he cannot be brought back to stand before the court for judgment,"
+   },
+   "messages": 72,
+   "members": 23
   }
  ]
 }

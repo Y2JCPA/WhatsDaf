@@ -326,3 +326,18 @@ Same output spec and shared style as above. Save to `assets/portraits/<file>`.
 | `pinchas-achuha-demar-shmuel.jpg` | Pineḥas, brother of Mar Shmuel, Amora · Babylonia, 3rd century | An earnest Babylonian man in his 40s with a short dark beard and a questioning look, in a plain brown wool robe and a cream mantle. Mudbrick houses and date palms of Nehardea softly blurred behind him. |
 | `rav-achadvoi-bar-ami.jpg` | Rav Aḥadvoi bar Ami, Amora · Babylonia | A thoughtful Babylonian scholar in his 40s with a black beard and a probing gaze, in a dark blue wool robe and a white mantle. Oil lamps and mudbrick academy walls softly behind him. |
 | `rav-chiyya-bar-yosef.jpg` | Rav Ḥiyya bar Yosef, Amora · 3rd century | A steady scholar in his 50s with a greying beard and a calm, independent look, in an undyed wool robe and an olive-green mantle. A stone study hall with arched windows softly blurred behind him. |
+
+---
+
+## Round 15: people needed for Arakhin 2–6
+
+Same output spec and shared style as above. Save to `assets/portraits/<file>`.
+
+| File | Person | Add to the shared style |
+|---|---|---|
+| `yochanan-ben-dahavai.jpg` | Yoḥanan ben Dahavai, Tanna · 2nd century | A quiet, attentive scholar in his 40s with a short dark beard and a plain wool mantle, holding a small scroll as if reciting a teaching he received from his master. Galilean limestone arches and olive trees softly behind him. |
+| `ben-bukhri.jpg` | Ben Bukhri, Tanna · Yavne | A grave, earnest man in his 50s with a greying dark beard and a plain undyed wool mantle, standing as if giving testimony before the court. The Yavne study hall softly behind him. |
+| `rav-giddel.jpg` | Rav Giddel, Amora · Babylonia, 3rd century | A Babylonian scholar in his 50s with a dark beard touched with grey and a steady, attentive expression, as if repeating his teacher’s ruling word for word; background of mudbrick academy walls and oil lamps. |
+| `rabba-bar-yosef.jpg` | Rabba bar Yosef, Amora · Babylonia | A Babylonian scholar in his 40s with a short dark beard and a careful, reciting expression; background of palm groves along the Euphrates. |
+| `avimi.jpg` | Avimi, Amora · Babylonia, 3rd century | A dignified, humble elder in his 70s with a white beard and a gentle, searching expression, as if asking a former student to remind him of a teaching; background of mudbrick academy walls and oil lamps. |
+| `rabbi-chanina-ben-akavya.jpg` | Rabbi Ḥanina ben Akavya, Tanna · 2nd century | A thoughtful scholar in his 50s with a full dark beard streaked with grey and a plain wool mantle, one hand raised as if stating a ruling. Galilean limestone arches and olive trees softly behind him. |
