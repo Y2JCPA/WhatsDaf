@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 500" width="640" height="500" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <rect width="640" height="500" rx="18" fill="#f3f6fb"/>
+  <text x="320" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2a3a">The Jubilee comes, no one redeemed it</text>
+  <text x="320" y="70" text-anchor="middle" font-size="14" fill="#55627a">A consecrated ancestral field at the Jubilee: the mishna on 25b</text>
+
+  <!-- column headers -->
+  <text x="140" y="112" text-anchor="middle" font-size="16" font-weight="700" fill="#2e5aa8">Rabbi Yehuda</text>
+  <text x="320" y="112" text-anchor="middle" font-size="16" font-weight="700" fill="#2e5aa8">Rabbi Shimon</text>
+  <text x="500" y="112" text-anchor="middle" font-size="16" font-weight="700" fill="#2e5aa8">Rabbi Eliezer</text>
+
+  <!-- row: enter -->
+  <rect x="24" y="126" width="592" height="62" rx="12" fill="#ffffff" stroke="#c9d3e3"/>
+  <text x="320" y="144" text-anchor="middle" font-size="12" fill="#55627a">Do the priests enter into the field?</text>
+  <rect x="70" y="152" width="140" height="28" rx="8" fill="#dff1e3"/>
+  <text x="140" y="171" text-anchor="middle" font-size="14" font-weight="600" fill="#1d6b35">They enter</text>
+  <rect x="250" y="152" width="140" height="28" rx="8" fill="#dff1e3"/>
+  <text x="320" y="171" text-anchor="middle" font-size="14" font-weight="600" fill="#1d6b35">They enter</text>
+  <rect x="430" y="152" width="140" height="28" rx="8" fill="#fbe3e3"/>
+  <text x="500" y="171" text-anchor="middle" font-size="14" font-weight="600" fill="#9b2c2c">They do not enter</text>
+
+  <!-- row: pay -->
+  <rect x="24" y="198" width="592" height="62" rx="12" fill="#ffffff" stroke="#c9d3e3"/>
+  <text x="320" y="216" text-anchor="middle" font-size="12" fill="#55627a">Do they give its redemption payment to the Temple?</text>
+  <rect x="70" y="224" width="140" height="28" rx="8" fill="#fff1d6"/>
+  <text x="140" y="243" text-anchor="middle" font-size="14" font-weight="600" fill="#8a5a00">They give it</text>
+  <rect x="250" y="224" width="140" height="28" rx="8" fill="#dff1e3"/>
+  <text x="320" y="243" text-anchor="middle" font-size="14" font-weight="600" fill="#1d6b35">They do not give</text>
+  <rect x="430" y="224" width="140" height="28" rx="8" fill="#eef2f8"/>
+  <text x="500" y="243" text-anchor="middle" font-size="14" font-weight="600" fill="#55627a">They do not give</text>
+
+  <!-- row: source -->
+  <rect x="24" y="270" width="592" height="110" rx="12" fill="#ffffff" stroke="#c9d3e3"/>
+  <text x="320" y="288" text-anchor="middle" font-size="12" fill="#55627a">The Gemara’s source: “holy” and “holy”</text>
+  <text x="140" y="314" text-anchor="middle" font-size="13" fill="#1f2a3a">from one who</text>
+  <text x="140" y="332" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2a3a">consecrates a house</text>
+  <text x="140" y="356" text-anchor="middle" font-size="12" fill="#55627a">there by money,</text>
+  <text x="140" y="372" text-anchor="middle" font-size="12" fill="#55627a">so here by money</text>
+  <text x="320" y="314" text-anchor="middle" font-size="13" fill="#1f2a3a">from the two</text>
+  <text x="320" y="332" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2a3a">lambs of Shavuot</text>
+  <text x="320" y="356" text-anchor="middle" font-size="12" fill="#55627a">there for free,</text>
+  <text x="320" y="372" text-anchor="middle" font-size="12" fill="#55627a">so here for free</text>
+  <text x="500" y="332" text-anchor="middle" font-size="13" fill="#55627a">not given on this daf</text>
+
+  <!-- Rabbi Eliezer's sequence -->
+  <rect x="24" y="390" width="592" height="88" rx="12" fill="#ffffff" stroke="#c9d3e3"/>
+  <text x="40" y="414" font-size="14" font-weight="700" fill="#2e5aa8">Rabbi Eliezer: the field stays with the Temple</text>
+  <text x="40" y="438" font-size="13" fill="#1f2a3a">“An abandoned field” until the second Jubilee; then “abandoned of the abandoned”</text>
+  <text x="40" y="456" font-size="13" fill="#1f2a3a">until the third. The priests never enter into it until another person redeems it.</text>
+</svg>
