@@ -1,0 +1,14 @@
+{
+  "people": {
+    "rabbi-acha-sar-habira": {
+      "name": "Rabbi Aḥa Sar HaBira",
+      "he": "רבי אחא שר הבירה",
+      "era": "Amora",
+      "bio": "Amora who reports a case that came before Rabbi Yitzḥak Nappaḥa in Antioch (Arakhin 22b).",
+      "color": "#7b5e2e",
+      "initials": "רא״ש",
+      "image": "rabbi-acha-sar-habira.jpg",
+      "prompt": "An attentive sage in his 50s with a dark beard touched with grey and a dignified mantle, as one recounting a ruling he witnessed; background of limestone arches and olive trees."
+    }
+  }
+}

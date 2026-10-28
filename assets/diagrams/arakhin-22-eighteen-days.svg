@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+<title>Sixty days, eighteen proclamations</title>
+<rect width="640" height="640" rx="18" fill="#f3f6fb"/>
+<text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Sixty days, eighteen proclamations</text>
+<text x="32" y="70" font-size="14" fill="#56657a">Avimi: proclaimed only on Mondays and Thursdays, the appraisal</text>
+<text x="32" y="88" font-size="14" fill="#56657a">of orphans’ property runs for sixty days</text>
+<text x="131" y="122" font-size="12" font-weight="700" text-anchor="middle" fill="#2f5d9a">Mon</text>
+<text x="205" y="122" font-size="12" font-weight="700" text-anchor="middle" fill="#7a879a">Tue</text>
+<text x="279" y="122" font-size="12" font-weight="700" text-anchor="middle" fill="#7a879a">Wed</text>
+<text x="353" y="122" font-size="12" font-weight="700" text-anchor="middle" fill="#2f5d9a">Thu</text>
+<text x="427" y="122" font-size="12" font-weight="700" text-anchor="middle" fill="#7a879a">Fri</text>
+<text x="501" y="122" font-size="12" font-weight="700" text-anchor="middle" fill="#7a879a">Sat</text>
+<text x="575" y="122" font-size="12" font-weight="700" text-anchor="middle" fill="#7a879a">Sun</text>
+<text x="32" y="154" font-size="12" font-weight="700" fill="#7a879a">Week 1</text>
+<rect x="96" y="132" width="70" height="34" rx="8" fill="#e3effb" stroke="#9fc0e6"/>
+<text x="106" y="154" font-size="12" fill="#1f2d3d">1</text>
+<text x="156" y="154" font-size="12.5" font-weight="700" text-anchor="end" fill="#2f5d9a">#1</text>
+<rect x="170" y="132" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="180" y="154" font-size="12" fill="#9aa6b6">2</text>
+<rect x="244" y="132" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="254" y="154" font-size="12" fill="#9aa6b6">3</text>
+<rect x="318" y="132" width="70" height="34" rx="8" fill="#e3effb" stroke="#9fc0e6"/>
+<text x="328" y="154" font-size="12" fill="#1f2d3d">4</text>
+<text x="378" y="154" font-size="12.5" font-weight="700" text-anchor="end" fill="#2f5d9a">#2</text>
+<rect x="392" y="132" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="402" y="154" font-size="12" fill="#9aa6b6">5</text>
+<rect x="466" y="132" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="476" y="154" font-size="12" fill="#9aa6b6">6</text>
+<rect x="540" y="132" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="550" y="154" font-size="12" fill="#9aa6b6">7</text>
+<text x="32" y="193" font-size="12" font-weight="700" fill="#7a879a">Week 2</text>
+<rect x="96" y="171" width="70" height="34" rx="8" fill="#e3effb" stroke="#9fc0e6"/>
+<text x="106" y="193" font-size="12" fill="#1f2d3d">8</text>
+<text x="156" y="193" font-size="12.5" font-weight="700" text-anchor="end" fill="#2f5d9a">#3</text>
+<rect x="170" y="171" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="180" y="193" font-size="12" fill="#9aa6b6">9</text>
+<rect x="244" y="171" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="254" y="193" font-size="12" fill="#9aa6b6">10</text>
+<rect x="318" y="171" width="70" height="34" rx="8" fill="#e3effb" stroke="#9fc0e6"/>
+<text x="328" y="193" font-size="12" fill="#1f2d3d">11</text>
+<text x="378" y="193" font-size="12.5" font-weight="700" text-anchor="end" fill="#2f5d9a">#4</text>
+<rect x="392" y="171" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="402" y="193" font-size="12" fill="#9aa6b6">12</text>
+<rect x="466" y="171" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="476" y="193" font-size="12" fill="#9aa6b6">13</text>
+<rect x="540" y="171" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="550" y="193" font-size="12" fill="#9aa6b6">14</text>
+<text x="32" y="232" font-size="12" font-weight="700" fill="#7a879a">Week 3</text>
+<rect x="96" y="210" width="70" height="34" rx="8" fill="#e3effb" stroke="#9fc0e6"/>
+<text x="106" y="232" font-size="12" fill="#1f2d3d">15</text>
+<text x="156" y="232" font-size="12.5" font-weight="700" text-anchor="end" fill="#2f5d9a">#5</text>
+<rect x="170" y="210" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="180" y="232" font-size="12" fill="#9aa6b6">16</text>
+<rect x="244" y="210" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="254" y="232" font-size="12" fill="#9aa6b6">17</text>
+<rect x="318" y="210" width="70" height="34" rx="8" fill="#e3effb" stroke="#9fc0e6"/>
+<text x="328" y="232" font-size="12" fill="#1f2d3d">18</text>
+<text x="378" y="232" font-size="12.5" font-weight="700" text-anchor="end" fill="#2f5d9a">#6</text>
+<rect x="392" y="210" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="402" y="232" font-size="12" fill="#9aa6b6">19</text>
+<rect x="466" y="210" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="476" y="232" font-size="12" fill="#9aa6b6">20</text>
+<rect x="540" y="210" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="550" y="232" font-size="12" fill="#9aa6b6">21</text>
+<text x="32" y="271" font-size="12" font-weight="700" fill="#7a879a">Week 4</text>
+<rect x="96" y="249" width="70" height="34" rx="8" fill="#e3effb" stroke="#9fc0e6"/>
+<text x="106" y="271" font-size="12" fill="#1f2d3d">22</text>
+<text x="156" y="271" font-size="12.5" font-weight="700" text-anchor="end" fill="#2f5d9a">#7</text>
+<rect x="170" y="249" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="180" y="271" font-size="12" fill="#9aa6b6">23</text>
+<rect x="244" y="249" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="254" y="271" font-size="12" fill="#9aa6b6">24</text>
+<rect x="318" y="249" width="70" height="34" rx="8" fill="#e3effb" stroke="#9fc0e6"/>
+<text x="328" y="271" font-size="12" fill="#1f2d3d">25</text>
+<text x="378" y="271" font-size="12.5" font-weight="700" text-anchor="end" fill="#2f5d9a">#8</text>
+<rect x="392" y="249" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="402" y="271" font-size="12" fill="#9aa6b6">26</text>
+<rect x="466" y="249" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="476" y="271" font-size="12" fill="#9aa6b6">27</text>
+<rect x="540" y="249" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="550" y="271" font-size="12" fill="#9aa6b6">28</text>
+<text x="32" y="310" font-size="12" font-weight="700" fill="#7a879a">Week 5</text>
+<rect x="96" y="288" width="70" height="34" rx="8" fill="#e3effb" stroke="#9fc0e6"/>
+<text x="106" y="310" font-size="12" fill="#1f2d3d">29</text>
+<text x="156" y="310" font-size="12.5" font-weight="700" text-anchor="end" fill="#2f5d9a">#9</text>
+<rect x="170" y="288" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="180" y="310" font-size="12" fill="#9aa6b6">30</text>
+<rect x="244" y="288" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="254" y="310" font-size="12" fill="#9aa6b6">31</text>
+<rect x="318" y="288" width="70" height="34" rx="8" fill="#e3effb" stroke="#9fc0e6"/>
+<text x="328" y="310" font-size="12" fill="#1f2d3d">32</text>
+<text x="378" y="310" font-size="12.5" font-weight="700" text-anchor="end" fill="#2f5d9a">#10</text>
+<rect x="392" y="288" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="402" y="310" font-size="12" fill="#9aa6b6">33</text>
+<rect x="466" y="288" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="476" y="310" font-size="12" fill="#9aa6b6">34</text>
+<rect x="540" y="288" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="550" y="310" font-size="12" fill="#9aa6b6">35</text>
+<text x="32" y="349" font-size="12" font-weight="700" fill="#7a879a">Week 6</text>
+<rect x="96" y="327" width="70" height="34" rx="8" fill="#e3effb" stroke="#9fc0e6"/>
+<text x="106" y="349" font-size="12" fill="#1f2d3d">36</text>
+<text x="156" y="349" font-size="12.5" font-weight="700" text-anchor="end" fill="#2f5d9a">#11</text>
+<rect x="170" y="327" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="180" y="349" font-size="12" fill="#9aa6b6">37</text>
+<rect x="244" y="327" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="254" y="349" font-size="12" fill="#9aa6b6">38</text>
+<rect x="318" y="327" width="70" height="34" rx="8" fill="#e3effb" stroke="#9fc0e6"/>
+<text x="328" y="349" font-size="12" fill="#1f2d3d">39</text>
+<text x="378" y="349" font-size="12.5" font-weight="700" text-anchor="end" fill="#2f5d9a">#12</text>
+<rect x="392" y="327" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="402" y="349" font-size="12" fill="#9aa6b6">40</text>
+<rect x="466" y="327" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="476" y="349" font-size="12" fill="#9aa6b6">41</text>
+<rect x="540" y="327" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="550" y="349" font-size="12" fill="#9aa6b6">42</text>
+<text x="32" y="388" font-size="12" font-weight="700" fill="#7a879a">Week 7</text>
+<rect x="96" y="366" width="70" height="34" rx="8" fill="#e3effb" stroke="#9fc0e6"/>
+<text x="106" y="388" font-size="12" fill="#1f2d3d">43</text>
+<text x="156" y="388" font-size="12.5" font-weight="700" text-anchor="end" fill="#2f5d9a">#13</text>
+<rect x="170" y="366" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="180" y="388" font-size="12" fill="#9aa6b6">44</text>
+<rect x="244" y="366" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="254" y="388" font-size="12" fill="#9aa6b6">45</text>
+<rect x="318" y="366" width="70" height="34" rx="8" fill="#e3effb" stroke="#9fc0e6"/>
+<text x="328" y="388" font-size="12" fill="#1f2d3d">46</text>
+<text x="378" y="388" font-size="12.5" font-weight="700" text-anchor="end" fill="#2f5d9a">#14</text>
+<rect x="392" y="366" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="402" y="388" font-size="12" fill="#9aa6b6">47</text>
+<rect x="466" y="366" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="476" y="388" font-size="12" fill="#9aa6b6">48</text>
+<rect x="540" y="366" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="550" y="388" font-size="12" fill="#9aa6b6">49</text>
+<text x="32" y="427" font-size="12" font-weight="700" fill="#7a879a">Week 8</text>
+<rect x="96" y="405" width="70" height="34" rx="8" fill="#e3effb" stroke="#9fc0e6"/>
+<text x="106" y="427" font-size="12" fill="#1f2d3d">50</text>
+<text x="156" y="427" font-size="12.5" font-weight="700" text-anchor="end" fill="#2f5d9a">#15</text>
+<rect x="170" y="405" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="180" y="427" font-size="12" fill="#9aa6b6">51</text>
+<rect x="244" y="405" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="254" y="427" font-size="12" fill="#9aa6b6">52</text>
+<rect x="318" y="405" width="70" height="34" rx="8" fill="#e3effb" stroke="#9fc0e6"/>
+<text x="328" y="427" font-size="12" fill="#1f2d3d">53</text>
+<text x="378" y="427" font-size="12.5" font-weight="700" text-anchor="end" fill="#2f5d9a">#16</text>
+<rect x="392" y="405" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="402" y="427" font-size="12" fill="#9aa6b6">54</text>
+<rect x="466" y="405" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="476" y="427" font-size="12" fill="#9aa6b6">55</text>
+<rect x="540" y="405" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="550" y="427" font-size="12" fill="#9aa6b6">56</text>
+<text x="32" y="466" font-size="12" font-weight="700" fill="#7a879a">+4 days</text>
+<rect x="96" y="444" width="70" height="34" rx="8" fill="#e3effb" stroke="#9fc0e6"/>
+<text x="106" y="466" font-size="12" fill="#1f2d3d">57</text>
+<text x="156" y="466" font-size="12.5" font-weight="700" text-anchor="end" fill="#2f5d9a">#17</text>
+<rect x="170" y="444" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="180" y="466" font-size="12" fill="#9aa6b6">58</text>
+<rect x="244" y="444" width="70" height="34" rx="8" fill="#fff" stroke="#dbe3ee"/>
+<text x="254" y="466" font-size="12" fill="#9aa6b6">59</text>
+<rect x="318" y="444" width="70" height="34" rx="8" fill="#e3effb" stroke="#9fc0e6"/>
+<text x="328" y="466" font-size="12" fill="#1f2d3d">60</text>
+<text x="378" y="466" font-size="12.5" font-weight="700" text-anchor="end" fill="#2f5d9a">#18</text>
+<rect x="20" y="497" width="600" height="123" rx="12" fill="#fff" stroke="#dbe3ee"/>
+<text x="36" y="523" font-size="13.5" font-weight="700" fill="#1f2d3d">Rashi and Rabbeinu Gershom: count from a Monday.</text>
+<text x="36" y="545" font-size="13" fill="#56657a">Eight weeks are 56 days, with 16 Mondays and Thursdays.</text>
+<text x="36" y="567" font-size="13" fill="#56657a">Four more days, Monday to Thursday, make 60 days and 18 proclamations.</text>
+<text x="36" y="589" font-size="13.5" font-weight="700" fill="#1f2d3d">On consecutive days: thirty days.</text>
+<text x="36" y="611" font-size="13" font-style="italic" fill="#56657a">“Since the matter extends, people hear.”</text>
+</svg>
