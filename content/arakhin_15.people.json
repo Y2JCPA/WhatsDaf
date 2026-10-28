@@ -1,0 +1,84 @@
+{
+  "people": {
+    "rabbi-elazar-ben-perata": {
+      "name": "Rabbi Elazar ben Perata",
+      "he": "רבי אלעזר בן פרטא",
+      "era": "Tanna · 2nd century",
+      "bio": "Tanna of the generation of the Hadrianic persecution; the Talmud (Avoda Zara 17b) tells that he was arrested by the Romans together with Rabbi Ḥanina ben Teradyon and was saved.",
+      "color": "#6a1b9a",
+      "initials": "ראב״פ",
+      "image": "rabbi-elazar-ben-perata.jpg",
+      "prompt": "A steadfast scholar in his 50s with a dark beard streaked with grey and a plain wool mantle, one hand raised as if saying “come and see”; background of a modest Galilean study hall with stone benches and a small oil lamp."
+    },
+    "rav-hamnuna": {
+      "name": "Rav Hamnuna",
+      "he": "רב המנונא",
+      "era": "Amora · Babylonia",
+      "bio": "Babylonian Amora; the Talmud knows more than one sage of this name.",
+      "color": "#00695c",
+      "initials": "ר״ה",
+      "image": "rav-hamnuna.jpg",
+      "prompt": "A thoughtful Babylonian scholar in his 50s with a full dark beard and a plain dark mantle, holding a measuring vessel as if weighing its fullness; background of mudbrick academy walls and oil lamps."
+    },
+    "rabbi-chanina-bar-pappa": {
+      "name": "Rabbi Ḥanina bar Pappa",
+      "he": "רבי חנינא בר פפא",
+      "era": "Amora · Land of Israel, 3rd–4th century",
+      "bio": "Amora of the Land of Israel, many of whose aggadic teachings the Talmud records.",
+      "color": "#ad1457",
+      "initials": "רחב״פ",
+      "image": "rabbi-chanina-bar-pappa.jpg",
+      "prompt": "An earnest scholar in his 50s with a greying beard and a cream linen mantle, reading a scroll of Numbers with a grave expression; background of Galilean limestone arches and olive trees."
+    },
+    "rabba-bar-mari": {
+      "name": "Rabba bar Mari",
+      "he": "רבה בר מרי",
+      "era": "Amora · Babylonia, 4th century",
+      "bio": "Amora whom Rava asked for the sources in Scripture of popular sayings (Bava Kamma 92a–b).",
+      "color": "#1565c0",
+      "initials": "רב״מ",
+      "image": "rabba-bar-mari.jpg",
+      "prompt": "A genial scholar in his 50s with a full dark beard and a plain blue-grey mantle, pointing to a line of Psalms as if answering a question; background of mudbrick academy walls with palm trees beyond."
+    },
+    "rabbi-yosei-ben-zimra": {
+      "name": "Rabbi Yosei ben Zimra",
+      "he": "רבי יוסי בן זימרא",
+      "era": "Sage · Land of Israel, early 3rd century",
+      "bio": "Sage of the Land of Israel at the close of the tannaitic period, whose aggadic teachings Rabbi Yoḥanan transmits.",
+      "color": "#827717",
+      "initials": "ריב״ז",
+      "image": "rabbi-yosei-ben-zimra.jpg",
+      "prompt": "A dignified elder in his 60s with a long white beard and a cream wool mantle, speaking softly with a finger to his lips; background of Tiberias study-hall arches with the Sea of Galilee faintly beyond."
+    },
+    "mar-ukva": {
+      "name": "Mar Ukva",
+      "he": "מר עוקבא",
+      "era": "Amora · Babylonia, 3rd century",
+      "bio": "Babylonian Amora and head of the court in the time of Shmuel, remembered for giving charity in secret (Ketubot 67b).",
+      "color": "#4e342e",
+      "initials": "מ״ע",
+      "image": "mar-ukva.jpg",
+      "prompt": "A distinguished man in his 60s with a neatly trimmed grey beard and a fine dark mantle, quietly slipping a coin pouch through a doorway; background of a Babylonian courtyard at dusk."
+    },
+    "rabbi-chama-berabbi-chanina": {
+      "name": "Rabbi Ḥama son of Rabbi Ḥanina",
+      "he": "רבי חמא ברבי חנינא",
+      "era": "Amora · Land of Israel, 3rd century",
+      "bio": "Amora of the Land of Israel, son of Rabbi Ḥanina bar Ḥama of Tzippori, known for his aggadic teachings.",
+      "color": "#c2185b",
+      "initials": "רחבר״ח",
+      "image": "rabbi-chama-berabbi-chanina.jpg",
+      "prompt": "A scholar in his 50s with a dark beard touched with grey and a plain cream mantle, holding a scroll of Proverbs open in both hands; background of Tzippori stone streets and arches."
+    },
+    "rabbi-acha-berabbi-chanina": {
+      "name": "Rabbi Aḥa son of Rabbi Ḥanina",
+      "he": "רבי אחא ברבי חנינא",
+      "era": "Amora · Land of Israel, 3rd–4th century",
+      "bio": "Amora of the Land of Israel, cited in the Talmud for aggadic teachings.",
+      "color": "#0277bd",
+      "initials": "ראבר״ח",
+      "image": "rabbi-acha-berabbi-chanina.jpg",
+      "prompt": "A serious scholar in his 40s with a short dark beard and a simple grey mantle, reciting from a scroll of Psalms with a grave look; background of a Galilean study hall with olive trees through the window."
+    }
+  }
+}
