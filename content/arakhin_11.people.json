@@ -1,0 +1,84 @@
+{
+  "people": {
+    "rav-mattana": {
+      "name": "Rav Mattana",
+      "he": "רב מתנה",
+      "era": "Amora · Babylonia, 3rd century",
+      "bio": "Babylonian Amora, a student of Shmuel whose teachings he transmits.",
+      "color": "#6d4c41",
+      "initials": "ר״מ",
+      "image": "rav-mattana.jpg",
+      "prompt": "A Babylonian scholar in his 50s with a full dark beard touched with grey and a plain dark mantle, speaking with a steady, explanatory look as if citing a verse; background of mudbrick academy walls and oil lamps in Nehardea."
+    },
+    "rabbi-shmuel-bar-nachmani": {
+      "name": "Rabbi Shmuel bar Naḥmani",
+      "he": "רבי שמואל בר נחמני",
+      "era": "Amora · Land of Israel, 3rd–4th century",
+      "bio": "Amora of the Land of Israel and a master of aggada, who transmits many teachings of his teacher Rabbi Yonatan.",
+      "color": "#8e24aa",
+      "initials": "רשב״נ",
+      "image": "rabbi-shmuel-bar-nachmani.jpg",
+      "prompt": "A warm, eloquent elder in his 60s with a long grey beard and a cream wool mantle, one hand open as if telling a parable; background of Galilean limestone arches and olive trees."
+    },
+    "chizkiyya": {
+      "name": "Ḥizkiyya",
+      "he": "חזקיה",
+      "era": "Amora · Land of Israel, early 3rd century",
+      "bio": "Son of Rabbi Ḥiyya and a teacher of Rabbi Yoḥanan, among the first Amoraim of the Land of Israel.",
+      "color": "#2e7d32",
+      "initials": "ח",
+      "image": "chizkiyya.jpg",
+      "prompt": "A scholar in his 50s with a full dark beard and a plain linen mantle, reading closely from a scroll of Chronicles as if rereading one word; background of a Tiberias study hall with the Sea of Galilee softly beyond."
+    },
+    "balvatei": {
+      "name": "Balvatei",
+      "he": "בלווטי",
+      "era": "Amora",
+      "bio": "A sage cited once in the Talmud, transmitting a teaching of Rabbi Yoḥanan; Rashi explains the word as a sage’s name.",
+      "color": "#00838f",
+      "initials": "ב",
+      "image": "balvatei.jpg",
+      "prompt": "A modest scholar in his 40s with a short dark beard and a simple grey mantle, repeating a teaching with a careful expression; background of soft limestone arches in Tiberias."
+    },
+    "chananya-ben-achi-rabbi-yehoshua": {
+      "name": "Ḥananya, son of Rabbi Yehoshua’s brother",
+      "he": "חנניה בן אחי רבי יהושע",
+      "era": "Tanna · 2nd century",
+      "bio": "Tanna, a nephew of Rabbi Yehoshua ben Ḥananya.",
+      "color": "#c62828",
+      "initials": "חב״א",
+      "image": "chananya-ben-achi-rabbi-yehoshua.jpg",
+      "prompt": "A confident scholar in his 40s with a dark beard and a plain wool mantle, gesturing toward a scroll of Exodus; background of a study hall at Yavne with simple stone benches."
+    },
+    "rabbi-yochanan-ben-gudgeda": {
+      "name": "Rabbi Yoḥanan ben Gudgeda",
+      "he": "רבי יוחנן בן גודגדא",
+      "era": "Tanna · Levite, 1st century",
+      "bio": "A Levite gatekeeper of the Second Temple, remembered for eating even ordinary food in the purity of consecrated food (Ḥagiga 2:7).",
+      "color": "#455a64",
+      "initials": "ריב״ג",
+      "image": "rabbi-yochanan-ben-gudgeda.jpg",
+      "prompt": "An elderly Levite in his 70s with a long white beard and a simple white linen garment, standing beside a great bronze-clad Temple gate, one hand raised gently as if sending a younger man back; background of Jerusalem limestone courtyards."
+    },
+    "rami-brei-derav-yeiva": {
+      "name": "Rami, son of Rav Yeiva",
+      "he": "רמי בריה דרב ייבא",
+      "era": "Amora · Babylonia",
+      "bio": "Babylonian Amora, son of Rav Yeiva.",
+      "color": "#5c6bc0",
+      "initials": "רבד״י",
+      "image": "rami-brei-derav-yeiva.jpg",
+      "prompt": "A Babylonian scholar in his 40s with a short dark beard and a plain dark headwrap, reasoning through a calendar question with a raised finger; background of mudbrick academy walls and palm trees."
+    },
+    "rav-avya": {
+      "name": "Rav Avya",
+      "he": "רב אויא",
+      "era": "Amora · Babylonia, 4th century",
+      "bio": "Babylonian Amora of the fourth century.",
+      "color": "#ad6b00",
+      "initials": "ר״א",
+      "image": "rav-avya.jpg",
+      "prompt": "A sharp-eyed Babylonian scholar in his 50s with a greying beard and a plain wool mantle, leaning forward as if raising a practical objection; background of mudbrick academy walls and oil lamps."
+    }
+  }
+}
