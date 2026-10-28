@@ -441,3 +441,15 @@ Same output spec and shared style as above. Save to `assets/portraits/<file>`.
 | `rabbi-yishmael-berabbi-yosei.jpg` | Rabbi Yishmael son of Rabbi Yosei, Tanna · late 2nd century | A sage of the Land of Israel in his 50s with a full dark beard touched with grey and a white wool mantle, an earnest expression as he recounts a tradition; background of a stone study house in the Galilee with olive trees beyond. |
 | `rabbi-elazar-bar-yosei.jpg` | Rabbi Elazar bar Yosei, Tanna · late 2nd century | A sage of the Land of Israel in his 40s with a neat brown beard and a plain linen mantle, pointing to a word in an open scroll; background of a sunlit stone courtyard and a city wall. |
 | `rav-yosef-brei-derav-sala-chasida.jpg` | Rav Yosef, son of Rav Sala Ḥasida, Amora · Babylonia, 4th century | A Babylonian scholar in his 40s with a dark, neatly kept beard and a plain undyed wool mantle, a modest and earnest expression as he explains a teaching to his master; background of mudbrick academy walls lit by oil lamps. |
+
+---
+
+## Round 22: people needed for Temurah 2–6
+
+Same output spec and shared style as above. Save to `assets/portraits/<file>`.
+
+| File | Person | Add to the shared style |
+|---|---|---|
+| `rabbi-yoshiya.jpg` | Rabbi Yoshiya, Tanna · 2nd century | A thoughtful scholar in his 50s with a dark beard touched with grey and a sand-coloured wool mantle, one hand resting on an open scroll as if weighing the wording of a verse; background of limestone arches and olive trees. |
+| `rav-acha-bar-adda.jpg` | Rav Aḥa bar Adda, Amora · Babylonia | A Babylonian scholar in his 50s with a greying dark beard and a plain brown wool mantle, quoting a verse with one finger raised; background of mudbrick academy walls lit by oil lamps. |
+| `chanan-hamitzri.jpg` | Ḥanan the Egyptian, Tanna | A sage in his 50s with a dark beard touched with grey and a white linen mantle, a calm, decided expression; background of limestone arches and olive trees in soft evening light. |

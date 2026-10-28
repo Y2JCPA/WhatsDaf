@@ -1487,6 +1487,86 @@
    },
    "messages": 15,
    "members": 6
+  },
+  {
+   "masechet": "temurah",
+   "daf": 2,
+   "title": "Temurah 2",
+   "he": "תמורה ב׳",
+   "preview": {
+    "from": "mishnah",
+    "text": "Everyone substitutes a non-sacred animal for a consecrated animal, both men and women."
+   },
+   "last": {
+    "from": "rabbi-abbahu",
+    "text": "And if one separates teruma, the portion of produce designated for a priest, from his own produce…"
+   },
+   "messages": 58,
+   "members": 13
+  },
+  {
+   "masechet": "temurah",
+   "daf": 3,
+   "title": "Temurah 3",
+   "he": "תמורה ג׳",
+   "preview": {
+    "from": "rabbi-abbahu",
+    "text": "…for the purpose of exempting the produce of another, the benefit of discretion as to which priest or Levite will receiv"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "This is what is difficult for us: One can say that for one who pronounces the name of Heaven in vain, it is sufficient f"
+   },
+   "messages": 80,
+   "members": 19
+  },
+  {
+   "masechet": "temurah",
+   "daf": 4,
+   "title": "Temurah 4",
+   "he": "תמורה ד׳",
+   "preview": {
+    "from": "mishnah",
+    "text": "If two baskets of untithed produce were before someone, and he said: The tithe of this basket is in that basket, then th"
+   },
+   "last": {
+    "from": "rava",
+    "text": "If one performed it, it is not effective at all. And this is the reason that he is flogged: Because he transgressed the "
+   },
+   "messages": 45,
+   "members": 10
+  },
+  {
+   "masechet": "temurah",
+   "daf": 5,
+   "title": "Temurah 5",
+   "he": "תמורה ה׳",
+   "preview": {
+    "from": "baraita",
+    "text": "With regard to a rapist who married and then divorced his victim, if he is an Israelite, who is permitted to marry a div"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "But there is the case of one who consecrates unblemished animals for Temple maintenance, with regard to which the Mercif"
+   },
+   "messages": 82,
+   "members": 8
+  },
+  {
+   "masechet": "temurah",
+   "daf": 6,
+   "title": "Temurah 6",
+   "he": "תמורה ו׳",
+   "preview": {
+    "from": "baraita",
+    "text": "With regard to one who consecrates unblemished animals for Temple maintenance, even though he has transgressed a prohibi"
+   },
+   "last": {
+    "from": "rava",
+    "text": "No, the term in the verse is necessary for a case where the scapegoat became blemished on that day of Yom Kippur, after "
+   },
+   "messages": 67,
+   "members": 16
   }
  ]
 }
