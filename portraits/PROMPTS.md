@@ -389,3 +389,13 @@ Same output spec and shared style as above. Save to `assets/portraits/<file>`.
 | `rabbi-yehuda-brei-derabbi-shimon.jpg` | Rabbi Yehuda son of Rabbi Shimon, Amora · Land of Israel, 4th century | A young scholar in his 20s with a light beard and a simple linen mantle, asking his father a question with an open, searching expression; background of Galilean limestone arches. |
 | `mar-bereih-deravina.jpg` | Mar son of Ravina, Amora · Babylonia, 4th century | A pious Babylonian scholar in his 40s with a dark beard and a plain dark mantle, standing in quiet prayer with lowered eyes; background of mudbrick academy walls and oil lamps. |
 | `rava-zeeira.jpg` | Rava the Younger, Amora | A lean scholar in his 30s with a short dark beard and a plain wool mantle, raising an objection with a wry look; background of mudbrick academy walls and oil lamps. |
+
+---
+
+## Round 18: people needed for Arakhin 17–21
+
+Same output spec and shared style as above. Save to `assets/portraits/<file>`.
+
+| File | Person | Add to the shared style |
+|---|---|---|
+| `rachava.jpg` | Raḥava, Amora · Pumbedita, 3rd–4th century | A practical Babylonian scholar in his 50s with a dark beard touched with grey and a plain brown mantle, gesturing toward a merchant’s balance scale; background of a Pumbedita market stall with jars of pitch and mudbrick walls. |

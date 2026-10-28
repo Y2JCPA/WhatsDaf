@@ -220,6 +220,7 @@
     "rabbi-elazar-ben-azaria": { "name": "Rabbi Elazar ben Azaria", "he": "רבי אלעזר בן עזריה", "era": "Tanna · Yavne, 1st–2nd century", "bio": "Tanna of Yavne, a wealthy kohen of distinguished lineage who was appointed Nasi while still young, in place of Rabban Gamliel.", "color": "#3949ab", "initials": "ראב״ע", "image": "rabbi-elazar-ben-azaria.jpg" },
     "rabbi-yehuda-brei-derabbi-shimon": { "name": "Rabbi Yehuda son of Rabbi Shimon", "he": "רבי יהודה בריה דרבי שמעון", "era": "Amora · Land of Israel, 4th century", "bio": "Amora of the Land of Israel, usually identified as the son of Rabbi Shimon ben Pazi.", "color": "#7cb342", "initials": "ריבר״ש", "image": "rabbi-yehuda-brei-derabbi-shimon.jpg" },
     "mar-bereih-deravina": { "name": "Mar son of Ravina", "he": "מר בריה דרבינא", "era": "Amora · Babylonia, 4th century", "bio": "Babylonian Amora, son of Ravina, whose personal prayer “My God, guard my tongue from evil” closes the Amida.", "color": "#ad1457", "initials": "מב״ר", "image": "mar-bereih-deravina.jpg" },
-    "rava-zeeira": { "name": "Rava the Younger", "he": "רבא זעירא", "era": "Amora", "bio": "Amora named in the Aramaic as Rava Ze’eira, “Rava the Younger.”", "color": "#546e7a", "initials": "ר״ז", "image": "rava-zeeira.jpg" }
+    "rava-zeeira": { "name": "Rava the Younger", "he": "רבא זעירא", "era": "Amora", "bio": "Amora named in the Aramaic as Rava Ze’eira, “Rava the Younger.”", "color": "#546e7a", "initials": "ר״ז", "image": "rava-zeeira.jpg" },
+    "rachava": { "name": "Raḥava", "he": "רחבה", "era": "Amora · Pumbedita, 3rd–4th century", "bio": "Babylonian Amora of Pumbedita, who often transmits teachings in the name of Rav Yehuda.", "color": "#5d4037", "initials": "רח", "image": "rachava.jpg" }
   }
 }

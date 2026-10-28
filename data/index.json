@@ -1199,6 +1199,86 @@
    },
    "messages": 107,
    "members": 31
+  },
+  {
+   "masechet": "arakhin",
+   "daf": 17,
+   "title": "Arakhin 17",
+   "he": "ערכין י״ז",
+   "preview": {
+    "from": "rabbi-eliezer",
+    "text": "Were the Holy One, Blessed be He, to have entered into judgment with Abraham, Isaac and Jacob, they would not have been "
+   },
+   "last": {
+    "from": "baraita",
+    "text": "But if someone knew testimony about another before he became his son-in-law, and he then became his son-in-law,"
+   },
+   "messages": 75,
+   "members": 13
+  },
+  {
+   "masechet": "arakhin",
+   "daf": 18,
+   "title": "Arakhin 18",
+   "he": "ערכין י״ח",
+   "preview": {
+    "from": "baraita",
+    "text": "and afterward his wife, who was the daughter of the father-in-law, died, which means that the witness is no longer relat"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "And with regard to the other, Rav Yosef, how would he respond to this contention? He would maintain that if it enters yo"
+   },
+   "messages": 78,
+   "members": 12
+  },
+  {
+   "masechet": "arakhin",
+   "daf": 19,
+   "title": "Arakhin 19",
+   "he": "ערכין י״ט",
+   "preview": {
+    "from": "chizkiyya",
+    "text": "people say a popular saying: If there is an elderly man in the home, there is a burden [paḥa] in the home, as he does no"
+   },
+   "last": {
+    "from": "rava",
+    "text": "Furthermore, if you say in that case there is a concern that in the interim his assessment might have increased and it i"
+   },
+   "messages": 72,
+   "members": 13
+  },
+  {
+   "masechet": "arakhin",
+   "daf": 20,
+   "title": "Arakhin 20",
+   "he": "ערכין כ׳",
+   "preview": {
+    "from": "rava",
+    "text": "we assess him once and he donates twice the value of that single assessment, or perhaps since he vowed sequentially we a"
+   },
+   "last": {
+    "from": "baraita",
+    "text": "Nevertheless, in accordance with the halakha of a house afflicted with leprosy, once the priest has dismantled the house"
+   },
+   "messages": 77,
+   "members": 12
+  },
+  {
+   "masechet": "arakhin",
+   "daf": 21,
+   "title": "Arakhin 21",
+   "he": "ערכין כ״א",
+   "preview": {
+    "from": "baraita",
+    "text": "If the one living in it, i.e., the renter, consecrates the house, he pays the rent to the Temple treasury."
+   },
+   "last": {
+    "from": "gemara",
+    "text": "This declaration is necessary as there are individuals for whom it is preferable to do business with a creditor, as he i"
+   },
+   "messages": 72,
+   "members": 10
   }
  ]
 }
