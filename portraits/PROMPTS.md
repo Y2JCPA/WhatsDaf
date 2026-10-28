@@ -453,3 +453,14 @@ Same output spec and shared style as above. Save to `assets/portraits/<file>`.
 | `rabbi-yoshiya.jpg` | Rabbi Yoshiya, Tanna · 2nd century | A thoughtful scholar in his 50s with a dark beard touched with grey and a sand-coloured wool mantle, one hand resting on an open scroll as if weighing the wording of a verse; background of limestone arches and olive trees. |
 | `rav-acha-bar-adda.jpg` | Rav Aḥa bar Adda, Amora · Babylonia | A Babylonian scholar in his 50s with a greying dark beard and a plain brown wool mantle, quoting a verse with one finger raised; background of mudbrick academy walls lit by oil lamps. |
 | `chanan-hamitzri.jpg` | Ḥanan the Egyptian, Tanna | A sage in his 50s with a dark beard touched with grey and a white linen mantle, a calm, decided expression; background of limestone arches and olive trees in soft evening light. |
+
+---
+
+## Round 23: people needed for Temurah 7–11
+
+Same output spec and shared style as above. Save to `assets/portraits/<file>`.
+
+| File | Person | Add to the shared style |
+|---|---|---|
+| `bar-kappara.jpg` | Bar Kappara, Tanna/Amora · Land of Israel, early 3rd century | A quick-witted scholar in his 40s with a short dark beard, bright eyes and a faint wry smile, wearing a plain grey wool mantle and answering a question with one hand open; background of a Galilean stone courtyard in afternoon light. |
+| `abba-yosei-ben-dosai.jpg` | Abba Yosei ben Dosai, Tanna · 2nd century | A sage in his 60s with a long grey beard and a plain undyed wool mantle, one finger raised as he corrects a report of another scholar’s words; background of limestone arches and olive trees in soft afternoon light. |

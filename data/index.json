@@ -1567,6 +1567,86 @@
    },
    "messages": 67,
    "members": 16
+  },
+  {
+   "masechet": "temurah",
+   "daf": 7,
+   "title": "Temurah 7",
+   "he": "תמורה ז׳",
+   "preview": {
+    "from": "rava",
+    "text": "Since it might enter your mind to say that granted, if one does this initially, before the lottery, we do not know if th"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "The mishna does not mean to rule out selling a slaughtered animal; rather, it is coming to teach us the matter itself, t"
+   },
+   "messages": 77,
+   "members": 14
+  },
+  {
+   "masechet": "temurah",
+   "daf": 8,
+   "title": "Temurah 8",
+   "he": "תמורה ח׳",
+   "preview": {
+    "from": "baraita",
+    "text": "With regard to a firstborn offering, it is stated: “But the firstling of an ox, or the firstling of a sheep, or the firs"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "And what would you say to this claim? Would you say that perhaps the priest lowered the price of the animal for us, as t"
+   },
+   "messages": 60,
+   "members": 15
+  },
+  {
+   "masechet": "temurah",
+   "daf": 9,
+   "title": "Temurah 9",
+   "he": "תמורה ט׳",
+   "preview": {
+    "from": "mishnah",
+    "text": "One substitutes for consecrated animals from the flock of sheep or goats, and the sanctity takes effect upon animals fro"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "Do we say that with regard to a second redemption of the first guilt offering he does not add one-fifth, since it is the"
+   },
+   "messages": 62,
+   "members": 11
+  },
+  {
+   "masechet": "temurah",
+   "daf": 10,
+   "title": "Temurah 10",
+   "he": "תמורה י׳",
+   "preview": {
+    "from": "rami-bar-chama",
+    "text": "If one person consecrates his animal to be used as an offering by another, does the one who consecrates it add one-fifth"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "If the mishna is referring to the offspring of sacrificial animals, what is the meaning of the term: One consecrates? Af"
+   },
+   "messages": 67,
+   "members": 12
+  },
+  {
+   "masechet": "temurah",
+   "daf": 11,
+   "title": "Temurah 11",
+   "he": "תמורה י״א",
+   "preview": {
+    "from": "baraita",
+    "text": "This animal is treated as a sin offering, and therefore it is eaten only by the males of the priesthood, and it is eaten"
+   },
+   "last": {
+    "from": "abaye",
+    "text": "Or, if one consecrates an animal and it subsequently becomes pregnant, then according to the one who said that the offsp"
+   },
+   "messages": 70,
+   "members": 12
   }
  ]
 }
