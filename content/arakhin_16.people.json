@@ -1,0 +1,84 @@
+{
+  "people": {
+    "rav-dimi-achuha-derav-safra": {
+      "name": "Rav Dimi, brother of Rav Safra",
+      "he": "רב דימי אחוה דרב ספרא",
+      "era": "Amora · Babylonia, 4th century",
+      "bio": "Babylonian Amora, the brother of Rav Safra.",
+      "color": "#6d4c41",
+      "initials": "ר״ד",
+      "image": "rav-dimi-achuha-derav-safra.jpg",
+      "prompt": "A gentle Babylonian scholar in his 60s with a soft grey beard and a plain wool mantle, propped on cushions as if receiving a visiting brother; background of mudbrick walls and oil lamps."
+    },
+    "rabbi-anani-bar-sason": {
+      "name": "Rabbi Anani bar Sason",
+      "he": "רבי ענני בר ששון",
+      "era": "Amora · Land of Israel",
+      "bio": "Amora of the Land of Israel who taught that each of the priestly vestments atones for a particular sin.",
+      "color": "#5c6bc0",
+      "initials": "רע״ב",
+      "image": "rabbi-anani-bar-sason.jpg",
+      "prompt": "A thoughtful scholar in his 50s with a dark beard touched with grey and a plain linen mantle, counting on his fingers as he lists the priestly garments; background of limestone arches and olive trees."
+    },
+    "rabbi-simon": {
+      "name": "Rabbi Simon",
+      "he": "רבי סימון",
+      "era": "Amora · Land of Israel, 3rd–4th century",
+      "bio": "Amora of the Land of Israel who often transmits teachings of Rabbi Yehoshua ben Levi.",
+      "color": "#00796b",
+      "initials": "ר״ס",
+      "image": "rabbi-simon.jpg",
+      "prompt": "A composed scholar in his 50s with a greying beard and a wool mantle, repeating his teacher’s words with a raised hand; background of limestone arches in a Galilean study hall."
+    },
+    "rabbi-shmuel-bar-nadav": {
+      "name": "Rabbi Shmuel bar Nadav",
+      "he": "רבי שמואל בר נדב",
+      "era": "Amora · Land of Israel, 3rd century",
+      "bio": "Amora of the Land of Israel; some reports call him the son-in-law of Rabbi Ḥanina.",
+      "color": "#8d6e63",
+      "initials": "רשב״נ",
+      "image": "rabbi-shmuel-bar-nadav.jpg",
+      "prompt": "An earnest scholar in his 30s with a short dark beard and a plain mantle, leaning forward to put a question to an elder; background of olive trees and limestone walls in Sepphoris."
+    },
+    "rabbi-elazar-ben-azaria": {
+      "name": "Rabbi Elazar ben Azaria",
+      "he": "רבי אלעזר בן עזריה",
+      "era": "Tanna · Yavne, 1st–2nd century",
+      "bio": "Tanna of Yavne, a wealthy kohen of distinguished lineage who was appointed Nasi while still young, in place of Rabban Gamliel.",
+      "color": "#3949ab",
+      "initials": "ראב״ע",
+      "image": "rabbi-elazar-ben-azaria.jpg",
+      "prompt": "A young kohen of about 18 whose full beard has turned white, as tradition tells, wearing fine white linen robes with a dignified bearing; background of the Yavne study hall."
+    },
+    "rabbi-yehuda-brei-derabbi-shimon": {
+      "name": "Rabbi Yehuda son of Rabbi Shimon",
+      "he": "רבי יהודה בריה דרבי שמעון",
+      "era": "Amora · Land of Israel, 4th century",
+      "bio": "Amora of the Land of Israel, usually identified as the son of Rabbi Shimon ben Pazi.",
+      "color": "#7cb342",
+      "initials": "ריבר״ש",
+      "image": "rabbi-yehuda-brei-derabbi-shimon.jpg",
+      "prompt": "A young scholar in his 20s with a light beard and a simple linen mantle, asking his father a question with an open, searching expression; background of Galilean limestone arches."
+    },
+    "mar-bereih-deravina": {
+      "name": "Mar son of Ravina",
+      "he": "מר בריה דרבינא",
+      "era": "Amora · Babylonia, 4th century",
+      "bio": "Babylonian Amora, son of Ravina, whose personal prayer “My God, guard my tongue from evil” closes the Amida.",
+      "color": "#ad1457",
+      "initials": "מב״ר",
+      "image": "mar-bereih-deravina.jpg",
+      "prompt": "A pious Babylonian scholar in his 40s with a dark beard and a plain dark mantle, standing in quiet prayer with lowered eyes; background of mudbrick academy walls and oil lamps."
+    },
+    "rava-zeeira": {
+      "name": "Rava the Younger",
+      "he": "רבא זעירא",
+      "era": "Amora",
+      "bio": "Amora named in the Aramaic as Rava Ze’eira, “Rava the Younger.”",
+      "color": "#546e7a",
+      "initials": "ר״ז",
+      "image": "rava-zeeira.jpg",
+      "prompt": "A lean scholar in his 30s with a short dark beard and a plain wool mantle, raising an objection with a wry look; background of mudbrick academy walls and oil lamps."
+    }
+  }
+}
