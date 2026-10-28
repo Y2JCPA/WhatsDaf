@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 590" width="640" height="590" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <rect width="640" height="590" rx="18" fill="#f3f6fb"/>
+  <text x="320" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2a3a">The owner bids twenty</text>
+  <text x="320" y="70" text-anchor="middle" font-size="14" fill="#55627a">Another person then bids: what the owner gives to take the field (mishna, 27a–b)</text>
+
+  <!-- headers -->
+  <text x="88" y="104" text-anchor="middle" font-size="13" font-weight="700" fill="#2e5aa8">Other bids</text>
+  <text x="222" y="104" text-anchor="middle" font-size="13" font-weight="700" fill="#2e5aa8">Owner gives</text>
+  <text x="450" y="104" text-anchor="middle" font-size="13" font-weight="700" fill="#2e5aa8">his 20 + his fifth + the other’s addition</text>
+
+  <!-- row 20 -->
+  <rect x="24" y="116" width="592" height="44" rx="10" fill="#ffffff" stroke="#c9d3e3"/>
+  <text x="88" y="144" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2a3a">20</text>
+  <rect x="160" y="124" width="124" height="28" rx="8" fill="#dff1e3"/>
+  <text x="222" y="143" text-anchor="middle" font-size="13" font-weight="600" fill="#1d6b35">owner first</text>
+  <text x="450" y="143" text-anchor="middle" font-size="13" fill="#1f2a3a">the owner adds a fifth; another person does not</text>
+
+  <!-- rows 21-24 -->
+  <rect x="24" y="166" width="592" height="44" rx="10" fill="#ffffff" stroke="#c9d3e3"/>
+  <text x="88" y="194" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2a3a">21</text>
+  <rect x="160" y="174" width="124" height="28" rx="8" fill="#fff1d6"/>
+  <text x="222" y="194" text-anchor="middle" font-size="16" font-weight="700" fill="#8a5a00">26</text>
+  <text x="450" y="194" text-anchor="middle" font-size="15" fill="#1f2a3a">20 + 5 + 1</text>
+
+  <rect x="24" y="216" width="592" height="44" rx="10" fill="#ffffff" stroke="#c9d3e3"/>
+  <text x="88" y="244" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2a3a">22</text>
+  <rect x="160" y="224" width="124" height="28" rx="8" fill="#fff1d6"/>
+  <text x="222" y="244" text-anchor="middle" font-size="16" font-weight="700" fill="#8a5a00">27</text>
+  <text x="450" y="244" text-anchor="middle" font-size="15" fill="#1f2a3a">20 + 5 + 2</text>
+
+  <rect x="24" y="266" width="592" height="44" rx="10" fill="#ffffff" stroke="#c9d3e3"/>
+  <text x="88" y="294" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2a3a">23</text>
+  <rect x="160" y="274" width="124" height="28" rx="8" fill="#fff1d6"/>
+  <text x="222" y="294" text-anchor="middle" font-size="16" font-weight="700" fill="#8a5a00">28</text>
+  <text x="450" y="294" text-anchor="middle" font-size="15" fill="#1f2a3a">20 + 5 + 3</text>
+
+  <rect x="24" y="316" width="592" height="44" rx="10" fill="#ffffff" stroke="#c9d3e3"/>
+  <text x="88" y="344" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2a3a">24</text>
+  <rect x="160" y="324" width="124" height="28" rx="8" fill="#fff1d6"/>
+  <text x="222" y="344" text-anchor="middle" font-size="16" font-weight="700" fill="#8a5a00">29</text>
+  <text x="450" y="344" text-anchor="middle" font-size="15" fill="#1f2a3a">20 + 5 + 4</text>
+
+  <!-- row 25 -->
+  <rect x="24" y="366" width="592" height="56" rx="10" fill="#ffffff" stroke="#c9d3e3"/>
+  <text x="88" y="400" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2a3a">25</text>
+  <rect x="160" y="380" width="124" height="28" rx="8" fill="#fff1d6"/>
+  <text x="222" y="400" text-anchor="middle" font-size="16" font-weight="700" fill="#8a5a00">30</text>
+  <text x="450" y="390" text-anchor="middle" font-size="15" fill="#1f2a3a">20 + 5 + 5</text>
+  <text x="450" y="410" text-anchor="middle" font-size="11.5" fill="#55627a">Gemara: he had bid 20 and a dinar; Rava: 20 and a <tspan font-style="italic">peruta</tspan></text>
+
+  <!-- row 26 -->
+  <rect x="24" y="428" width="592" height="56" rx="10" fill="#ffffff" stroke="#c9d3e3"/>
+  <text x="88" y="462" text-anchor="middle" font-size="18" font-weight="700" fill="#1f2a3a">26</text>
+  <rect x="160" y="442" width="124" height="28" rx="8" fill="#eef2f8"/>
+  <text x="222" y="461" text-anchor="middle" font-size="13" font-weight="600" fill="#55627a">not forced</text>
+  <text x="300" y="452" font-size="12.5" fill="#1f2a3a">If he wishes: 31 and a dinar, and he takes precedence.</text>
+  <text x="300" y="472" font-size="12.5" fill="#1f2a3a">If not: “It has come to you,” to the other bidder.</text>
+
+  <!-- footer -->
+  <rect x="24" y="494" width="592" height="78" rx="12" fill="#ffffff" stroke="#c9d3e3"/>
+  <text x="40" y="518" font-size="13" fill="#1f2a3a">The fifth, 5, is one-quarter of his own bid of 20. He does not add a fifth</text>
+  <text x="40" y="537" font-size="13" fill="#1f2a3a">to the addition of the other person.</text>
+  <text x="40" y="560" font-size="12.5" fill="#55627a">Rav Ḥisda: unless three people appraised the field; then he adds a fifth to it too.</text>
+</svg>

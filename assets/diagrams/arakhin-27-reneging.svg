@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" width="640" height="640" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <rect width="640" height="640" rx="18" fill="#f3f6fb"/>
+  <text x="320" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2a3a">When the bidders renege</text>
+  <text x="320" y="70" text-anchor="middle" font-size="14" fill="#55627a">Five bids for the field: 10, 20, 30, 40 and 50 sela</text>
+
+  <!-- Panel A: one after the other -->
+  <rect x="24" y="88" width="592" height="134" rx="12" fill="#ffffff" stroke="#c9d3e3"/>
+  <text x="40" y="112" font-size="15" font-weight="700" fill="#2e5aa8">One after the other (the mishna)</text>
+  <g font-size="15" font-weight="700" text-anchor="middle">
+    <rect x="44" y="124" width="96" height="30" rx="8" fill="#fbe3e3"/><text x="92" y="144" fill="#9b2c2c">50</text>
+    <rect x="156" y="124" width="96" height="30" rx="8" fill="#fbe3e3"/><text x="204" y="144" fill="#9b2c2c">40</text>
+    <rect x="268" y="124" width="96" height="30" rx="8" fill="#fbe3e3"/><text x="316" y="144" fill="#9b2c2c">30</text>
+    <rect x="380" y="124" width="96" height="30" rx="8" fill="#fbe3e3"/><text x="428" y="144" fill="#9b2c2c">20</text>
+    <rect x="492" y="124" width="104" height="30" rx="8" fill="#fbe3e3"/><text x="544" y="144" fill="#9b2c2c">10</text>
+  </g>
+  <g font-size="12" fill="#55627a" text-anchor="middle">
+    <text x="148" y="143">→</text><text x="260" y="143">→</text><text x="372" y="143">→</text><text x="484" y="143">→</text>
+  </g>
+  <g font-size="12" fill="#1f2a3a" text-anchor="middle">
+    <text x="92" y="174">pays up to 10</text>
+    <text x="204" y="174">pays up to 10</text>
+    <text x="316" y="174">pays up to 10</text>
+    <text x="428" y="174">pays up to 10</text>
+    <text x="544" y="174">field sold at its</text>
+    <text x="544" y="189">value; he pays</text>
+    <text x="544" y="204">the rest of 10</text>
+  </g>
+  <text x="40" y="200" font-size="12" fill="#55627a">Each who reneges pays the difference down to the next bid,</text>
+  <text x="40" y="215" font-size="12" fill="#55627a">and the next bidder redeems the field.</text>
+
+  <!-- Panel B: Rav Chisda -->
+  <rect x="24" y="232" width="592" height="98" rx="12" fill="#ffffff" stroke="#c9d3e3"/>
+  <text x="40" y="256" font-size="15" font-weight="700" fill="#2e5aa8">Fifty and forty renege together (Rav Ḥisda)</text>
+  <rect x="44" y="268" width="96" height="30" rx="8" fill="#fff1d6"/>
+  <text x="92" y="288" text-anchor="middle" font-size="14" font-weight="700" fill="#8a5a00">50 pays 15</text>
+  <text x="152" y="282" font-size="12.5" fill="#1f2a3a">his own 10 above forty, and half of the 10 between thirty and forty,</text>
+  <text x="152" y="298" font-size="12.5" fill="#1f2a3a">since he too agreed to that ten</text>
+  <rect x="44" y="304" width="96" height="22" rx="8" fill="#fff1d6"/>
+  <text x="92" y="320" text-anchor="middle" font-size="13" font-weight="700" fill="#8a5a00">40 pays 5</text>
+  <text x="152" y="320" font-size="12.5" fill="#1f2a3a">the other half</text>
+
+  <!-- Panel C: all at once, Rashi -->
+  <rect x="24" y="340" width="592" height="284" rx="12" fill="#ffffff" stroke="#c9d3e3"/>
+  <text x="40" y="364" font-size="15" font-weight="700" fill="#2e5aa8">All five at once, and the field sells for 5 (Rashi)</text>
+  <text x="40" y="384" font-size="12" fill="#55627a">The 45 lost is split layer by layer among those who agreed to it</text>
+
+  <g font-size="13" font-weight="700" fill="#2e5aa8" text-anchor="middle">
+    <text x="130" y="410">layer</text>
+    <text x="276" y="410">50</text><text x="344" y="410">40</text><text x="412" y="410">30</text><text x="480" y="410">20</text><text x="548" y="410">10</text>
+  </g>
+  <line x1="40" y1="418" x2="600" y2="418" stroke="#c9d3e3"/>
+
+  <g font-size="13" text-anchor="middle" fill="#1f2a3a">
+    <text x="130" y="440">40 → 50 (10)</text>
+    <text x="276" y="440">10</text><text x="344" y="440" fill="#9aa6ba">–</text><text x="412" y="440" fill="#9aa6ba">–</text><text x="480" y="440" fill="#9aa6ba">–</text><text x="548" y="440" fill="#9aa6ba">–</text>
+
+    <text x="130" y="464">30 → 40 (10)</text>
+    <text x="276" y="464">5</text><text x="344" y="464">5</text><text x="412" y="464" fill="#9aa6ba">–</text><text x="480" y="464" fill="#9aa6ba">–</text><text x="548" y="464" fill="#9aa6ba">–</text>
+
+    <text x="130" y="488">20 → 30 (10)</text>
+    <text x="276" y="488">3⅓</text><text x="344" y="488">3⅓</text><text x="412" y="488">3⅓</text><text x="480" y="488" fill="#9aa6ba">–</text><text x="548" y="488" fill="#9aa6ba">–</text>
+
+    <text x="130" y="512">10 → 20 (10)</text>
+    <text x="276" y="512">2½</text><text x="344" y="512">2½</text><text x="412" y="512">2½</text><text x="480" y="512">2½</text><text x="548" y="512" fill="#9aa6ba">–</text>
+
+    <text x="130" y="536">5 → 10 (5)</text>
+    <text x="276" y="536">1</text><text x="344" y="536">1</text><text x="412" y="536">1</text><text x="480" y="536">1</text><text x="548" y="536">1</text>
+  </g>
+  <line x1="40" y1="546" x2="600" y2="546" stroke="#c9d3e3"/>
+  <g font-size="13" font-weight="700" text-anchor="middle" fill="#8a5a00">
+    <text x="130" y="568">total <tspan font-size="10.5" font-weight="400" fill="#55627a">(implied)</tspan></text>
+    <text x="276" y="568">21⅚</text><text x="344" y="568">11⅚</text><text x="412" y="568">6⅚</text><text x="480" y="568">3½</text><text x="548" y="568">1</text>
+  </g>
+  <g font-size="12" text-anchor="middle" fill="#55627a">
+    <text x="130" y="590">one after the other <tspan font-size="10.5">(implied)</tspan></text>
+    <text x="276" y="590">10</text><text x="344" y="590">10</text><text x="412" y="590">10</text><text x="480" y="590">10</text><text x="548" y="590">5</text>
+  </g>
+  <text x="40" y="613" font-size="12.5" fill="#1f2a3a">Rashi: the first bidders (10, 20, 30) gain and the last two (40, 50) lose.</text>
+</svg>
