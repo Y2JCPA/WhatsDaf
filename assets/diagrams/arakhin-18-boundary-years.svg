@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 520" width="640" height="520" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <rect width="640" height="520" rx="18" fill="#f3f6fb"/>
+  <text x="320" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2937">The boundary year counts below</text>
+  <text x="320" y="70" text-anchor="middle" font-size="14" fill="#4b5563">Mishna 18a: the thirtieth day and the fifth, twentieth and sixtieth</text>
+  <text x="320" y="88" text-anchor="middle" font-size="14" fill="#4b5563">years have the status of the period before them.</text>
+
+  <text x="124" y="124" text-anchor="middle" font-size="13" font-weight="700" fill="#374151">Boundary</text>
+  <text x="358" y="124" text-anchor="middle" font-size="13" font-weight="700" fill="#374151">Counts as</text>
+  <text x="555" y="124" text-anchor="middle" font-size="13" font-weight="700" fill="#374151">Effect</text>
+
+  <rect x="24" y="136" width="200" height="58" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="124" y="170" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">The thirtieth day</text>
+  <rect x="236" y="136" width="256" height="58" rx="10" fill="#e3edfb" stroke="#8fb0e0"/>
+  <text x="364" y="160" text-anchor="middle" font-size="14" font-weight="700" fill="#1c3f78">Under a month old</text>
+  <text x="364" y="180" text-anchor="middle" font-size="13" fill="#1c3f78">no valuation at all</text>
+  <rect x="504" y="136" width="112" height="58" rx="10" fill="#eef0f3" stroke="#b6bcc6"/>
+  <text x="560" y="170" text-anchor="middle" font-size="14" font-weight="700" fill="#374151">exempt</text>
+
+  <rect x="24" y="204" width="200" height="58" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="124" y="238" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">The fifth year</text>
+  <rect x="236" y="204" width="256" height="58" rx="10" fill="#e3edfb" stroke="#8fb0e0"/>
+  <text x="364" y="228" text-anchor="middle" font-size="14" font-weight="700" fill="#1c3f78">From a month to five</text>
+  <text x="364" y="248" text-anchor="middle" font-size="13" fill="#1c3f78">5 shekels, not 20</text>
+  <rect x="504" y="204" width="112" height="58" rx="10" fill="#e4f4ea" stroke="#8cc7a2"/>
+  <text x="560" y="238" text-anchor="middle" font-size="14" font-weight="700" fill="#1f5f3a">lenient</text>
+
+  <rect x="24" y="272" width="200" height="58" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="124" y="306" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">The twentieth year</text>
+  <rect x="236" y="272" width="256" height="58" rx="10" fill="#e3edfb" stroke="#8fb0e0"/>
+  <text x="364" y="296" text-anchor="middle" font-size="14" font-weight="700" fill="#1c3f78">From five to twenty</text>
+  <text x="364" y="316" text-anchor="middle" font-size="13" fill="#1c3f78">20 shekels, not 50</text>
+  <rect x="504" y="272" width="112" height="58" rx="10" fill="#e4f4ea" stroke="#8cc7a2"/>
+  <text x="560" y="306" text-anchor="middle" font-size="14" font-weight="700" fill="#1f5f3a">lenient</text>
+
+  <rect x="24" y="340" width="200" height="58" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="124" y="366" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">The sixtieth year</text>
+  <text x="124" y="385" text-anchor="middle" font-size="12" fill="#6b7280">“sixty years … and upward”</text>
+  <rect x="236" y="340" width="256" height="58" rx="10" fill="#e3edfb" stroke="#8fb0e0"/>
+  <text x="364" y="364" text-anchor="middle" font-size="14" font-weight="700" fill="#1c3f78">From twenty to sixty</text>
+  <text x="364" y="384" text-anchor="middle" font-size="13" fill="#1c3f78">50 shekels, not 15</text>
+  <rect x="504" y="340" width="112" height="58" rx="10" fill="#fbe7e3" stroke="#e0a093"/>
+  <text x="560" y="374" text-anchor="middle" font-size="14" font-weight="700" fill="#7a2d1f">stringent</text>
+
+  <text x="364" y="416" text-anchor="middle" font-size="12" fill="#6b7280">Shekels for a male, Leviticus 27:3–7.</text>
+
+  <rect x="24" y="428" width="592" height="72" rx="10" fill="#e8eef8"/>
+  <text x="40" y="452" font-size="13" fill="#374151"><tspan font-weight="700">The difficulty:</tspan> can a leniency at five and twenty be learned from a</text>
+  <text x="40" y="470" font-size="13" fill="#374151">stringency at sixty? So “year” … “year”: a verbal analogy, both ways.</text>
+  <text x="40" y="490" font-size="13" fill="#374151"><tspan font-weight="700">Rabbi Eliezer:</tspan> it stays below until a month and a day beyond the year.</text>
+</svg>
