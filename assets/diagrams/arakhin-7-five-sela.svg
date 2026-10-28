@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 716" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Fifty sela, little money</title>
+  <rect width="640" height="716" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Fifty sela, little money</text>
+  <text x="32" y="70" font-size="14" fill="#56657a">A poor man of twenty, whose valuation is 50 sela (Rashi’s example).</text>
+
+  <!-- Range bar -->
+  <rect x="24" y="88" width="592" height="64" rx="14" fill="#fff" stroke="#dbe3ee"/>
+  <text x="44" y="108" font-size="12" font-weight="700" fill="#7a879a">A VALUATION IS NEVER CHARGED</text>
+  <line x1="60" y1="122" x2="580" y2="122" stroke="#c7d2e2" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="60" cy="122" r="7" fill="#6f8fc7"/>
+  <circle cx="580" cy="122" r="7" fill="#6f8fc7"/>
+  <text x="44" y="144" font-size="13" fill="#3d4b5f"><tspan font-weight="700" fill="#2f5d9a">below 1 sela</tspan> (“the shekel of the Sanctuary”)</text>
+  <text x="596" y="144" font-size="13" fill="#3d4b5f" text-anchor="end"><tspan font-weight="700" fill="#2f5d9a">above 50 sela</tspan> (“fifty”)</text>
+
+  <!-- Mishna card -->
+  <rect x="24" y="164" width="592" height="262" rx="14" fill="#fff" stroke="#dbe3ee"/>
+  <rect x="24" y="164" width="8" height="262" rx="4" fill="#e3a857"/>
+  <text x="48" y="192" font-size="16" font-weight="700" fill="#1f2d3d">The mishna</text>
+
+  <text x="48" y="224" font-size="13.5" fill="#3d4b5f">Gave 1 sela, then became wealthy</text>
+  <rect x="404" y="207" width="196" height="26" rx="13" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="502" y="225" font-size="13" font-weight="700" fill="#1d5e2c" text-anchor="middle">owes nothing more</text>
+
+  <line x1="48" y1="244" x2="600" y2="244" stroke="#eef1f6"/>
+  <text x="48" y="268" font-size="13.5" fill="#3d4b5f">Gave less than 1 sela, then became wealthy</text>
+  <rect x="404" y="251" width="196" height="26" rx="13" fill="#fde2e2" stroke="#e08a8a"/>
+  <text x="502" y="269" font-size="13" font-weight="700" fill="#8b1c1c" text-anchor="middle">gives 50 sela</text>
+
+  <line x1="48" y1="288" x2="600" y2="288" stroke="#eef1f6"/>
+  <text x="48" y="312" font-size="13.5" fill="#3d4b5f">Has 5 sela:</text>
+  <text x="48" y="344" font-size="13.5" font-weight="700" fill="#1f2d3d">Rabbi Meir</text>
+  <text x="48" y="361" font-size="12" fill="#7a879a">either fifty or a shekel</text>
+  <g fill="#e3a857" stroke="#b9842f"><circle cx="220" cy="346" r="11"/></g>
+  <g fill="#ffffff" stroke="#cfd7e3">
+    <circle cx="248" cy="346" r="11"/><circle cx="276" cy="346" r="11"/><circle cx="304" cy="346" r="11"/><circle cx="332" cy="346" r="11"/>
+  </g>
+  <rect x="404" y="333" width="196" height="26" rx="13" fill="#fdf1dc" stroke="#e3a857"/>
+  <text x="502" y="351" font-size="13" font-weight="700" fill="#8a5a12" text-anchor="middle">gives only 1</text>
+
+  <text x="48" y="388" font-size="13.5" font-weight="700" fill="#1f2d3d">The Rabbis</text>
+  <text x="48" y="405" font-size="12" fill="#7a879a">“according to the means”</text>
+  <g fill="#6f8fc7" stroke="#4a6aa3">
+    <circle cx="220" cy="390" r="11"/><circle cx="248" cy="390" r="11"/><circle cx="276" cy="390" r="11"/><circle cx="304" cy="390" r="11"/><circle cx="332" cy="390" r="11"/>
+  </g>
+  <rect x="404" y="377" width="196" height="26" rx="13" fill="#e6edf8" stroke="#6f8fc7"/>
+  <text x="502" y="395" font-size="13" font-weight="700" fill="#2f5d9a" text-anchor="middle">gives all 5</text>
+
+  <!-- Rav Adda card -->
+  <rect x="24" y="438" width="592" height="252" rx="14" fill="#fff" stroke="#dbe3ee"/>
+  <rect x="24" y="438" width="8" height="252" rx="4" fill="#6f8fc7"/>
+  <text x="48" y="466" font-size="16" font-weight="700" fill="#1f2d3d">Rav Adda bar Ahava, following the Rabbis</text>
+  <text x="48" y="490" font-size="13.5" fill="#3d4b5f">He has 5 sela, says “My valuation is upon me,” then says it again.</text>
+
+  <text x="48" y="528" font-size="12" font-weight="700" fill="#7a879a">STEP 1 · FOR THE SECOND VOW</text>
+  <g fill="#6f8fc7" stroke="#4a6aa3">
+    <circle cx="60" cy="552" r="11"/><circle cx="88" cy="552" r="11"/><circle cx="116" cy="552" r="11"/><circle cx="144" cy="552" r="11"/>
+  </g>
+  <g fill="#ffffff" stroke="#cfd7e3"><circle cx="172" cy="552" r="11"/></g>
+  <text x="204" y="546" font-size="13.5" fill="#3d4b5f">Pays 4. All his money is liened to the first vow,</text>
+  <text x="204" y="564" font-size="13.5" fill="#3d4b5f">so for the second it is as though he has nothing.</text>
+  <text x="204" y="582" font-size="12" fill="#7a879a">A later creditor who collected first keeps what he collected.</text>
+
+  <text x="48" y="604" font-size="12" font-weight="700" fill="#7a879a">STEP 2 · FOR THE FIRST VOW</text>
+  <g fill="#e1e6ee" stroke="#cfd7e3">
+    <circle cx="60" cy="628" r="11"/><circle cx="88" cy="628" r="11"/><circle cx="116" cy="628" r="11"/><circle cx="144" cy="628" r="11"/>
+  </g>
+  <g fill="#e3a857" stroke="#b9842f"><circle cx="172" cy="628" r="11"/></g>
+  <text x="204" y="624" font-size="13.5" fill="#3d4b5f">Pays 1. That is all he has left.</text>
+  
+
+  <rect x="404" y="656" width="196" height="26" rx="13" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="502" y="674" font-size="13" font-weight="700" fill="#1d5e2c" text-anchor="middle">both vows fulfilled</text>
+</svg>

@@ -1,0 +1,14 @@
+{
+  "people": {
+    "levi": {
+      "name": "Levi",
+      "he": "לוי",
+      "era": "Tanna–Amora · early 3rd century",
+      "bio": "Levi bar Sisi, a disciple of Rabbi Yehuda HaNasi whose own baraitot the Gemara cites as “Levi teaches.”",
+      "color": "#5e6b3a",
+      "initials": "ל",
+      "image": "levi.jpg",
+      "prompt": "A learned scholar in his 50s with a full dark beard flecked with grey and a plain linen mantle, holding a small scroll of teachings he has gathered and reciting from it. Stone columns of a Galilean study hall softly behind him."
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "people": {
+    "rabbi-shimon-berabbi": {
+      "name": "Rabbi Shimon, son of Rabbi",
+      "he": "רבי שמעון ברבי",
+      "era": "Tanna · Land of Israel, late 2nd–early 3rd century",
+      "bio": "Son of Rabbi Yehuda HaNasi, who named him the ḥakham of the academy before his death (Ketubot 103b).",
+      "color": "#7b1fa2",
+      "initials": "רש״ב",
+      "image": "rabbi-shimon-berabbi.jpg",
+      "prompt": "A learned young scholar in his 30s with a neat dark beard and the fine layered robes of the Nasi’s household, speaking respectfully before his father; background of the study hall in Sepphoris with limestone columns."
+    }
+  }
+}
