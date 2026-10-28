@@ -24,7 +24,7 @@
     { "from": "gemara", "seg": "a3", "text": "<b>But</b> how is it possible for the one renting out the house to consecrate money he will receive in the future? After all, <b>a person cannot consecrate an entity that has not</b> yet <b>come into the world.</b>" },
     { "from": "rav-yehuda", "forwardedFrom": "rav", "seg": "a4", "text": "In accordance with <b>whose</b> opinion <b>is this</b> <i>baraita</i>? <b>It is</b> in accordance with the opinion of <b>Rabbi Meir, who says: A person can consecrate an entity that has not</b> yet <b>come into the world.</b>" },
     { "from": "rav-pappa", "seg": "a4", "lead": "<b>Some say</b> that Rav Pappa <b>said to Abaye, and some say</b> that <b>Rav Mari bar Ḥama</b> said <b>to Rav Ḥisda:</b>", "text": "<b>In accordance with whose</b> opinion is this <i>baraita</i>? Is it <b>in accordance with</b> the opinion of <b>Rabbi Meir, who says</b> that <b>a person can consecrate an entity that has not</b> yet <b>come into the world?</b>" },
-    { "from": "abaye", "seg": "a4", "alt": "or Rav Ḥisda, in the second version", "lead": "<b>He said to him:</b>", "text": "<b>Rather, in accordance with who</b> else’s opinion could this <i>baraita</i> be? Certainly it is in accordance with the opinion of Rabbi Meir." },
+    { "from": "gemara", "seg": "a4", "lead": "<b>He said to him</b> (Abaye, or Rav Ḥisda in the second version):", "text": "<b>Rather, in accordance with who</b> else’s opinion could this <i>baraita</i> be? Certainly it is in accordance with the opinion of Rabbi Meir." },
     { "kind": "system", "seg": "a4", "text": "On 20b the same exchange names Rami bar Ḥama as the one who asked Rav Ḥisda; here the text reads Rav Mari bar Ḥama." },
 
     { "kind": "section", "text": "Mishna" },

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 454" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+<title>Three bulls</title>
+<rect width="640" height="454" rx="18" fill="#f3f6fb"/>
+<text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Three bulls</text>
+<text x="32" y="70" font-size="14" fill="#56657a">The baraita on 20b, as the Gemara reads it to fit Rabbi Ḥiyya bar Rav</text>
+<text x="32" y="104" font-size="11" font-weight="700" fill="#7a879a">WHAT HE SAID</text>
+<text x="310" y="104" font-size="11" font-weight="700" fill="#2f5d9a">THE BULL</text>
+<text x="460" y="104" font-size="11" font-weight="700" fill="#9a4a2f">IF IT DIES OR IS STOLEN</text>
+
+<rect x="20" y="116" width="600" height="64" rx="12" fill="#fff" stroke="#dbe3ee"/>
+<text x="32" y="144" font-size="14" font-weight="700" fill="#1f2d3d">“This bull is a burnt offering”</text>
+<line x1="298" y1="126" x2="298" y2="170" stroke="#e1e6ee"/>
+<line x1="448" y1="126" x2="448" y2="170" stroke="#e1e6ee"/>
+<text x="310" y="144" font-size="15" font-weight="700" fill="#2f5d9a">Consecrated</text>
+<text x="310" y="162" font-size="11.5" fill="#56657a">misuse applies</text>
+<text x="460" y="144" font-size="15" font-weight="700" fill="#9a4a2f">Not responsible</text>
+
+<rect x="20" y="190" width="600" height="96" rx="12" fill="#fff" stroke="#dbe3ee"/>
+<text x="32" y="218" font-size="14" font-weight="700" fill="#1f2d3d">“This bull is upon me</text>
+<text x="32" y="236" font-size="14" font-weight="700" fill="#1f2d3d">as a burnt offering”</text>
+<text x="32" y="256" font-size="11.5" fill="#56657a">Gemara: he said “Let the bull be</text>
+<text x="32" y="271" font-size="11.5" fill="#56657a">consecrated for its monetary value”</text>
+<line x1="298" y1="200" x2="298" y2="276" stroke="#e1e6ee"/>
+<line x1="448" y1="200" x2="448" y2="276" stroke="#e1e6ee"/>
+<text x="310" y="218" font-size="15" font-weight="700" fill="#2f5d9a">Consecrated</text>
+<text x="310" y="236" font-size="11.5" fill="#56657a">misuse applies</text>
+<text x="460" y="218" font-size="15" font-weight="700" fill="#9a4a2f">Responsible</text>
+<text x="460" y="236" font-size="11.5" fill="#56657a">for its value</text>
+
+<rect x="20" y="296" width="600" height="112" rx="12" fill="#fff" stroke="#dbe3ee"/>
+<text x="32" y="324" font-size="14" font-weight="700" fill="#1f2d3d">“The monetary value of this</text>
+<text x="32" y="342" font-size="14" font-weight="700" fill="#1f2d3d">bull is upon me as a burnt</text>
+<text x="32" y="360" font-size="14" font-weight="700" fill="#1f2d3d">offering”</text>
+<text x="32" y="380" font-size="11.5" fill="#56657a">Gemara: “When its money comes, let it</text>
+<text x="32" y="395" font-size="11.5" fill="#56657a">be consecrated”: Rabbi Meir</text>
+<line x1="298" y1="306" x2="298" y2="398" stroke="#e1e6ee"/>
+<line x1="448" y1="306" x2="448" y2="398" stroke="#e1e6ee"/>
+<text x="310" y="324" font-size="15" font-weight="700" fill="#2f5d9a">Non-sacred</text>
+<text x="310" y="342" font-size="11.5" fill="#56657a">no misuse</text>
+<text x="460" y="324" font-size="15" font-weight="700" fill="#9a4a2f">Not responsible</text>
+<text x="460" y="342" font-size="11.5" fill="#56657a">for the bull; but once it</text>
+<text x="460" y="357" font-size="11.5" fill="#56657a">is sold, responsible for</text>
+<text x="460" y="372" font-size="11.5" fill="#56657a">the money</text>
+
+<text x="32" y="432" font-size="11.5" fill="#7a879a">Rabbi Ḥiyya bar Rav: with “this bull” alone, “upon me” means only “upon me to bring it”.</text>
+</svg>
