@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 560" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>The order of separation</title>
+  <rect width="640" height="560" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">The order of separation</text>
+  <text x="32" y="70" font-size="14" fill="#56657a">“You shall not delay to offer of the fullness of your harvest and the</text>
+  <text x="32" y="89" font-size="14" fill="#56657a">outflow of your presses” (Exodus 22:28). Rashi, from the Mekhilta: the more</text>
+  <text x="32" y="108" font-size="14" fill="#56657a">stringent gift, the one with more names, comes first.</text>
+
+  <!-- row 1 -->
+  <rect x="24" y="128" width="592" height="78" rx="12" fill="#fff" stroke="#dbe3ee"/>
+  <rect x="24" y="128" width="8" height="78" rx="4" fill="#c58b2a"/>
+  <text x="48" y="156" font-size="12" font-weight="700" fill="#7a879a">1</text>
+  <text x="66" y="156" font-size="16" font-weight="700" fill="#1f2d3d">First fruits</text>
+  <text x="66" y="178" font-size="13" fill="#56657a">“The fullness of the harvest”</text>
+  <text x="66" y="196" font-size="12.5" fill="#56657a">reishit · mele’a · teruma · bikkurim</text>
+  <g fill="#c58b2a"><circle cx="512" cy="167" r="7"/><circle cx="532" cy="167" r="7"/><circle cx="552" cy="167" r="7"/><circle cx="572" cy="167" r="7"/></g>
+  <text x="542" y="194" font-size="12" fill="#7a879a" text-anchor="middle">4 names</text>
+
+  <path d="M320 210 V228 M313 221 L320 228 L327 221" stroke="#9aa7b8" stroke-width="2" fill="none"/>
+
+  <!-- row 2 -->
+  <rect x="24" y="232" width="592" height="78" rx="12" fill="#fff" stroke="#dbe3ee"/>
+  <rect x="24" y="232" width="8" height="78" rx="4" fill="#d9a54a"/>
+  <text x="48" y="260" font-size="12" font-weight="700" fill="#7a879a">2</text>
+  <text x="66" y="260" font-size="16" font-weight="700" fill="#1f2d3d">Teruma</text>
+  <text x="66" y="282" font-size="13" fill="#56657a">“The outflow of your presses”</text>
+  <text x="66" y="300" font-size="12.5" fill="#56657a">reishit · dema · teruma</text>
+  <g fill="#d9a54a"><circle cx="522" cy="271" r="7"/><circle cx="542" cy="271" r="7"/><circle cx="562" cy="271" r="7"/></g>
+  <text x="542" y="298" font-size="12" fill="#7a879a" text-anchor="middle">3 names</text>
+
+  <path d="M320 314 V332 M313 325 L320 332 L327 325" stroke="#9aa7b8" stroke-width="2" fill="none"/>
+
+  <!-- row 3 -->
+  <rect x="24" y="336" width="592" height="78" rx="12" fill="#fff" stroke="#dbe3ee"/>
+  <rect x="24" y="336" width="8" height="78" rx="4" fill="#5b8bb5"/>
+  <text x="48" y="364" font-size="12" font-weight="700" fill="#7a879a">3</text>
+  <text x="66" y="364" font-size="16" font-weight="700" fill="#1f2d3d">First tithe</text>
+  <text x="66" y="386" font-size="13" fill="#56657a">contains terumat ma’aser, the tithe of the tithe</text>
+  <text x="66" y="404" font-size="12.5" fill="#56657a">ma’aser · terumat ma’aser</text>
+  <g fill="#5b8bb5"><circle cx="532" cy="375" r="7"/><circle cx="552" cy="375" r="7"/></g>
+  <text x="542" y="402" font-size="12" fill="#7a879a" text-anchor="middle">2 names</text>
+
+  <path d="M320 418 V436 M313 429 L320 436 L327 429" stroke="#9aa7b8" stroke-width="2" fill="none"/>
+
+  <!-- row 4 -->
+  <rect x="24" y="440" width="592" height="62" rx="12" fill="#fff" stroke="#dbe3ee"/>
+  <rect x="24" y="440" width="8" height="62" rx="4" fill="#8fb3d1"/>
+  <text x="48" y="468" font-size="12" font-weight="700" fill="#7a879a">4</text>
+  <text x="66" y="468" font-size="16" font-weight="700" fill="#1f2d3d">Second tithe</text>
+  <text x="66" y="489" font-size="12.5" fill="#56657a">second tithe</text>
+  <g fill="#8fb3d1"><circle cx="542" cy="463" r="7"/></g>
+  <text x="542" y="490" font-size="12" fill="#7a879a" text-anchor="middle">1 name</text>
+
+  <text x="32" y="528" font-size="12.5" fill="#56657a">Rabbi Elazar: one who puts second tithe before first tithe is flogged.</text>
+  <text x="32" y="546" font-size="12.5" fill="#56657a">Tosafot cites the Mishna (Terumot 3:7) for a different reason for the same order.</text>
+</svg>

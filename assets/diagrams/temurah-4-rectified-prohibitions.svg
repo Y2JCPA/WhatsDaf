@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 676" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Prohibition then positive mitzva</title>
+  <rect width="640" height="676" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Prohibition, then positive mitzva</text>
+  <text x="32" y="70" font-size="14" fill="#56657a">As a rule, a prohibition that a positive mitzva can rectify carries no lashes.</text>
+  <text x="32" y="89" font-size="14" fill="#56657a">The cases on this daf, and the reason the Gemara gives for each.</text>
+
+  <text x="48" y="122" font-size="12" font-weight="700" fill="#7a879a">CASE · PROHIBITION → POSITIVE MITZVA</text>
+  <text x="552" y="122" font-size="12" font-weight="700" fill="#7a879a" text-anchor="middle">LASHES</text>
+
+  <!-- row 1: teruma -->
+  <rect x="24" y="134" width="592" height="92" rx="12" fill="#fff" stroke="#dbe3ee"/>
+  <rect x="24" y="134" width="8" height="92" rx="4" fill="#2e7d4f"/>
+  <text x="48" y="160" font-size="16" font-weight="700" fill="#1f2d3d">Teruma before first fruits</text>
+  <text x="48" y="181" font-size="12.5" fill="#56657a">“You shall not delay” → “Out of all of your tithes</text>
+  <text x="48" y="197" font-size="12.5" fill="#56657a">you shall set apart”</text>
+  <text x="48" y="215" font-size="12.5" font-style="italic" fill="#3d4b5e">Rabbi Avin: a prohibition rectified by a positive mitzva</text>
+  <rect x="502" y="166" width="100" height="28" rx="14" fill="#e8f4ea" stroke="#a9d3b0"/>
+  <text x="552" y="185" font-size="13" font-weight="700" fill="#2e7d4f" text-anchor="middle">Not flogged</text>
+
+  <!-- row 2: substitution -->
+  <rect x="24" y="236" width="592" height="92" rx="12" fill="#fff" stroke="#dbe3ee"/>
+  <rect x="24" y="236" width="8" height="92" rx="4" fill="#b23b3b"/>
+  <text x="48" y="262" font-size="16" font-weight="700" fill="#1f2d3d">Substitution</text>
+  <text x="48" y="283" font-size="12.5" fill="#56657a">“He shall not exchange it” + “Nor substitute it” →</text>
+  <text x="48" y="299" font-size="12.5" fill="#56657a">“Both it and that for which it is changed shall be holy”</text>
+  <text x="48" y="317" font-size="12.5" font-style="italic" fill="#3d4b5e">Two prohibitions; one positive mitzva does not uproot two</text>
+  <rect x="502" y="268" width="100" height="28" rx="14" fill="#fbeaea" stroke="#e3b4b4"/>
+  <text x="552" y="287" font-size="13" font-weight="700" fill="#b23b3b" text-anchor="middle">Flogged</text>
+
+  <!-- row 3: rapist israelite -->
+  <rect x="24" y="338" width="592" height="92" rx="12" fill="#fff" stroke="#dbe3ee"/>
+  <rect x="24" y="338" width="8" height="92" rx="4" fill="#2e7d4f"/>
+  <text x="48" y="364" font-size="16" font-weight="700" fill="#1f2d3d">Rapist who divorced: an Israelite</text>
+  <text x="48" y="385" font-size="12.5" fill="#56657a">“He may not send her away all his days” →</text>
+  <text x="48" y="401" font-size="12.5" fill="#56657a">“And she shall be his wife”</text>
+  <text x="48" y="419" font-size="12.5" font-style="italic" fill="#3d4b5e">He remarries her</text>
+  <rect x="502" y="370" width="100" height="28" rx="14" fill="#e8f4ea" stroke="#a9d3b0"/>
+  <text x="552" y="389" font-size="13" font-weight="700" fill="#2e7d4f" text-anchor="middle">Not flogged</text>
+
+  <!-- row 4: rapist priest -->
+  <rect x="24" y="440" width="592" height="92" rx="12" fill="#fff" stroke="#dbe3ee"/>
+  <rect x="24" y="440" width="8" height="92" rx="4" fill="#b23b3b"/>
+  <text x="48" y="466" font-size="16" font-weight="700" fill="#1f2d3d">Rapist who divorced: a priest</text>
+  <text x="48" y="487" font-size="12.5" fill="#56657a">The same verses, but he may not marry a divorcée</text>
+  <text x="48" y="503" font-size="12.5" fill="#56657a">and does not remarry her</text>
+  <text x="48" y="521" font-size="12.5" font-style="italic" fill="#3d4b5e">Priests: the Merciful One gave them greater holiness</text>
+  <rect x="502" y="472" width="100" height="28" rx="14" fill="#fbeaea" stroke="#e3b4b4"/>
+  <text x="552" y="491" font-size="13" font-weight="700" fill="#b23b3b" text-anchor="middle">Flogged</text>
+
+  <!-- row 5: notar -->
+  <rect x="24" y="542" width="592" height="110" rx="12" fill="#fff" stroke="#dbe3ee"/>
+  <rect x="24" y="542" width="8" height="110" rx="4" fill="#2e7d4f"/>
+  <text x="48" y="568" font-size="16" font-weight="700" fill="#1f2d3d">Leftover Paschal meat</text>
+  <text x="48" y="589" font-size="12.5" fill="#56657a">“You shall let nothing of it remain until the morning” →</text>
+  <text x="48" y="605" font-size="12.5" fill="#56657a">“That which remains of it … you shall burn with fire”</text>
+  <text x="48" y="625" font-size="12.5" font-style="italic" fill="#3d4b5e">Rabbi Yehuda: a positive mitzva after the prohibition</text>
+  <text x="48" y="642" font-size="12.5" font-style="italic" fill="#3d4b5e">Rabbi Ya’akov: a prohibition that involves no action</text>
+  <rect x="502" y="583" width="100" height="28" rx="14" fill="#e8f4ea" stroke="#a9d3b0"/>
+  <text x="552" y="602" font-size="13" font-weight="700" fill="#2e7d4f" text-anchor="middle">Not flogged</text>
+</svg>
