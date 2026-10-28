@@ -428,3 +428,16 @@ Same output spec and shared style as above. Save to `assets/portraits/<file>`.
 | `rav-beivai.jpg` | Rav Beivai, Amora · Babylonia | A Babylonian scholar in his 50s with a greying dark beard and a plain brown wool mantle, a finger resting on an open scroll as he sets two verses side by side; background of mudbrick academy walls lit by oil lamps. |
 | `rabbi-dostai-ben-yehuda.jpg` | Rabbi Dostai ben Yehuda, Tanna · late 2nd century | A sage of the Land of Israel in his 50s with a greying dark beard and a plain wool mantle, a precise and measured expression as he weighs a point of exegesis; background of terraced Galilean fields and a stone study house. |
 | `rabbi-abba-bar-memel.jpg` | Rabbi Abba bar Memel, Amora · Land of Israel, 3rd century | A sage in his 50s with a greying beard and a careful, reckoning look, in a plain brown wool mantle, background limestone arches and olive trees. |
+
+---
+
+## Round 21: people needed for Arakhin 32–34
+
+Same output spec and shared style as above. Save to `assets/portraits/<file>`.
+
+| File | Person | Add to the shared style |
+|---|---|---|
+| `rav-shimi-bar-ashi.jpg` | Rav Shimi bar Ashi, Amora · Babylonia, 4th century | A Babylonian scholar in his 40s with a short dark beard and a plain grey-brown mantle, brow furrowed as he presses an objection; background of a mudbrick study hall lit by oil lamps. |
+| `rabbi-yishmael-berabbi-yosei.jpg` | Rabbi Yishmael son of Rabbi Yosei, Tanna · late 2nd century | A sage of the Land of Israel in his 50s with a full dark beard touched with grey and a white wool mantle, an earnest expression as he recounts a tradition; background of a stone study house in the Galilee with olive trees beyond. |
+| `rabbi-elazar-bar-yosei.jpg` | Rabbi Elazar bar Yosei, Tanna · late 2nd century | A sage of the Land of Israel in his 40s with a neat brown beard and a plain linen mantle, pointing to a word in an open scroll; background of a sunlit stone courtyard and a city wall. |
+| `rav-yosef-brei-derav-sala-chasida.jpg` | Rav Yosef, son of Rav Sala Ḥasida, Amora · Babylonia, 4th century | A Babylonian scholar in his 40s with a dark, neatly kept beard and a plain undyed wool mantle, a modest and earnest expression as he explains a teaching to his master; background of mudbrick academy walls lit by oil lamps. |
