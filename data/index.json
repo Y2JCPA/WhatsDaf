@@ -1279,6 +1279,86 @@
    },
    "messages": 72,
    "members": 10
+  },
+  {
+   "masechet": "arakhin",
+   "daf": 22,
+   "title": "Arakhin 22",
+   "he": "ערכין כ״ב",
+   "preview": {
+    "from": "rabbi-meir",
+    "text": "One proclaims the appraisal of the property inherited by minor orphans for thirty days, and one proclaims the appraisal "
+   },
+   "last": {
+    "from": "rav-ashi",
+    "text": "And if we attend to their property, e.g., in a case where the father told his children to repay the debt, we install a s"
+   },
+   "messages": 100,
+   "members": 25
+  },
+  {
+   "masechet": "arakhin",
+   "daf": 23,
+   "title": "Arakhin 23",
+   "he": "ערכין כ״ג",
+   "preview": {
+    "from": "mishnah",
+    "text": "In the case of one who consecrates his property and there was the outstanding debt of the marriage contract of his wife,"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "What is the reason that the treasurer leaves him with all of the tools mentioned in the mishna? The reason is that the v"
+   },
+   "messages": 73,
+   "members": 18
+  },
+  {
+   "masechet": "arakhin",
+   "daf": 24,
+   "title": "Arakhin 24",
+   "he": "ערכין כ״ד",
+   "preview": {
+    "from": "rav-yeimar",
+    "text": "Remove his phylacteries from his head and his arm and give them to the buyer, as they are included in his property."
+   },
+   "last": {
+    "from": "gemara",
+    "text": "Do you maintain that the mishna is referring to the actual year after the Jubilee Year? This is not the case; rather, to"
+   },
+   "messages": 67,
+   "members": 8
+  },
+  {
+   "masechet": "arakhin",
+   "daf": 25,
+   "title": "Arakhin 25",
+   "he": "ערכין כ״ה",
+   "preview": {
+    "from": "baraita",
+    "text": "From where is it derived that one does not count months in order to lower the price to be paid to the Temple treasury? T"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "One derives the halakha with regard to items consecrated for Temple maintenance, such as an ancestral field,"
+   },
+   "messages": 76,
+   "members": 11
+  },
+  {
+   "masechet": "arakhin",
+   "daf": 26,
+   "title": "Arakhin 26",
+   "he": "ערכין כ״ו",
+   "preview": {
+    "from": "rabbi-eliezer",
+    "text": "The priests do not enter into the field, and they also do not give its redemption payment to the Temple treasury. That i"
+   },
+   "last": {
+    "from": "nachman-bar-yitzchak",
+    "text": "In general, according to Rabbi Shimon and Rabbi Yehuda, acquisition of an item for its produce is tantamount to acquisit"
+   },
+   "messages": 62,
+   "members": 12
   }
  ]
 }

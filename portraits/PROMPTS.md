@@ -399,3 +399,17 @@ Same output spec and shared style as above. Save to `assets/portraits/<file>`.
 | File | Person | Add to the shared style |
 |---|---|---|
 | `rachava.jpg` | Raḥava, Amora · Pumbedita, 3rd–4th century | A practical Babylonian scholar in his 50s with a dark beard touched with grey and a plain brown mantle, gesturing toward a merchant’s balance scale; background of a Pumbedita market stall with jars of pitch and mudbrick walls. |
+
+---
+
+## Round 19: people needed for Arakhin 22–26
+
+Same output spec and shared style as above. Save to `assets/portraits/<file>`.
+
+| File | Person | Add to the shared style |
+|---|---|---|
+| `rabbi-acha-sar-habira.jpg` | Rabbi Aḥa Sar HaBira, Amora | An attentive sage in his 50s with a dark beard touched with grey and a dignified mantle, as one recounting a ruling he witnessed; background of limestone arches and olive trees. |
+| `rav-yosef-brei-derava.jpg` | Rav Yosef son of Rava, Amora · Babylonia, 4th century | A young Babylonian scholar in his 30s with a short dark beard and a plain grey-blue mantle, holding a folded letter to be sent to another sage; background of a mudbrick study hall in Meḥoza with a reed mat and oil lamp. |
+| `rav-huna-bar-yehuda.jpg` | Rav Huna bar Yehuda, Amora · Babylonia, 4th century | A Babylonian scholar in his 50s with a greying brown beard and a simple dark mantle, listening intently with one hand raised as if repeating a teaching; background of a lamplit Babylonian study hall with mudbrick walls and scroll niches. |
+| `rav-yeimar.jpg` | Rav Yeimar, Amora · Babylonia, 5th century | A Babylonian sage in his 50s with a dark beard touched with grey and a measured, judicial expression, seated as a judge in a small court, background mudbrick walls and oil lamps. |
+| `mar-ukva-bar-chama.jpg` | Mar Ukva bar Ḥama, Amora · Babylonia, 4th century | A thoughtful Babylonian scholar in his 40s with a short dark-brown beard and a plain ochre mantle, looking down at a field hollow filled with water; background of furrowed farmland and an irrigation channel under a pale sky. |
