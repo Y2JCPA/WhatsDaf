@@ -1,0 +1,34 @@
+{
+  "people": {
+    "rabbi-shimon-ben-yehotzadak": {
+      "name": "Rabbi Shimon ben Yehotzadak",
+      "he": "רבי שמעון בן יהוצדק",
+      "era": "Sage · Land of Israel, early 3rd century",
+      "bio": "Sage of the Land of Israel at the turn from the Tannaim to the Amoraim, whose teachings Rabbi Yoḥanan transmits.",
+      "color": "#5d7a3a",
+      "initials": "רשב״י",
+      "image": "rabbi-shimon-ben-yehotzadak.jpg",
+      "prompt": "An elderly sage in his 70s with a long white beard and a calm, kindly face, wrapped in a plain cream mantle. Background: a Galilean courtyard with an olive tree and limestone walls in soft evening light."
+    },
+    "rabbi-natan": {
+      "name": "Rabbi Natan",
+      "he": "רבי נתן",
+      "era": "Tanna · from Babylonia, 2nd century",
+      "bio": "Rabbi Natan the Babylonian, son of the Exilarch, who served as head of the court in the time of Rabban Shimon ben Gamliel.",
+      "color": "#3f6e8c",
+      "initials": "ר״נ",
+      "image": "rabbi-natan.jpg",
+      "prompt": "A dignified scholar in his 50s with a full dark beard touched with grey and a rich deep-blue mantle hinting at his noble Babylonian family. Background: the arches of the court at Usha in warm light."
+    },
+    "rava-bar-sheila": {
+      "name": "Rava bar Sheila",
+      "he": "רבא בר שילא",
+      "era": "Amora · Babylonia",
+      "bio": "Babylonian Amora, cited here passing on Shmuel’s teaching through Rav Mattana.",
+      "color": "#546e7a",
+      "initials": "רב״ש",
+      "image": "rava-bar-sheila.jpg",
+      "prompt": "A Babylonian scholar in his 40s with a neat brown beard and a simple dark headwrap, speaking with a thoughtful look. Background: a mud-brick study house beside palm trees on the Euphrates."
+    }
+  }
+}

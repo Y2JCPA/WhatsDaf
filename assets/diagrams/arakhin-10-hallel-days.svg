@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 628" width="640" height="628" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <rect width="640" height="628" rx="18" fill="#f3f6fb"/>
+  <text x="320" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2937">Twelve days of the flute, eighteen of Hallel</text>
+  <text x="320" y="70" text-anchor="middle" font-size="14" font-weight="400" fill="#4b5563">The mishna’s days of the flute and Rabbi Yoḥanan’s days of full Hallel (10a)</text>
+  <text x="328" y="100" text-anchor="middle" font-size="13" font-weight="700" fill="#374151">Flute before</text>
+  <text x="328" y="117" text-anchor="middle" font-size="13" font-weight="700" fill="#374151">the altar</text>
+  <text x="448" y="100" text-anchor="middle" font-size="13" font-weight="700" fill="#374151">Full Hallel,</text>
+  <text x="448" y="117" text-anchor="middle" font-size="13" font-weight="700" fill="#374151">Eretz Yisrael</text>
+  <text x="568" y="100" text-anchor="middle" font-size="13" font-weight="700" fill="#374151">Full Hallel,</text>
+  <text x="568" y="117" text-anchor="middle" font-size="13" font-weight="700" fill="#374151">Diaspora</text>
+  <line x1="24" y1="128" x2="616" y2="128" stroke="#cbd5e1"/>
+  <rect x="24" y="138" width="240" height="50" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="144" y="159" text-anchor="middle" font-size="14" font-weight="700" fill="#1f2937">Slaughter of the first</text>
+  <text x="144" y="177" text-anchor="middle" font-size="12" font-weight="400" fill="#6b7280">Paschal offering, 14 Nisan</text>
+  <rect x="272" y="138" width="112" height="50" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="328" y="170" text-anchor="middle" font-size="18" font-weight="700" fill="#1d5e2c">1</text>
+  <rect x="392" y="138" width="112" height="50" rx="10" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="448" y="168" text-anchor="middle" font-size="12" font-weight="400" fill="#9ca3af">not listed*</text>
+  <rect x="512" y="138" width="112" height="50" rx="10" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="568" y="168" text-anchor="middle" font-size="12" font-weight="400" fill="#9ca3af">not listed*</text>
+  <rect x="24" y="196" width="240" height="50" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="144" y="217" text-anchor="middle" font-size="14" font-weight="700" fill="#1f2937">Slaughter of the second</text>
+  <text x="144" y="235" text-anchor="middle" font-size="12" font-weight="400" fill="#6b7280">Paschal offering, 14 Iyyar</text>
+  <rect x="272" y="196" width="112" height="50" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="328" y="228" text-anchor="middle" font-size="18" font-weight="700" fill="#1d5e2c">1</text>
+  <rect x="392" y="196" width="112" height="50" rx="10" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="448" y="226" text-anchor="middle" font-size="12" font-weight="400" fill="#9ca3af">not listed</text>
+  <rect x="512" y="196" width="112" height="50" rx="10" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="568" y="226" text-anchor="middle" font-size="12" font-weight="400" fill="#9ca3af">not listed</text>
+  <rect x="24" y="254" width="240" height="50" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="144" y="275" text-anchor="middle" font-size="14" font-weight="700" fill="#1f2937">First festival day</text>
+  <text x="144" y="293" text-anchor="middle" font-size="12" font-weight="400" fill="#6b7280">of Passover</text>
+  <rect x="272" y="254" width="112" height="50" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="328" y="286" text-anchor="middle" font-size="18" font-weight="700" fill="#1d5e2c">1</text>
+  <rect x="392" y="254" width="112" height="50" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="448" y="286" text-anchor="middle" font-size="18" font-weight="700" fill="#1d5e2c">1</text>
+  <rect x="512" y="254" width="112" height="50" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="568" y="286" text-anchor="middle" font-size="18" font-weight="700" fill="#1d5e2c">2</text>
+  <rect x="24" y="312" width="240" height="50" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="144" y="333" text-anchor="middle" font-size="14" font-weight="700" fill="#1f2937">Shavuot</text>
+  <text x="144" y="351" text-anchor="middle" font-size="12" font-weight="400" fill="#6b7280">(the festival of Assembly)</text>
+  <rect x="272" y="312" width="112" height="50" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="328" y="344" text-anchor="middle" font-size="18" font-weight="700" fill="#1d5e2c">1</text>
+  <rect x="392" y="312" width="112" height="50" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="448" y="344" text-anchor="middle" font-size="18" font-weight="700" fill="#1d5e2c">1</text>
+  <rect x="512" y="312" width="112" height="50" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="568" y="344" text-anchor="middle" font-size="18" font-weight="700" fill="#1d5e2c">2</text>
+  <rect x="24" y="370" width="240" height="50" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="144" y="391" text-anchor="middle" font-size="14" font-weight="700" fill="#1f2937">Sukkot, with the</text>
+  <text x="144" y="409" text-anchor="middle" font-size="12" font-weight="400" fill="#6b7280">Eighth Day of Assembly</text>
+  <rect x="272" y="370" width="112" height="50" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="328" y="402" text-anchor="middle" font-size="18" font-weight="700" fill="#1d5e2c">8</text>
+  <rect x="392" y="370" width="112" height="50" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="448" y="402" text-anchor="middle" font-size="18" font-weight="700" fill="#1d5e2c">8</text>
+  <rect x="512" y="370" width="112" height="50" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="568" y="402" text-anchor="middle" font-size="18" font-weight="700" fill="#1d5e2c">9</text>
+  <rect x="24" y="428" width="240" height="50" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="144" y="458" text-anchor="middle" font-size="14" font-weight="700" fill="#1f2937">Hanukkah</text>
+  <rect x="272" y="428" width="112" height="50" rx="10" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="328" y="458" text-anchor="middle" font-size="12" font-weight="400" fill="#9ca3af">not listed†</text>
+  <rect x="392" y="428" width="112" height="50" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="448" y="460" text-anchor="middle" font-size="18" font-weight="700" fill="#1d5e2c">8</text>
+  <rect x="512" y="428" width="112" height="50" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="568" y="460" text-anchor="middle" font-size="18" font-weight="700" fill="#1d5e2c">8</text>
+  <rect x="24" y="486" width="240" height="50" rx="10" fill="#e8eefc" stroke="#9fb3e0"/>
+  <text x="144" y="517" text-anchor="middle" font-size="15" font-weight="700" fill="#1e3a8a">Total days</text>
+  <rect x="272" y="486" width="112" height="50" rx="10" fill="#e8eefc" stroke="#9fb3e0"/>
+  <text x="328" y="519" text-anchor="middle" font-size="20" font-weight="700" fill="#1e3a8a">12</text>
+  <rect x="392" y="486" width="112" height="50" rx="10" fill="#e8eefc" stroke="#9fb3e0"/>
+  <text x="448" y="519" text-anchor="middle" font-size="20" font-weight="700" fill="#1e3a8a">18</text>
+  <rect x="512" y="486" width="112" height="50" rx="10" fill="#e8eefc" stroke="#9fb3e0"/>
+  <text x="568" y="519" text-anchor="middle" font-size="20" font-weight="700" fill="#1e3a8a">21</text>
+  <text x="24" y="566" text-anchor="start" font-size="12" font-weight="400" fill="#4b5563">The Gemara: the flute plays on days on which the individual completes the full Hallel.</text>
+  <text x="24" y="586" text-anchor="start" font-size="12" font-weight="400" fill="#4b5563">* Tosafot: the eve of Passover is not counted, since that Hallel is said only in the Temple.</text>
+  <text x="24" y="606" text-anchor="start" font-size="12" font-weight="400" fill="#4b5563">† Rashi: the mishna does not count Hanukkah, since it has no offering.</text>
+</svg>
