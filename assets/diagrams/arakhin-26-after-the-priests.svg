@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 676" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+<title>After the priests</title>
+<defs>
+<marker id="ah26" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#8a97aa"/></marker>
+</defs>
+<rect width="640" height="676" rx="18" fill="#f3f6fb"/>
+<text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">After the field went out to the priests</text>
+<text x="32" y="70" font-size="14" fill="#56657a">The two cases the Gemara reads into Leviticus 27:20 and 27:24</text>
+
+<rect x="20" y="90" width="600" height="64" rx="12" fill="#fff" stroke="#dbe3ee"/>
+<text x="320" y="117" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2d3d">The owner consecrated his ancestral field and did not redeem it;</text>
+<text x="320" y="137" font-size="14" font-weight="700" text-anchor="middle" fill="#1f2d3d">it went out to the priests at the Jubilee</text>
+
+<line x1="165" y1="154" x2="165" y2="186" stroke="#8a97aa" stroke-width="1.6" marker-end="url(#ah26)"/>
+<line x1="475" y1="154" x2="475" y2="186" stroke="#8a97aa" stroke-width="1.6" marker-end="url(#ah26)"/>
+
+<text x="165" y="206" font-size="10.5" font-weight="700" text-anchor="middle" fill="#2f5d9a">CASE 1 · “IT SHALL NOT BE REDEEMED”</text>
+<text x="475" y="206" font-size="10.5" font-weight="700" text-anchor="middle" fill="#9a4a2f">CASE 2 · “TO THE ONE FROM WHOM IT WAS BOUGHT”</text>
+
+<rect x="20" y="218" width="290" height="44" rx="10" fill="#e3effb" stroke="#b9d3ef"/>
+<text x="165" y="245" font-size="13.5" font-weight="700" text-anchor="middle" fill="#1f2d3d">The priest consecrated it</text>
+<line x1="165" y1="262" x2="165" y2="282" stroke="#8a97aa" stroke-width="1.6" marker-end="url(#ah26)"/>
+<rect x="20" y="284" width="290" height="44" rx="10" fill="#e3effb" stroke="#b9d3ef"/>
+<text x="165" y="311" font-size="13.5" font-weight="700" text-anchor="middle" fill="#1f2d3d">The original owner came to redeem it</text>
+<line x1="165" y1="328" x2="165" y2="414" stroke="#8a97aa" stroke-width="1.6" marker-end="url(#ah26)"/>
+
+<rect x="330" y="218" width="290" height="44" rx="10" fill="#fbeee6" stroke="#efcdb9"/>
+<text x="475" y="245" font-size="13.5" font-weight="700" text-anchor="middle" fill="#1f2d3d">The priest sold it</text>
+<line x1="475" y1="262" x2="475" y2="282" stroke="#8a97aa" stroke-width="1.6" marker-end="url(#ah26)"/>
+<rect x="330" y="284" width="290" height="44" rx="10" fill="#fbeee6" stroke="#efcdb9"/>
+<text x="475" y="311" font-size="13.5" font-weight="700" text-anchor="middle" fill="#1f2d3d">The buyer consecrated it</text>
+<line x1="475" y1="328" x2="475" y2="348" stroke="#8a97aa" stroke-width="1.6" marker-end="url(#ah26)"/>
+<rect x="330" y="350" width="290" height="44" rx="10" fill="#fbeee6" stroke="#efcdb9"/>
+<text x="475" y="377" font-size="13.5" font-weight="700" text-anchor="middle" fill="#1f2d3d">Another person redeemed it</text>
+<line x1="475" y1="394" x2="475" y2="414" stroke="#8a97aa" stroke-width="1.6" marker-end="url(#ah26)"/>
+
+<rect x="20" y="416" width="290" height="110" rx="12" fill="#e6f4ea" stroke="#b9dfc4"/>
+<text x="165" y="442" font-size="14" font-weight="700" text-anchor="middle" fill="#2f7a45">He may redeem it, but only</text>
+<text x="165" y="461" font-size="14" font-weight="700" text-anchor="middle" fill="#2f7a45">“like a purchased field”</text>
+<text x="165" y="482" font-size="12" text-anchor="middle" fill="#56657a">“Anymore”: not to return to “the way</text>
+<text x="165" y="498" font-size="12" text-anchor="middle" fill="#56657a">it was,” an ancestral field</text>
+<text x="165" y="516" font-size="11.5" font-style="italic" text-anchor="middle" fill="#7a879a">Rashi: at the Jubilee it goes to the priests</text>
+
+<rect x="330" y="416" width="290" height="110" rx="12" fill="#e6f4ea" stroke="#b9dfc4"/>
+<text x="475" y="442" font-size="14" font-weight="700" text-anchor="middle" fill="#2f7a45">At the Jubilee it returns to</text>
+<text x="475" y="461" font-size="14" font-weight="700" text-anchor="middle" fill="#2f7a45">the priest who sold it,</text>
+<text x="475" y="480" font-size="14" font-weight="700" text-anchor="middle" fill="#2f7a45">not to the original owner</text>
+
+<text x="32" y="556" font-size="11" font-weight="700" fill="#7a879a">WHY EACH VERSE IS NEEDED</text>
+<text x="32" y="578" font-size="12.5" fill="#1f2d3d"><tspan font-weight="700">“It shall not be redeemed”:</tspan> in case 1 the owner gives payment to the</text>
+<text x="32" y="595" font-size="12.5" fill="#1f2d3d">Temple treasury, so one might say it should remain in his hands.</text>
+<text x="32" y="617" font-size="12.5" fill="#1f2d3d"><tspan font-weight="700">“To the one from whom it was bought”:</tspan> in case 2 the field does return at</text>
+<text x="32" y="634" font-size="12.5" fill="#1f2d3d">the Jubilee, so one might say it should return to its original owner.</text>
+<text x="32" y="656" font-size="12.5" fill="#1f2d3d"><tspan font-weight="700">“Anymore”:</tspan> without it, one would say it may not be redeemed at all.</text>
+</svg>

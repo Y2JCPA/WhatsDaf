@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 520" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+<title>A field bought from one’s father</title>
+<rect width="640" height="520" rx="18" fill="#f3f6fb"/>
+<text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">A field bought from one’s father</text>
+<text x="32" y="70" font-size="14" fill="#56657a">The son consecrated it. Is it an ancestral field or a purchased one?</text>
+
+<text x="34" y="110" font-size="13" font-weight="700" fill="#1f2d3d">The case</text>
+<text x="341" y="110" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2d3d">Rabbi Meir</text>
+<text x="527" y="102" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2d3d">Rabbi Yehuda and</text>
+<text x="527" y="119" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2d3d">Rabbi Shimon</text>
+
+<rect x="20" y="134" width="218" height="62" rx="10" fill="#fff" stroke="#dbe3ee"/>
+<text x="32" y="161" font-size="13" font-weight="700" fill="#1f2d3d">His father died, then</text>
+<text x="32" y="179" font-size="13" font-weight="700" fill="#1f2d3d">he consecrated it</text>
+<rect x="244" y="134" width="194" height="62" rx="10" fill="#e6f4ea" stroke="#b9dfc4"/>
+<text x="341" y="170" font-size="13.5" font-weight="700" text-anchor="middle" fill="#2f7a45">Ancestral field</text>
+<rect x="444" y="134" width="176" height="62" rx="10" fill="#e6f4ea" stroke="#b9dfc4"/>
+<text x="532" y="170" font-size="13.5" font-weight="700" text-anchor="middle" fill="#2f7a45">Ancestral field</text>
+
+<rect x="20" y="204" width="218" height="62" rx="10" fill="#fff" stroke="#dbe3ee"/>
+<text x="32" y="231" font-size="13" font-weight="700" fill="#1f2d3d">He consecrated it, then</text>
+<text x="32" y="249" font-size="13" font-weight="700" fill="#1f2d3d">his father died</text>
+<rect x="244" y="204" width="194" height="62" rx="10" fill="#fbeee6" stroke="#efcdb9"/>
+<text x="341" y="240" font-size="13.5" font-weight="700" text-anchor="middle" fill="#9a4a2f">Purchased field</text>
+<rect x="444" y="204" width="176" height="62" rx="10" fill="#e6f4ea" stroke="#b9dfc4"/>
+<text x="532" y="240" font-size="13.5" font-weight="700" text-anchor="middle" fill="#2f7a45">Ancestral field</text>
+
+<rect x="20" y="274" width="218" height="80" rx="10" fill="#fff" stroke="#dbe3ee"/>
+<text x="32" y="300" font-size="13" font-weight="700" fill="#1f2d3d">“Which is not of his</text>
+<text x="32" y="318" font-size="13" font-weight="700" fill="#1f2d3d">ancestral field”</text>
+<text x="32" y="338" font-size="11.5" fill="#56657a">Leviticus 27:22, as each reads it</text>
+<rect x="244" y="274" width="194" height="80" rx="10" fill="#eef1f6" stroke="#dbe3ee"/>
+<text x="341" y="300" font-size="12" text-anchor="middle" fill="#1f2d3d">a field that is not</text>
+<text x="341" y="317" font-size="12" text-anchor="middle" fill="#1f2d3d">an ancestral field</text>
+<text x="341" y="334" font-size="12" text-anchor="middle" fill="#1f2d3d">at the time of consecration</text>
+<rect x="444" y="274" width="176" height="80" rx="10" fill="#eef1f6" stroke="#dbe3ee"/>
+<text x="532" y="300" font-size="12" text-anchor="middle" fill="#1f2d3d">a field that is not</text>
+<text x="532" y="317" font-size="12" text-anchor="middle" fill="#1f2d3d">due to become</text>
+<text x="532" y="334" font-size="12" text-anchor="middle" fill="#1f2d3d">his ancestral field</text>
+
+<text x="32" y="390" font-size="11" font-weight="700" fill="#7a879a">WHAT EACH STATUS MEANS (THE MISHNA)</text>
+<rect x="32" y="404" width="12" height="12" rx="3" fill="#e6f4ea" stroke="#b9dfc4"/>
+<text x="54" y="415" font-size="12.5" fill="#1f2d3d"><tspan font-weight="700">Ancestral field:</tspan> redeemed at fifty sela per beit kor; if another</text>
+<text x="54" y="433" font-size="12.5" fill="#1f2d3d">redeems it instead of the son, it goes to the priests at the Jubilee.</text>
+<rect x="32" y="452" width="12" height="12" rx="3" fill="#fbeee6" stroke="#efcdb9"/>
+<text x="54" y="463" font-size="12.5" fill="#1f2d3d"><tspan font-weight="700">Purchased field:</tspan> redeemed at its monetary value; it returns to</text>
+<text x="54" y="481" font-size="12.5" fill="#1f2d3d">the ancestral owner, i.e., the son, at the Jubilee.</text>
+</svg>
