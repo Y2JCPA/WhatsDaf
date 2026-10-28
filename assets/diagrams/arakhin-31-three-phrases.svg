@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 520" width="640" height="520" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <rect width="640" height="520" rx="18" fill="#f3f6fb"/>
+  <text x="320" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2a3a">Three phrases, two readings</text>
+  <text x="320" y="70" text-anchor="middle" font-size="14" fill="#55627a">Counting the year for a house in a walled city (31a)</text>
+
+  <!-- header -->
+  <rect x="24" y="88" width="200" height="40" rx="10" fill="#e3e9f3"/>
+  <text x="124" y="113" text-anchor="middle" font-size="14" font-weight="700" fill="#1f2a3a">The phrase</text>
+  <rect x="232" y="88" width="188" height="40" rx="10" fill="#e6dcf3"/>
+  <text x="326" y="113" text-anchor="middle" font-size="14" font-weight="700" fill="#4a2a7a">Rabbi Yehuda HaNasi</text>
+  <rect x="428" y="88" width="188" height="40" rx="10" fill="#dcebe1"/>
+  <text x="522" y="113" text-anchor="middle" font-size="14" font-weight="700" fill="#1d6b35">The Rabbis</text>
+
+  <!-- row 1: days -->
+  <rect x="24" y="136" width="592" height="96" rx="12" fill="#ffffff" stroke="#c9d3e3"/>
+  <text x="40" y="166" font-size="16" font-weight="700" fill="#2e5aa8">“Days”</text>
+  <text x="40" y="188" font-size="12.5" fill="#55627a">“for days he shall have the</text>
+  <text x="40" y="205" font-size="12.5" fill="#55627a">right of redemption”</text>
+  <text x="40" y="222" font-size="11.5" fill="#8090a8">Leviticus 25:29</text>
+  <text x="244" y="170" font-size="13.5" font-weight="600" fill="#1f2a3a">No fewer than two days:</text>
+  <text x="244" y="189" font-size="13.5" fill="#1f2a3a">no redeeming in the</text>
+  <text x="244" y="208" font-size="13.5" fill="#1f2a3a">first two days (a5)</text>
+  <text x="440" y="170" font-size="13.5" font-weight="600" fill="#1f2a3a">From day to day,</text>
+  <text x="440" y="189" font-size="13.5" fill="#1f2a3a">and from hour to hour</text>
+  <text x="440" y="208" font-size="13.5" fill="#1f2a3a">(a6–a7)</text>
+
+  <!-- row 2: until the completion -->
+  <rect x="24" y="240" width="592" height="96" rx="12" fill="#ffffff" stroke="#c9d3e3"/>
+  <text x="40" y="270" font-size="16" font-weight="700" fill="#2e5aa8">“Until the completion</text>
+  <text x="40" y="290" font-size="16" font-weight="700" fill="#2e5aa8">of the year after</text>
+  <text x="40" y="310" font-size="16" font-weight="700" fill="#2e5aa8">it is sold”</text>
+  <text x="40" y="327" font-size="11.5" fill="#8090a8">Leviticus 25:29</text>
+  <text x="244" y="274" font-size="13.5" font-weight="600" fill="#1f2a3a">From day to day</text>
+  <text x="244" y="293" font-size="13.5" font-weight="600" fill="#1f2a3a">and from hour to hour,</text>
+  <text x="244" y="312" font-size="13.5" fill="#1f2a3a">one <tspan font-style="italic">halakha</tspan> (a9)</text>
+  <text x="440" y="274" font-size="13.5" font-weight="600" fill="#1f2a3a">A year from his sale,</text>
+  <text x="440" y="293" font-size="13.5" fill="#1f2a3a">not the year of the</text>
+  <text x="440" y="312" font-size="13.5" fill="#1f2a3a">counting of the world (a7)</text>
+
+  <!-- row 3: full -->
+  <rect x="24" y="344" width="592" height="96" rx="12" fill="#ffffff" stroke="#c9d3e3"/>
+  <text x="40" y="374" font-size="16" font-weight="700" fill="#2e5aa8">“A full year”</text>
+  <text x="40" y="396" font-size="12.5" fill="#55627a">“until the passage of a</text>
+  <text x="40" y="413" font-size="12.5" fill="#55627a">full year for him”</text>
+  <text x="40" y="430" font-size="11.5" fill="#8090a8">Leviticus 25:30</text>
+  <text x="244" y="378" font-size="13.5" font-weight="600" fill="#1f2a3a">The intercalated</text>
+  <text x="244" y="397" font-size="13.5" font-weight="600" fill="#1f2a3a">month (a9)</text>
+  <text x="244" y="418" font-size="11.5" fill="#55627a">Mishna: “a year and</text>
+  <text x="244" y="433" font-size="11.5" fill="#55627a">its addition” (a4)</text>
+  <text x="440" y="378" font-size="13.5" font-weight="600" fill="#1f2a3a">The intercalated</text>
+  <text x="440" y="397" font-size="13.5" font-weight="600" fill="#1f2a3a">month (a8)</text>
+
+  <!-- footer -->
+  <text x="320" y="470" text-anchor="middle" font-size="12.5" fill="#55627a">The mishna’s “he may redeem immediately” is not in accordance with Rabbi (a5).</text>
+  <text x="320" y="492" text-anchor="middle" font-size="12.5" fill="#55627a">In a8 Rabbi derives hour to hour from “full”; in a9 it comes from “until the completion”.</text>
+</svg>

@@ -1,0 +1,14 @@
+{
+  "people": {
+    "rabbi-abba-bar-memel": {
+      "name": "Rabbi Abba bar Memel",
+      "he": "רבי אבא בר ממל",
+      "era": "Amora · Land of Israel, 3rd century",
+      "bio": "Amora of the Land of Israel in the late third century.",
+      "color": "#6d4c41",
+      "initials": "רא״מ",
+      "image": "rabbi-abba-bar-memel.jpg",
+      "prompt": "A sage in his 50s with a greying beard and a careful, reckoning look, in a plain brown wool mantle, background limestone arches and olive trees."
+    }
+  }
+}
