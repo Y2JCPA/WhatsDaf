@@ -1359,6 +1359,86 @@
    },
    "messages": 62,
    "members": 12
+  },
+  {
+   "masechet": "arakhin",
+   "daf": 27,
+   "title": "Arakhin 27",
+   "he": "ערכין כ״ז",
+   "preview": {
+    "from": "nachman-bar-yitzchak",
+    "text": "But here, with regard to their opinion that even if the son consecrated the field before his father’s death it is consid"
+   },
+   "last": {
+    "from": "rav-sheshet",
+    "text": "This is what the mishna is saying: If the owner wished from the outset to give based on a calculation that reaches thirt"
+   },
+   "messages": 90,
+   "members": 8
+  },
+  {
+   "masechet": "arakhin",
+   "daf": 28,
+   "title": "Arakhin 28",
+   "he": "ערכין כ״ח",
+   "preview": {
+    "from": "rabbi-eliezer",
+    "text": "A person may dedicate, for sacred or priestly use, some of his flock and some of his cattle, and some of his Canaanite s"
+   },
+   "last": {
+    "from": "mishnah",
+    "text": "And how does one assess the payment required to redeem it? One estimates how much an Israelite person would be willing t"
+   },
+   "messages": 63,
+   "members": 17
+  },
+  {
+   "masechet": "arakhin",
+   "daf": 29,
+   "title": "Arakhin 29",
+   "he": "ערכין כ״ט",
+   "preview": {
+    "from": "baraita",
+    "text": "Dedications of property for priests have no redemption, and one gives the property to the priest."
+   },
+   "last": {
+    "from": "rav-yosef",
+    "text": "And therefore, when Shmuel says here that the field is not sold during the Jubilee Year, he means that the sale does not"
+   },
+   "messages": 93,
+   "members": 13
+  },
+  {
+   "masechet": "arakhin",
+   "daf": 30,
+   "title": "Arakhin 30",
+   "he": "ערכין ל׳",
+   "preview": {
+    "from": "rav",
+    "text": "The money with which the brother betrothed his sister is returned, as he knew that the betrothal was invalid and merely "
+   },
+   "last": {
+    "from": "rabbi-shimon",
+    "text": "But with regard to one who consecrates his ancestral field, since his power was diminished, in that if the Jubilee Year "
+   },
+   "messages": 87,
+   "members": 15
+  },
+  {
+   "masechet": "arakhin",
+   "daf": 31,
+   "title": "Arakhin 31",
+   "he": "ערכין ל״א",
+   "preview": {
+    "from": "baraita",
+    "text": "One may borrow money and redeem a field, and one may partially redeem it."
+   },
+   "last": {
+    "from": "rava",
+    "text": "It may be inferred from the ordinance of Hillel in the mishna that if one says to his wife: This is your bill of divorce"
+   },
+   "messages": 81,
+   "members": 14
   }
  ]
 }

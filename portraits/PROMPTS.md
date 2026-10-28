@@ -413,3 +413,18 @@ Same output spec and shared style as above. Save to `assets/portraits/<file>`.
 | `rav-huna-bar-yehuda.jpg` | Rav Huna bar Yehuda, Amora · Babylonia, 4th century | A Babylonian scholar in his 50s with a greying brown beard and a simple dark mantle, listening intently with one hand raised as if repeating a teaching; background of a lamplit Babylonian study hall with mudbrick walls and scroll niches. |
 | `rav-yeimar.jpg` | Rav Yeimar, Amora · Babylonia, 5th century | A Babylonian sage in his 50s with a dark beard touched with grey and a measured, judicial expression, seated as a judge in a small court, background mudbrick walls and oil lamps. |
 | `mar-ukva-bar-chama.jpg` | Mar Ukva bar Ḥama, Amora · Babylonia, 4th century | A thoughtful Babylonian scholar in his 40s with a short dark-brown beard and a plain ochre mantle, looking down at a field hollow filled with water; background of furrowed farmland and an irrigation channel under a pale sky. |
+
+---
+
+## Round 20: people needed for Arakhin 27–31
+
+Same output spec and shared style as above. Save to `assets/portraits/<file>`.
+
+| File | Person | Add to the shared style |
+|---|---|---|
+| `rav-chiyya-bar-ami.jpg` | Rav Ḥiyya bar Ami, Amora | A Babylonian scholar in his 50s with a greying dark beard and a plain brown mantle, one hand raised as he repeats a ruling he received; background of mudbrick academy walls and oil lamps. |
+| `chulfana.jpg` | Ḥulfana, Sage of the Talmudic era | An elderly sage in his 60s with a long white beard and a simple undyed wool mantle, a quiet and reserved expression; background of a softly lit study hall with oil lamps. |
+| `chizkiyya-bar-biluto.jpg` | Ḥizkiyya bar Biluto, Amora | A younger scholar in his 30s with a short dark beard and a light linen mantle, leaning forward as he raises a question; background of limestone arches and olive trees. |
+| `rav-beivai.jpg` | Rav Beivai, Amora · Babylonia | A Babylonian scholar in his 50s with a greying dark beard and a plain brown wool mantle, a finger resting on an open scroll as he sets two verses side by side; background of mudbrick academy walls lit by oil lamps. |
+| `rabbi-dostai-ben-yehuda.jpg` | Rabbi Dostai ben Yehuda, Tanna · late 2nd century | A sage of the Land of Israel in his 50s with a greying dark beard and a plain wool mantle, a precise and measured expression as he weighs a point of exegesis; background of terraced Galilean fields and a stone study house. |
+| `rabbi-abba-bar-memel.jpg` | Rabbi Abba bar Memel, Amora · Land of Israel, 3rd century | A sage in his 50s with a greying beard and a careful, reckoning look, in a plain brown wool mantle, background limestone arches and olive trees. |
