@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 528" width="640" height="528" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <defs><marker id="ar29arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#64748b"/></marker></defs>
+  <rect width="640" height="528" rx="18" fill="#f3f6fb"/>
+  <text x="320" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2937">Two years of crops before redeeming</text>
+  <text x="320" y="70" text-anchor="middle" font-size="13.5" fill="#4b5563">“According to the number of years of the crops he shall sell to you”</text>
+  <text x="320" y="88" text-anchor="middle" font-size="11.5" fill="#6b7280">Leviticus 25:15 · the mishna on 29b</text>
+  <text x="24" y="122" font-size="14" font-weight="700" fill="#1f2937">Rabbi Eliezer: sold before Rosh HaShana, the field full of produce</text>
+  <rect x="24" y="136" width="138" height="112" rx="10" fill="#eaf4e2" stroke="#a5c98b"/>
+  <text x="93" y="160" text-anchor="middle" font-size="13.5" font-weight="700" fill="#2f5517">At the sale</text>
+  <text x="93" y="182" text-anchor="middle" font-size="13" fill="#2f5517">the produce</text>
+  <text x="93" y="199" text-anchor="middle" font-size="13" fill="#2f5517">standing in it</text>
+  <rect x="53" y="214" width="80" height="24" rx="12" fill="#2f5517"/>
+  <text x="93" y="231" text-anchor="middle" font-size="12.5" font-weight="700" fill="#ffffff">Crop 1</text>
+  <line x1="164" y1="192" x2="176" y2="192" stroke="#64748b" stroke-width="2" marker-end="url(#ar29arrow)"/>
+  <rect x="178" y="136" width="138" height="112" rx="10" fill="#eaf4e2" stroke="#a5c98b"/>
+  <text x="247" y="160" text-anchor="middle" font-size="13.5" font-weight="700" fill="#2f5517">First year</text>
+  <text x="247" y="182" text-anchor="middle" font-size="13" fill="#2f5517">in the buyer’s</text>
+  <text x="247" y="199" text-anchor="middle" font-size="13" fill="#2f5517">hand</text>
+  <rect x="207" y="214" width="80" height="24" rx="12" fill="#2f5517"/>
+  <text x="247" y="231" text-anchor="middle" font-size="12.5" font-weight="700" fill="#ffffff">Crop 2</text>
+  <line x1="318" y1="192" x2="330" y2="192" stroke="#64748b" stroke-width="2" marker-end="url(#ar29arrow)"/>
+  <rect x="332" y="136" width="138" height="112" rx="10" fill="#eaf4e2" stroke="#a5c98b"/>
+  <text x="401" y="160" text-anchor="middle" font-size="13.5" font-weight="700" fill="#2f5517">Second year</text>
+  <text x="401" y="182" text-anchor="middle" font-size="13" fill="#2f5517">in the buyer’s</text>
+  <text x="401" y="199" text-anchor="middle" font-size="13" fill="#2f5517">hand</text>
+  <rect x="361" y="214" width="80" height="24" rx="12" fill="#2f5517"/>
+  <text x="401" y="231" text-anchor="middle" font-size="12.5" font-weight="700" fill="#ffffff">Crop 3</text>
+  <line x1="472" y1="192" x2="484" y2="192" stroke="#64748b" stroke-width="2" marker-end="url(#ar29arrow)"/>
+  <rect x="488" y="136" width="128" height="112" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="552" y="172" text-anchor="middle" font-size="13.5" font-weight="700" fill="#374151">The seller</text>
+  <text x="552" y="189" text-anchor="middle" font-size="13.5" font-weight="700" fill="#374151">may now</text>
+  <text x="552" y="206" text-anchor="middle" font-size="13.5" font-weight="700" fill="#374151">redeem it</text>
+  <text x="24" y="272" font-size="12.5" fill="#374151">Three crops in two years. Rashi: the crop standing at the time of purchase, and two crops</text>
+  <text x="24" y="289" font-size="12.5" fill="#374151">in the two years. He need not return the field in the state he received it.</text>
+  <text x="24" y="326" font-size="14" font-weight="700" fill="#1f2937">Does the year count toward the two?</text>
+  <rect x="24" y="340" width="288" height="166" rx="10" fill="#fdecea" stroke="#e8a59c"/>
+  <text x="168" y="366" text-anchor="middle" font-size="15" font-weight="700" fill="#8a2a1d">Does not count</text>
+  <text x="40" y="396" font-size="13.5" fill="#5b1d14">• A year of blight or mildew</text>
+  <text x="40" y="418" font-size="13.5" fill="#5b1d14">• The Sabbatical Year</text>
+  <text x="40" y="444" font-size="12" fill="#6b3a33">The buyer cannot benefit from the</text>
+  <text x="40" y="460" font-size="12" fill="#6b3a33">field. Rabbeinu Gershom: an act of</text>
+  <text x="40" y="476" font-size="12" fill="#6b3a33">Heaven; he must hold it two years</text>
+  <text x="40" y="492" font-size="12" fill="#6b3a33">fit for crops.</text>
+  <rect x="328" y="340" width="288" height="166" rx="10" fill="#eaf4e2" stroke="#a5c98b"/>
+  <text x="472" y="366" text-anchor="middle" font-size="15" font-weight="700" fill="#2f5517">Counts</text>
+  <text x="344" y="396" font-size="13.5" fill="#24420f">• He plowed it but did not sow</text>
+  <text x="344" y="418" font-size="13.5" fill="#24420f">• He left it fallow</text>
+  <text x="344" y="444" font-size="12" fill="#3d5c2a">It was fit to produce a crop.</text>
+  <text x="344" y="460" font-size="12" fill="#3d5c2a">Rashi: he caused his own loss.</text>
+</svg>
