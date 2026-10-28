@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 600" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Two bodies, two sanctities</title>
+  <defs>
+    <marker id="tm9-blue" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2f6db5"/></marker>
+    <marker id="tm9-orange" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#c26a12"/></marker>
+  </defs>
+  <rect width="640" height="600" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Two bodies, two sanctities</text>
+  <text x="32" y="68" font-size="14" fill="#5b6b7d">Rabbi Avin’s guilt offering, already substituted for once: may one substitute again?</text>
+
+  <!-- column headers -->
+  <text x="250" y="102" text-anchor="middle" font-size="12.5" font-weight="700" fill="#7f8fa3" letter-spacing="0.6">SAME SANCTITY</text>
+  <text x="250" y="118" text-anchor="middle" font-size="12" fill="#7f8fa3">still a guilt offering</text>
+  <text x="506" y="102" text-anchor="middle" font-size="12.5" font-weight="700" fill="#7f8fa3" letter-spacing="0.6">ANOTHER SANCTITY</text>
+  <text x="506" y="118" text-anchor="middle" font-size="12" fill="#7f8fa3">now a burnt offering</text>
+
+  <!-- row headers -->
+  <text x="32" y="196" font-size="12.5" font-weight="700" fill="#7f8fa3" letter-spacing="0.6">SAME</text>
+  <text x="32" y="212" font-size="12.5" font-weight="700" fill="#7f8fa3" letter-spacing="0.6">BODY</text>
+  <text x="32" y="230" font-size="12" fill="#7f8fa3">the first</text>
+  <text x="32" y="245" font-size="12" fill="#7f8fa3">animal</text>
+  <text x="32" y="364" font-size="12.5" font-weight="700" fill="#7f8fa3" letter-spacing="0.6">ANOTHER</text>
+  <text x="32" y="380" font-size="12.5" font-weight="700" fill="#7f8fa3" letter-spacing="0.6">BODY</text>
+  <text x="32" y="398" font-size="12" fill="#7f8fa3">a replacement</text>
+  <text x="32" y="413" font-size="12" fill="#7f8fa3">animal</text>
+
+  <g font-size="13.5">
+    <!-- same body, same sanctity -->
+    <rect x="140" y="132" width="220" height="150" rx="12" fill="#ffffff" stroke="#dfe8f3"/>
+    <text x="156" y="158" font-weight="700" fill="#1f2d3d">The first guilt offering</text>
+    <text x="156" y="178" fill="#33475b">already substituted for</text>
+    <text x="156" y="196" fill="#33475b">once</text>
+    <rect x="152" y="218" width="196" height="52" rx="8" fill="#eef1f5"/>
+    <text x="162" y="239" font-size="12.5" fill="#33475b">Rabbi Yoḥanan: one cannot</text>
+    <text x="162" y="258" font-size="12.5" fill="#33475b">substitute again</text>
+
+    <!-- same body, another sanctity -->
+    <rect x="396" y="132" width="220" height="150" rx="12" fill="#ffffff" stroke="#f0c999"/>
+    <text x="412" y="158" fill="#1f2d3d">Lost; the owner atoned</text>
+    <text x="412" y="176" fill="#1f2d3d">with another guilt offering;</text>
+    <text x="412" y="194" fill="#1f2d3d">when found, it is consigned</text>
+    <text x="412" y="212" fill="#1f2d3d">to a burnt offering</text>
+    <rect x="408" y="226" width="196" height="44" rx="8" fill="#fbeedd"/>
+    <text x="418" y="244" font-size="12.5" fill="#8a4b0c">Abaye: then ask it</text>
+    <text x="418" y="261" font-size="12.5" fill="#8a4b0c">without the blemish</text>
+
+    <!-- another body, same sanctity -->
+    <rect x="140" y="300" width="220" height="150" rx="12" fill="#ffffff" stroke="#b9cfe8"/>
+    <text x="156" y="326" fill="#1f2d3d">It became blemished and</text>
+    <text x="156" y="344" fill="#1f2d3d">he desacralized it onto</text>
+    <text x="156" y="362" fill="#1f2d3d">another animal</text>
+    <rect x="152" y="394" width="196" height="44" rx="8" fill="#e3edf9"/>
+    <text x="162" y="412" font-size="12.5" fill="#24548c">Abaye: then ask it</text>
+    <text x="162" y="429" font-size="12.5" fill="#24548c">without the atonement</text>
+
+    <!-- another body, another sanctity -->
+    <rect x="396" y="300" width="220" height="150" rx="12" fill="#ffffff" stroke="#b9cfe8"/>
+    <text x="412" y="326" fill="#1f2d3d">Both: the replacement was</text>
+    <text x="412" y="344" fill="#1f2d3d">lost, the owner atoned with</text>
+    <text x="412" y="362" fill="#1f2d3d">a third, and it is consigned</text>
+    <text x="412" y="380" fill="#1f2d3d">to a burnt offering</text>
+    <rect x="408" y="394" width="196" height="44" rx="8" fill="#e3edf9"/>
+    <text x="418" y="412" font-size="12.5" fill="#24548c">Rabbi Avin’s case</text>
+    <text x="418" y="429" font-size="12.5" fill="#24548c">in the first version</text>
+  </g>
+
+  <!-- arrows: "if you say … what of …?" -->
+  <line x1="362" y1="352" x2="392" y2="352" stroke="#2f6db5" stroke-width="2.5" marker-end="url(#tm9-blue)"/>
+  <line x1="350" y1="304" x2="404" y2="280" stroke="#c26a12" stroke-width="2.5" marker-end="url(#tm9-orange)"/>
+
+  <!-- legend -->
+  <g font-size="13">
+    <rect x="32" y="470" width="576" height="104" rx="12" fill="#ffffff" stroke="#dfe8f3"/>
+    <line x1="48" y1="492" x2="74" y2="492" stroke="#2f6db5" stroke-width="2.5" marker-end="url(#tm9-blue)"/>
+    <text x="86" y="497" fill="#1f2d3d"><tspan font-weight="700">First version:</tspan> if another body in the same sanctity cannot,</text>
+    <text x="86" y="515" fill="#1f2d3d">what of two bodies and two sanctities? Teiku.</text>
+    <line x1="48" y1="538" x2="74" y2="538" stroke="#c26a12" stroke-width="2.5" marker-end="url(#tm9-orange)"/>
+    <text x="86" y="543" fill="#1f2d3d"><tspan font-weight="700">Alternative version:</tspan> if another body in the same sanctity</text>
+    <text x="86" y="561" fill="#1f2d3d">cannot, what of the same body in another sanctity? Teiku.</text>
+  </g>
+  <text x="32" y="592" font-size="12" fill="#5b6b7d">Rabbi Avin asks the same, in both versions, about adding one-fifth on redemption.</text>
+</svg>
