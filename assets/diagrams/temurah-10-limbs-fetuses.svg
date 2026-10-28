@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 526" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Limbs, fetuses and whole animals</title>
+  <rect width="640" height="526" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Limbs, fetuses, whole animals</text>
+  <text x="32" y="68" font-size="14" fill="#5b6b7d">Can this non-sacred item become a substitute for that consecrated one?</text>
+  <text x="48" y="104" font-size="12" font-weight="700" fill="#7f8fa3" letter-spacing="0.5">NON-SACRED</text>
+  <text x="172" y="104" font-size="12" font-weight="700" fill="#7f8fa3" letter-spacing="0.5">FOR CONSECRATED</text>
+  <text x="316" y="104" font-size="12" font-weight="700" fill="#7f8fa3" letter-spacing="0.5">FIRST TANNA</text>
+  <text x="412" y="104" font-size="12" font-weight="700" fill="#7f8fa3" letter-spacing="0.5">RABBI YOSEI</text>
+  <g font-size="14">
+  <rect x="32" y="116" width="576" height="46" rx="10" fill="#ffffff" stroke="#dfe8f3" stroke-width="1"/>
+  <text x="48" y="144" font-weight="700" fill="#1f2d3d">Limb</text>
+  <text x="150" y="144" fill="#7f8fa3">→</text>
+  <text x="172" y="144" font-weight="700" fill="#1f2d3d">Fetus</text>
+  <rect x="316" y="128" width="54" height="22" rx="11" fill="#fde2e1"/><text x="343" y="144" text-anchor="middle" font-weight="700" fill="#a12d22">No</text>
+  <text x="412" y="144" font-size="13" fill="#9aa8b8">not stated</text>
+  <rect x="32" y="170" width="576" height="46" rx="10" fill="#ffffff" stroke="#dfe8f3" stroke-width="1"/>
+  <text x="48" y="198" font-weight="700" fill="#1f2d3d">Fetus</text>
+  <text x="150" y="198" fill="#7f8fa3">→</text>
+  <text x="172" y="198" font-weight="700" fill="#1f2d3d">Limb</text>
+  <rect x="316" y="182" width="54" height="22" rx="11" fill="#fde2e1"/><text x="343" y="198" text-anchor="middle" font-weight="700" fill="#a12d22">No</text>
+  <text x="412" y="198" font-size="13" fill="#9aa8b8">not stated</text>
+  <rect x="32" y="224" width="576" height="62" rx="10" fill="#ffffff" stroke="#9fd3b0" stroke-width="1.5"/>
+  <text x="48" y="260" font-weight="700" fill="#1f2d3d">Limb</text>
+  <text x="150" y="260" fill="#7f8fa3">→</text>
+  <text x="172" y="260" font-weight="700" fill="#1f2d3d">Whole animal</text>
+  <rect x="316" y="244" width="54" height="22" rx="11" fill="#fde2e1"/><text x="343" y="260" text-anchor="middle" font-weight="700" fill="#a12d22">No</text>
+  <rect x="412" y="244" width="54" height="22" rx="11" fill="#dcf3e3"/><text x="439" y="260" text-anchor="middle" font-weight="700" fill="#1e7a3e">Yes</text>
+  <text x="472" y="252" font-size="12.5" fill="#33475b">the entire animal</text>
+  <text x="472" y="269" font-size="12.5" fill="#33475b">becomes a substitute</text>
+  <rect x="32" y="294" width="576" height="46" rx="10" fill="#ffffff" stroke="#dfe8f3" stroke-width="1"/>
+  <text x="48" y="322" font-weight="700" fill="#1f2d3d">Fetus</text>
+  <text x="150" y="322" fill="#7f8fa3">→</text>
+  <text x="172" y="322" font-weight="700" fill="#1f2d3d">Whole animal</text>
+  <rect x="316" y="306" width="54" height="22" rx="11" fill="#fde2e1"/><text x="343" y="322" text-anchor="middle" font-weight="700" fill="#a12d22">No</text>
+  <text x="412" y="322" font-size="13" fill="#9aa8b8">not stated</text>
+  <rect x="32" y="348" width="576" height="46" rx="10" fill="#ffffff" stroke="#dfe8f3" stroke-width="1"/>
+  <text x="48" y="376" font-weight="700" fill="#1f2d3d">Whole animal</text>
+  <text x="150" y="376" fill="#7f8fa3">→</text>
+  <text x="172" y="376" font-weight="700" fill="#1f2d3d">Limb</text>
+  <rect x="316" y="360" width="54" height="22" rx="11" fill="#fde2e1"/><text x="343" y="376" text-anchor="middle" font-weight="700" fill="#a12d22">No</text>
+  <rect x="412" y="360" width="54" height="22" rx="11" fill="#fde2e1"/><text x="439" y="376" text-anchor="middle" font-weight="700" fill="#a12d22">No</text>
+  <rect x="32" y="402" width="576" height="46" rx="10" fill="#ffffff" stroke="#dfe8f3" stroke-width="1"/>
+  <text x="48" y="430" font-weight="700" fill="#1f2d3d">Whole animal</text>
+  <text x="150" y="430" fill="#7f8fa3">→</text>
+  <text x="172" y="430" font-weight="700" fill="#1f2d3d">Fetus</text>
+  <rect x="316" y="414" width="54" height="22" rx="11" fill="#fde2e1"/><text x="343" y="430" text-anchor="middle" font-weight="700" fill="#a12d22">No</text>
+  <text x="412" y="430" font-size="13" fill="#9aa8b8">not stated</text>
+  </g>
+  <text x="32" y="478" font-size="13" fill="#5b6b7d">Rabbi Yosei: “The leg of this animal is a burnt offering” makes the entire animal</text>
+  <text x="32" y="497" font-size="13" fill="#5b6b7d">a burnt offering; so too “the leg of this one in exchange for that one”.</text>
+</svg>

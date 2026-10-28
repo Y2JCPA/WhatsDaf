@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 556" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Which consecrated limb spreads to the whole animal</title>
+  <rect width="640" height="556" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">When does one limb’s sanctity spread?</text>
+  <text x="32" y="70" font-size="14" fill="#5b6b7d">One consecrated a single limb. Rabbi Meir and Rabbi Yehuda concede</text>
+  <text x="32" y="90" font-size="14" fill="#5b6b7d">that the whole animal becomes sacred if the limb is one whose removal…</text>
+
+  <g font-size="12.5" font-weight="700" fill="#7f8fa3" letter-spacing="0.6" text-anchor="middle">
+    <text x="32" y="126" text-anchor="start">THE LIMB’S REMOVAL…</text>
+    <text x="328" y="126">RAV ḤISDA</text>
+    <text x="440" y="126">RAVA</text>
+    <text x="552" y="126">RAV SHESHET</text>
+  </g>
+
+  <!-- row 1: tereifa -->
+  <rect x="32" y="138" width="576" height="64" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="48" y="165" font-size="14.5" font-weight="700" fill="#1f2d3d">…renders it a <tspan font-style="italic">tereifa</tspan></text>
+  <text x="48" y="185" font-size="12" fill="#5b6b7d">e.g., the leg above the knee (Rashi)</text>
+  <rect x="284" y="156" width="88" height="28" rx="14" fill="#dff3e4"/><text x="328" y="175" font-size="13.5" font-weight="700" fill="#1e6b3a" text-anchor="middle">Spreads</text>
+  <rect x="396" y="156" width="88" height="28" rx="14" fill="#eceff3"/><text x="440" y="175" font-size="13.5" font-weight="700" fill="#5b6b7d" text-anchor="middle">Does not</text>
+  <rect x="508" y="156" width="88" height="28" rx="14" fill="#eceff3"/><text x="552" y="175" font-size="13.5" font-weight="700" fill="#5b6b7d" text-anchor="middle">Does not</text>
+
+  <!-- row 2: carcass -->
+  <rect x="32" y="212" width="576" height="64" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="48" y="239" font-size="14.5" font-weight="700" fill="#1f2d3d">…renders it a carcass</text>
+  <text x="48" y="259" font-size="12" fill="#5b6b7d">the thigh and its recess (Rabbi Elazar)</text>
+  <rect x="284" y="224" width="88" height="28" rx="14" fill="#dff3e4"/><text x="328" y="243" font-size="13.5" font-weight="700" fill="#1e6b3a" text-anchor="middle">Spreads</text>
+  <text x="328" y="268" font-size="11" fill="#8a97a8" text-anchor="middle" font-style="italic">implied</text>
+  <rect x="396" y="224" width="88" height="28" rx="14" fill="#dff3e4"/><text x="440" y="243" font-size="13.5" font-weight="700" fill="#1e6b3a" text-anchor="middle">Spreads</text>
+  <rect x="508" y="224" width="88" height="28" rx="14" fill="#eceff3"/><text x="552" y="243" font-size="13.5" font-weight="700" fill="#5b6b7d" text-anchor="middle">Does not</text>
+
+  <!-- row 3: dies -->
+  <rect x="32" y="286" width="576" height="64" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="48" y="323" font-size="14.5" font-weight="700" fill="#1f2d3d">…makes it die at once</text>
+  <rect x="284" y="298" width="88" height="28" rx="14" fill="#dff3e4"/><text x="328" y="317" font-size="13.5" font-weight="700" fill="#1e6b3a" text-anchor="middle">Spreads</text>
+  <text x="328" y="342" font-size="11" fill="#8a97a8" text-anchor="middle" font-style="italic">implied</text>
+  <rect x="396" y="298" width="88" height="28" rx="14" fill="#dff3e4"/><text x="440" y="317" font-size="13.5" font-weight="700" fill="#1e6b3a" text-anchor="middle">Spreads</text>
+  <text x="440" y="342" font-size="11" fill="#8a97a8" text-anchor="middle" font-style="italic">implied</text>
+  <rect x="508" y="298" width="88" height="28" rx="14" fill="#dff3e4"/><text x="552" y="317" font-size="13.5" font-weight="700" fill="#1e6b3a" text-anchor="middle">Spreads</text>
+
+  <text x="32" y="386" font-size="12.5" font-weight="700" fill="#7f8fa3" letter-spacing="0.6">WHERE THEY DIFFER</text>
+
+  <rect x="32" y="398" width="576" height="64" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="48" y="424" font-size="14" font-weight="700" fill="#1f2d3d">Rav Ḥisda and Rava: can a <tspan font-style="italic">tereifa</tspan> survive?</text>
+  <text x="48" y="446" font-size="13.5" fill="#33475b">Rav Ḥisda: a <tspan font-style="italic">tereifa</tspan> cannot survive. Rava: a <tspan font-style="italic">tereifa</tspan> can survive.</text>
+
+  <rect x="32" y="472" width="576" height="64" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="48" y="498" font-size="14" font-weight="700" fill="#1f2d3d">Rava and Rav Sheshet: Rabbi Elazar’s ruling</text>
+  <text x="48" y="520" font-size="13.5" fill="#33475b">“If the thigh and its recess were removed, it is a carcass.” Rava: yes. Rav Sheshet: no.</text>
+</svg>

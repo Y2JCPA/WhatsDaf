@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 734" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Rabbi Yirmeya’s objections, Rabbi Zeira’s answers</title>
+  <rect width="640" height="734" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Can a fetus be consecrated?</text>
+  <text x="32" y="68" font-size="14" fill="#5b6b7d">Bar Padda: no. Rabbi Yoḥanan: yes. Rabbi Yirmeya objects to bar Padda.</text>
+  <text x="32" y="108" font-size="12" font-weight="700" fill="#a0691c" letter-spacing="0.5">RABBI YIRMEYA OBJECTS</text>
+  <text x="332" y="108" font-size="12" font-weight="700" fill="#3a6aa5" letter-spacing="0.5">RABBI ZEIRA ANSWERS</text>
+  <rect x="32" y="124" width="278" height="58" rx="10" fill="#fff4e5" stroke="#f2d3a6"/>
+  <circle cx="32" cy="153" r="11" fill="#c77d1a"/><text x="32" y="157.5" text-anchor="middle" font-size="12.5" font-weight="700" fill="#ffffff">1</text>
+  <text x="52" y="148" font-size="13" fill="#5a3b0c">Mishna (24b): “What is in its womb</text>
+  <text x="52" y="166" font-size="13" fill="#5a3b0c">is a burnt offering”; not a firstborn</text>
+  <text x="316" y="158" font-size="14" fill="#9aa8b8">→</text>
+  <rect x="332" y="124" width="276" height="58" rx="10" fill="#e7f0fb" stroke="#bcd3ee" />
+  <text x="344" y="148" font-size="13" fill="#173a63">Sanctity of value: sold, and a</text>
+  <text x="344" y="166" font-size="13" fill="#173a63">burnt offering bought with the money</text>
+  <rect x="60" y="190" width="250" height="58" rx="10" fill="#fff4e5" stroke="#f2d3a6"/>
+  <path d="M44 184 V219 H56" fill="none" stroke="#c9a46a" stroke-width="1.5"/>
+  <text x="72" y="214" font-size="13" fill="#5a3b0c">Is sanctity of value strong enough</text>
+  <text x="72" y="232" font-size="13" fill="#5a3b0c">to remove firstborn status?</text>
+  <text x="316" y="224" font-size="14" fill="#9aa8b8">→</text>
+  <rect x="332" y="190" width="276" height="58" rx="10" fill="#e7f0fb" stroke="#bcd3ee" />
+  <text x="344" y="214" font-size="13" fill="#173a63">Yes: if blemished before consecration,</text>
+  <text x="344" y="232" font-size="13" fill="#173a63">they owe firstborn only once redeemed</text>
+  <rect x="32" y="256" width="278" height="58" rx="10" fill="#fff4e5" stroke="#f2d3a6"/>
+  <circle cx="32" cy="285" r="11" fill="#c77d1a"/><text x="32" y="289.5" text-anchor="middle" font-size="12.5" font-weight="700" fill="#ffffff">2</text>
+  <text x="52" y="280" font-size="13" fill="#5a3b0c">Baraita: the mother may be shorn,</text>
+  <text x="52" y="298" font-size="13" fill="#5a3b0c">but not used for labor</text>
+  <text x="316" y="290" font-size="14" fill="#9aa8b8">→</text>
+  <rect x="332" y="256" width="276" height="58" rx="10" fill="#e7f0fb" stroke="#bcd3ee" />
+  <text x="344" y="280" font-size="13" fill="#173a63">This too is sanctity of value</text>
+  <rect x="60" y="322" width="250" height="58" rx="10" fill="#fff4e5" stroke="#f2d3a6"/>
+  <path d="M44 316 V351 H56" fill="none" stroke="#c9a46a" stroke-width="1.5"/>
+  <text x="72" y="346" font-size="13" fill="#5a3b0c">Is sanctity of value strong enough</text>
+  <text x="72" y="364" font-size="13" fill="#5a3b0c">to forbid labor?</text>
+  <text x="316" y="356" font-size="14" fill="#9aa8b8">→</text>
+  <rect x="332" y="322" width="276" height="58" rx="10" fill="#e7f0fb" stroke="#bcd3ee" />
+  <text x="344" y="346" font-size="13" fill="#173a63">Yes: only once redeemed may they</text>
+  <text x="344" y="364" font-size="13" fill="#173a63">be shorn and used for labor</text>
+  <rect x="32" y="388" width="278" height="58" rx="10" fill="#fff4e5" stroke="#f2d3a6"/>
+  <circle cx="32" cy="417" r="11" fill="#c77d1a"/><text x="32" y="421.5" text-anchor="middle" font-size="12.5" font-weight="700" fill="#ffffff">3</text>
+  <text x="52" y="412" font-size="13" fill="#5a3b0c">Our mishna: only substitution fails,</text>
+  <text x="52" y="430" font-size="13" fill="#5a3b0c">so consecrating fetuses works</text>
+  <text x="316" y="422" font-size="14" fill="#9aa8b8">→</text>
+  <rect x="332" y="388" width="276" height="58" rx="10" fill="#e7f0fb" stroke="#bcd3ee" />
+  <text x="344" y="412" font-size="13" fill="#173a63">It speaks of offspring of sacrificial</text>
+  <text x="344" y="430" font-size="13" fill="#173a63">animals, already consecrated</text>
+  <rect x="60" y="454" width="250" height="58" rx="10" fill="#fff4e5" stroke="#f2d3a6"/>
+  <path d="M44 448 V483 H56" fill="none" stroke="#c9a46a" stroke-width="1.5"/>
+  <text x="72" y="478" font-size="13" fill="#5a3b0c">But the offspring does not render</text>
+  <text x="72" y="496" font-size="13" fill="#5a3b0c">a substitute even once born (12a)</text>
+  <text x="316" y="488" font-size="14" fill="#9aa8b8">→</text>
+  <rect x="332" y="454" width="276" height="58" rx="10" fill="#e7f0fb" stroke="#bcd3ee" />
+  <text x="344" y="478" font-size="13" fill="#173a63">The mishna is Rabbi Yehuda, for whom</text>
+  <text x="344" y="496" font-size="13" fill="#173a63">the offspring renders a substitute</text>
+  <rect x="60" y="520" width="250" height="58" rx="10" fill="#fff4e5" stroke="#f2d3a6"/>
+  <path d="M44 514 V549 H56" fill="none" stroke="#c9a46a" stroke-width="1.5"/>
+  <text x="72" y="544" font-size="13" fill="#5a3b0c">But Rabbi Yehuda says limbs</text>
+  <text x="72" y="562" font-size="13" fill="#5a3b0c">are not consecrated</text>
+  <text x="316" y="554" font-size="14" fill="#9aa8b8">→</text>
+  <rect x="332" y="520" width="276" height="58" rx="10" fill="#e7f0fb" stroke="#bcd3ee" />
+  <text x="344" y="544" font-size="13" fill="#173a63">A limb upon which the animal’s</text>
+  <text x="344" y="562" font-size="13" fill="#173a63">life depends</text>
+  <rect x="32" y="586" width="278" height="58" rx="10" fill="#fff4e5" stroke="#f2d3a6"/>
+  <circle cx="32" cy="615" r="11" fill="#c77d1a"/><text x="32" y="619.5" text-anchor="middle" font-size="12.5" font-weight="700" fill="#ffffff">4</text>
+  <text x="52" y="610" font-size="13" fill="#5a3b0c">Mishna (16b): “One consecrates</text>
+  <text x="52" y="628" font-size="13" fill="#5a3b0c">limbs and fetuses”</text>
+  <text x="316" y="620" font-size="14" fill="#9aa8b8">→</text>
+  <rect x="332" y="586" width="276" height="58" rx="10" fill="#e7f0fb" stroke="#bcd3ee" />
+  <text x="344" y="610" font-size="13" fill="#173a63">Here too: offspring of</text>
+  <text x="344" y="628" font-size="13" fill="#173a63">sacrificial animals</text>
+  <rect x="60" y="652" width="250" height="58" rx="10" fill="#fff4e5" stroke="#f2d3a6"/>
+  <path d="M44 646 V681 H56" fill="none" stroke="#c9a46a" stroke-width="1.5"/>
+  <text x="72" y="676" font-size="13" fill="#5a3b0c">Then what does “one consecrates”</text>
+  <text x="72" y="694" font-size="13" fill="#5a3b0c">mean? They are already consecrated</text>
+  <text x="316" y="686" font-size="14" fill="#9aa8b8">→</text>
+  <rect x="332" y="652" width="276" height="58" rx="10" fill="#eef1f6" stroke="#c9d3e0" stroke-dasharray="5 4"/>
+  <text x="344" y="676" font-size="13" fill="#5b6b7d" font-style="italic">Continued on 11a</text>
+</svg>
