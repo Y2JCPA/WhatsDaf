@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 658" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+<title>Why must he vow?</title>
+<rect width="640" height="658" rx="18" fill="#f3f6fb"/>
+<text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Why must he vow?</text>
+<text x="32" y="70" font-size="14" fill="#56657a">Four ways the Gemara explains the dispute over the husband’s vow (23a)</text>
+
+<text x="32" y="104" font-size="11" font-weight="700" fill="#7a879a">THEY DISAGREE ABOUT</text>
+<text x="300" y="104" font-size="11" font-weight="700" fill="#2f5d9a">R. ELIEZER: HE VOWS</text>
+<text x="464" y="104" font-size="11" font-weight="700" fill="#9a4a2f">R. YEHOSHUA: NEED NOT</text>
+
+<!-- 1 -->
+<rect x="20" y="116" width="600" height="104" rx="12" fill="#fff" stroke="#dbe3ee"/>
+<circle cx="44" cy="140" r="12" fill="#e3effb"/>
+<text x="44" y="144.5" font-size="12.5" font-weight="700" text-anchor="middle" fill="#2f5d9a">1</text>
+<text x="64" y="145" font-size="14" font-weight="700" fill="#1f2d3d">Collusion against</text>
+<text x="64" y="163" font-size="14" font-weight="700" fill="#1f2d3d">the Temple</text>
+<line x1="290" y1="128" x2="290" y2="174" stroke="#e1e6ee"/>
+<line x1="454" y1="128" x2="454" y2="174" stroke="#e1e6ee"/>
+<text x="300" y="145" font-size="12.5" fill="#2f5d9a">A person colludes</text>
+<text x="300" y="161" font-size="12.5" fill="#2f5d9a">even against the Temple</text>
+<text x="464" y="145" font-size="12.5" fill="#9a4a2f">A person does not</text>
+<text x="464" y="161" font-size="12.5" fill="#9a4a2f">collude against it</text>
+<text x="34" y="192" font-size="11.5" fill="#56657a">Asked from Rav Huna (a man on his deathbed does not collude). Answer: they</text>
+<text x="34" y="208" font-size="11.5" fill="#56657a">disagree only about a healthy person; one sins only for his own benefit.</text>
+
+<!-- 2 -->
+<rect x="20" y="230" width="600" height="94" rx="12" fill="#fff" stroke="#dbe3ee"/>
+<circle cx="44" cy="254" r="12" fill="#e3effb"/>
+<text x="44" y="258.5" font-size="12.5" font-weight="700" text-anchor="middle" fill="#2f5d9a">2</text>
+<text x="64" y="259" font-size="14" font-weight="700" fill="#1f2d3d">A vow administered</text>
+<text x="64" y="277" font-size="14" font-weight="700" fill="#1f2d3d">in public</text>
+<text x="64" y="300" font-size="11.5" fill="#7a879a">“Some say”: all agree a healthy</text>
+<text x="64" y="315" font-size="11.5" fill="#7a879a">person may collude</text>
+<line x1="290" y1="242" x2="290" y2="304" stroke="#e1e6ee"/>
+<line x1="454" y1="242" x2="454" y2="304" stroke="#e1e6ee"/>
+<text x="300" y="259" font-size="12.5" fill="#2f5d9a">It has no</text>
+<text x="300" y="275" font-size="12.5" fill="#2f5d9a">nullification</text>
+<text x="464" y="259" font-size="12.5" fill="#9a4a2f">It has</text>
+<text x="464" y="275" font-size="12.5" fill="#9a4a2f">nullification</text>
+
+<!-- 3 -->
+<rect x="20" y="334" width="600" height="132" rx="12" fill="#fff" stroke="#dbe3ee"/>
+<circle cx="44" cy="358" r="12" fill="#e3effb"/>
+<text x="44" y="362.5" font-size="12.5" font-weight="700" text-anchor="middle" fill="#2f5d9a">3</text>
+<text x="64" y="363" font-size="14" font-weight="700" fill="#1f2d3d">A vow on the consent</text>
+<text x="64" y="381" font-size="14" font-weight="700" fill="#1f2d3d">of the public</text>
+<text x="64" y="402" font-size="11.5" fill="#7a879a">All agree a public vow</text>
+<text x="64" y="416" font-size="11.5" fill="#7a879a">has nullification</text>
+<line x1="290" y1="346" x2="290" y2="408" stroke="#e1e6ee"/>
+<line x1="454" y1="346" x2="454" y2="408" stroke="#e1e6ee"/>
+<text x="300" y="363" font-size="12.5" fill="#2f5d9a">It has no</text>
+<text x="300" y="379" font-size="12.5" fill="#2f5d9a">nullification</text>
+<text x="464" y="363" font-size="12.5" fill="#9a4a2f">It can be</text>
+<text x="464" y="379" font-size="12.5" fill="#9a4a2f">nullified</text>
+<text x="34" y="444" font-size="11.5" fill="#56657a">Asked: Ameimar’s ruling would be a dispute of tanna’im; and Rabbi Yehoshua</text>
+<text x="34" y="460" font-size="11.5" fill="#56657a">should have said “It is ineffective,” not “He need not.”</text>
+
+<!-- 4 -->
+<rect x="20" y="476" width="600" height="156" rx="12" fill="#fff" stroke="#2f5d9a" stroke-width="1.5"/>
+<circle cx="44" cy="500" r="12" fill="#2f5d9a"/>
+<text x="44" y="504.5" font-size="12.5" font-weight="700" text-anchor="middle" fill="#fff">4</text>
+<text x="64" y="505" font-size="14" font-weight="700" fill="#1f2d3d">Requesting dissolution</text>
+<text x="64" y="523" font-size="14" font-weight="700" fill="#1f2d3d">of consecration</text>
+<text x="64" y="544" font-size="11.5" fill="#7a879a">“Rather”</text>
+<line x1="290" y1="488" x2="290" y2="566" stroke="#e1e6ee"/>
+<line x1="454" y1="488" x2="454" y2="566" stroke="#e1e6ee"/>
+<text x="300" y="505" font-size="12.5" fill="#2f5d9a">It may not be dissolved,</text>
+<text x="300" y="521" font-size="12.5" fill="#2f5d9a">so he might collude</text>
+<text x="300" y="537" font-size="12.5" fill="#2f5d9a">by divorcing her</text>
+<text x="464" y="505" font-size="12.5" fill="#9a4a2f">It may be dissolved,</text>
+<text x="464" y="521" font-size="12.5" fill="#9a4a2f">so he has no reason</text>
+<text x="464" y="537" font-size="12.5" fill="#9a4a2f">to collude</text>
+<text x="34" y="592" font-size="11.5" fill="#56657a">Likewise taught in a baraita: Rabbi Elazar, son of Rabbi Shimon: Rabbi Eliezer’s view is</text>
+<text x="34" y="608" font-size="11.5" fill="#56657a">Beit Shammai’s (consecration in error is consecration); Rabbi Yehoshua’s is Beit Hillel’s</text>
+<text x="34" y="624" font-size="11.5" fill="#56657a">(consecration in error is not consecration).</text>
+</svg>
