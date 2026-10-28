@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 408" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+<title>Rav Pappa: rocky fields and trees</title>
+<rect width="640" height="408" rx="18" fill="#f3f6fb"/>
+<text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Rav Pappa: rocky fields and trees</text>
+<text x="32" y="70" font-size="14" fill="#56657a">Each ruling rests on a word of the verse, quoted beneath it</text>
+<text x="134" y="104" font-size="11" font-weight="700" fill="#7a879a">ROCKY FIELDS [<tspan font-style="italic">TERASHIN</tspan>]</text>
+<text x="380" y="104" font-size="11" font-weight="700" fill="#7a879a">TREES OF AN ANCESTRAL FIELD</text>
+<rect x="20" y="118" width="600" height="112" rx="12" fill="#fff" stroke="#dbe3ee"/>
+<text x="32" y="148" font-size="13.5" font-weight="700" fill="#1f2d3d">Consecrated</text>
+<line x1="126" y1="130" x2="126" y2="218" stroke="#e1e6ee"/>
+<line x1="372" y1="130" x2="370" y2="218" stroke="#e1e6ee"/>
+<circle cx="137" cy="141.5" r="4" fill="#9a4a2f"/>
+<text x="145" y="146" font-size="12.5" font-weight="700" fill="#9a4a2f">Redeemed at their value</text>
+<text x="145" y="163" font-size="11.5" fill="#56657a">“an area for sowing”: not fit for sowing</text>
+<circle cx="137" cy="187.5" r="4" fill="#2f5d9a"/>
+<text x="145" y="192" font-size="12.5" font-weight="700" fill="#2f5d9a">If unredeemed: to the priests</text>
+<text x="145" y="209" font-size="11.5" fill="#56657a">at the Jubilee; “the field”: any kind</text>
+<circle cx="383" cy="141.5" r="4" fill="#9a4a2f"/>
+<text x="391" y="146" font-size="12.5" font-weight="700" fill="#9a4a2f">Redeemed at their value</text>
+<text x="391" y="163" font-size="11.5" fill="#56657a">“an area for sowing”: not trees</text>
+<circle cx="383" cy="187.5" r="4" fill="#9a4a2f"/>
+<text x="391" y="192" font-size="12.5" font-weight="700" fill="#9a4a2f">If unredeemed: not to the priests</text>
+<text x="391" y="209" font-size="11.5" fill="#56657a">“the field”: not trees</text>
+<rect x="20" y="240" width="600" height="112" rx="12" fill="#fff" stroke="#dbe3ee"/>
+<text x="32" y="270" font-size="13.5" font-weight="700" fill="#1f2d3d">Sold</text>
+<line x1="126" y1="252" x2="126" y2="340" stroke="#e1e6ee"/>
+<line x1="372" y1="252" x2="370" y2="340" stroke="#e1e6ee"/>
+<circle cx="137" cy="263.5" r="4" fill="#9a4a2f"/>
+<text x="145" y="268" font-size="12.5" font-weight="700" fill="#9a4a2f">Redeemable within two years</text>
+<text x="145" y="285" font-size="11.5" fill="#56657a">“years of crops”: not fit for crops</text>
+<circle cx="137" cy="309.5" r="4" fill="#2f5d9a"/>
+<text x="145" y="314" font-size="12.5" font-weight="700" fill="#2f5d9a">If unredeemed: return at the Jubilee</text>
+<text x="145" y="331" font-size="11.5" fill="#56657a">“his ancestral heritage”: this is too</text>
+<circle cx="383" cy="263.5" r="4" fill="#2f5d9a"/>
+<text x="391" y="268" font-size="12.5" font-weight="700" fill="#2f5d9a">Not redeemable within two years</text>
+<text x="391" y="285" font-size="11.5" fill="#56657a">“years of crops”: trees bear fruit</text>
+<circle cx="383" cy="309.5" r="4" fill="#9a4a2f"/>
+<text x="391" y="314" font-size="12.5" font-weight="700" fill="#9a4a2f">If unredeemed: do not return</text>
+<text x="391" y="331" font-size="11.5" fill="#56657a">“his ancestral heritage”: not trees</text>
+<circle cx="36" cy="376" r="4" fill="#2f5d9a"/><text x="46" y="380" font-size="11.5" fill="#56657a">as for an ordinary ancestral field</text>
+<circle cx="256" cy="376" r="4" fill="#9a4a2f"/><text x="266" y="380" font-size="11.5" fill="#56657a">unlike an ordinary ancestral field</text>
+</svg>

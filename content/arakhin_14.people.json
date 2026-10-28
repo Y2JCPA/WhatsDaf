@@ -1,0 +1,14 @@
+{
+  "people": {
+    "rav-zeira": {
+      "name": "Rav Zeira",
+      "he": "רב זירא",
+      "era": "Amora · Babylonia, 4th century",
+      "bio": "Babylonian Amora who debates with Abaye in the Talmud, generally distinguished from the earlier Rabbi Zeira who moved to the Land of Israel.",
+      "color": "#6d4c41",
+      "initials": "ר״ז",
+      "image": "rav-zeira.jpg",
+      "prompt": "A Babylonian scholar in his 40s with a dark, neatly kept beard and a plain brown mantle, raising one hand as if posing a sharp question; background of mudbrick academy walls and oil lamps in Pumbedita."
+    }
+  }
+}

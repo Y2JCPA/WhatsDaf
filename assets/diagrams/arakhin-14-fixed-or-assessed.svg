@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+<title>Fixed, or assessed?</title>
+<rect width="640" height="512" rx="18" fill="#f3f6fb"/>
+<text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Fixed, or assessed?</text>
+<text x="32" y="70" font-size="14" fill="#56657a">The three mishnayot on this daf: one sum whoever is involved, or a payment that varies</text>
+<text x="32" y="104" font-size="11" font-weight="700" fill="#7a879a">CASE</text>
+<text x="182" y="104" font-size="11" font-weight="700" fill="#2f5d9a">FIXED BY THE TORAH</text>
+<text x="408" y="104" font-size="11" font-weight="700" fill="#9a4a2f">ASSESSED CASE BY CASE</text>
+<rect x="20" y="118" width="600" height="108" rx="12" fill="#fff" stroke="#dbe3ee"/>
+<text x="32" y="146" font-size="14.5" font-weight="700" fill="#1f2d3d">Consecrated</text>
+<text x="32" y="164" font-size="14.5" font-weight="700" fill="#1f2d3d">field</text>
+<rect x="32" y="176" width="34" height="17" rx="8.5" fill="#eef1f6" stroke="#cfd7e3"/>
+<text x="49" y="188.5" font-size="10.5" font-weight="700" text-anchor="middle" fill="#56657a">14a</text>
+<line x1="170" y1="130" x2="170" y2="214" stroke="#e1e6ee"/>
+<line x1="396" y1="130" x2="396" y2="214" stroke="#e1e6ee"/>
+<text x="182" y="148" font-size="17" font-weight="700" fill="#2f5d9a">50 silver shekels</text>
+<text x="182" y="168" font-size="12" fill="#56657a">for each area for sowing a <tspan font-style="italic">kor</tspan></text>
+<text x="182" y="184" font-size="12" fill="#56657a">of barley, for an ancestral field:</text>
+<text x="182" y="200" font-size="12" fill="#56657a">poor sands or Sebastia’s orchards</text>
+<text x="408" y="148" font-size="15" font-weight="700" fill="#9a4a2f">Its value</text>
+<text x="408" y="167" font-size="12" fill="#56657a">for a purchased field</text>
+<text x="408" y="193" font-size="12" fill="#56657a">Rabbi Eliezer: fixed here too;</text>
+<text x="408" y="209" font-size="12" fill="#56657a">only an ancestral field adds a fifth</text>
+<rect x="20" y="236" width="600" height="108" rx="12" fill="#fff" stroke="#dbe3ee"/>
+<text x="32" y="264" font-size="14.5" font-weight="700" fill="#1f2d3d">Forewarned ox</text>
+<rect x="32" y="276" width="34" height="17" rx="8.5" fill="#eef1f6" stroke="#cfd7e3"/>
+<text x="49" y="288.5" font-size="10.5" font-weight="700" text-anchor="middle" fill="#56657a">14b</text>
+<line x1="170" y1="248" x2="170" y2="332" stroke="#e1e6ee"/>
+<line x1="396" y1="248" x2="396" y2="332" stroke="#e1e6ee"/>
+<text x="182" y="266" font-size="17" font-weight="700" fill="#2f5d9a">30 <tspan font-style="italic">sela</tspan></text>
+<text x="182" y="286" font-size="12" fill="#56657a">for a slave it killed, the most</text>
+<text x="182" y="302" font-size="12" fill="#56657a">attractive or the most unsightly</text>
+<text x="408" y="266" font-size="15" font-weight="700" fill="#9a4a2f">His price</text>
+<text x="408" y="285" font-size="12" fill="#56657a">for a freeman it killed</text>
+<text x="408" y="311" font-size="15" font-weight="700" fill="#9a4a2f">Full damage</text>
+<text x="408" y="330" font-size="12" fill="#56657a">if it injured a slave or a freeman</text>
+<rect x="20" y="354" width="600" height="108" rx="12" fill="#fff" stroke="#dbe3ee"/>
+<text x="32" y="382" font-size="14.5" font-weight="700" fill="#1f2d3d">Rapist or</text>
+<text x="32" y="400" font-size="14.5" font-weight="700" fill="#1f2d3d">seducer</text>
+<rect x="32" y="412" width="34" height="17" rx="8.5" fill="#eef1f6" stroke="#cfd7e3"/>
+<text x="49" y="424.5" font-size="10.5" font-weight="700" text-anchor="middle" fill="#56657a">14b</text>
+<line x1="170" y1="366" x2="170" y2="450" stroke="#e1e6ee"/>
+<line x1="396" y1="366" x2="396" y2="450" stroke="#e1e6ee"/>
+<text x="182" y="384" font-size="17" font-weight="700" fill="#2f5d9a">50 <tspan font-style="italic">sela</tspan></text>
+<text x="182" y="404" font-size="12" fill="#56657a">the fine, for the most prominent</text>
+<text x="182" y="420" font-size="12" fill="#56657a">in the priesthood or the lowliest</text>
+<text x="182" y="436" font-size="12" fill="#56657a">among the Israelites</text>
+<text x="408" y="384" font-size="15" font-weight="700" fill="#9a4a2f">Humiliation, degradation</text>
+<text x="408" y="403" font-size="12" fill="#56657a">all by the one who humiliates</text>
+<text x="408" y="419" font-size="12" fill="#56657a">and the one who is humiliated</text>
+<text x="32" y="488" font-size="11.5" fill="#7a879a">Valuations themselves (fifty <tspan font-style="italic">sela</tspan> for the attractive or the unsightly) open the chapter on 13b.</text>
+</svg>
