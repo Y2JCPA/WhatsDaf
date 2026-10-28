@@ -1119,6 +1119,86 @@
    },
    "messages": 79,
    "members": 26
+  },
+  {
+   "masechet": "arakhin",
+   "daf": 12,
+   "title": "Arakhin 12",
+   "he": "ערכין י״ב",
+   "preview": {
+    "from": "rabbi-shmuel-bar-nachmani",
+    "text": "From where is it derived that one recites a song of praise in the Temple only over wine?"
+   },
+   "last": {
+    "from": "baraita",
+    "text": "They achieved this as follows: They wrote the names of these new twenty-four watches on pieces of paper, mixed them up, "
+   },
+   "messages": 57,
+   "members": 9
+  },
+  {
+   "masechet": "arakhin",
+   "daf": 13,
+   "title": "Arakhin 13",
+   "he": "ערכין י״ג",
+   "preview": {
+    "from": "baraita",
+    "text": "Harim came and also drew his portion and the lot of five other watches, for a total of six. And likewise Pashḥur, and li"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "You can even say that the mishna is in accordance with the opinion of Rabbi Meir, as it can be claimed that the same is "
+   },
+   "messages": 71,
+   "members": 12
+  },
+  {
+   "masechet": "arakhin",
+   "daf": 14,
+   "title": "Arakhin 14",
+   "he": "ערכין י״ד",
+   "preview": {
+    "from": "rav-yehuda",
+    "text": "It is prohibited for a person to say: How beautiful is this gentile."
+   },
+   "last": {
+    "from": "rav-zeira",
+    "text": "…"
+   },
+   "messages": 87,
+   "members": 17
+  },
+  {
+   "masechet": "arakhin",
+   "daf": 15,
+   "title": "Arakhin 15",
+   "he": "ערכין ט״ו",
+   "preview": {
+    "from": "rav-zeira",
+    "text": "Had two men engaged in forced intercourse with her, one in an atypical manner, i.e., anal intercourse, leaving her hymen"
+   },
+   "last": {
+    "from": "yosei",
+    "text": "In all my days I never said something and then turned around to see if the person I was speaking about was standing behi"
+   },
+   "messages": 84,
+   "members": 21
+  },
+  {
+   "masechet": "arakhin",
+   "daf": 16,
+   "title": "Arakhin 16",
+   "he": "ערכין ט״ז",
+   "preview": {
+    "from": "rabba-bar-rav-huna",
+    "text": "Any matter that was said in the presence of three people does not have the status of malicious speech if one subsequentl"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "In the West, Eretz Yisrael, they say:"
+   },
+   "messages": 107,
+   "members": 31
   }
  ]
 }

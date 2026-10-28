@@ -363,3 +363,29 @@ Same output spec and shared style as above. Save to `assets/portraits/<file>`.
 | `rabbi-yochanan-ben-gudgeda.jpg` | Rabbi Yoḥanan ben Gudgeda, Tanna · Levite, 1st century | An elderly Levite in his 70s with a long white beard and a simple white linen garment, standing beside a great bronze-clad Temple gate, one hand raised gently as if sending a younger man back; background of Jerusalem limestone courtyards. |
 | `rami-brei-derav-yeiva.jpg` | Rami, son of Rav Yeiva, Amora · Babylonia | A Babylonian scholar in his 40s with a short dark beard and a plain dark headwrap, reasoning through a calendar question with a raised finger; background of mudbrick academy walls and palm trees. |
 | `rav-avya.jpg` | Rav Avya, Amora · Babylonia, 4th century | A sharp-eyed Babylonian scholar in his 50s with a greying beard and a plain wool mantle, leaning forward as if raising a practical objection; background of mudbrick academy walls and oil lamps. |
+
+---
+
+## Round 17: people needed for Arakhin 12–16
+
+Same output spec and shared style as above. Save to `assets/portraits/<file>`.
+
+| File | Person | Add to the shared style |
+|---|---|---|
+| `rav-zeira.jpg` | Rav Zeira, Amora · Babylonia, 4th century | A Babylonian scholar in his 40s with a dark, neatly kept beard and a plain brown mantle, raising one hand as if posing a sharp question; background of mudbrick academy walls and oil lamps in Pumbedita. |
+| `rabbi-elazar-ben-perata.jpg` | Rabbi Elazar ben Perata, Tanna · 2nd century | A steadfast scholar in his 50s with a dark beard streaked with grey and a plain wool mantle, one hand raised as if saying “come and see”; background of a modest Galilean study hall with stone benches and a small oil lamp. |
+| `rav-hamnuna.jpg` | Rav Hamnuna, Amora · Babylonia | A thoughtful Babylonian scholar in his 50s with a full dark beard and a plain dark mantle, holding a measuring vessel as if weighing its fullness; background of mudbrick academy walls and oil lamps. |
+| `rabbi-chanina-bar-pappa.jpg` | Rabbi Ḥanina bar Pappa, Amora · Land of Israel, 3rd–4th century | An earnest scholar in his 50s with a greying beard and a cream linen mantle, reading a scroll of Numbers with a grave expression; background of Galilean limestone arches and olive trees. |
+| `rabba-bar-mari.jpg` | Rabba bar Mari, Amora · Babylonia, 4th century | A genial scholar in his 50s with a full dark beard and a plain blue-grey mantle, pointing to a line of Psalms as if answering a question; background of mudbrick academy walls with palm trees beyond. |
+| `rabbi-yosei-ben-zimra.jpg` | Rabbi Yosei ben Zimra, Sage · Land of Israel, early 3rd century | A dignified elder in his 60s with a long white beard and a cream wool mantle, speaking softly with a finger to his lips; background of Tiberias study-hall arches with the Sea of Galilee faintly beyond. |
+| `mar-ukva.jpg` | Mar Ukva, Amora · Babylonia, 3rd century | A distinguished man in his 60s with a neatly trimmed grey beard and a fine dark mantle, quietly slipping a coin pouch through a doorway; background of a Babylonian courtyard at dusk. |
+| `rabbi-chama-berabbi-chanina.jpg` | Rabbi Ḥama son of Rabbi Ḥanina, Amora · Land of Israel, 3rd century | A scholar in his 50s with a dark beard touched with grey and a plain cream mantle, holding a scroll of Proverbs open in both hands; background of Tzippori stone streets and arches. |
+| `rabbi-acha-berabbi-chanina.jpg` | Rabbi Aḥa son of Rabbi Ḥanina, Amora · Land of Israel, 3rd–4th century | A serious scholar in his 40s with a short dark beard and a simple grey mantle, reciting from a scroll of Psalms with a grave look; background of a Galilean study hall with olive trees through the window. |
+| `rav-dimi-achuha-derav-safra.jpg` | Rav Dimi, brother of Rav Safra, Amora · Babylonia, 4th century | A gentle Babylonian scholar in his 60s with a soft grey beard and a plain wool mantle, propped on cushions as if receiving a visiting brother; background of mudbrick walls and oil lamps. |
+| `rabbi-anani-bar-sason.jpg` | Rabbi Anani bar Sason, Amora · Land of Israel | A thoughtful scholar in his 50s with a dark beard touched with grey and a plain linen mantle, counting on his fingers as he lists the priestly garments; background of limestone arches and olive trees. |
+| `rabbi-simon.jpg` | Rabbi Simon, Amora · Land of Israel, 3rd–4th century | A composed scholar in his 50s with a greying beard and a wool mantle, repeating his teacher’s words with a raised hand; background of limestone arches in a Galilean study hall. |
+| `rabbi-shmuel-bar-nadav.jpg` | Rabbi Shmuel bar Nadav, Amora · Land of Israel, 3rd century | An earnest scholar in his 30s with a short dark beard and a plain mantle, leaning forward to put a question to an elder; background of olive trees and limestone walls in Sepphoris. |
+| `rabbi-elazar-ben-azaria.jpg` | Rabbi Elazar ben Azaria, Tanna · Yavne, 1st–2nd century | A young kohen of about 18 whose full beard has turned white, as tradition tells, wearing fine white linen robes with a dignified bearing; background of the Yavne study hall. |
+| `rabbi-yehuda-brei-derabbi-shimon.jpg` | Rabbi Yehuda son of Rabbi Shimon, Amora · Land of Israel, 4th century | A young scholar in his 20s with a light beard and a simple linen mantle, asking his father a question with an open, searching expression; background of Galilean limestone arches. |
+| `mar-bereih-deravina.jpg` | Mar son of Ravina, Amora · Babylonia, 4th century | A pious Babylonian scholar in his 40s with a dark beard and a plain dark mantle, standing in quiet prayer with lowered eyes; background of mudbrick academy walls and oil lamps. |
+| `rava-zeeira.jpg` | Rava the Younger, Amora | A lean scholar in his 30s with a short dark beard and a plain wool mantle, raising an objection with a wry look; background of mudbrick academy walls and oil lamps. |
