@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 880" width="640" height="880" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <rect x="0" y="0" width="640" height="880" rx="18" fill="#f3f6fb"/>
+  <text x="320" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2937">Substitution: the basic rule</text>
+  <text x="320" y="68" text-anchor="middle" font-size="14" fill="#4b5563">“He shall not alter it, nor substitute it” (Leviticus 27:10)</text>
+  <rect x="32" y="90" width="200" height="70" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="132" y="120" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">Consecrated animal</text>
+  <text x="132" y="142" text-anchor="middle" font-size="12.5" fill="#6b7280">already sacred</text>
+  <rect x="408" y="90" width="200" height="70" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="508" y="120" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">Non-sacred animal</text>
+  <text x="508" y="142" text-anchor="middle" font-size="12.5" fill="#6b7280">ordinary</text>
+  <text x="320" y="112" text-anchor="middle" font-size="13.5" font-style="italic" fill="#374151">“This is in place</text>
+  <text x="320" y="130" text-anchor="middle" font-size="13.5" font-style="italic" fill="#374151">of that”</text>
+  <path d="M244 146 H396 M384 140 L396 146 L384 152 M256 140 L244 146 L256 152" stroke="#6b7280" stroke-width="2" fill="none"/>
+  <path d="M132 160 V196 M126 188 L132 196 L138 188 M508 160 V196 M502 188 L508 196 L514 188" stroke="#6b7280" stroke-width="2" fill="none"/>
+  <rect x="32" y="198" width="576" height="66" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="320" y="224" text-anchor="middle" font-size="17" font-weight="700" fill="#1d5e2c">Both are sacred</text>
+  <text x="320" y="248" text-anchor="middle" font-size="12.5" fill="#1f2937">The non-sacred animal becomes consecrated, and the consecrated one remains sacred.</text>
+  <rect x="32" y="276" width="282" height="62" rx="10" fill="#fde2e2" stroke="#e08a8a"/>
+  <text x="173" y="300" text-anchor="middle" font-size="14" font-weight="700" fill="#8b1c1c">Not permitted</text>
+  <text x="173" y="322" text-anchor="middle" font-size="12.5" fill="#1f2937">“He shall not … substitute it”</text>
+  <rect x="326" y="276" width="282" height="62" rx="10" fill="#fdf6e7" stroke="#e0c48a"/>
+  <text x="467" y="300" text-anchor="middle" font-size="14" font-weight="700" fill="#7a5a12">But if he did, it takes effect</text>
+  <text x="467" y="322" text-anchor="middle" font-size="12.5" fill="#1f2937">and he incurs the forty lashes</text>
+  <line x1="32" y1="362" x2="608" y2="362" stroke="#cbd5e1"/>
+  <text x="320" y="392" text-anchor="middle" font-size="17" font-weight="700" fill="#1f2937">Who can effect substitution? (Temurah 2)</text>
+  <rect x="32" y="408" width="420" height="44" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="46" y="427" font-size="13.5" font-weight="700" fill="#1f2937">Men and women</text>
+  <text x="46" y="444" font-size="11.5" fill="#6b7280">the mishna; the verse includes a woman</text>
+  <rect x="460" y="408" width="148" height="44" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="534" y="437" text-anchor="middle" font-size="20" font-weight="700" fill="#1d5e2c">✓</text>
+  <rect x="32" y="458" width="420" height="44" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="46" y="477" font-size="13.5" font-weight="700" fill="#1f2937">An heir, for his father’s offering</text>
+  <text x="46" y="494" font-size="11.5" fill="#6b7280">the mishna’s “everyone” includes him</text>
+  <rect x="460" y="458" width="148" height="44" rx="10" fill="#fdf6e7" stroke="#e0c48a"/>
+  <text x="534" y="477" text-anchor="middle" font-size="12.5" font-weight="700" fill="#1d5e2c">Rabbi Meir ✓</text>
+  <text x="534" y="494" text-anchor="middle" font-size="12.5" font-weight="700" fill="#8b1c1c">Rabbi Yehuda ✗</text>
+  <rect x="32" y="508" width="420" height="44" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="46" y="527" font-size="13.5" font-weight="700" fill="#1f2937">The one achieving atonement</text>
+  <text x="46" y="544" font-size="11.5" fill="#6b7280">with an offering another set aside for him</text>
+  <rect x="460" y="508" width="148" height="44" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="534" y="530" text-anchor="middle" font-size="17" font-weight="700" fill="#1d5e2c">✓</text>
+  <text x="534" y="546" text-anchor="middle" font-size="11" fill="#1d5e2c">Rabbi Yoḥanan</text>
+  <rect x="32" y="558" width="420" height="44" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="46" y="577" font-size="13.5" font-weight="700" fill="#1f2937">The public and partners</text>
+  <text x="46" y="594" font-size="11.5" fill="#6b7280">mishna, 13a</text>
+  <rect x="460" y="558" width="148" height="44" rx="10" fill="#fde2e2" stroke="#e08a8a"/>
+  <text x="534" y="587" text-anchor="middle" font-size="20" font-weight="700" fill="#8b1c1c">✗</text>
+  <rect x="32" y="608" width="420" height="44" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="46" y="627" font-size="13.5" font-weight="700" fill="#1f2937">A minor below the age of vows</text>
+  <text x="46" y="644" font-size="11.5" fill="#6b7280">he cannot even consecrate</text>
+  <rect x="460" y="608" width="148" height="44" rx="10" fill="#fde2e2" stroke="#e08a8a"/>
+  <text x="534" y="637" text-anchor="middle" font-size="20" font-weight="700" fill="#8b1c1c">✗</text>
+  <rect x="32" y="658" width="420" height="44" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="46" y="677" font-size="13.5" font-weight="700" fill="#1f2937">A minor who reached the age of vows</text>
+  <text x="46" y="694" font-size="11.5" fill="#6b7280">he can consecrate, but is not yet punishable</text>
+  <rect x="460" y="658" width="148" height="44" rx="10" fill="#eef1f5" stroke="#d5dbe3"/>
+  <text x="534" y="680" text-anchor="middle" font-size="17" font-weight="700" fill="#6b7280">?</text>
+  <text x="534" y="696" text-anchor="middle" font-size="11" fill="#6b7280">dilemma</text>
+  <rect x="32" y="708" width="420" height="44" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="46" y="727" font-size="13.5" font-weight="700" fill="#1f2937">A gentile, for his own atonement</text>
+  <text x="46" y="744" font-size="11.5" fill="#6b7280">baraita; Rabbi Yosei is “stringent in all of them”</text>
+  <rect x="460" y="708" width="148" height="44" rx="10" fill="#fde2e2" stroke="#e08a8a"/>
+  <text x="534" y="730" text-anchor="middle" font-size="17" font-weight="700" fill="#8b1c1c">✗</text>
+  <text x="534" y="746" text-anchor="middle" font-size="11" fill="#8b1c1c">Rabbi Shimon</text>
+  <rect x="32" y="758" width="420" height="44" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="46" y="777" font-size="13.5" font-weight="700" fill="#1f2937">A gentile consecrates, a Jew atones</text>
+  <text x="46" y="794" font-size="11.5" fill="#6b7280">follow the consecrator, or the one atoning?</text>
+  <rect x="460" y="758" width="148" height="44" rx="10" fill="#eef1f5" stroke="#d5dbe3"/>
+  <text x="534" y="780" text-anchor="middle" font-size="17" font-weight="700" fill="#6b7280">?</text>
+  <text x="534" y="796" text-anchor="middle" font-size="11" fill="#6b7280">dilemma</text>
+  <rect x="32" y="812" width="576" height="56" rx="10" fill="#e8eef8"/>
+  <text x="46" y="834" font-size="12.5" fill="#374151">✗ for a gentile: he will never come to be subject to punishments.</text>
+  <text x="46" y="854" font-size="12.5" fill="#374151">? Rami bar Ḥama’s dilemmas. The second stands unresolved on 3a.</text>
+</svg>
