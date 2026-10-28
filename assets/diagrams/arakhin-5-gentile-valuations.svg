@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 600" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>A gentile and valuations</title>
+  <rect width="640" height="600" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">A gentile and valuations</text>
+  <text x="32" y="70" font-size="14" fill="#56657a">“The children of Israel” excludes; “a man” includes. Which way each?</text>
+
+  <!-- table -->
+  <rect x="24" y="88" width="592" height="300" rx="14" fill="#fff" stroke="#dbe3ee"/>
+  <text x="328" y="116" font-size="15" font-weight="700" text-anchor="middle" fill="#1f2d3d">Rabbi Meir</text>
+  <text x="520" y="116" font-size="15" font-weight="700" text-anchor="middle" fill="#1f2d3d">Rabbi Yehuda</text>
+  <line x1="24" y1="130" x2="616" y2="130" stroke="#dbe3ee"/>
+  <line x1="232" y1="96" x2="232" y2="380" stroke="#e1e6ee"/>
+  <line x1="424" y1="96" x2="424" y2="246" stroke="#e1e6ee"/>
+  <line x1="424" y1="304" x2="424" y2="380" stroke="#e1e6ee"/>
+
+  <text x="40" y="156" font-size="14" font-weight="700" fill="#1f2d3d">Is valuated</text>
+  <text x="40" y="174" font-size="12" fill="#7a879a">a Jew pledges his fixed value</text>
+  <text x="328" y="166" font-size="20" font-weight="700" text-anchor="middle" fill="#3c8d4f">✓</text>
+  <text x="520" y="166" font-size="20" font-weight="700" text-anchor="middle" fill="#c0504d">✗</text>
+  <line x1="24" y1="188" x2="616" y2="188" stroke="#eef1f6"/>
+
+  <text x="40" y="214" font-size="14" font-weight="700" fill="#1f2d3d">Pledges a valuation</text>
+  <text x="40" y="232" font-size="12" fill="#7a879a">his own or another’s</text>
+  <text x="328" y="224" font-size="20" font-weight="700" text-anchor="middle" fill="#c0504d">✗</text>
+  <text x="520" y="224" font-size="20" font-weight="700" text-anchor="middle" fill="#3c8d4f">✓</text>
+  <line x1="24" y1="246" x2="616" y2="246" stroke="#eef1f6"/>
+
+  <text x="40" y="272" font-size="14" font-weight="700" fill="#1f2d3d">Vows, and is vowed</text>
+  <text x="40" y="290" font-size="12" fill="#7a879a">assessment: his market worth</text>
+  <text x="424" y="276" font-size="14" font-weight="700" text-anchor="middle" fill="#3c8d4f">✓ both agree</text>
+  <line x1="24" y1="304" x2="616" y2="304" stroke="#eef1f6"/>
+
+  <text x="40" y="328" font-size="14" font-weight="700" fill="#1f2d3d">Precedent</text>
+  <text x="40" y="346" font-size="12" fill="#7a879a">“the verse included more</text>
+  <text x="40" y="362" font-size="12" fill="#7a879a">people in the category of …”</text>
+  <text x="248" y="328" font-size="12.5" fill="#3d4b5f">… those valuated:</text>
+  <text x="248" y="346" font-size="12.5" fill="#3d4b5f">deaf-mute, imbecile, minor</text>
+  <text x="248" y="364" font-size="12.5" fill="#3d4b5f">valuated, don’t pledge</text>
+  <text x="440" y="328" font-size="12.5" fill="#3d4b5f">… those who pledge:</text>
+  <text x="440" y="346" font-size="12.5" fill="#3d4b5f">tumtum, hermaphrodite</text>
+  <text x="440" y="364" font-size="12.5" fill="#3d4b5f">pledge, are not valuated</text>
+
+  <!-- Rava's verdict -->
+  <rect x="24" y="400" width="592" height="140" rx="14" fill="#fff" stroke="#dbe3ee"/>
+  <rect x="24" y="400" width="8" height="140" rx="4" fill="#e3a857"/>
+  <line x1="232" y1="410" x2="232" y2="530" stroke="#e1e6ee"/>
+  <line x1="424" y1="410" x2="424" y2="530" stroke="#e1e6ee"/>
+  <text x="48" y="428" font-size="15" font-weight="700" fill="#1f2d3d">Rava’s verdict</text>
+  <text x="48" y="448" font-size="12" fill="#7a879a">one has the right ruling,</text>
+  <text x="48" y="464" font-size="12" fill="#7a879a">the other the right reason</text>
+
+  <text x="248" y="428" font-size="13" font-weight="700" fill="#3c8d4f">✓ Ruling</text>
+  <text x="248" y="446" font-size="12.5" fill="#3d4b5f">“You have nothing to do</text>
+  <text x="248" y="463" font-size="12.5" fill="#3d4b5f">with us to build” (Ezra 4:3)</text>
+  <text x="248" y="490" font-size="13" font-weight="700" fill="#c0504d">✗ Reason</text>
+  <text x="248" y="508" font-size="12.5" fill="#3d4b5f">deaf-mute, imbecile, minor</text>
+  <text x="248" y="525" font-size="12.5" fill="#3d4b5f">lack mental competence</text>
+
+  <text x="440" y="428" font-size="13" font-weight="700" fill="#3c8d4f">✓ Reason</text>
+  <text x="440" y="446" font-size="12.5" fill="#3d4b5f">tumtum, hermaphrodite are</text>
+  <text x="440" y="463" font-size="12.5" fill="#3d4b5f">competent, yet excluded</text>
+  <text x="440" y="490" font-size="13" font-weight="700" fill="#c0504d">✗ Ruling</text>
+  <text x="440" y="508" font-size="12.5" fill="#3d4b5f">“You have nothing to do</text>
+  <text x="440" y="525" font-size="12.5" fill="#3d4b5f">with us to build” (Ezra 4:3)</text>
+
+  <text x="32" y="564" font-size="12.5" fill="#56657a">Rabbi Yehuda and Ezra 4:3: Avimi: his valuation is interred (challenged from</text>
+  <text x="32" y="582" font-size="12.5" fill="#56657a">the law of misuse); Rava: the refusal was over “weakening of the hands” (Ezra 4:4).</text>
+</svg>

@@ -1,0 +1,34 @@
+{
+  "people": {
+    "rav-giddel": {
+      "name": "Rav Giddel",
+      "he": "רב גידל",
+      "era": "Amora · Babylonia, 3rd century",
+      "bio": "Babylonian Amora, a disciple of Rav whose rulings he often transmits.",
+      "color": "#5d4037",
+      "initials": "ר״ג",
+      "image": "rav-giddel.jpg",
+      "prompt": "A Babylonian scholar in his 50s with a dark beard touched with grey and a steady, attentive expression, as if repeating his teacher’s ruling word for word; background of mudbrick academy walls and oil lamps."
+    },
+    "rabba-bar-yosef": {
+      "name": "Rabba bar Yosef",
+      "he": "רבה בר יוסף",
+      "era": "Amora · Babylonia",
+      "bio": "Babylonian Amora cited transmitting a ruling of Rav.",
+      "color": "#455a64",
+      "initials": "רב״י",
+      "image": "rabba-bar-yosef.jpg",
+      "prompt": "A Babylonian scholar in his 40s with a short dark beard and a careful, reciting expression; background of palm groves along the Euphrates."
+    },
+    "avimi": {
+      "name": "Avimi",
+      "he": "אבימי",
+      "era": "Amora · Babylonia, 3rd century",
+      "bio": "Babylonian Amora and teacher of Rav Ḥisda, who once forgot a tractate and went to his student to relearn it (Menaḥot 7a).",
+      "color": "#6a4c93",
+      "initials": "אב",
+      "image": "avimi.jpg",
+      "prompt": "A dignified, humble elder in his 70s with a white beard and a gentle, searching expression, as if asking a former student to remind him of a teaching; background of mudbrick academy walls and oil lamps."
+    }
+  }
+}

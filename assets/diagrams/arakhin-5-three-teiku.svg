@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 560" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Three pledges for the altar</title>
+  <rect width="640" height="560" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Three pledges for the altar</text>
+  <text x="32" y="70" font-size="14" fill="#56657a">Each is caught between two rules with no known exception. All three stand.</text>
+
+  <!-- Card 1: Rabba -->
+  <rect x="24" y="90" width="592" height="140" rx="14" fill="#fff" stroke="#dbe3ee"/>
+  <rect x="24" y="90" width="8" height="140" rx="4" fill="#6f8fc7"/>
+  <text x="48" y="118" font-size="16" font-weight="700" fill="#1f2d3d">Rabba: “The value of my head, for the altar”</text>
+  <rect x="540" y="102" width="62" height="24" rx="12" fill="#eef1f6" stroke="#cfd7e3"/>
+  <text x="571" y="119" font-size="12.5" font-weight="700" text-anchor="middle" fill="#56657a">teiku</text>
+  <line x1="320" y1="134" x2="320" y2="218" stroke="#e1e6ee"/>
+  <text x="48" y="146" font-size="12" font-weight="700" fill="#7a879a">LIKE ASSESSMENTS</text>
+  <text x="48" y="166" font-size="13.5" fill="#3d4b5f">No assessment is found that is not</text>
+  <text x="48" y="184" font-size="13.5" fill="#3d4b5f">assessed by the part’s significance</text>
+  <text x="48" y="210" font-size="13.5" font-weight="700" fill="#2f5d9a">→ he owes his entire value</text>
+  <text x="336" y="146" font-size="12" font-weight="700" fill="#7a879a">LIKE THE ALTAR</text>
+  <text x="336" y="166" font-size="13.5" fill="#3d4b5f">Nothing for the altar is found that is</text>
+  <text x="336" y="184" font-size="13.5" fill="#3d4b5f">assessed by the part’s significance</text>
+  <text x="336" y="210" font-size="13.5" font-weight="700" fill="#2f5d9a">→ only the head is pledged</text>
+
+  <!-- Card 2: Rava -->
+  <rect x="24" y="242" width="592" height="140" rx="14" fill="#fff" stroke="#dbe3ee"/>
+  <rect x="24" y="242" width="8" height="140" rx="4" fill="#e3a857"/>
+  <text x="48" y="270" font-size="16" font-weight="700" fill="#1f2d3d">Rava: “My valuation, for the altar”</text>
+  <rect x="540" y="254" width="62" height="24" rx="12" fill="#eef1f6" stroke="#cfd7e3"/>
+  <text x="571" y="271" font-size="12.5" font-weight="700" text-anchor="middle" fill="#56657a">teiku</text>
+  <line x1="320" y1="286" x2="320" y2="370" stroke="#e1e6ee"/>
+  <text x="48" y="298" font-size="12" font-weight="700" fill="#7a879a">LIKE VALUATIONS</text>
+  <text x="48" y="318" font-size="13.5" fill="#3d4b5f">No valuation is found that is not</text>
+  <text x="48" y="336" font-size="13.5" fill="#3d4b5f">determined by affordability</text>
+  <text x="48" y="362" font-size="13.5" font-weight="700" fill="#2f5d9a">→ a poor man pays as he can afford</text>
+  <text x="336" y="298" font-size="12" font-weight="700" fill="#7a879a">LIKE THE ALTAR</text>
+  <text x="336" y="318" font-size="13.5" fill="#3d4b5f">Nothing for the altar is redeemed</text>
+  <text x="336" y="336" font-size="13.5" fill="#3d4b5f">other than at its value</text>
+  <text x="336" y="362" font-size="13.5" font-weight="700" fill="#2f5d9a">→ the full valuation, even if poor</text>
+
+  <!-- Card 3: Rav Ashi -->
+  <rect x="24" y="394" width="592" height="140" rx="14" fill="#fff" stroke="#dbe3ee"/>
+  <rect x="24" y="394" width="8" height="140" rx="4" fill="#7fb77e"/>
+  <text x="48" y="422" font-size="16" font-weight="700" fill="#1f2d3d">Rav Ashi: an ancestral field, for the altar</text>
+  <rect x="540" y="406" width="62" height="24" rx="12" fill="#eef1f6" stroke="#cfd7e3"/>
+  <text x="571" y="423" font-size="12.5" font-weight="700" text-anchor="middle" fill="#56657a">teiku</text>
+  <line x1="320" y1="438" x2="320" y2="522" stroke="#e1e6ee"/>
+  <text x="48" y="450" font-size="12" font-weight="700" fill="#7a879a">LIKE AN ANCESTRAL FIELD</text>
+  <text x="48" y="470" font-size="13.5" fill="#3d4b5f">None is redeemed other than at 50</text>
+  <text x="48" y="488" font-size="13.5" fill="#3d4b5f">shekels per ḥomer of barley seed</text>
+  <text x="48" y="514" font-size="13.5" font-weight="700" fill="#2f5d9a">→ the Torah’s fixed rate</text>
+  <text x="336" y="450" font-size="12" font-weight="700" fill="#7a879a">LIKE THE ALTAR</text>
+  <text x="336" y="470" font-size="13.5" fill="#3d4b5f">Nothing for the altar is redeemed</text>
+  <text x="336" y="488" font-size="13.5" fill="#3d4b5f">other than at its value</text>
+  <text x="336" y="514" font-size="13.5" font-weight="700" fill="#2f5d9a">→ its market value</text>
+</svg>
