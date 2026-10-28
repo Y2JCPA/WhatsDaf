@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+<title>As a field dedicated</title>
+<defs>
+<marker id="ah34" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#8a97aa"/></marker>
+</defs>
+<rect width="640" height="640" rx="18" fill="#f3f6fb"/>
+<text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Why “as a field dedicated”?</text>
+<text x="32" y="70" font-size="14" fill="#56657a">A priest consecrates his dedicated field and the Jubilee arrives (34a)</text>
+
+<rect x="20" y="88" width="600" height="84" rx="12" fill="#fff" stroke="#dbe3ee"/>
+<text x="320" y="112" font-size="11" font-weight="700" text-anchor="middle" fill="#56657a" letter-spacing="0.6">THE BARAITA’S RULING (LEVITICUS 27:21)</text>
+<text x="320" y="136" font-size="14.5" font-weight="700" text-anchor="middle" fill="#1f2d3d">It leaves his possession and is divided among his brothers, the priests,</text>
+<text x="320" y="158" font-size="13.5" text-anchor="middle" fill="#3b4a5e">just as an Israelite’s ancestral field, juxtaposed to it, leaves the priest who redeemed it</text>
+
+<text x="32" y="204" font-size="11" font-weight="700" fill="#56657a" letter-spacing="0.6">WHY MIGHT HE HAVE KEPT IT?</text>
+<text x="338" y="204" font-size="11" font-weight="700" fill="#56657a" letter-spacing="0.6">THE GEMARA</text>
+
+<!-- Row 1 -->
+<rect x="20" y="216" width="296" height="118" rx="10" fill="#e3effb" stroke="#b9d3ef"/>
+<text x="34" y="240" font-size="12" font-weight="700" fill="#2f5d9a">THE BARAITA’S “LOGICAL INFERENCE”</text>
+<text x="34" y="264" font-size="13.5" fill="#1f2d3d">“I acquire the fields of others;</text>
+<text x="34" y="284" font-size="13.5" fill="#1f2d3d">my own, should I not all the</text>
+<text x="34" y="304" font-size="13.5" fill="#1f2d3d">more so acquire it?”</text>
+<line x1="316" y1="275" x2="330" y2="275" stroke="#8a97aa" stroke-width="1.6" marker-end="url(#ah34)"/>
+<rect x="332" y="216" width="288" height="118" rx="10" fill="#fff" stroke="#dbe3ee"/>
+<text x="346" y="240" font-size="13.5" font-weight="700" fill="#1f2d3d">Are they comparable?</text>
+<text x="346" y="262" font-size="13" fill="#3b4a5e">There he merely acquires it as one</text>
+<text x="346" y="281" font-size="13" fill="#3b4a5e">of the priests; here he takes the</text>
+<text x="346" y="300" font-size="13" fill="#3b4a5e">entire field for himself.</text>
+<text x="346" y="322" font-size="12" font-weight="700" fill="#9a4a2f">No verse would be needed</text>
+
+<!-- Row 2 -->
+<rect x="20" y="346" width="296" height="118" rx="10" fill="#e3effb" stroke="#b9d3ef"/>
+<text x="34" y="370" font-size="12" font-weight="700" fill="#2f5d9a">RAMI BAR ḤAMA</text>
+<text x="34" y="394" font-size="13.5" fill="#1f2d3d">Like his hallowed things:</text>
+<text x="34" y="414" font-size="13.5" fill="#1f2d3d">“every man’s hallowed things</text>
+<text x="34" y="434" font-size="13.5" fill="#1f2d3d">shall be his”</text>
+<text x="34" y="453" font-size="12" fill="#56657a">Numbers 5:10</text>
+<line x1="316" y1="405" x2="330" y2="405" stroke="#8a97aa" stroke-width="1.6" marker-end="url(#ah34)"/>
+<rect x="332" y="346" width="288" height="118" rx="10" fill="#fff" stroke="#dbe3ee"/>
+<text x="346" y="370" font-size="13.5" font-weight="700" fill="#1f2d3d">Are they comparable?</text>
+<text x="346" y="392" font-size="13" fill="#3b4a5e">His hallowed things are not in his</text>
+<text x="346" y="411" font-size="13" fill="#3b4a5e">possession; here he seeks to return</text>
+<text x="346" y="430" font-size="13" fill="#3b4a5e">the field to his possession.</text>
+<text x="346" y="452" font-size="12" font-weight="700" fill="#9a4a2f">Set aside: “Rather, Rav Naḥman said…”</text>
+
+<!-- Row 3 -->
+<rect x="20" y="476" width="296" height="138" rx="10" fill="#e3effb" stroke="#b9d3ef"/>
+<text x="34" y="500" font-size="12" font-weight="700" fill="#2f5d9a">RAV NAḤMAN</text>
+<text x="34" y="524" font-size="13.5" fill="#1f2d3d">Like his ancestral field:</text>
+<text x="34" y="544" font-size="13.5" fill="#1f2d3d">“that is their perpetual</text>
+<text x="34" y="564" font-size="13.5" fill="#1f2d3d">possession”, redeemed forever</text>
+<text x="34" y="583" font-size="12" fill="#56657a">Leviticus 25:34</text>
+<line x1="316" y1="545" x2="330" y2="545" stroke="#8a97aa" stroke-width="1.6" marker-end="url(#ah34)"/>
+<rect x="332" y="476" width="288" height="138" rx="10" fill="#eaf6ec" stroke="#bfe0c6"/>
+<text x="346" y="500" font-size="13.5" font-weight="700" fill="#1f2d3d">So the verse was necessary:</text>
+<text x="346" y="522" font-size="13" fill="#3b4a5e">“his ancestral field”, yes, it stays</text>
+<text x="346" y="541" font-size="13" fill="#3b4a5e">his in perpetuity; his dedicated</text>
+<text x="346" y="560" font-size="13" fill="#3b4a5e">field, no: it is divided among</text>
+<text x="346" y="579" font-size="13" fill="#3b4a5e">the priests at the Jubilee.</text>
+<text x="346" y="601" font-size="12" font-weight="700" fill="#2f7a45">No objection follows</text>
+</svg>
