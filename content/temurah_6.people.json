@@ -1,0 +1,24 @@
+{
+  "people": {
+    "rav-acha-bar-adda": {
+      "name": "Rav Aḥa bar Adda",
+      "he": "רב אחא בר אדא",
+      "era": "Amora · Babylonia",
+      "bio": "Amora cited in the Talmud, here giving a verse as the source for Rabbi Yoḥanan’s view on interest.",
+      "color": "#6a5acd",
+      "initials": "ראב״א",
+      "image": "rav-acha-bar-adda.jpg",
+      "prompt": "A Babylonian scholar in his 50s with a greying dark beard and a plain brown wool mantle, quoting a verse with one finger raised; background of mudbrick academy walls lit by oil lamps."
+    },
+    "chanan-hamitzri": {
+      "name": "Ḥanan the Egyptian",
+      "he": "חנן המצרי",
+      "era": "Tanna",
+      "bio": "Tanna whose ruling on replacing one of the Yom Kippur goats is cited in the Talmud.",
+      "color": "#8d6e63",
+      "initials": "חה״מ",
+      "image": "chanan-hamitzri.jpg",
+      "prompt": "A sage in his 50s with a dark beard touched with grey and a white linen mantle, a calm, decided expression; background of limestone arches and olive trees in soft evening light."
+    }
+  }
+}

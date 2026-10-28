@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 468" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Oaths: lashes and offerings</title>
+  <rect width="640" height="468" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2a3d">Oaths: lashes and offerings</text>
+  <text x="32" y="68" font-size="13" fill="#5b6b82">Intentional violation: lashes? Unwitting violation: a sliding-scale offering?</text>
+
+  <text x="40" y="98" font-size="12" font-weight="700" fill="#5b6b82" letter-spacing=".5">THE OATH</text>
+  <text x="252" y="98" font-size="12" font-weight="700" fill="#5b6b82" letter-spacing=".5">LASHES</text>
+  <text x="450" y="98" font-size="12" font-weight="700" fill="#5b6b82" letter-spacing=".5">OFFERING</text>
+
+  <g font-size="13" fill="#1f2a3d">
+    <rect x="24" y="108" width="592" height="62" rx="10" fill="#fff" stroke="#d9e1ee"/>
+    <text x="40" y="133" font-weight="700">“That I will not eat”</text>
+    <text x="40" y="152" fill="#5b6b82" font-size="12">and he ate</text>
+    <text x="252" y="133" fill="#2e7d32" font-weight="700">✓ Lashes</text>
+    <text x="252" y="152" fill="#5b6b82" font-size="12">he performed an action</text>
+    <text x="450" y="133" fill="#2e7d32" font-weight="700">✓ Offering</text>
+    <text x="450" y="152" fill="#5b6b82" font-size="12">mishna, Shevuot 27b</text>
+
+    <rect x="24" y="176" width="592" height="80" rx="10" fill="#fff" stroke="#d9e1ee"/>
+    <text x="40" y="201" font-weight="700">“That I will eat this loaf</text>
+    <text x="40" y="218" font-weight="700">today”</text>
+    <text x="40" y="237" fill="#5b6b82" font-size="12">and the day passed uneaten</text>
+    <text x="252" y="201" fill="#c0392b" font-weight="700">✗ No lashes</text>
+    <text x="252" y="219" fill="#5b6b82" font-size="12">R. Yoḥanan: no action</text>
+    <text x="252" y="235" fill="#5b6b82" font-size="12">Reish Lakish: uncertain</text>
+    <text x="252" y="250" fill="#5b6b82" font-size="12">forewarning</text>
+    <text x="450" y="201" fill="#8a96a8">not discussed here</text>
+
+    <rect x="24" y="262" width="592" height="80" rx="10" fill="#fff" stroke="#d9e1ee"/>
+    <text x="40" y="287" font-weight="700">“That I ate” / “that I did</text>
+    <text x="40" y="304" font-weight="700">not eat”</text>
+    <text x="40" y="323" fill="#5b6b82" font-size="12">false, about the past</text>
+    <text x="252" y="287" fill="#2e7d32" font-weight="700">✓ Lashes</text>
+    <text x="252" y="306" fill="#5b6b82" font-size="12">Rabbi Abbahu; Rava: like an</text>
+    <text x="252" y="323" fill="#5b6b82" font-size="12">oath in vain, about the past</text>
+    <text x="450" y="287"><tspan fill="#c0392b" font-weight="700">✗</tspan> Rabbi Yishmael</text>
+    <text x="450" y="306"><tspan fill="#2e7d32" font-weight="700">✓</tspan> Rabbi Akiva</text>
+
+    <rect x="24" y="348" width="592" height="62" rx="10" fill="#fff" stroke="#d9e1ee"/>
+    <text x="40" y="373" font-weight="700">Oath in vain</text>
+    <text x="40" y="392" fill="#5b6b82" font-size="12">e.g., that a stone is gold</text>
+    <text x="252" y="373" fill="#2e7d32" font-weight="700">✓ Lashes</text>
+    <text x="252" y="392" fill="#5b6b82" font-size="12">Exodus 20:7</text>
+    <text x="450" y="373" fill="#c0392b" font-weight="700">✗ Exempt</text>
+    <text x="450" y="392" fill="#5b6b82" font-size="12">mishna, Shevuot 29a</text>
+  </g>
+
+  <text x="32" y="438" font-size="12.5" fill="#5b6b82">Final reading: both clauses of the mishna follow Rabbi Akiva; “this is” in the first</text>
+  <text x="32" y="456" font-size="12.5" fill="#5b6b82">clause excludes “I will eat” where he did not eat.</text>
+</svg>

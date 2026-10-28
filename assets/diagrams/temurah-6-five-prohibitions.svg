@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 560" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Five prohibitions for a blemished offering</title>
+  <rect width="640" height="560" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Five prohibitions, five sources</text>
+  <text x="32" y="68" font-size="14" fill="#5b6b7d">One who consecrates a blemished animal for the altar and offers it</text>
+
+  <text x="32" y="104" font-size="12.5" font-weight="700" fill="#7f8fa3" letter-spacing="0.6">PROHIBITION</text>
+  <text x="300" y="104" font-size="12.5" font-weight="700" fill="#7f8fa3" letter-spacing="0.6">DERIVED FROM</text>
+
+  <g font-size="14">
+    <rect x="32" y="116" width="576" height="60" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+    <circle cx="56" cy="146" r="13" fill="#fde2e1"/><text x="56" y="151" text-anchor="middle" font-weight="700" fill="#a12d22">1</text>
+    <text x="80" y="141" font-weight="700" fill="#1f2d3d">You may not offer,</text>
+    <text x="80" y="160" fill="#33475b">i.e., you may not consecrate</text>
+    <text x="300" y="141" fill="#1f2d3d">“But whatever has a blemish,</text>
+    <text x="300" y="160" fill="#1f2d3d">you shall not offer”</text>
+    <text x="596" y="160" text-anchor="end" font-size="12.5" fill="#5b6b7d">Lev. 22:20</text>
+
+    <rect x="32" y="186" width="576" height="60" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+    <circle cx="56" cy="216" r="13" fill="#fde2e1"/><text x="56" y="221" text-anchor="middle" font-weight="700" fill="#a12d22">2</text>
+    <text x="80" y="221" font-weight="700" fill="#1f2d3d">You may not slaughter</text>
+    <text x="300" y="211" fill="#1f2d3d">“Blind, or broken, or maimed…</text>
+    <text x="300" y="230" fill="#1f2d3d">you shall not offer”</text>
+    <text x="596" y="230" text-anchor="end" font-size="12.5" fill="#5b6b7d">Lev. 22:22</text>
+
+    <rect x="32" y="256" width="576" height="60" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+    <circle cx="56" cy="286" r="13" fill="#fde2e1"/><text x="56" y="291" text-anchor="middle" font-weight="700" fill="#a12d22">3</text>
+    <text x="80" y="291" font-weight="700" fill="#1f2d3d">You may not sprinkle its blood</text>
+    <text x="300" y="291" fill="#1f2d3d">“Upon the altar”</text>
+    <text x="596" y="300" text-anchor="end" font-size="12.5" fill="#5b6b7d">Lev. 22:22</text>
+
+    <rect x="32" y="326" width="576" height="60" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+    <circle cx="56" cy="356" r="13" fill="#fde2e1"/><text x="56" y="361" text-anchor="middle" font-weight="700" fill="#a12d22">4</text>
+    <text x="80" y="361" font-weight="700" fill="#1f2d3d">You may not burn all of it</text>
+    <text x="300" y="351" fill="#1f2d3d">“Nor make an offering by fire”:</text>
+    <text x="300" y="370" fill="#1f2d3d">the fires of the altar</text>
+    <text x="596" y="370" text-anchor="end" font-size="12.5" fill="#5b6b7d">Lev. 22:22</text>
+
+    <rect x="32" y="396" width="576" height="60" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+    <circle cx="56" cy="426" r="13" fill="#fde2e1"/><text x="56" y="431" text-anchor="middle" font-weight="700" fill="#a12d22">5</text>
+    <text x="80" y="431" font-weight="700" fill="#1f2d3d">You may not burn part of it</text>
+    <text x="300" y="431" fill="#1f2d3d">“Of them”</text>
+    <text x="596" y="440" text-anchor="end" font-size="12.5" fill="#5b6b7d">Lev. 22:22</text>
+
+    <rect x="32" y="466" width="576" height="56" rx="10" fill="#eef1f6" stroke="#c9d3e0" stroke-dasharray="5 4"/>
+    <text x="56" y="489" font-weight="700" fill="#1f2d3d">+ The collection of the blood</text>
+    <text x="56" y="509" font-size="13" fill="#5b6b7d">Added in the name of Rabbi Yosei, son of Rabbi Yehuda</text>
+  </g>
+
+  <text x="32" y="545" font-size="13" fill="#5b6b7d">“Unto the Lord” (Lev. 22:22) includes the scapegoat: it too may not be blemished.</text>
+</svg>

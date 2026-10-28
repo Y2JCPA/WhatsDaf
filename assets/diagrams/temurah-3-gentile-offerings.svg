@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 666" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Animals consecrated by gentiles</title>
+  <rect width="640" height="666" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2a3d">Animals consecrated by gentiles</text>
+  <text x="32" y="68" font-size="13" fill="#5b6b82">The baraita, ruling by ruling (“the statement of Rabbi Shimon”), with the Gemara’s source</text>
+
+  <text x="40" y="98" font-size="12" font-weight="700" fill="#5b6b82" letter-spacing=".5">LAW</text>
+  <text x="178" y="98" font-size="12" font-weight="700" fill="#5b6b82" letter-spacing=".5">RULING</text>
+  <text x="326" y="98" font-size="12" font-weight="700" fill="#5b6b82" letter-spacing=".5">SOURCE</text>
+
+  <g font-size="13" fill="#1f2a3d">
+    <rect x="24" y="108" width="592" height="44" rx="10" fill="#fff" stroke="#d9e1ee"/>
+    <text x="40" y="135" font-weight="700">Benefit</text>
+    <text x="178" y="135" fill="#b26a00">Forbidden <tspan font-style="italic">ab initio</tspan></text>
+    <text x="326" y="135">By rabbinic law</text>
+
+    <rect x="24" y="158" width="592" height="54" rx="10" fill="#fff" stroke="#d9e1ee"/>
+    <text x="40" y="190" font-weight="700">Misuse (<tspan font-style="italic">me’ila</tspan>)</text>
+    <text x="178" y="181" fill="#2e7d32">Not liable</text>
+    <text x="178" y="199" fill="#5b6b82" font-size="12">by Torah law</text>
+    <text x="326" y="181">“sin” / “sin” from <tspan font-style="italic">teruma</tspan>:</text>
+    <text x="326" y="199">“the children of Israel” (Num. 18:8)</text>
+
+    <rect x="24" y="218" width="592" height="54" rx="10" fill="#fff" stroke="#d9e1ee"/>
+    <text x="40" y="250" font-weight="700">Eating while impure</text>
+    <text x="178" y="250" fill="#2e7d32">Not liable</text>
+    <text x="326" y="241">“the holy items of the children of Israel”</text>
+    <text x="326" y="259">(Lev. 22:2)</text>
+
+    <rect x="24" y="278" width="592" height="44" rx="10" fill="#fff" stroke="#d9e1ee"/>
+    <text x="40" y="305" font-weight="700" font-style="italic">Notar</text>
+    <text x="178" y="305" fill="#2e7d32">Not liable</text>
+    <text x="326" y="305">“profane” / “profane” from impurity (Lev. 19:8)</text>
+
+    <rect x="24" y="328" width="592" height="44" rx="10" fill="#fff" stroke="#d9e1ee"/>
+    <text x="40" y="355" font-weight="700" font-style="italic">Piggul</text>
+    <text x="178" y="355" fill="#2e7d32">Not liable</text>
+    <text x="326" y="355">“iniquity” / “iniquity” from <tspan font-style="italic">notar</tspan> (Lev. 7:18)</text>
+
+    <rect x="24" y="378" width="592" height="72" rx="10" fill="#fff" stroke="#d9e1ee"/>
+    <text x="40" y="419" font-weight="700">Substitution</text>
+    <text x="178" y="419" fill="#c0392b">Cannot substitute</text>
+    <text x="326" y="400">“Speak to the children of Israel” (Lev. 27:2)</text>
+    <text x="326" y="420" fill="#5b6b82" font-size="12">another version: substitution ↔ animal tithe ↔</text>
+    <text x="326" y="437" fill="#5b6b82" font-size="12">grain tithe, “of the children of Israel” (Num. 18:24)</text>
+
+    <rect x="24" y="456" width="592" height="72" rx="10" fill="#fff" stroke="#d9e1ee"/>
+    <text x="40" y="497" font-weight="700">Libations</text>
+    <text x="178" y="479" fill="#c0392b">Not by themselves;</text>
+    <text x="178" y="497" fill="#2e7d32">his burnt offering</text>
+    <text x="178" y="515" fill="#2e7d32">requires them</text>
+    <text x="326" y="488">“homeborn” (Num. 15:13);</text>
+    <text x="326" y="506">“So shall it be done” (Num. 15:11)</text>
+  </g>
+
+  <rect x="24" y="538" width="592" height="50" rx="10" fill="#e8eefb" stroke="#c5d3ee"/>
+  <text x="40" y="560" font-size="13" font-weight="700" fill="#1f2a3d">Rabbi Yosei: “With regard to all of them I see fit to be stringent”</text>
+  <text x="40" y="578" font-size="13" fill="#1f2a3d">“…which are brought <tspan font-weight="700">to the Lord</tspan>” (Lev. 22:18)</text>
+
+  <rect x="24" y="596" width="592" height="54" rx="10" fill="#fdf3e3" stroke="#ecd9b5"/>
+  <text x="40" y="618" font-size="13" font-weight="700" fill="#1f2a3d">Consecrated for Temple maintenance: misuse applies</text>
+  <text x="40" y="637" font-size="12.5" fill="#5b4a2e">The analogy is to <tspan font-style="italic">teruma</tspan>, of inherent sanctity; Temple-maintenance sanctity is in its value.</text>
+</svg>
