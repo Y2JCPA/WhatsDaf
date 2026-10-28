@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 660" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Which phrase teaches what</title>
+  <rect width="640" height="660" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Three phrases, two versions</text>
+  <text x="32" y="68" font-size="14" fill="#5b6b7d">What each phrase of Leviticus 22 teaches, as the Gemara concludes</text>
+  <text x="32" y="108" font-size="14" font-weight="700" fill="#1f2d3d" letter-spacing="0.4">FIRST VERSION (7a)</text>
+  <text x="32" y="132" font-size="11.5" font-weight="700" fill="#7f8fa3" letter-spacing="0.6">PHRASE</text>
+  <text x="252" y="132" font-size="11.5" font-weight="700" fill="#7f8fa3" letter-spacing="0.6">R. YOSEI SON OF R. YEHUDA</text>
+  <text x="440" y="132" font-size="11.5" font-weight="700" fill="#7f8fa3" letter-spacing="0.6">FIRST TANNA</text>
+  <rect x="32" y="142" width="200" height="56" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="44" y="166" font-size="13.5" font-weight="700" fill="#1f2d3d">“You shall not offer”</text>
+  <text x="44" y="184" font-size="12" fill="#5b6b7d">bruised, crushed… · Lev. 22:24</text>
+  <rect x="240" y="142" width="180" height="56" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="252" y="175" font-size="13.5" fill="#1f2d3d">Sprinkling the blood</text>
+  <rect x="428" y="142" width="180" height="56" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="440" y="175" font-size="13.5" fill="#1f2d3d">Sprinkling the blood</text>
+  <rect x="32" y="206" width="200" height="56" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="44" y="230" font-size="13.5" font-weight="700" fill="#1f2d3d">“Upon the altar”</text>
+  <text x="44" y="248" font-size="12" fill="#5b6b7d">Lev. 22:22</text>
+  <rect x="240" y="206" width="180" height="56" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="252" y="230" font-size="13.5" fill="#1f2d3d">The verse’s normal</text>
+  <text x="252" y="248" font-size="13.5" fill="#1f2d3d">manner of speaking</text>
+  <rect x="428" y="206" width="180" height="56" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="440" y="230" font-size="13.5" fill="#1f2d3d">The verse’s normal</text>
+  <text x="440" y="248" font-size="13.5" fill="#1f2d3d">manner of speaking</text>
+  <rect x="32" y="270" width="200" height="70" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="44" y="292" font-size="13.5" font-weight="700" fill="#1f2d3d">“Neither from the hand of a</text>
+  <text x="44" y="310" font-size="13.5" font-weight="700" fill="#1f2d3d">foreigner shall you offer”</text>
+  <text x="44" y="328" font-size="12" fill="#5b6b7d">Lev. 22:25</text>
+  <rect x="240" y="270" width="180" height="70" rx="10" fill="#fff4dc" stroke="#efd28f"/>
+  <text x="252" y="310" font-size="13.5" fill="#1f2d3d">Collecting the blood</text>
+  <rect x="428" y="270" width="180" height="70" rx="10" fill="#fff4dc" stroke="#efd28f"/>
+  <text x="440" y="292" font-size="13.5" fill="#1f2d3d">Gentiles may not offer</text>
+  <text x="440" y="310" font-size="13.5" fill="#1f2d3d">blemished animals</text>
+  <text x="440" y="328" font-size="13.5" fill="#1f2d3d">on our altar</text>
+  <text x="32" y="378" font-size="14" font-weight="700" fill="#1f2d3d" letter-spacing="0.4">ALTERNATIVE VERSION (7a)</text>
+  <text x="32" y="402" font-size="11.5" font-weight="700" fill="#7f8fa3" letter-spacing="0.6">PHRASE</text>
+  <text x="252" y="402" font-size="11.5" font-weight="700" fill="#7f8fa3" letter-spacing="0.6">R. YOSEI SON OF R. YEHUDA</text>
+  <text x="440" y="402" font-size="11.5" font-weight="700" fill="#7f8fa3" letter-spacing="0.6">THE RABBIS</text>
+  <rect x="32" y="412" width="200" height="56" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="44" y="436" font-size="13.5" font-weight="700" fill="#1f2d3d">“You shall not offer”</text>
+  <text x="44" y="454" font-size="12" fill="#5b6b7d">bruised, crushed… · Lev. 22:24</text>
+  <rect x="240" y="412" width="180" height="56" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="252" y="445" font-size="13.5" fill="#1f2d3d">A private altar</text>
+  <rect x="428" y="412" width="180" height="56" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="440" y="445" font-size="13.5" fill="#1f2d3d">A private altar</text>
+  <rect x="32" y="476" width="200" height="56" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="44" y="500" font-size="13.5" font-weight="700" fill="#1f2d3d">“Upon the altar”</text>
+  <text x="44" y="518" font-size="12" fill="#5b6b7d">Lev. 22:22</text>
+  <rect x="240" y="476" width="180" height="56" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="252" y="509" font-size="13.5" fill="#1f2d3d">Sprinkling the blood</text>
+  <rect x="428" y="476" width="180" height="56" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="440" y="509" font-size="13.5" fill="#1f2d3d">Sprinkling the blood</text>
+  <rect x="32" y="540" width="200" height="70" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="44" y="562" font-size="13.5" font-weight="700" fill="#1f2d3d">“Neither from the hand of a</text>
+  <text x="44" y="580" font-size="13.5" font-weight="700" fill="#1f2d3d">foreigner shall you offer”</text>
+  <text x="44" y="598" font-size="12" fill="#5b6b7d">Lev. 22:25</text>
+  <rect x="240" y="540" width="180" height="70" rx="10" fill="#fff4dc" stroke="#efd28f"/>
+  <text x="252" y="580" font-size="13.5" fill="#1f2d3d">Collecting the blood</text>
+  <rect x="428" y="540" width="180" height="70" rx="10" fill="#fff4dc" stroke="#efd28f"/>
+  <text x="440" y="562" font-size="13.5" fill="#1f2d3d">We do not accept</text>
+  <text x="440" y="580" font-size="13.5" fill="#1f2d3d">blemished offerings</text>
+  <text x="440" y="598" font-size="13.5" fill="#1f2d3d">from gentiles</text>
+  <rect x="32" y="625" width="14" height="14" rx="3" fill="#fff4dc" stroke="#efd28f"/>
+  <text x="54" y="636" font-size="13" fill="#5b6b7d">Where the two views part ways</text>
+</svg>
