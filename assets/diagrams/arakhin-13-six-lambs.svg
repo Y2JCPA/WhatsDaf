@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 566" width="640" height="566" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <rect width="640" height="566" rx="18" fill="#f3f6fb"/>
+  <text x="320" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2937">Six lambs, four days</text>
+  <text x="320" y="70" text-anchor="middle" font-size="13" font-weight="400" fill="#4b5563">Each day two lambs are offered and two newly inspected ones take their place</text>
+  <rect x="152" y="96" width="74" height="28" rx="6" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="189" y="115" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2937">Day 1</text>
+  <rect x="230" y="96" width="74" height="28" rx="6" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="267" y="115" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2937">Day 2</text>
+  <rect x="308" y="96" width="74" height="28" rx="6" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="345" y="115" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2937">Day 3</text>
+  <rect x="386" y="96" width="74" height="28" rx="6" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="423" y="115" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2937">Day 4</text>
+  <rect x="464" y="96" width="74" height="28" rx="6" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="501" y="115" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2937">Day 5</text>
+  <rect x="542" y="96" width="74" height="28" rx="6" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="579" y="115" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2937">Day 6</text>
+  <text x="24" y="115" text-anchor="start" font-size="11" font-weight="700" fill="#6b7280">PAIR OF LAMBS</text>
+  <text x="24" y="155" text-anchor="start" font-size="12" font-weight="400" fill="#374151">Already inspected</text>
+  <rect x="152" y="140" width="72" height="22" rx="11" fill="#eef2f7" stroke="#cbd5e1"/>
+  <rect x="156" y="142" width="66" height="18" rx="9" fill="#fde8d8" stroke="#e0a47a"/>
+  <text x="189" y="155" text-anchor="middle" font-size="11" font-weight="700" fill="#8a3b0d">offered</text>
+  <text x="24" y="189" text-anchor="start" font-size="12" font-weight="400" fill="#374151">Already inspected</text>
+  <rect x="152" y="174" width="150" height="22" rx="11" fill="#eef2f7" stroke="#cbd5e1"/>
+  <rect x="234" y="176" width="66" height="18" rx="9" fill="#fde8d8" stroke="#e0a47a"/>
+  <text x="267" y="189" text-anchor="middle" font-size="11" font-weight="700" fill="#8a3b0d">offered</text>
+  <text x="24" y="223" text-anchor="start" font-size="12" font-weight="400" fill="#374151">Already inspected</text>
+  <rect x="152" y="208" width="228" height="22" rx="11" fill="#eef2f7" stroke="#cbd5e1"/>
+  <rect x="312" y="210" width="66" height="18" rx="9" fill="#fde8d8" stroke="#e0a47a"/>
+  <text x="345" y="223" text-anchor="middle" font-size="11" font-weight="700" fill="#8a3b0d">offered</text>
+  <text x="24" y="257" text-anchor="start" font-size="12" font-weight="400" fill="#374151">Placed on day 1</text>
+  <rect x="154" y="242" width="304" height="22" rx="11" fill="#e8eefc" stroke="#9fb3e0"/>
+  <rect x="156" y="244" width="66" height="18" rx="9" fill="#fff4dc" stroke="#e5b94e"/>
+  <text x="189" y="257" text-anchor="middle" font-size="11" font-weight="700" fill="#8a5a00">inspected</text>
+  <rect x="390" y="244" width="66" height="18" rx="9" fill="#fde8d8" stroke="#e0a47a"/>
+  <text x="423" y="257" text-anchor="middle" font-size="11" font-weight="700" fill="#8a3b0d">offered</text>
+  <text x="24" y="291" text-anchor="start" font-size="12" font-weight="400" fill="#374151">Placed on day 2</text>
+  <rect x="232" y="276" width="304" height="22" rx="11" fill="#e8eefc" stroke="#9fb3e0"/>
+  <rect x="234" y="278" width="66" height="18" rx="9" fill="#fff4dc" stroke="#e5b94e"/>
+  <text x="267" y="291" text-anchor="middle" font-size="11" font-weight="700" fill="#8a5a00">inspected</text>
+  <rect x="468" y="278" width="66" height="18" rx="9" fill="#fde8d8" stroke="#e0a47a"/>
+  <text x="501" y="291" text-anchor="middle" font-size="11" font-weight="700" fill="#8a3b0d">offered</text>
+  <text x="24" y="325" text-anchor="start" font-size="12" font-weight="400" fill="#374151">Placed on day 3</text>
+  <rect x="310" y="310" width="304" height="22" rx="11" fill="#e8eefc" stroke="#9fb3e0"/>
+  <rect x="312" y="312" width="66" height="18" rx="9" fill="#fff4dc" stroke="#e5b94e"/>
+  <text x="345" y="325" text-anchor="middle" font-size="11" font-weight="700" fill="#8a5a00">inspected</text>
+  <rect x="546" y="312" width="66" height="18" rx="9" fill="#fde8d8" stroke="#e0a47a"/>
+  <text x="579" y="325" text-anchor="middle" font-size="11" font-weight="700" fill="#8a3b0d">offered</text>
+  <text x="24" y="359" text-anchor="start" font-size="12" font-weight="400" fill="#6b7280">Pairs placed on days 4, 5, 6 … go on in the same way</text>
+  <line x1="24" y1="376" x2="616" y2="376" stroke="#cbd5e1"/>
+  <text x="24" y="406" text-anchor="start" font-size="12" font-weight="700" fill="#374151">In the chamber</text>
+  <rect x="164" y="388" width="50" height="28" rx="8" fill="#e8eefc" stroke="#9fb3e0"/>
+  <text x="189" y="408" text-anchor="middle" font-size="16" font-weight="700" fill="#1e3a8a">6</text>
+  <rect x="242" y="388" width="50" height="28" rx="8" fill="#e8eefc" stroke="#9fb3e0"/>
+  <text x="267" y="408" text-anchor="middle" font-size="16" font-weight="700" fill="#1e3a8a">6</text>
+  <rect x="320" y="388" width="50" height="28" rx="8" fill="#e8eefc" stroke="#9fb3e0"/>
+  <text x="345" y="408" text-anchor="middle" font-size="16" font-weight="700" fill="#1e3a8a">6</text>
+  <rect x="398" y="388" width="50" height="28" rx="8" fill="#e8eefc" stroke="#9fb3e0"/>
+  <text x="423" y="408" text-anchor="middle" font-size="16" font-weight="700" fill="#1e3a8a">6</text>
+  <rect x="476" y="388" width="50" height="28" rx="8" fill="#e8eefc" stroke="#9fb3e0"/>
+  <text x="501" y="408" text-anchor="middle" font-size="16" font-weight="700" fill="#1e3a8a">6</text>
+  <rect x="554" y="388" width="50" height="28" rx="8" fill="#e8eefc" stroke="#9fb3e0"/>
+  <text x="579" y="408" text-anchor="middle" font-size="16" font-weight="700" fill="#1e3a8a">6</text>
+  <text x="24" y="438" text-anchor="start" font-size="12" font-weight="700" fill="#1f2937">Ben Bag Bag: like the Paschal lamb, the daily offering “requires examination four days</text>
+  <text x="24" y="456" text-anchor="start" font-size="12" font-weight="400" fill="#4b5563">prior to its slaughter” (Numbers 28:2; Exodus 12:6). Two daily offerings are brought each day.</text>
+  <text x="24" y="482" text-anchor="start" font-size="12" font-weight="700" fill="#1f2937">Rabbeinu Gershom (and the explanation Rashi “heard”): a pair placed on day 1 is offered</text>
+  <text x="24" y="500" text-anchor="start" font-size="12" font-weight="400" fill="#4b5563">on day 4, counting the day of inspection and the day of slaughter; part of the fourth day is like all of it.</text>
+  <text x="24" y="526" text-anchor="start" font-size="12" font-weight="700" fill="#1f2937">Rashi’s own view: the Paschal lamb has four days apart from the day of slaughter, so eight</text>
+  <text x="24" y="544" text-anchor="start" font-size="12" font-weight="400" fill="#4b5563">were placed at the start, and “six” means six inspected lambs remain after each day’s two are taken.</text>
+</svg>
