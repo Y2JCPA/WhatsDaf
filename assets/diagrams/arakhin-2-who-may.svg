@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 632" width="640" height="632" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <rect width="640" height="632" rx="18" fill="#f3f6fb"/>
+  <text x="320" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2937">Who pledges, and who is pledged</text>
+  <text x="320" y="70" text-anchor="middle" font-size="14" fill="#4b5563">Valuation: the Torah’s fixed sum. Assessment: one’s worth as a slave.</text>
+  <text x="267" y="100" text-anchor="middle" font-size="13" font-weight="700" fill="#374151">Pledges a</text>
+  <text x="267" y="117" text-anchor="middle" font-size="13" font-weight="700" fill="#374151">valuation</text>
+  <text x="267" y="137" text-anchor="middle" font-size="13" fill="#6b7280">מעריך</text>
+  <text x="366" y="100" text-anchor="middle" font-size="13" font-weight="700" fill="#374151">Is</text>
+  <text x="366" y="117" text-anchor="middle" font-size="13" font-weight="700" fill="#374151">valuated</text>
+  <text x="366" y="137" text-anchor="middle" font-size="13" fill="#6b7280">נערך</text>
+  <text x="465" y="100" text-anchor="middle" font-size="13" font-weight="700" fill="#374151">Pledges an</text>
+  <text x="465" y="117" text-anchor="middle" font-size="13" font-weight="700" fill="#374151">assessment</text>
+  <text x="465" y="137" text-anchor="middle" font-size="13" fill="#6b7280">נודר</text>
+  <text x="564" y="100" text-anchor="middle" font-size="13" font-weight="700" fill="#374151">Is</text>
+  <text x="564" y="117" text-anchor="middle" font-size="13" font-weight="700" fill="#374151">assessed</text>
+  <text x="564" y="137" text-anchor="middle" font-size="13" fill="#6b7280">נידר</text>
+  <rect x="24" y="150" width="190" height="58" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="119" y="174" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1f2937">Priests, Levites, Israelites,</text>
+  <text x="119" y="192" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1f2937">women and slaves</text>
+  <rect x="222" y="150" width="90" height="58" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="267" y="187" text-anchor="middle" font-size="22" font-weight="700" fill="#1d5e2c">✓</text>
+  <rect x="321" y="150" width="90" height="58" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="366" y="187" text-anchor="middle" font-size="22" font-weight="700" fill="#1d5e2c">✓</text>
+  <rect x="420" y="150" width="90" height="58" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="465" y="187" text-anchor="middle" font-size="22" font-weight="700" fill="#1d5e2c">✓</text>
+  <rect x="519" y="150" width="90" height="58" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="564" y="187" text-anchor="middle" font-size="22" font-weight="700" fill="#1d5e2c">✓</text>
+  <rect x="24" y="216" width="190" height="58" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="119" y="240" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1f2937">Tumtum and</text>
+  <text x="119" y="258" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1f2937">hermaphrodite</text>
+  <rect x="222" y="216" width="90" height="58" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="267" y="253" text-anchor="middle" font-size="22" font-weight="700" fill="#1d5e2c">✓</text>
+  <rect x="321" y="216" width="90" height="58" rx="10" fill="#fde2e2" stroke="#e08a8a"/>
+  <text x="366" y="253" text-anchor="middle" font-size="22" font-weight="700" fill="#8b1c1c">✗</text>
+  <rect x="420" y="216" width="90" height="58" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="465" y="253" text-anchor="middle" font-size="22" font-weight="700" fill="#1d5e2c">✓</text>
+  <rect x="519" y="216" width="90" height="58" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="564" y="253" text-anchor="middle" font-size="22" font-weight="700" fill="#1d5e2c">✓</text>
+  <rect x="24" y="282" width="190" height="58" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="119" y="306" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1f2937">Deaf-mute, imbecile</text>
+  <text x="119" y="324" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1f2937">and minor</text>
+  <rect x="222" y="282" width="90" height="58" rx="10" fill="#fde2e2" stroke="#e08a8a"/>
+  <text x="267" y="319" text-anchor="middle" font-size="22" font-weight="700" fill="#8b1c1c">✗</text>
+  <rect x="321" y="282" width="90" height="58" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="366" y="319" text-anchor="middle" font-size="22" font-weight="700" fill="#1d5e2c">✓</text>
+  <rect x="420" y="282" width="90" height="58" rx="10" fill="#fde2e2" stroke="#e08a8a"/>
+  <text x="465" y="319" text-anchor="middle" font-size="22" font-weight="700" fill="#8b1c1c">✗</text>
+  <rect x="519" y="282" width="90" height="58" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="564" y="319" text-anchor="middle" font-size="22" font-weight="700" fill="#1d5e2c">✓</text>
+  <rect x="24" y="348" width="190" height="58" rx="10" fill="#fdf6e7" stroke="#e0c48a"/>
+  <text x="119" y="372" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1f2937">Minor on the brink</text>
+  <text x="119" y="390" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1f2937">of adulthood</text>
+  <rect x="222" y="348" width="90" height="58" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="267" y="385" text-anchor="middle" font-size="22" font-weight="700" fill="#1d5e2c">✓</text>
+  <rect x="321" y="348" width="90" height="58" rx="10" fill="#eef1f5" stroke="#d5dbe3"/>
+  <text x="366" y="385" text-anchor="middle" font-size="22" font-weight="700" fill="#9aa3ae">—</text>
+  <rect x="420" y="348" width="90" height="58" rx="10" fill="#eef1f5" stroke="#d5dbe3"/>
+  <text x="465" y="385" text-anchor="middle" font-size="22" font-weight="700" fill="#9aa3ae">—</text>
+  <rect x="519" y="348" width="90" height="58" rx="10" fill="#eef1f5" stroke="#d5dbe3"/>
+  <text x="564" y="385" text-anchor="middle" font-size="22" font-weight="700" fill="#9aa3ae">—</text>
+  <rect x="24" y="414" width="190" height="58" rx="10" fill="#fdf6e7" stroke="#e0c48a"/>
+  <text x="119" y="438" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1f2937">Repulsive man, one</text>
+  <text x="119" y="456" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1f2937">afflicted with boils</text>
+  <rect x="222" y="414" width="90" height="58" rx="10" fill="#eef1f5" stroke="#d5dbe3"/>
+  <text x="267" y="451" text-anchor="middle" font-size="22" font-weight="700" fill="#9aa3ae">—</text>
+  <rect x="321" y="414" width="90" height="58" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="366" y="451" text-anchor="middle" font-size="22" font-weight="700" fill="#1d5e2c">✓</text>
+  <rect x="420" y="414" width="90" height="58" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="465" y="445" text-anchor="middle" font-size="22" font-weight="700" fill="#1d5e2c">✓</text>
+  <text x="465" y="462" text-anchor="middle" font-size="11" fill="#1d5e2c">per Rashi</text>
+  <rect x="519" y="414" width="90" height="58" rx="10" fill="#fde2e2" stroke="#e08a8a"/>
+  <text x="564" y="451" text-anchor="middle" font-size="22" font-weight="700" fill="#8b1c1c">✗</text>
+  <rect x="24" y="480" width="190" height="58" rx="10" fill="#fdf6e7" stroke="#e0c48a"/>
+  <text x="119" y="504" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1f2937">Infant less than</text>
+  <text x="119" y="522" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1f2937">a month old</text>
+  <rect x="222" y="480" width="90" height="58" rx="10" fill="#eef1f5" stroke="#d5dbe3"/>
+  <text x="267" y="517" text-anchor="middle" font-size="22" font-weight="700" fill="#9aa3ae">—</text>
+  <rect x="321" y="480" width="90" height="58" rx="10" fill="#fde2e2" stroke="#e08a8a"/>
+  <text x="366" y="517" text-anchor="middle" font-size="22" font-weight="700" fill="#8b1c1c">✗</text>
+  <rect x="420" y="480" width="90" height="58" rx="10" fill="#eef1f5" stroke="#d5dbe3"/>
+  <text x="465" y="517" text-anchor="middle" font-size="22" font-weight="700" fill="#9aa3ae">—</text>
+  <rect x="519" y="480" width="90" height="58" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="564" y="517" text-anchor="middle" font-size="22" font-weight="700" fill="#1d5e2c">✓</text>
+  <rect x="24" y="550" width="592" height="70" rx="10" fill="#e8eef8"/>
+  <text x="40" y="572" font-size="13" fill="#374151"><tspan font-weight="700">White rows:</tspan> the mishna. <tspan font-weight="700">Gold rows:</tspan> what the Gemara says “everyone” adds.</text>
+  <text x="40" y="592" font-size="13" fill="#374151"><tspan font-weight="700">✗</tspan> tumtum: only a definite male or female is valuated; deaf-mute etc.: no</text>
+  <text x="40" y="610" font-size="13" fill="#374151">mental competence; repulsive man: no market value. <tspan font-weight="700">—</tspan> not stated on this daf.</text>
+</svg>

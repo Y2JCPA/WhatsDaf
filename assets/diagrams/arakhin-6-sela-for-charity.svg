@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 610" width="640" height="610" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <rect width="640" height="610" rx="18" fill="#f3f6fb"/>
+  <text x="320" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2937">“This sela is for charity”</text>
+  <text x="320" y="70" text-anchor="middle" font-size="14" fill="#4b5563">May he use the coin and later repay it? The opinions on 6a.</text>
+  <text x="380" y="104" text-anchor="middle" font-size="13" font-weight="700" fill="#374151">Use it…</text>
+  <text x="520" y="104" text-anchor="middle" font-size="13" font-weight="700" fill="#374151">If he said…</text>
+  <line x1="236" y1="110" x2="416" y2="110" stroke="#cbd5e1"/>
+  <line x1="428" y1="110" x2="612" y2="110" stroke="#cbd5e1"/>
+  <text x="280" y="134" text-anchor="middle" font-size="13" fill="#374151">for himself</text>
+  <text x="376" y="134" text-anchor="middle" font-size="13" fill="#374151">for another</text>
+  <text x="472" y="134" text-anchor="middle" font-size="13" fill="#374151">“upon me”</text>
+  <text x="568" y="134" text-anchor="middle" font-size="13" fill="#374151">“this is”</text>
+  <rect x="24" y="150" width="204" height="60" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="126" y="176" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">Rav Naḥman</text>
+  <text x="126" y="195" text-anchor="middle" font-size="12" fill="#6b7280">as first understood</text>
+  <rect x="236" y="150" width="88" height="60" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="280" y="185" text-anchor="middle" font-size="13" font-weight="700" fill="#1d5e2c">Permitted</text>
+  <rect x="332" y="150" width="88" height="60" rx="10" fill="#fde2e2" stroke="#e08a8a"/>
+  <text x="376" y="185" text-anchor="middle" font-size="13" font-weight="700" fill="#8b1c1c">Prohibited</text>
+  <rect x="428" y="150" width="88" height="60" rx="10" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="472" y="185" text-anchor="middle" font-size="12" font-weight="400" fill="#9ca3af">not stated</text>
+  <rect x="524" y="150" width="88" height="60" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="568" y="185" text-anchor="middle" font-size="13" font-weight="700" fill="#1d5e2c">Permitted</text>
+  <rect x="24" y="218" width="204" height="60" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="126" y="244" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">Rav Ami</text>
+  <text x="126" y="263" text-anchor="middle" font-size="12" fill="#6b7280">citing Rabbi Yoḥanan</text>
+  <rect x="236" y="218" width="88" height="60" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="280" y="253" text-anchor="middle" font-size="13" font-weight="700" fill="#1d5e2c">Permitted</text>
+  <rect x="332" y="218" width="88" height="60" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="376" y="253" text-anchor="middle" font-size="13" font-weight="700" fill="#1d5e2c">Permitted</text>
+  <rect x="428" y="218" width="88" height="60" rx="10" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="472" y="253" text-anchor="middle" font-size="12" font-weight="400" fill="#9ca3af">not stated</text>
+  <rect x="524" y="218" width="88" height="60" rx="10" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="568" y="253" text-anchor="middle" font-size="12" font-weight="400" fill="#9ca3af">not stated</text>
+  <rect x="24" y="286" width="204" height="60" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="126" y="321" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">Rabbi Zeira</text>
+  <rect x="236" y="286" width="88" height="60" rx="10" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="280" y="321" text-anchor="middle" font-size="12" font-weight="400" fill="#9ca3af">not stated</text>
+  <rect x="332" y="286" width="88" height="60" rx="10" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="376" y="321" text-anchor="middle" font-size="12" font-weight="400" fill="#9ca3af">not stated</text>
+  <rect x="428" y="286" width="88" height="60" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="472" y="321" text-anchor="middle" font-size="13" font-weight="700" fill="#1d5e2c">Permitted</text>
+  <rect x="524" y="286" width="88" height="60" rx="10" fill="#fde2e2" stroke="#e08a8a"/>
+  <text x="568" y="321" text-anchor="middle" font-size="13" font-weight="700" fill="#8b1c1c">Give it as is</text>
+  <rect x="24" y="354" width="204" height="60" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="126" y="380" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">Rava</text>
+  <text x="126" y="399" text-anchor="middle" font-size="12" fill="#6b7280">a baraita supports him</text>
+  <rect x="236" y="354" width="88" height="60" rx="10" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="280" y="389" text-anchor="middle" font-size="12" font-weight="400" fill="#9ca3af">not stated</text>
+  <rect x="332" y="354" width="88" height="60" rx="10" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="376" y="389" text-anchor="middle" font-size="12" font-weight="400" fill="#9ca3af">not stated</text>
+  <rect x="428" y="354" width="88" height="60" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="472" y="389" text-anchor="middle" font-size="13" font-weight="700" fill="#1d5e2c">Permitted</text>
+  <rect x="524" y="354" width="88" height="60" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="568" y="389" text-anchor="middle" font-size="13" font-weight="700" fill="#1d5e2c">Permitted</text>
+  <rect x="24" y="422" width="204" height="60" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="126" y="448" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">Rav Zevid’s version</text>
+  <text x="126" y="467" text-anchor="middle" font-size="12" fill="#6b7280">all in Rav’s name</text>
+  <rect x="236" y="422" width="88" height="60" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="280" y="457" text-anchor="middle" font-size="13" font-weight="700" fill="#1d5e2c">Permitted</text>
+  <rect x="332" y="422" width="88" height="60" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="376" y="457" text-anchor="middle" font-size="13" font-weight="700" fill="#1d5e2c">Permitted</text>
+  <rect x="428" y="422" width="88" height="60" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="472" y="457" text-anchor="middle" font-size="13" font-weight="700" fill="#1d5e2c">Permitted</text>
+  <rect x="524" y="422" width="88" height="60" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+  <text x="568" y="457" text-anchor="middle" font-size="13" font-weight="700" fill="#1d5e2c">Permitted</text>
+  <rect x="24" y="496" width="592" height="92" rx="10" fill="#e8eef8"/>
+  <text x="40" y="522" font-size="13" fill="#374151"><tspan font-weight="700">Baraita:</tspan> permitted only until the coin reaches the charity collectors;</text>
+  <text x="40" y="542" font-size="13" fill="#374151">once it reaches them, it is prohibited.</text>
+  <text x="40" y="566" font-size="13" fill="#374151"><tspan font-weight="700">Rabbi Yannai,</tspan> a collector, borrowed and repaid: that benefits the poor (6b).</text>
+</svg>

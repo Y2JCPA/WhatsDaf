@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 470" width="640" height="470" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <rect width="640" height="470" rx="18" fill="#f3f6fb"/>
+  <text x="320" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2937">The Torah’s valuations</text>
+  <text x="320" y="70" text-anchor="middle" font-size="14" fill="#4b5563">Leviticus 27:3–7: a fixed sum in silver shekels, set by age and sex.</text>
+  <text x="320" y="88" text-anchor="middle" font-size="14" fill="#4b5563">Only a male or a female is listed.</text>
+  <text x="140" y="126" text-anchor="middle" font-size="14" font-weight="700" fill="#374151">Age</text>
+  <text x="378" y="126" text-anchor="middle" font-size="14" font-weight="700" fill="#374151">Male</text>
+  <text x="532" y="126" text-anchor="middle" font-size="14" font-weight="700" fill="#374151">Female</text>
+  <rect x="24" y="140" width="232" height="56" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="140" y="165" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">From 1 month to 5 years</text>
+  <text x="140" y="184" text-anchor="middle" font-size="12" fill="#6b7280">Leviticus 27:6</text>
+  <rect x="268" y="140" width="220" height="56" rx="10" fill="#e3edfb" stroke="#8fb0e0"/>
+  <text x="378" y="175" text-anchor="middle" font-size="18" font-weight="700" fill="#1c3f78">5 shekels</text>
+  <rect x="500" y="140" width="116" height="56" rx="10" fill="#f7e3ef" stroke="#d99bbf"/>
+  <text x="558" y="175" text-anchor="middle" font-size="18" font-weight="700" fill="#7a1f52">3</text>
+  <rect x="24" y="206" width="232" height="56" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="140" y="231" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">From 5 to 20 years</text>
+  <text x="140" y="250" text-anchor="middle" font-size="12" fill="#6b7280">Leviticus 27:5</text>
+  <rect x="268" y="206" width="220" height="56" rx="10" fill="#e3edfb" stroke="#8fb0e0"/>
+  <text x="378" y="241" text-anchor="middle" font-size="18" font-weight="700" fill="#1c3f78">20 shekels</text>
+  <rect x="500" y="206" width="116" height="56" rx="10" fill="#f7e3ef" stroke="#d99bbf"/>
+  <text x="558" y="241" text-anchor="middle" font-size="18" font-weight="700" fill="#7a1f52">10</text>
+  <rect x="24" y="272" width="232" height="56" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="140" y="297" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">From 20 to 60 years</text>
+  <text x="140" y="316" text-anchor="middle" font-size="12" fill="#6b7280">Leviticus 27:3–4</text>
+  <rect x="268" y="272" width="220" height="56" rx="10" fill="#e3edfb" stroke="#8fb0e0"/>
+  <text x="378" y="307" text-anchor="middle" font-size="18" font-weight="700" fill="#1c3f78">50 shekels</text>
+  <rect x="500" y="272" width="116" height="56" rx="10" fill="#f7e3ef" stroke="#d99bbf"/>
+  <text x="558" y="307" text-anchor="middle" font-size="18" font-weight="700" fill="#7a1f52">30</text>
+  <rect x="24" y="338" width="232" height="56" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="140" y="363" text-anchor="middle" font-size="15" font-weight="700" fill="#1f2937">From 60 years and up</text>
+  <text x="140" y="382" text-anchor="middle" font-size="12" fill="#6b7280">Leviticus 27:7</text>
+  <rect x="268" y="338" width="220" height="56" rx="10" fill="#e3edfb" stroke="#8fb0e0"/>
+  <text x="378" y="373" text-anchor="middle" font-size="18" font-weight="700" fill="#1c3f78">15 shekels</text>
+  <rect x="500" y="338" width="116" height="56" rx="10" fill="#f7e3ef" stroke="#d99bbf"/>
+  <text x="558" y="373" text-anchor="middle" font-size="18" font-weight="700" fill="#7a1f52">10</text>
+  <rect x="24" y="410" width="592" height="62" rx="10" fill="#e8eef8"/>
+  <text x="40" y="436" font-size="13" fill="#374151"><tspan font-weight="700">Under a month:</tspan> no valuation, though one may vow his assessment (5a).</text>
+  <text x="40" y="458" font-size="13" fill="#374151"><tspan font-weight="700">Tumtum, hermaphrodite:</tspan> not definitely male or female, so not valuated.</text>
+</svg>
