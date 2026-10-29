@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 556" width="640" height="556" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <rect width="640" height="556" rx="18" fill="#f3f6fb"/>
+  <text x="320" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2a44">Graze, die, or a burnt offering?</text>
+  <text x="320" y="70" text-anchor="middle" font-size="14" fill="#4a5672">The mishna (20b), the same dispute in two cases</text>
+
+  <!-- the two cases -->
+  <rect x="24" y="86" width="290" height="58" rx="10" fill="#ffffff" stroke="#c9d3e6"/>
+  <text x="169" y="110" text-anchor="middle" font-size="13.5" font-weight="600" fill="#1f2a44">The substitute of a guilt offering,</text>
+  <text x="169" y="128" text-anchor="middle" font-size="13" fill="#4a5672">its offspring, theirs, to the end of time</text>
+  <rect x="326" y="86" width="290" height="58" rx="10" fill="#ffffff" stroke="#c9d3e6"/>
+  <text x="471" y="110" text-anchor="middle" font-size="13.5" font-weight="600" fill="#1f2a44">A guilt offering whose owner died,</text>
+  <text x="471" y="128" text-anchor="middle" font-size="13" fill="#4a5672">or whose owner gained atonement</text>
+
+  <!-- three views -->
+  <rect x="24" y="158" width="188" height="122" rx="10" fill="#e3edf9"/>
+  <text x="118" y="182" text-anchor="middle" font-size="12" font-weight="700" fill="#1f4e79">THE RABBIS</text>
+  <text x="118" y="206" text-anchor="middle" font-size="13" fill="#1f4e79">Graze until unfit,</text>
+  <text x="118" y="224" text-anchor="middle" font-size="13" fill="#1f4e79">then are sold; the money</text>
+  <text x="118" y="242" text-anchor="middle" font-size="13" fill="#1f4e79">goes to communal</text>
+  <text x="118" y="260" text-anchor="middle" font-size="13" fill="#1f4e79">gift offerings</text>
+
+  <rect x="226" y="158" width="188" height="122" rx="10" fill="#fde8e8"/>
+  <text x="320" y="182" text-anchor="middle" font-size="12" font-weight="700" fill="#9b2c22">RABBI ELIEZER</text>
+  <text x="320" y="224" text-anchor="middle" font-size="15" font-weight="700" fill="#9b2c22">Left to die</text>
+
+  <rect x="428" y="158" width="188" height="122" rx="10" fill="#fdf0d8"/>
+  <text x="522" y="182" text-anchor="middle" font-size="12" font-weight="700" fill="#7a4a00">RABBI ELAZAR</text>
+  <text x="522" y="206" text-anchor="middle" font-size="13" fill="#7a4a00">The owner brings</text>
+  <text x="522" y="224" text-anchor="middle" font-size="13" fill="#7a4a00">a burnt offering</text>
+  <text x="522" y="242" text-anchor="middle" font-size="13" fill="#7a4a00">with the money</text>
+
+  <!-- the difference -->
+  <text x="320" y="314" text-anchor="middle" font-size="14" font-weight="700" fill="#1f2a44">“But isn’t a gift offering also a burnt offering?” The difference:</text>
+
+  <text x="232" y="346" text-anchor="middle" font-size="12" font-weight="700" fill="#7a4a00">AN INDIVIDUAL’S BURNT</text>
+  <text x="232" y="361" text-anchor="middle" font-size="12" font-weight="700" fill="#7a4a00">OFFERING (RABBI ELAZAR)</text>
+  <text x="482" y="346" text-anchor="middle" font-size="12" font-weight="700" fill="#1f4e79">A COMMUNAL GIFT</text>
+  <text x="482" y="361" text-anchor="middle" font-size="12" font-weight="700" fill="#1f4e79">OFFERING (THE RABBIS)</text>
+
+  <rect x="24" y="372" width="592" height="154" rx="12" fill="#ffffff" stroke="#c9d3e6"/>
+
+  <text x="40" y="404" font-size="13.5" font-weight="600" fill="#1f2a44">Placing hands</text>
+  <text x="232" y="404" text-anchor="middle" font-size="13" fill="#7a4a00">The owner places his hands</text>
+  <text x="482" y="404" text-anchor="middle" font-size="13" fill="#1f4e79">He does not place his hands</text>
+  <line x1="36" y1="422" x2="604" y2="422" stroke="#e3e8f2"/>
+
+  <text x="40" y="452" font-size="13.5" font-weight="600" fill="#1f2a44">Libations</text>
+  <text x="232" y="452" text-anchor="middle" font-size="13" fill="#7a4a00">He brings them, from his own</text>
+  <text x="482" y="452" text-anchor="middle" font-size="13" fill="#1f4e79">From the community</text>
+  <line x1="36" y1="470" x2="604" y2="470" stroke="#e3e8f2"/>
+
+  <text x="40" y="494" font-size="13.5" font-weight="600" fill="#1f2a44">If the owner</text>
+  <text x="40" y="512" font-size="13.5" font-weight="600" fill="#1f2a44">is a priest</text>
+  <text x="232" y="503" text-anchor="middle" font-size="13" fill="#7a4a00">Its service and hide are his</text>
+  <text x="482" y="494" text-anchor="middle" font-size="13" fill="#1f4e79">Its service and hide go to the</text>
+  <text x="482" y="512" text-anchor="middle" font-size="13" fill="#1f4e79">men of the priestly watch</text>
+</svg>

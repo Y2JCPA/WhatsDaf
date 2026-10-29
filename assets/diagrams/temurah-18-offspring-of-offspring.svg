@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 500" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>The offspring of a peace offering</title>
+  <rect width="640" height="500" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">The offspring of a peace offering</text>
+  <text x="32" y="70" font-size="14" fill="#5b6b7d">Rabbi Shimon: they disagree only about the offspring itself, and agree</text>
+  <text x="32" y="90" font-size="14" fill="#5b6b7d">about the offspring of the offspring. Agree on what? Two readings.</text>
+
+  <g font-size="12" font-weight="700" fill="#7f8fa3" letter-spacing="0.6">
+    <text x="216" y="124">THE OFFSPRING</text>
+    <text x="420" y="124">OFFSPRING OF THE OFFSPRING</text>
+  </g>
+  <text x="420" y="140" font-size="11.5" fill="#7f8fa3">of a peace offering or substitute</text>
+
+  <!-- Rabba -->
+  <rect x="32" y="152" width="576" height="134" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="48" y="178" font-size="14.5" font-weight="700" fill="#1f2d3d">Rabba</text>
+  <text x="48" y="196" font-size="12" fill="#5b6b7d">all agree: sacrificed</text>
+  <rect x="208" y="164" width="388" height="44" rx="8" fill="#eef2f7"/>
+  <text x="220" y="182" font-size="12" fill="#3d4b5c">Rabbi Eliezer disagrees only about the offspring; the</text>
+  <text x="220" y="199" font-size="12" fill="#3d4b5c">offspring of the offspring is “merely a chance.”</text>
+
+  <text x="48" y="237" font-size="12.5" font-weight="700" fill="#1f2d3d">Rabbi Eliezer</text>
+  <text x="48" y="267" font-size="12.5" font-weight="700" fill="#1f2d3d">The Rabbis</text>
+  <rect x="208" y="220" width="196" height="26" rx="6" fill="#fbe3e1"/>
+  <text x="220" y="238" font-size="12.5" font-weight="700" fill="#8a2a22">Not sacrificed</text>
+  <rect x="412" y="220" width="184" height="26" rx="6" fill="#dff3e4"/>
+  <text x="424" y="238" font-size="12.5" font-weight="700" fill="#1e6b3a">Sacrificed</text>
+  <rect x="208" y="250" width="196" height="26" rx="6" fill="#dff3e4"/>
+  <text x="220" y="268" font-size="12.5" font-weight="700" fill="#1e6b3a">Sacrificed</text>
+  <rect x="412" y="250" width="184" height="26" rx="6" fill="#dff3e4"/>
+  <text x="424" y="268" font-size="12.5" font-weight="700" fill="#1e6b3a">Sacrificed</text>
+
+  <!-- RYBL -->
+  <rect x="32" y="298" width="576" height="152" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="48" y="324" font-size="14.5" font-weight="700" fill="#1f2d3d">Rabbi Yehoshua</text>
+  <text x="48" y="342" font-size="14.5" font-weight="700" fill="#1f2d3d">ben Levi</text>
+  <text x="48" y="360" font-size="12" fill="#5b6b7d">all agree: not sacrificed</text>
+  <rect x="208" y="310" width="388" height="62" rx="8" fill="#eef2f7"/>
+  <text x="220" y="328" font-size="12" fill="#3d4b5c">The Rabbis disagree only about the offspring; from his</text>
+  <text x="220" y="345" font-size="12" fill="#3d4b5c">actions his intention is evident: he wants to raise herds.</text>
+  <text x="220" y="362" font-size="12" fill="#3d4b5c">Rabbi Ḥiyya’s baraita supports him: “a lamb” (Lev. 3:7).</text>
+
+  <text x="48" y="401" font-size="12.5" font-weight="700" fill="#1f2d3d">Rabbi Eliezer</text>
+  <text x="48" y="431" font-size="12.5" font-weight="700" fill="#1f2d3d">The Rabbis</text>
+  <rect x="208" y="384" width="196" height="26" rx="6" fill="#fbe3e1"/>
+  <text x="220" y="402" font-size="12.5" font-weight="700" fill="#8a2a22">Not sacrificed</text>
+  <rect x="412" y="384" width="184" height="26" rx="6" fill="#fbe3e1"/>
+  <text x="424" y="402" font-size="12.5" font-weight="700" fill="#8a2a22">Not sacrificed</text>
+  <rect x="208" y="414" width="196" height="26" rx="6" fill="#dff3e4"/>
+  <text x="220" y="432" font-size="12.5" font-weight="700" fill="#1e6b3a">Sacrificed</text>
+  <rect x="412" y="414" width="184" height="26" rx="6" fill="#fbe3e1"/>
+  <text x="424" y="432" font-size="12.5" font-weight="700" fill="#8a2a22">Not sacrificed</text>
+
+  <text x="32" y="476" font-size="12.5" fill="#5b6b7d">Rabbi Eliezer’s reason, from Rabbi Yoḥanan: a decree, lest he raise herds from them.</text>
+</svg>

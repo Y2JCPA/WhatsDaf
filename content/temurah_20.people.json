@@ -1,0 +1,24 @@
+{
+  "people": {
+    "rabbi-avin-bar-chiyya": {
+      "name": "Rabbi Avin bar Ḥiyya",
+      "he": "רבי אבין בר חייא",
+      "era": "Amora",
+      "bio": "Amora who asks Rabbi Avin bar Kahana about the offspring of a female designated as a guilt offering (Temurah 20b).",
+      "color": "#5c6bc0",
+      "initials": "רא״ח",
+      "image": "rabbi-avin-bar-chiyya.jpg",
+      "prompt": "A sage in his 40s with a dark, neatly trimmed beard and a plain grey wool mantle, leaning forward with a raised finger as he poses a question; background of a lamplit study hall with low benches and scrolls on a shelf."
+    },
+    "rabbi-avin-bar-kahana": {
+      "name": "Rabbi Avin bar Kahana",
+      "he": "רבי אבין בר כהנא",
+      "era": "Amora",
+      "bio": "Amora who answers Rabbi Avin bar Ḥiyya’s question about the offspring of a female designated as a guilt offering (Temurah 20b–21a).",
+      "color": "#8e6c3a",
+      "initials": "רא״כ",
+      "image": "rabbi-avin-bar-kahana.jpg",
+      "prompt": "A sage in his 50s with a greying beard and a brown wool mantle, seated with an open scroll on his knees and answering with a calm, open hand; background of a study hall courtyard in late afternoon light."
+    }
+  }
+}

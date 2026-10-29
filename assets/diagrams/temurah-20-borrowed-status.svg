@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 612" width="640" height="612" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <rect width="640" height="612" rx="18" fill="#f3f6fb"/>
+  <text x="320" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2a44">A status borrowed from elsewhere?</text>
+  <text x="320" y="70" text-anchor="middle" font-size="14" fill="#4a5672">Rabbi Shimon: a female for a burnt offering renders a substitute. The Gemara tests it.</text>
+
+  <text x="40" y="104" font-size="12" font-weight="700" fill="#4a5672">THE CASE</text>
+  <text x="222" y="104" font-size="12" font-weight="700" fill="#4a5672">BORROWED STATUS</text>
+  <text x="420" y="104" font-size="12" font-weight="700" fill="#4a5672">THE GEMARA</text>
+
+  <!-- row 1 -->
+  <rect x="24" y="116" width="592" height="64" rx="10" fill="#ffffff" stroke="#c9d3e6"/>
+  <text x="40" y="143" font-size="13.5" font-weight="600" fill="#1f2a44">A female set aside</text>
+  <text x="40" y="161" font-size="13.5" font-weight="600" fill="#1f2a44">for a burnt offering</text>
+  <text x="222" y="143" font-size="13" fill="#1f2a44">The bird burnt offering,</text>
+  <text x="222" y="161" font-size="13" fill="#1f2a44">which may be female</text>
+  <rect x="410" y="126" width="196" height="44" rx="9" fill="#e6f4ea"/>
+  <text x="420" y="144" font-size="13" font-weight="600" fill="#1e6b34">Rabbi Shimon: it renders</text>
+  <text x="420" y="161" font-size="13" font-weight="600" fill="#1e6b34">a substitute</text>
+
+  <!-- row 2 -->
+  <rect x="24" y="188" width="592" height="64" rx="10" fill="#ffffff" stroke="#c9d3e6"/>
+  <text x="40" y="215" font-size="13.5" font-weight="600" fill="#1f2a44">The High Priest’s cow</text>
+  <text x="40" y="233" font-size="13.5" font-weight="600" fill="#1f2a44">for his Yom Kippur bull</text>
+  <text x="222" y="215" font-size="13" fill="#1f2a44">The red heifer, female,</text>
+  <text x="222" y="233" font-size="13" fill="#1f2a44">a “heifer of purification”</text>
+  <rect x="410" y="198" width="196" height="44" rx="9" fill="#fde8e8"/>
+  <text x="420" y="216" font-size="13" font-weight="600" fill="#9b2c22">Temple maintenance:</text>
+  <text x="420" y="233" font-size="13" font-weight="600" fill="#9b2c22">no substitute</text>
+
+  <!-- row 3 -->
+  <rect x="24" y="260" width="592" height="64" rx="10" fill="#ffffff" stroke="#c9d3e6"/>
+  <text x="40" y="287" font-size="13.5" font-weight="600" fill="#1f2a44">An individual’s male goat</text>
+  <text x="40" y="305" font-size="13.5" font-weight="600" fill="#1f2a44">for his female goat</text>
+  <text x="222" y="296" font-size="13" fill="#1f2a44">The king’s male goat</text>
+
+  <!-- row 4 -->
+  <rect x="24" y="332" width="592" height="64" rx="10" fill="#ffffff" stroke="#c9d3e6"/>
+  <rect x="410" y="270" width="196" height="116" rx="9" fill="#fde8e8"/>
+  <text x="420" y="320" font-size="13" font-weight="600" fill="#9b2c22">“These are two bodies”:</text>
+  <text x="420" y="337" font-size="13" font-weight="600" fill="#9b2c22">king and individual</text>
+  <text x="40" y="359" font-size="13.5" font-weight="600" fill="#1f2a44">A king’s female goat</text>
+  <text x="40" y="377" font-size="13.5" font-weight="600" fill="#1f2a44">for his male goat</text>
+  <text x="222" y="368" font-size="13" fill="#1f2a44">The individual’s female goat</text>
+
+  <!-- row 5 -->
+  <rect x="24" y="404" width="592" height="64" rx="10" fill="#ffffff" stroke="#c9d3e6"/>
+  <text x="40" y="431" font-size="13.5" font-weight="600" fill="#1f2a44">Sinned before becoming</text>
+  <text x="40" y="449" font-size="13.5" font-weight="600" fill="#1f2a44">king; a male goat after</text>
+  <text x="222" y="431" font-size="13" fill="#1f2a44">“Were he to sin now, he</text>
+  <text x="222" y="449" font-size="13" fill="#1f2a44">would bring a male goat”</text>
+  <rect x="410" y="414" width="196" height="44" rx="9" fill="#fde8e8"/>
+  <text x="420" y="432" font-size="13" font-weight="600" fill="#9b2c22">He did not sin as king:</text>
+  <text x="420" y="449" font-size="13" font-weight="600" fill="#9b2c22">not obligated to bring one</text>
+
+  <!-- the turn back -->
+  <rect x="24" y="482" width="592" height="104" rx="12" fill="#fff6e0" stroke="#e8c97a"/>
+  <text x="40" y="507" font-size="13.5" font-weight="700" fill="#7a4a00">“If so, here too”: in row one he does not bring a bird burnt offering.</text>
+  <text x="40" y="531" font-size="13" fill="#5c3b00">Answer: the case is a voluntary burnt offering, and Rabbi Shimon holds like</text>
+  <text x="40" y="550" font-size="13" fill="#5c3b00">Rabbi Elazar ben Azarya: one who says “It is upon me to bring a burnt</text>
+  <text x="40" y="569" font-size="13" fill="#5c3b00">offering” may bring a dove or pigeons (Menaḥot 107a).</text>
+</svg>
