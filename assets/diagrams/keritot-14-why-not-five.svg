@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 642" width="640" height="642" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <rect width="640" height="642" rx="18" fill="#f3f6fb"/>
+  <text x="320" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2937">Why four sin offerings, not five or six?</text>
+  <text x="320" y="68" text-anchor="middle" font-size="14" fill="#4b5563">Keritot 14a: the Gemara narrows the mishna’s case step by step</text>
+  <rect x="24" y="88" width="592" height="32" rx="8" fill="#fff7e6" stroke="#f0cf8f"/>
+  <rect x="34" y="94" width="80" height="20" rx="10" fill="#b7791f"/>
+  <text x="74" y="108" text-anchor="middle" font-size="11" font-weight="700" fill="#ffffff">Proposal</text>
+  <text x="126" y="108.5" font-size="13" fill="#1f2937">Let it teach five: he also ate an olive-bulk of piggul</text>
+  <rect x="24" y="126" width="592" height="32" rx="8" fill="#eaf2fb" stroke="#a9c6e8"/>
+  <rect x="34" y="132" width="80" height="20" rx="10" fill="#2b5a8a"/>
+  <text x="74" y="146" text-anchor="middle" font-size="11" font-weight="700" fill="#ffffff">Answer</text>
+  <text x="126" y="146.5" font-size="13" fill="#1f2937">It speaks of one animal; notar and piggul are not found in one animal</text>
+  <rect x="24" y="164" width="592" height="32" rx="8" fill="#fdf0f0" stroke="#eab3b3"/>
+  <rect x="34" y="170" width="80" height="20" rx="10" fill="#9b2c2c"/>
+  <text x="74" y="184" text-anchor="middle" font-size="11" font-weight="700" fill="#ffffff">Challenge</text>
+  <text x="126" y="184.5" font-size="13" fill="#1f2937">A piggul limb brought upon the altar becomes notar (as Ulla says)</text>
+  <rect x="24" y="202" width="592" height="32" rx="8" fill="#eaf2fb" stroke="#a9c6e8"/>
+  <rect x="34" y="208" width="80" height="20" rx="10" fill="#2b5a8a"/>
+  <text x="74" y="222" text-anchor="middle" font-size="11" font-weight="700" fill="#ffffff">Answer</text>
+  <text x="126" y="222.5" font-size="13" fill="#1f2937">It speaks of one limb</text>
+  <rect x="24" y="240" width="592" height="32" rx="8" fill="#fdf0f0" stroke="#eab3b3"/>
+  <rect x="34" y="246" width="80" height="20" rx="10" fill="#9b2c2c"/>
+  <text x="74" y="260" text-anchor="middle" font-size="11" font-weight="700" fill="#ffffff">Challenge</text>
+  <text x="126" y="260.5" font-size="13" fill="#1f2937">He placed half the limb on the altar and half outside it</text>
+  <rect x="24" y="278" width="592" height="32" rx="8" fill="#eaf2fb" stroke="#a9c6e8"/>
+  <rect x="34" y="284" width="80" height="20" rx="10" fill="#2b5a8a"/>
+  <text x="74" y="298" text-anchor="middle" font-size="11" font-weight="700" fill="#ffffff">Answer</text>
+  <text x="126" y="298.5" font-size="13" fill="#1f2937">No: if most is on the altar it counts as on the altar; if outside, outside</text>
+  <rect x="24" y="316" width="592" height="32" rx="8" fill="#fdf0f0" stroke="#eab3b3"/>
+  <rect x="34" y="322" width="80" height="20" rx="10" fill="#9b2c2c"/>
+  <text x="74" y="336" text-anchor="middle" font-size="11" font-weight="700" fill="#ffffff">Challenge</text>
+  <text x="126" y="336.5" font-size="13" fill="#1f2937">Then Rami bar Ḥama’s dilemma (majority in limbs) would be resolved</text>
+  <rect x="24" y="354" width="592" height="32" rx="8" fill="#eaf2fb" stroke="#a9c6e8"/>
+  <rect x="34" y="360" width="80" height="20" rx="10" fill="#2b5a8a"/>
+  <text x="74" y="374" text-anchor="middle" font-size="11" font-weight="700" fill="#ffffff">Answer</text>
+  <text x="126" y="374.5" font-size="13" fill="#1f2937">Rather: it speaks of one olive-bulk, not two</text>
+  <rect x="24" y="392" width="592" height="32" rx="8" fill="#fdf0f0" stroke="#eab3b3"/>
+  <rect x="34" y="398" width="80" height="20" rx="10" fill="#9b2c2c"/>
+  <text x="74" y="412" text-anchor="middle" font-size="11" font-weight="700" fill="#ffffff">Challenge</text>
+  <text x="126" y="412.5" font-size="13" fill="#1f2937">But Yom Kippur needs a large date’s volume, which holds two olive-bulks</text>
+  <rect x="24" y="430" width="592" height="50" rx="8" fill="#eaf2fb" stroke="#a9c6e8"/>
+  <rect x="34" y="445" width="80" height="20" rx="10" fill="#2b5a8a"/>
+  <text x="74" y="459" text-anchor="middle" font-size="11" font-weight="700" fill="#ffffff">Answer</text>
+  <text x="126" y="450" font-size="13" fill="#1f2937">Rabbi Zeira: he ate a kidney with its fat</text>
+  <text x="126" y="469" font-size="13" fill="#1f2937">Rav Pappa: he completed the volume with dates</text>
+  <rect x="24" y="486" width="592" height="48" rx="9" fill="#f1ecf8" stroke="#c7b6e3"/>
+  <text x="40" y="506" font-size="13" font-weight="700" fill="#1f2937">Rav Adda bar Aḥa teaches “five sin offerings”:</text>
+  <text x="40" y="524" font-size="12.5" fill="#374151">an olive-bulk of piggul from another animal, without these answers</text>
+  <line x1="24" y1="543" x2="616" y2="543" stroke="#cbd5e1" stroke-dasharray="4 4"/>
+  <rect x="24" y="552" width="592" height="32" rx="8" fill="#fff7e6" stroke="#f0cf8f"/>
+  <rect x="34" y="558" width="80" height="20" rx="10" fill="#b7791f"/>
+  <text x="74" y="572" text-anchor="middle" font-size="11" font-weight="700" fill="#ffffff">Proposal</text>
+  <text x="126" y="572.5" font-size="13" fill="#1f2937">Let it teach six: he also ate an olive-bulk of blood</text>
+  <rect x="24" y="590" width="592" height="32" rx="8" fill="#eaf2fb" stroke="#a9c6e8"/>
+  <rect x="34" y="596" width="80" height="20" rx="10" fill="#2b5a8a"/>
+  <text x="74" y="610" text-anchor="middle" font-size="11" font-weight="700" fill="#ffffff">Answer</text>
+  <text x="126" y="610.5" font-size="13" fill="#1f2937">It speaks of one act of eating; the throat holds no more than two olive-bulks</text>
+</svg>
