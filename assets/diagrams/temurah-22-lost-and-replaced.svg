@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 728" width="640" height="728" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <rect width="640" height="728" rx="18" fill="#f3f6fb"/>
+  <text x="320" y="44" font-size="22" font-weight="700" fill="#1f2937" text-anchor="middle">Lost, replaced, then found</text>
+  <text x="320" y="70" font-size="13.5" font-weight="400" fill="#4b5563" text-anchor="middle">The mishna (22b): what was set aside for a sin offering, and what follows</text>
+  <text x="24" y="106" font-size="11.5" font-weight="700" fill="#475569" text-anchor="start">LOST, THEN FOUND</text>
+  <text x="192" y="106" font-size="11.5" font-weight="700" fill="#475569" text-anchor="start">REPLACED, MEANWHILE, BY</text>
+  <text x="392" y="106" font-size="11.5" font-weight="700" fill="#475569" text-anchor="start">RESULT</text>
+  <rect x="20" y="114" width="160" height="54" rx="10" fill="#ffffff" stroke="#d5dde9"/>
+  <text x="32" y="146" font-size="13.5" font-weight="700" fill="#1f2937" text-anchor="start">An animal</text>
+  <rect x="188" y="114" width="192" height="54" rx="10" fill="#ffffff" stroke="#d5dde9"/>
+  <text x="200" y="137" font-size="13.5" font-weight="500" fill="#1f2937" text-anchor="start">Another animal,</text>
+  <text x="200" y="155" font-size="13.5" font-weight="500" fill="#1f2937" text-anchor="start">already sacrificed</text>
+  <rect x="388" y="114" width="232" height="54" rx="10" fill="#fde4e2" stroke="#e8a9a3"/>
+  <text x="400" y="146" font-size="13.5" font-weight="600" fill="#8f1d16" text-anchor="start">The first is left to die</text>
+  <rect x="20" y="176" width="160" height="54" rx="10" fill="#ffffff" stroke="#d5dde9"/>
+  <text x="32" y="208" font-size="13.5" font-weight="700" fill="#1f2937" text-anchor="start">Money</text>
+  <rect x="188" y="176" width="192" height="54" rx="10" fill="#ffffff" stroke="#d5dde9"/>
+  <text x="200" y="199" font-size="13.5" font-weight="500" fill="#1f2937" text-anchor="start">An animal,</text>
+  <text x="200" y="217" font-size="13.5" font-weight="500" fill="#1f2937" text-anchor="start">already sacrificed</text>
+  <rect x="388" y="176" width="232" height="54" rx="10" fill="#fde4e2" stroke="#e8a9a3"/>
+  <text x="400" y="199" font-size="13.5" font-weight="600" fill="#8f1d16" text-anchor="start">The money is taken</text>
+  <text x="400" y="217" font-size="13.5" font-weight="600" fill="#8f1d16" text-anchor="start">to the Dead Sea</text>
+  <rect x="20" y="238" width="160" height="72" rx="10" fill="#ffffff" stroke="#d5dde9"/>
+  <text x="32" y="279" font-size="13.5" font-weight="700" fill="#1f2937" text-anchor="start">Money</text>
+  <rect x="188" y="238" width="192" height="72" rx="10" fill="#ffffff" stroke="#d5dde9"/>
+  <text x="200" y="270" font-size="13.5" font-weight="500" fill="#1f2937" text-anchor="start">Other money,</text>
+  <text x="200" y="288" font-size="13.5" font-weight="500" fill="#1f2937" text-anchor="start">not yet spent</text>
+  <rect x="388" y="238" width="232" height="72" rx="10" fill="#fff2d2" stroke="#e6c879"/>
+  <text x="400" y="261" font-size="13.5" font-weight="600" fill="#7a5300" text-anchor="start">One sin offering from both</text>
+  <text x="400" y="279" font-size="13.5" font-weight="600" fill="#7a5300" text-anchor="start">sums; the rest goes to</text>
+  <text x="400" y="297" font-size="13.5" font-weight="600" fill="#7a5300" text-anchor="start">communal gift offerings</text>
+  <rect x="20" y="318" width="160" height="72" rx="10" fill="#ffffff" stroke="#d5dde9"/>
+  <text x="32" y="359" font-size="13.5" font-weight="700" fill="#1f2937" text-anchor="start">Money</text>
+  <rect x="188" y="318" width="192" height="72" rx="10" fill="#ffffff" stroke="#d5dde9"/>
+  <text x="200" y="350" font-size="13.5" font-weight="500" fill="#1f2937" text-anchor="start">An animal, not yet</text>
+  <text x="200" y="368" font-size="13.5" font-weight="500" fill="#1f2937" text-anchor="start">sacrificed, and blemished</text>
+  <rect x="388" y="318" width="232" height="72" rx="10" fill="#fff2d2" stroke="#e6c879"/>
+  <text x="400" y="341" font-size="13.5" font-weight="600" fill="#7a5300" text-anchor="start">The animal is sold; one sin</text>
+  <text x="400" y="359" font-size="13.5" font-weight="600" fill="#7a5300" text-anchor="start">offering from both sums; the</text>
+  <text x="400" y="377" font-size="13.5" font-weight="600" fill="#7a5300" text-anchor="start">rest to communal gift offerings</text>
+  <rect x="20" y="398" width="160" height="72" rx="10" fill="#ffffff" stroke="#d5dde9"/>
+  <text x="32" y="430" font-size="13.5" font-weight="700" fill="#1f2937" text-anchor="start">An animal,</text>
+  <text x="32" y="448" font-size="13.5" font-weight="700" fill="#1f2937" text-anchor="start">found blemished</text>
+  <rect x="188" y="398" width="192" height="72" rx="10" fill="#ffffff" stroke="#d5dde9"/>
+  <text x="200" y="430" font-size="13.5" font-weight="500" fill="#1f2937" text-anchor="start">Money,</text>
+  <text x="200" y="448" font-size="13.5" font-weight="500" fill="#1f2937" text-anchor="start">not yet spent</text>
+  <rect x="388" y="398" width="232" height="72" rx="10" fill="#fff2d2" stroke="#e6c879"/>
+  <text x="400" y="421" font-size="13.5" font-weight="600" fill="#7a5300" text-anchor="start">The animal is sold; one sin</text>
+  <text x="400" y="439" font-size="13.5" font-weight="600" fill="#7a5300" text-anchor="start">offering from both sums; the</text>
+  <text x="400" y="457" font-size="13.5" font-weight="600" fill="#7a5300" text-anchor="start">rest to communal gift offerings</text>
+  <rect x="20" y="478" width="160" height="72" rx="10" fill="#ffffff" stroke="#d5dde9"/>
+  <text x="32" y="510" font-size="13.5" font-weight="700" fill="#1f2937" text-anchor="start">An animal,</text>
+  <text x="32" y="528" font-size="13.5" font-weight="700" fill="#1f2937" text-anchor="start">found blemished</text>
+  <rect x="188" y="478" width="192" height="72" rx="10" fill="#ffffff" stroke="#d5dde9"/>
+  <text x="200" y="510" font-size="13.5" font-weight="500" fill="#1f2937" text-anchor="start">Another animal, not yet</text>
+  <text x="200" y="528" font-size="13.5" font-weight="500" fill="#1f2937" text-anchor="start">sacrificed, also blemished</text>
+  <rect x="388" y="478" width="232" height="72" rx="10" fill="#fff2d2" stroke="#e6c879"/>
+  <text x="400" y="501" font-size="13.5" font-weight="600" fill="#7a5300" text-anchor="start">Both are sold; one sin</text>
+  <text x="400" y="519" font-size="13.5" font-weight="600" fill="#7a5300" text-anchor="start">offering from both sums; the</text>
+  <text x="400" y="537" font-size="13.5" font-weight="600" fill="#7a5300" text-anchor="start">rest to communal gift offerings</text>
+  <rect x="20" y="558" width="160" height="108" rx="10" fill="#ffffff" stroke="#d5dde9"/>
+  <text x="32" y="608" font-size="13.5" font-weight="700" fill="#1f2937" text-anchor="start">An animal,</text>
+  <text x="32" y="626" font-size="13.5" font-weight="700" fill="#1f2937" text-anchor="start">found unblemished</text>
+  <rect x="188" y="558" width="192" height="108" rx="10" fill="#ffffff" stroke="#d5dde9"/>
+  <text x="200" y="599" font-size="13.5" font-weight="500" fill="#1f2937" text-anchor="start">Another animal, not yet</text>
+  <text x="200" y="617" font-size="13.5" font-weight="500" fill="#1f2937" text-anchor="start">sacrificed, also</text>
+  <text x="200" y="635" font-size="13.5" font-weight="500" fill="#1f2937" text-anchor="start">unblemished</text>
+  <rect x="388" y="558" width="232" height="51" rx="10" fill="#fde4e2" stroke="#e8a9a3"/>
+  <text x="400" y="579.5" font-size="13.5" font-weight="600" fill="#8f1d16" text-anchor="start">Rabbi: one is sacrificed,</text>
+  <text x="400" y="597.5" font-size="13.5" font-weight="600" fill="#8f1d16" text-anchor="start">the other is left to die</text>
+  <rect x="388" y="615" width="232" height="51" rx="10" fill="#e2f3e7" stroke="#9fd0ae"/>
+  <text x="400" y="636.5" font-size="13.5" font-weight="600" fill="#1d5e34" text-anchor="start">The Rabbis: it dies only if found</text>
+  <text x="400" y="654.5" font-size="13.5" font-weight="600" fill="#1d5e34" text-anchor="start">after atonement; here it grazes</text>
+  <text x="320" y="688" font-size="12.5" font-weight="400" fill="#475569" text-anchor="middle">The Rabbis say the same of money: it goes to the Dead Sea only if found after atonement.</text>
+  <text x="320" y="705" font-size="12.5" font-weight="400" fill="#475569" text-anchor="middle">The Gemara: the first case fits the Rabbis, but the money case seems to fit Rabbi.</text>
+</svg>
