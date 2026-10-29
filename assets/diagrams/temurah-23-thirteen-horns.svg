@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 470" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Thirteen horns in the Temple</title>
+  <rect width="640" height="470" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Thirteen horns in the Temple</text>
+  <text x="32" y="70" font-size="14" fill="#5b6b7d">Collection horns, each inscribed with what its funds were for (Shekalim 18a)</text>
+
+  <g font-size="13" fill="#1f2d3d">
+    <!-- row 1 -->
+    <rect x="32" y="92" width="135" height="58" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+    <text x="44" y="112" font-size="11" fill="#7f8fa3">1</text><text x="44" y="134" font-weight="700">New shekels</text>
+    <rect x="179" y="92" width="135" height="58" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+    <text x="191" y="112" font-size="11" fill="#7f8fa3">2</text><text x="191" y="134" font-weight="700">Old shekels</text>
+    <rect x="326" y="92" width="135" height="58" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+    <text x="338" y="112" font-size="11" fill="#7f8fa3">3</text><text x="338" y="134" font-weight="700">Pairs of birds</text>
+    <rect x="473" y="92" width="135" height="58" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+    <text x="485" y="112" font-size="11" fill="#7f8fa3">4</text><text x="485" y="128" font-weight="700">Fledglings for</text><text x="485" y="144" font-weight="700">burnt offerings</text>
+    <!-- row 2 -->
+    <rect x="32" y="162" width="184" height="58" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+    <text x="44" y="182" font-size="11" fill="#7f8fa3">5</text><text x="44" y="204" font-weight="700">Wood</text>
+    <rect x="228" y="162" width="184" height="58" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+    <text x="240" y="182" font-size="11" fill="#7f8fa3">6</text><text x="240" y="204" font-weight="700">Frankincense</text>
+    <rect x="424" y="162" width="184" height="58" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+    <text x="436" y="182" font-size="11" fill="#7f8fa3">7</text><text x="436" y="204" font-weight="700">Gold for the Ark Cover</text>
+  </g>
+  <!-- row 3: six for gift offerings -->
+  <g font-size="12.5" fill="#1e6b3a">
+    <rect x="32" y="232" width="86" height="52" rx="10" fill="#dff3e4"/><text x="44" y="250" font-size="11">8</text><text x="44" y="272" font-weight="700">Gift</text>
+    <rect x="130" y="232" width="86" height="52" rx="10" fill="#dff3e4"/><text x="142" y="250" font-size="11">9</text><text x="142" y="272" font-weight="700">Gift</text>
+    <rect x="228" y="232" width="86" height="52" rx="10" fill="#dff3e4"/><text x="240" y="250" font-size="11">10</text><text x="240" y="272" font-weight="700">Gift</text>
+    <rect x="326" y="232" width="86" height="52" rx="10" fill="#dff3e4"/><text x="338" y="250" font-size="11">11</text><text x="338" y="272" font-weight="700">Gift</text>
+    <rect x="424" y="232" width="86" height="52" rx="10" fill="#dff3e4"/><text x="436" y="250" font-size="11">12</text><text x="436" y="272" font-weight="700">Gift</text>
+    <rect x="522" y="232" width="86" height="52" rx="10" fill="#dff3e4"/><text x="534" y="250" font-size="11">13</text><text x="534" y="272" font-weight="700">Gift</text>
+  </g>
+  <text x="32" y="312" font-size="13" fill="#5b6b7d"><tspan font-weight="700" fill="#1f2d3d">The six for gift offerings</tspan> buy burnt offerings from the surplus</text>
+  <text x="32" y="330" font-size="13" fill="#5b6b7d">of funds for sin offerings and guilt offerings. Who gets their hides?</text>
+
+  <rect x="32" y="346" width="282" height="100" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="46" y="370" font-size="14" font-weight="700" fill="#1f2d3d">Rabbi Yehuda</text>
+  <text x="46" y="392" font-size="12.5" fill="#5b6b7d">The hides are not given</text>
+  <text x="46" y="410" font-size="12.5" fill="#5b6b7d">to the priests.</text>
+  <rect x="326" y="346" width="282" height="100" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="340" y="370" font-size="14" font-weight="700" fill="#1f2d3d">Rabbi Neḥemya</text>
+  <text x="340" y="386" font-size="11.5" fill="#7f8fa3">and some say Rabbi Shimon</text>
+  <text x="340" y="408" font-size="12.5" fill="#5b6b7d">Jehoiada’s teaching: the meat is for</text>
+  <text x="340" y="426" font-size="12.5" fill="#5b6b7d">God, and the hides go to the priests.</text>
+</svg>

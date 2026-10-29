@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 612" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Two versions of Rav</title>
+  <rect width="640" height="612" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Two versions of Rav</text>
+  <text x="32" y="70" font-size="14" fill="#5b6b7d">A sin offering was lost, another was designated in its stead, and the</text>
+  <text x="32" y="90" font-size="14" fill="#5b6b7d">first was found before atonement. Where do Rabbi and the Rabbis disagree?</text>
+
+  <!-- Rav Huna -->
+  <rect x="32" y="110" width="576" height="236" rx="12" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="48" y="138" font-size="16" font-weight="700" fill="#1f2d3d">Rav Huna in Rav’s name</text>
+  <text x="48" y="164" font-size="13" fill="#1f2d3d"><tspan font-weight="700">All concede:</tspan> if he took one himself and sacrificed it, the other dies.</text>
+  <text x="48" y="190" font-size="13" fill="#5b6b7d">They disagree only where he comes to consult the court:</text>
+  <rect x="48" y="202" width="266" height="92" rx="10" fill="#fbe3e1"/>
+  <text x="62" y="226" font-size="14" font-weight="700" fill="#8a2a22">Rabbi</text>
+  <text x="62" y="246" font-size="12.5" fill="#8a2a22">No ordinance for consecrated items.</text>
+  <text x="62" y="264" font-size="12.5" fill="#8a2a22">Atone with the one not lost;</text>
+  <text x="62" y="282" font-size="12.5" fill="#8a2a22">the lost one dies.</text>
+  <rect x="326" y="202" width="266" height="92" rx="10" fill="#dff3e4"/>
+  <text x="340" y="226" font-size="14" font-weight="700" fill="#1e6b3a">The Rabbis</text>
+  <text x="340" y="246" font-size="12.5" fill="#1e6b3a">An ordinance for consecrated items.</text>
+  <text x="340" y="264" font-size="12.5" fill="#1e6b3a">Atone with the lost one;</text>
+  <text x="340" y="282" font-size="12.5" fill="#1e6b3a">the one not lost grazes.</text>
+  <text x="48" y="318" font-size="12.5" fill="#5b6b7d"><tspan font-weight="700">The mishna:</tspan> both clauses follow the Rabbis; its money case is</text>
+  <text x="48" y="335" font-size="12.5" fill="#5b6b7d">one where he took one of the sums himself.</text>
+
+  <!-- Rabbi Abba -->
+  <rect x="32" y="360" width="576" height="226" rx="12" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="48" y="388" font-size="16" font-weight="700" fill="#1f2d3d">Rabbi Abba in Rav’s name</text>
+  <text x="48" y="414" font-size="13" fill="#1f2d3d"><tspan font-weight="700">All concede:</tspan> if he atoned with the one not lost, the lost one dies.</text>
+  <text x="48" y="440" font-size="13" fill="#5b6b7d">They disagree where he atoned with the lost one:</text>
+  <rect x="48" y="452" width="266" height="92" rx="10" fill="#fbe3e1"/>
+  <text x="62" y="476" font-size="14" font-weight="700" fill="#8a2a22">Rabbi</text>
+  <text x="62" y="496" font-size="12.5" fill="#8a2a22">One designated for a lost one</text>
+  <text x="62" y="514" font-size="12.5" fill="#8a2a22">is like the lost one:</text>
+  <text x="62" y="532" font-size="12.5" fill="#8a2a22">the remaining one dies.</text>
+  <rect x="326" y="452" width="266" height="92" rx="10" fill="#dff3e4"/>
+  <text x="340" y="476" font-size="14" font-weight="700" fill="#1e6b3a">The Rabbis</text>
+  <text x="340" y="496" font-size="12.5" fill="#1e6b3a">It is not like the lost one:</text>
+  <text x="340" y="514" font-size="12.5" fill="#1e6b3a">the remaining one grazes.</text>
+  <text x="48" y="568" font-size="12.5" fill="#5b6b7d"><tspan font-weight="700">The mishna:</tspan> first clause unattributed as the Rabbis, latter clause as Rabbi.</text>
+</svg>
