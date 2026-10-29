@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 452" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>The animal tithe: substitution of its name and of its body</title>
+  <rect width="640" height="452" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Two kinds of tithe substitution</text>
+  <text x="32" y="68" font-size="14" fill="#5b6b7d">Rabbi [Yehuda HaNasi], in the baraita, 13b</text>
+
+  <g font-size="14">
+    <rect x="208" y="88" width="196" height="76" rx="12" fill="#e3effd" stroke="#b9d3f0"/>
+    <text x="306" y="112" text-anchor="middle" font-weight="700" fill="#1d4f8a">Substitution of its name</text>
+    <text x="306" y="133" text-anchor="middle" font-size="12.5" fill="#33475b">the counter errs and calls</text>
+    <text x="306" y="151" text-anchor="middle" font-size="12.5" fill="#33475b">the eleventh “the tenth”</text>
+
+    <rect x="412" y="88" width="196" height="76" rx="12" fill="#fdeee0" stroke="#efcfae"/>
+    <text x="510" y="112" text-anchor="middle" font-weight="700" fill="#8a4b12">Substitution of its body</text>
+    <text x="510" y="133" text-anchor="middle" font-size="12.5" fill="#33475b">a non-sacred animal</text>
+    <text x="510" y="151" text-anchor="middle" font-size="12.5" fill="#33475b">exchanged for the tithe</text>
+
+    <rect x="32" y="176" width="576" height="64" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+    <text x="48" y="204" font-weight="700" fill="#1f2d3d">Sacrificed on</text>
+    <text x="48" y="223" font-weight="700" fill="#1f2d3d">the altar?</text>
+    <text x="306" y="204" text-anchor="middle" font-weight="700" fill="#2e7d32">Yes</text>
+    <text x="306" y="223" text-anchor="middle" font-size="12.5" fill="#5b6b7d">as a peace offering</text>
+    <text x="510" y="204" text-anchor="middle" font-weight="700" fill="#a12d22">No</text>
+    <text x="510" y="223" text-anchor="middle" font-size="12.5" fill="#5b6b7d">not sacrificed at all</text>
+
+    <rect x="32" y="250" width="576" height="64" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+    <text x="48" y="278" font-weight="700" fill="#1f2d3d">Redeemed when</text>
+    <text x="48" y="297" font-weight="700" fill="#1f2d3d">blemished?</text>
+    <text x="306" y="278" text-anchor="middle" font-weight="700" fill="#2e7d32">Yes</text>
+    <text x="306" y="297" text-anchor="middle" font-size="12.5" fill="#5b6b7d">like a peace offering</text>
+    <text x="510" y="278" text-anchor="middle" font-weight="700" fill="#a12d22">No</text>
+    <text x="510" y="297" text-anchor="middle" font-size="12.5" fill="#5b6b7d">“it shall not be redeemed”</text>
+
+    <rect x="32" y="324" width="576" height="64" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+    <text x="48" y="352" font-weight="700" fill="#1f2d3d">Takes effect on an</text>
+    <text x="48" y="371" font-weight="700" fill="#1f2d3d">unfit (blemished) animal?</text>
+    <text x="306" y="352" text-anchor="middle" font-weight="700" fill="#a12d22">No</text>
+    <text x="306" y="371" text-anchor="middle" font-size="12.5" fill="#5b6b7d">only on a fit one</text>
+    <text x="510" y="352" text-anchor="middle" font-weight="700" fill="#2e7d32">Yes</text>
+    <text x="510" y="371" text-anchor="middle" font-size="12.5" fill="#5b6b7d">on fit and unfit alike</text>
+  </g>
+
+  <text x="32" y="416" font-size="13" fill="#5b6b7d">Mistakenly called the tenth: the true tenth is the tithe, the eleventh a peace offering.</text>
+  <text x="32" y="436" font-size="13" fill="#5b6b7d">Verse for “not redeemed”: Leviticus 27:33.</text>
+</svg>

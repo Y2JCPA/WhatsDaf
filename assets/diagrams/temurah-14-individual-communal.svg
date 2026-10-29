@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 560" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Offerings of an individual and communal offerings</title>
+  <rect width="640" height="560" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Individual and communal offerings</text>
+  <text x="32" y="70" font-size="14" fill="#5b6b7d">The mishna’s differences, as Temurah 14a sets them out</text>
+
+  <g font-size="12.5" font-weight="700" fill="#7f8fa3" letter-spacing="0.6" text-anchor="middle">
+    <text x="32" y="106" text-anchor="start">THE QUESTION</text>
+    <text x="326" y="106">OF AN INDIVIDUAL</text>
+    <text x="514" y="106">COMMUNAL</text>
+  </g>
+
+  <!-- row 1 -->
+  <rect x="32" y="118" width="576" height="76" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="48" y="146" font-size="14.5" font-weight="700" fill="#1f2d3d">Non-sacred animal</text>
+  <text x="48" y="164" font-size="14.5" font-weight="700" fill="#1f2d3d">exchanged for it</text>
+  <text x="48" y="183" font-size="11.5" fill="#5b6b7d">Gemara: an animal, the primary offering</text>
+  <rect x="246" y="138" width="160" height="34" rx="17" fill="#dff3e4"/><text x="326" y="160" font-size="13.5" font-weight="700" fill="#1e6b3a" text-anchor="middle">Becomes a substitute</text>
+  <rect x="434" y="138" width="160" height="34" rx="17" fill="#eceff3"/><text x="514" y="160" font-size="13.5" font-weight="700" fill="#5b6b7d" text-anchor="middle">No substitute</text>
+
+  <!-- row 2 -->
+  <rect x="32" y="204" width="576" height="66" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="48" y="232" font-size="14.5" font-weight="700" fill="#1f2d3d">Male or female</text>
+  <text x="48" y="252" font-size="11.5" fill="#5b6b7d">Gemara: e.g., peace offerings</text>
+  <rect x="246" y="220" width="160" height="34" rx="17" fill="#dff3e4"/><text x="326" y="242" font-size="13.5" font-weight="700" fill="#1e6b3a" text-anchor="middle">Both</text>
+  <rect x="434" y="220" width="160" height="34" rx="17" fill="#eceff3"/><text x="514" y="242" font-size="13.5" font-weight="700" fill="#5b6b7d" text-anchor="middle">Males only</text>
+
+  <!-- row 3 -->
+  <rect x="32" y="280" width="576" height="96" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="48" y="310" font-size="14.5" font-weight="700" fill="#1f2d3d">Not brought at</text>
+  <text x="48" y="328" font-size="14.5" font-weight="700" fill="#1f2d3d">its time</text>
+  <g font-size="12.5" fill="#1f2d3d" text-anchor="middle">
+    <text x="326" y="306">Compensation for it,</text>
+    <text x="326" y="324">its meal offering</text>
+    <text x="326" y="342">and libations</text>
+    <text x="514" y="306">No compensation;</text>
+    <text x="514" y="324">but its meal offering and</text>
+    <text x="514" y="342">libations are compensated</text>
+    <text x="514" y="360">once it is sacrificed</text>
+  </g>
+
+  <!-- row 4 -->
+  <rect x="32" y="386" width="576" height="56" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="48" y="419" font-size="14.5" font-weight="700" fill="#1f2d3d">Shabbat and impurity</text>
+  <rect x="246" y="397" width="160" height="34" rx="17" fill="#eceff3"/><text x="326" y="419" font-size="13.5" font-weight="700" fill="#5b6b7d" text-anchor="middle">Do not override</text>
+  <rect x="434" y="397" width="160" height="34" rx="17" fill="#dff3e4"/><text x="514" y="419" font-size="13.5" font-weight="700" fill="#1e6b3a" text-anchor="middle">Override</text>
+
+  <!-- Rabbi Meir -->
+  <rect x="32" y="456" width="576" height="84" rx="10" fill="#fff6e0" stroke="#f0dca8"/>
+  <text x="48" y="482" font-size="14" font-weight="700" fill="#7a5a12">Rabbi Meir on the last row</text>
+  <text x="48" y="502" font-size="12.5" fill="#5b4a20">The High Priest’s griddle-cakes and the bull of Yom Kippur are an individual’s,</text>
+  <text x="48" y="520" font-size="12.5" fill="#5b4a20">yet they override. Rather: an offering whose time is fixed overrides them.</text>
+</svg>

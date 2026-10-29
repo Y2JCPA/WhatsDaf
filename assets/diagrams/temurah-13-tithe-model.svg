@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 448" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Rabbi Shimon: the animal tithe as the model for substitution</title>
+  <rect width="640" height="448" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Like the animal tithe</text>
+  <text x="32" y="68" font-size="14" fill="#5b6b7d">Rabbi Shimon: an offering renders a substitute only if it is…</text>
+
+  <text x="32" y="104" font-size="12.5" font-weight="700" fill="#7f8fa3" letter-spacing="0.6">LIKE THE TITHE, IT IS</text>
+  <text x="330" y="104" font-size="12.5" font-weight="700" fill="#7f8fa3" letter-spacing="0.6">THIS EXCLUDES</text>
+
+  <g font-size="14">
+    <rect x="32" y="116" width="576" height="56" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+    <circle cx="56" cy="144" r="13" fill="#e3effd"/><text x="56" y="149" text-anchor="middle" font-weight="700" fill="#1d4f8a">1</text>
+    <text x="80" y="149" font-weight="700" fill="#1f2d3d">An individual offering</text>
+    <text x="330" y="149" fill="#1f2d3d">Communal offerings</text>
+    <text x="596" y="149" text-anchor="end" font-size="12.5" fill="#5b6b7d">mishna, 13a</text>
+
+    <rect x="32" y="182" width="576" height="56" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+    <circle cx="56" cy="210" r="13" fill="#e3effd"/><text x="56" y="215" text-anchor="middle" font-weight="700" fill="#1d4f8a">2</text>
+    <text x="80" y="215" font-weight="700" fill="#1f2d3d">An offering of the altar</text>
+    <text x="330" y="205" fill="#1f2d3d">Items consecrated for</text>
+    <text x="330" y="224" fill="#1f2d3d">Temple maintenance</text>
+    <text x="596" y="224" text-anchor="end" font-size="12.5" fill="#5b6b7d">mishna, 13a</text>
+
+    <rect x="32" y="248" width="576" height="76" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+    <circle cx="56" cy="276" r="13" fill="#e3effd"/><text x="56" y="281" text-anchor="middle" font-weight="700" fill="#1d4f8a">3</text>
+    <text x="80" y="281" font-weight="700" fill="#1f2d3d">Brought as an obligation</text>
+    <text x="330" y="271" fill="#1f2d3d">A burnt offering from</text>
+    <text x="330" y="290" fill="#1f2d3d">surplus funds</text>
+    <text x="596" y="290" text-anchor="end" font-size="12.5" fill="#5b6b7d">Rava, 13b</text>
+    <text x="80" y="312" font-size="12.5" fill="#5b6b7d">A voluntary burnt offering still counts: he accepted it upon himself.</text>
+
+    <rect x="32" y="334" width="576" height="56" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+    <circle cx="56" cy="362" r="13" fill="#e3effd"/><text x="56" y="367" text-anchor="middle" font-weight="700" fill="#1d4f8a">4</text>
+    <text x="80" y="367" font-weight="700" fill="#1f2d3d">Not brought in partnership</text>
+    <text x="330" y="367" fill="#1f2d3d">Offerings of partners</text>
+    <text x="596" y="367" text-anchor="end" font-size="12.5" fill="#5b6b7d">baraita, 13a–b</text>
+  </g>
+
+  <text x="32" y="416" font-size="13" fill="#5b6b7d">Rabbi [Yehuda HaNasi]: the tithe was singled out for another reason, to teach</text>
+  <text x="32" y="434" font-size="13" fill="#5b6b7d">substitution of its name and substitution of its body.</text>
+</svg>
