@@ -1,0 +1,24 @@
+{
+  "people": {
+    "rava-miparzakya": {
+      "name": "Rava from Parzakya",
+      "he": "רבא מפרזקיא",
+      "era": "Amora · Babylonia",
+      "bio": "Babylonian Amora who put questions to Rav Ashi; some texts call him Rav Aḥa from Parzakya.",
+      "color": "#7d4e6b",
+      "initials": "רמ״פ",
+      "image": "rava-miparzakya.jpg",
+      "prompt": "A Babylonian scholar in his 40s with a dark trimmed beard and a plain sand-coloured wool mantle, leaning forward with an open hand as he asks his teacher for a source; background of a mud-brick study hall with a single oil lamp."
+    },
+    "rav-huna-bar-chinnana": {
+      "name": "Rav Huna bar Ḥinnana",
+      "he": "רב הונא בר חיננא",
+      "era": "Amora · Babylonia",
+      "bio": "Babylonian Amora who transmits teachings of Rav Naḥman.",
+      "color": "#4f7a5a",
+      "initials": "רהב״ח",
+      "image": "rav-huna-bar-chinnana.jpg",
+      "prompt": "A Babylonian sage in his 50s with a greying beard and a dark green wool mantle, repeating his teacher’s ruling with one finger raised; background of a study hall with mud-brick walls and students seated on mats."
+    }
+  }
+}

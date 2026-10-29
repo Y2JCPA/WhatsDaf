@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 652" width="640" height="652" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <rect width="640" height="652" rx="18" fill="#f3f6fb"/>
+  <text x="320" y="44" font-size="22" font-weight="700" fill="#1f2a44" text-anchor="middle">Where do Rabbi Eliezer and the Rabbis disagree?</text>
+  <text x="320" y="68" font-size="14" fill="#4a5672" text-anchor="middle">The offspring of an animal that was the object of bestiality (30b)</text>
+  <rect x="160" y="86" width="306" height="24" rx="8" fill="#fdf0d8"/>
+  <text x="313" y="102.5" font-size="12" font-weight="700" fill="#8a5a12" text-anchor="middle">THE DISPUTED CASE</text>
+  <rect x="474" y="86" width="142" height="24" rx="8" fill="#e3f1e6"/>
+  <text x="545" y="102.5" font-size="12" font-weight="700" fill="#1d5a2c" text-anchor="middle">EVERYONE AGREES</text>
+  <text x="24" y="134" font-size="12" font-weight="700" fill="#4a5672">FIRST VERSION</text>
+  <line x1="143.8" y1="130" x2="616" y2="130" stroke="#c9d3e6"/>
+  <rect x="24" y="146" width="128" height="104" rx="10" fill="#ffffff" stroke="#c9d3e6"/>
+  <text x="36" y="172" font-size="15" font-weight="700" fill="#1f2a44">Rav Naḥman</text>
+  <text x="36" y="191" font-size="11.5" fill="#6b7690">said by Rav Huna</text>
+  <text x="36" y="206" font-size="11.5" fill="#6b7690">bar Ḥinnana</text>
+  <rect x="160" y="146" width="306" height="104" rx="10" fill="#fffaf0" stroke="#ecd3a3"/>
+  <text x="172" y="168" font-size="13.5" font-weight="700" fill="#5a3a08">Pregnant, then the object of bestiality</text>
+  <text x="172" y="188" font-size="12.5" font-weight="700" fill="#9b2c22">Rabbi Eliezer: prohibited</text>
+  <text x="184" y="204" font-size="12.5" font-weight="400" fill="#1f2a44">a fetus is the thigh of its mother</text>
+  <text x="172" y="220" font-size="12.5" font-weight="700" fill="#1d5a2c">The Rabbis: permitted</text>
+  <text x="184" y="236" font-size="12.5" font-weight="400" fill="#1f2a44">a fetus is not the thigh of its mother</text>
+  <rect x="474" y="146" width="142" height="104" rx="10" fill="#f2f9f3" stroke="#b9dcc1"/>
+  <text x="486" y="168" font-size="12.5" fill="#1f2a44">Object of bestiality,</text>
+  <text x="486" y="184" font-size="12.5" fill="#1f2a44">then pregnant:</text>
+  <text x="486" y="204" font-size="13.5" font-weight="700" fill="#1d5a2c">permitted</text>
+  <rect x="24" y="260" width="128" height="104" rx="10" fill="#ffffff" stroke="#c9d3e6"/>
+  <text x="36" y="286" font-size="15" font-weight="700" fill="#1f2a44">Rava</text>
+  <rect x="160" y="260" width="306" height="104" rx="10" fill="#fffaf0" stroke="#ecd3a3"/>
+  <text x="172" y="282" font-size="13.5" font-weight="700" fill="#5a3a08">Object of bestiality, then pregnant</text>
+  <text x="172" y="302" font-size="12.5" font-weight="700" fill="#9b2c22">Rabbi Eliezer: prohibited</text>
+  <text x="184" y="318" font-size="12.5" font-weight="400" fill="#1f2a44">when this and that cause it, prohibited</text>
+  <text x="172" y="334" font-size="12.5" font-weight="700" fill="#1d5a2c">The Rabbis: permitted</text>
+  <text x="184" y="350" font-size="12.5" font-weight="400" fill="#1f2a44">when this and that cause it, permitted</text>
+  <rect x="474" y="260" width="142" height="104" rx="10" fill="#f2f9f3" stroke="#b9dcc1"/>
+  <text x="486" y="282" font-size="12.5" fill="#1f2a44">Pregnant, then the</text>
+  <text x="486" y="298" font-size="12.5" fill="#1f2a44">object of bestiality:</text>
+  <text x="486" y="318" font-size="13.5" font-weight="700" fill="#9b2c22">prohibited</text>
+  <text x="24" y="388" font-size="12" font-weight="700" fill="#4a5672">ANOTHER VERSION</text>
+  <line x1="161" y1="384" x2="616" y2="384" stroke="#c9d3e6"/>
+  <rect x="24" y="400" width="128" height="120" rx="10" fill="#ffffff" stroke="#c9d3e6"/>
+  <text x="36" y="426" font-size="15" font-weight="700" fill="#1f2a44">Rav Naḥman</text>
+  <text x="36" y="445" font-size="11.5" fill="#6b7690">said by Rav Huna</text>
+  <text x="36" y="460" font-size="11.5" fill="#6b7690">bar Ḥinnana</text>
+  <rect x="160" y="400" width="306" height="120" rx="10" fill="#fffaf0" stroke="#ecd3a3"/>
+  <text x="172" y="422" font-size="13.5" font-weight="700" fill="#5a3a08">Object of bestiality while consecrated</text>
+  <text x="172" y="442" font-size="12.5" font-weight="700" fill="#9b2c22">Rabbi Eliezer: prohibited</text>
+  <text x="184" y="458" font-size="12.5" font-weight="400" fill="#1f2a44">degradation is significant</text>
+  <text x="172" y="474" font-size="12.5" font-weight="700" fill="#1d5a2c">The Rabbis: permitted</text>
+  <text x="184" y="490" font-size="12.5" font-weight="400" fill="#1f2a44">it is not a degradation</text>
+  <rect x="474" y="400" width="142" height="120" rx="10" fill="#f2f9f3" stroke="#b9dcc1"/>
+  <text x="486" y="422" font-size="12.5" fill="#1f2a44">Object of bestiality</text>
+  <text x="486" y="438" font-size="12.5" fill="#1f2a44">while non-sacred:</text>
+  <text x="486" y="454" font-size="12.5" fill="#1f2a44">since their status</text>
+  <text x="486" y="470" font-size="12.5" fill="#1f2a44">changed,</text>
+  <text x="486" y="490" font-size="13.5" font-weight="700" fill="#1d5a2c">permitted</text>
+  <rect x="24" y="530" width="128" height="104" rx="10" fill="#ffffff" stroke="#c9d3e6"/>
+  <text x="36" y="556" font-size="15" font-weight="700" fill="#1f2a44">Rava</text>
+  <text x="36" y="575" font-size="11.5" fill="#6b7690">citing Rav Naḥman</text>
+  <rect x="160" y="530" width="306" height="104" rx="10" fill="#fffaf0" stroke="#ecd3a3"/>
+  <text x="172" y="552" font-size="13.5" font-weight="700" fill="#5a3a08">Object of bestiality while non-sacred</text>
+  <text x="172" y="572" font-size="12.5" font-weight="700" fill="#9b2c22">Rabbi Eliezer: prohibited</text>
+  <text x="184" y="588" font-size="12.5" font-weight="400" fill="#1f2a44">degradation is significant</text>
+  <text x="172" y="604" font-size="12.5" font-weight="700" fill="#1d5a2c">The Rabbis: permitted</text>
+  <text x="184" y="620" font-size="12.5" font-weight="400" fill="#1f2a44">since their status changed</text>
+  <rect x="474" y="530" width="142" height="104" rx="10" fill="#f2f9f3" stroke="#b9dcc1"/>
+  <text x="486" y="552" font-size="12.5" fill="#1f2a44">Object of bestiality</text>
+  <text x="486" y="568" font-size="12.5" fill="#1f2a44">while consecrated:</text>
+  <text x="486" y="588" font-size="13.5" font-weight="700" fill="#9b2c22">prohibited</text>
+</svg>
