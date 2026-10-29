@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 470" width="640" height="470" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+<rect x="0" y="0" width="640" height="470" rx="18" fill="#f3f6fb"/>
+<text x="320" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2937">A ger toshav working on Shabbat</text>
+<text x="320" y="70" text-anchor="middle" font-size="13.5" font-style="italic" fill="#4b5563">Labor for himself on Shabbat, in the baraita on 9a</text>
+<text x="48" y="104" font-size="12" font-weight="700" fill="#6b7280">WHO SAYS</text>
+<text x="236" y="104" font-size="12" font-weight="700" fill="#6b7280">HE WORKS AS A JEW DOES ON…</text>
+<rect x="32" y="116" width="576" height="70" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="48" y="146" font-size="15" font-weight="700" fill="#1f2937">The baraita</text>
+<text x="48" y="168" font-size="12" fill="#6b7280">first opinion</text>
+<text x="236" y="146" font-size="15" font-weight="700" fill="#7a5a12">the intermediate days of a Festival</text>
+<text x="236" y="168" font-size="12.5" fill="#374151">Rashi: for a matter that would otherwise be lost</text>
+<rect x="32" y="196" width="576" height="70" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="48" y="226" font-size="15" font-weight="700" fill="#1f2937">Rabbi Akiva</text>
+<text x="236" y="226" font-size="15" font-weight="700" fill="#7a5a12">a Festival</text>
+<text x="236" y="248" font-size="12.5" fill="#374151">Rashi: for food</text>
+<rect x="32" y="276" width="576" height="70" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+<text x="48" y="306" font-size="15" font-weight="700" fill="#1f2937">Rabbi Yosei</text>
+<text x="236" y="306" font-size="15" font-weight="700" fill="#1d5e2c">a weekday</text>
+<text x="236" y="328" font-size="12.5" fill="#374151">a <tspan font-style="italic">ger toshav</tspan>, for himself</text>
+<rect x="32" y="356" width="576" height="70" rx="10" fill="#e1f3e5" stroke="#7cbf8a"/>
+<text x="48" y="386" font-size="15" font-weight="700" fill="#1f2937">Rabbi Shimon</text>
+<text x="48" y="408" font-size="12" fill="#1d5e2c">the <tspan font-style="italic">halakha</tspan>, in one version</text>
+<text x="236" y="386" font-size="15" font-weight="700" fill="#1d5e2c">a weekday</text>
+<text x="236" y="408" font-size="12.5" fill="#374151">a <tspan font-style="italic">ger toshav</tspan> and a resident male or female slave</text>
+<text x="320" y="450" text-anchor="middle" font-size="12" fill="#4b5563">Rav Adda bar Ahava: the <tspan font-style="italic">halakha</tspan> follows Rabbi Shimon. Tosafot: for themselves, not for others.</text>
+</svg>
