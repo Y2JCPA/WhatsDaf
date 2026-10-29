@@ -1,0 +1,34 @@
+{
+  "people": {
+    "tavi": {
+      "name": "Tavi",
+      "he": "טבי",
+      "era": "Amora · Babylonia",
+      "bio": "Babylonian sage who raised a contradiction between two mishnayot before Rav Naḥman and reported Rav Sheshet’s answer to it (Temurah 34a).",
+      "color": "#6b5a2e",
+      "initials": "ט",
+      "image": "tavi.jpg",
+      "prompt": "A Babylonian scholar in his 30s with a short dark beard and a plain grey-brown wool mantle, holding up two fingers as he sets one teaching against another; background of a mud-brick study hall with an oil lamp."
+    },
+    "rav-pinchas": {
+      "name": "Rav Pineḥas",
+      "he": "רב פנחס",
+      "era": "Amora · Babylonia",
+      "bio": "Babylonian Amora who raises an objection from a baraita in the Gemara (Temurah 34a).",
+      "color": "#2e5f7a",
+      "initials": "ר״פ",
+      "image": "rav-pinchas.jpg",
+      "prompt": "A Babylonian sage in his 50s with a greying beard and a dark blue wool mantle, raising one hand as he cites a baraita in objection; background of mud-brick academy walls and oil lamps."
+    },
+    "rav-shemaya": {
+      "name": "Rav Shemaya",
+      "he": "רב שמעיה",
+      "era": "Amora · Babylonia",
+      "bio": "Babylonian Amora who explains that a baraita forbidding the ash of consecrated property speaks of the ashes removed from the altar (Temurah 34a).",
+      "color": "#5a7a2e",
+      "initials": "ר״ש",
+      "image": "rav-shemaya.jpg",
+      "prompt": "A Babylonian sage in his 50s with a full brown beard and a sand-coloured wool mantle, speaking calmly with an open palm turned upward; background of a study hall with mud-brick walls and a single oil lamp."
+    }
+  }
+}
