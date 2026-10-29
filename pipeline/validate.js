@@ -71,6 +71,12 @@ function validate(slug, daf) {
 
   for (const key of allNotes.keys()) if (!assigned.has(key)) err(`commentary note ${key} is not attached to any message`);
   for (const key of Object.keys(notes)) if (!key.startsWith('_') && !allNotes.has(key)) err(`notes.json has ${key}, which is not in the source`);
+  // The popover renders <b>, <i> and <br> in notes and escapes everything else.
+  for (const [key, en] of Object.entries(notes)) {
+    if (key.startsWith('_')) continue;
+    for (const tag of L.tagsIn(en)) if (!L.ALLOWED_TAGS.has(tag)) err(`notes.json ${key}: <${tag}> is not allowed`);
+    for (const t of ['b', 'i']) if ((en.match(new RegExp(`<${t}>`, 'g')) || []).length !== (en.match(new RegExp(`</${t}>`, 'g')) || []).length) err(`notes.json ${key}: unbalanced <${t}>`);
+  }
 
   // Completeness: every bold word of every segment appears, in order, in that segment's messages.
   let totalBold = 0, totalMissing = 0;

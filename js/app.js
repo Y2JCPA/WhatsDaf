@@ -2,6 +2,8 @@
 const $ = sel => document.querySelector(sel);
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const plain = html => { const d = document.createElement('div'); d.innerHTML = html || ''; return d.textContent.replace(/\s+/g, ' ').trim(); };
+// Commentary English may use the same tags as messages (<b>, <i>, <br>); everything else stays escaped.
+const escNote = s => esc(s).replace(/&lt;(\/?)([bi])&gt;/g, '<$1$2>').replace(/&lt;br\s*\/?&gt;/g, '<br>');
 
 // Reader state lives only in this browser.
 const store = {
@@ -362,7 +364,7 @@ function openPopover(msgId, anchorEl) {
     } else {
       const ns = groups.find(([by]) => by === tab)[1];
       body.innerHTML = ns.map(n => `<div class="note">${n.dh ? `<div class="dh" dir="rtl">${n.dh}</div>` : ''}
-        <div class="en">${esc(n.en)}</div>
+        <div class="en">${escNote(n.en)}</div>
         <details><summary>Hebrew</summary><p dir="rtl">${n.he}</p></details>
         <a href="${n.url}" target="_blank" rel="noopener">Open on Sefaria ↗</a></div>`).join('') +
         '<div class="pop-disclaimer">English is a WhatsDaf rendering of the Hebrew. Check the original for precise learning.</div>';
