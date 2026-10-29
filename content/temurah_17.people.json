@@ -1,0 +1,14 @@
+{
+  "people": {
+    "rav-adda": {
+      "name": "Rav Adda",
+      "he": "רב אדא",
+      "era": "Amora · Babylonia",
+      "bio": "Babylonian Amora cited in the Talmud by this name; on Temurah 17a he challenges Rava.",
+      "color": "#5d4037",
+      "initials": "ר״א",
+      "image": "rav-adda.jpg",
+      "prompt": "A Babylonian sage in his 40s with a dark, neatly kept beard and a sharp, questioning look, one hand raised as if pressing a point, wearing a plain wool mantle; background of mudbrick academy walls lit by oil lamps."
+    }
+  }
+}

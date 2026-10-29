@@ -1,0 +1,24 @@
+{
+  "people": {
+    "rav-ukva-bar-chama": {
+      "name": "Rav Ukva bar Ḥama",
+      "he": "רב עוקבא בר חמא",
+      "era": "Amora · Babylonia",
+      "bio": "Babylonian Amora; on this daf he raises an objection to Abaye’s explanation of Rabbi Elazar.",
+      "color": "#5c6b2e",
+      "initials": "רע״ב",
+      "image": "rav-ukva-bar-chama.jpg",
+      "prompt": "A sage in his 40s with a dark, close-trimmed beard and a plain brown wool cloak, raising one finger to press an objection; background of a Babylonian study house with mudbrick walls and oil lamps."
+    },
+    "mar-zutra-brei-derav-mari": {
+      "name": "Mar Zutra, son of Rav Mari",
+      "he": "מר זוטרא בריה דרב מרי",
+      "era": "Amora · Babylonia",
+      "bio": "Babylonian Amora, son of Rav Mari, cited here in discussion with Ravina.",
+      "color": "#7b4b8f",
+      "initials": "מז״מ",
+      "image": "mar-zutra-brei-derav-mari.jpg",
+      "prompt": "A scholar in his 30s with a short dark beard and a striped Babylonian mantle, nodding in agreement as he turns toward a colleague; background of a reed-roofed study hall beside a canal."
+    }
+  }
+}
