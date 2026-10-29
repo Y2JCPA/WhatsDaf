@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 456" width="640" height="456" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <rect x="0" y="0" width="640" height="456" rx="18" fill="#f3f6fb"/>
+  <text x="320" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2a44">Three verses that exclude a tereifa</text>
+  <text x="320" y="68" text-anchor="middle" font-size="14" font-weight="400" fill="#4a5672">The case each verse is needed for, as Rashi assigns them</text>
+  <rect x="24" y="84" width="300" height="30" rx="8" fill="#fdf0d8"/>
+  <text x="174" y="104" text-anchor="middle" font-size="12" font-weight="700" fill="#7a4a00">WHEN DID IT BECOME A TEREIFA?</text>
+  <rect x="340" y="84" width="276" height="30" rx="8" fill="#e3edf9"/>
+  <text x="478" y="104" text-anchor="middle" font-size="12" font-weight="700" fill="#1f4e79">THE VERSE</text>
+  <rect x="24" y="126" width="300" height="96" rx="10" fill="#ffffff" stroke="#d08a1e" stroke-width="1.5"/>
+  <rect x="49" y="140" width="110" height="44" rx="8" fill="#fbe3e0" stroke="#c0392b" stroke-width="1"/>
+  <text x="104" y="158" text-anchor="middle" font-size="12.5" font-weight="600" fill="#922b21">Born a</text>
+  <text x="104" y="174" text-anchor="middle" font-size="12.5" font-weight="600" font-style="italic" fill="#922b21">tereifa</text>
+  <path d="M161 162 l24 0" stroke="#7a4a00" stroke-width="1.5"/><path d="M185 162 l-5 -4 l0 8 z" fill="#7a4a00"/>
+  <rect x="189" y="140" width="110" height="44" rx="8" fill="#fef8ec" stroke="#e2c08a" stroke-width="1"/>
+  <text x="244" y="160" text-anchor="middle" font-size="12.5" font-weight="600" fill="#7a4a00">Consecrated</text>
+  <text x="244" y="176" text-anchor="middle" font-size="10.5" font-weight="400" fill="#8a6d3b" font-style="italic">implied</text>
+  <text x="174" y="206" text-anchor="middle" font-size="12.5" font-weight="400" fill="#4a5672" font-style="italic">never had a period of fitness</text>
+  <path d="M326 174 l10 0" stroke="#8aa0c0" stroke-width="1.5"/>
+  <rect x="340" y="126" width="276" height="96" rx="10" fill="#f2f7fd" stroke="#c9d3e6" stroke-width="1"/>
+  <text x="478" y="150" text-anchor="middle" font-size="14" font-weight="700" fill="#1f4e79">“From the well-watered</text>
+  <text x="478" y="168" text-anchor="middle" font-size="14" font-weight="700" fill="#1f4e79">pastures of Israel”</text>
+  <text x="478" y="188" text-anchor="middle" font-size="12" font-weight="400" fill="#4a5672">Ezekiel 45:15</text>
+  <text x="478" y="208" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2a44" font-style="italic">only what is permitted to Israel</text>
+  <rect x="24" y="234" width="300" height="96" rx="10" fill="#ffffff" stroke="#d08a1e" stroke-width="1.5"/>
+  <rect x="38" y="248" width="82" height="44" rx="8" fill="#fef8ec" stroke="#e2c08a" stroke-width="1"/>
+  <text x="79" y="274.5" text-anchor="middle" font-size="12.5" font-weight="600" fill="#7a4a00">Born fit</text>
+  <path d="M122 270 l7 0" stroke="#7a4a00" stroke-width="1.5"/><path d="M129 270 l-5 -4 l0 8 z" fill="#7a4a00"/>
+  <rect x="133" y="248" width="82" height="44" rx="8" fill="#fbe3e0" stroke="#c0392b" stroke-width="1"/>
+  <text x="174" y="266" text-anchor="middle" font-size="12.5" font-weight="600" fill="#922b21">Became a</text>
+  <text x="174" y="282" text-anchor="middle" font-size="12.5" font-weight="600" font-style="italic" fill="#922b21">tereifa</text>
+  <path d="M217 270 l7 0" stroke="#7a4a00" stroke-width="1.5"/><path d="M224 270 l-5 -4 l0 8 z" fill="#7a4a00"/>
+  <rect x="228" y="248" width="82" height="44" rx="8" fill="#fef8ec" stroke="#e2c08a" stroke-width="1"/>
+  <text x="269" y="274.5" text-anchor="middle" font-size="12.5" font-weight="600" fill="#7a4a00">Consecrated</text>
+  <text x="174" y="314" text-anchor="middle" font-size="12.5" font-weight="400" fill="#4a5672" font-style="italic">had a period of fitness</text>
+  <path d="M326 282 l10 0" stroke="#8aa0c0" stroke-width="1.5"/>
+  <rect x="340" y="234" width="276" height="96" rx="10" fill="#f2f7fd" stroke="#c9d3e6" stroke-width="1"/>
+  <text x="478" y="258" text-anchor="middle" font-size="14" font-weight="700" fill="#1f4e79">“Whatsoever passes</text>
+  <text x="478" y="276" text-anchor="middle" font-size="14" font-weight="700" fill="#1f4e79">under the rod”</text>
+  <text x="478" y="296" text-anchor="middle" font-size="12" font-weight="400" fill="#4a5672">Leviticus 27:32 · animal tithe</text>
+  <text x="478" y="316" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2a44" font-style="italic">excluding a tereifa, which cannot pass</text>
+  <rect x="24" y="342" width="300" height="96" rx="10" fill="#ffffff" stroke="#d08a1e" stroke-width="1.5"/>
+  <rect x="49" y="356" width="110" height="44" rx="8" fill="#fef8ec" stroke="#e2c08a" stroke-width="1"/>
+  <text x="104" y="382.5" text-anchor="middle" font-size="12.5" font-weight="600" fill="#7a4a00">Consecrated</text>
+  <path d="M161 378 l24 0" stroke="#7a4a00" stroke-width="1.5"/><path d="M185 378 l-5 -4 l0 8 z" fill="#7a4a00"/>
+  <rect x="189" y="356" width="110" height="44" rx="8" fill="#fbe3e0" stroke="#c0392b" stroke-width="1"/>
+  <text x="244" y="374" text-anchor="middle" font-size="12.5" font-weight="600" fill="#922b21">Became a</text>
+  <text x="244" y="390" text-anchor="middle" font-size="12.5" font-weight="600" font-style="italic" fill="#922b21">tereifa</text>
+  <text x="174" y="422" text-anchor="middle" font-size="12.5" font-weight="400" fill="#4a5672" font-style="italic">fit when it was consecrated</text>
+  <path d="M326 390 l10 0" stroke="#8aa0c0" stroke-width="1.5"/>
+  <rect x="340" y="342" width="276" height="96" rx="10" fill="#f2f7fd" stroke="#c9d3e6" stroke-width="1"/>
+  <text x="478" y="366" text-anchor="middle" font-size="14" font-weight="700" fill="#1f4e79">“If his offering is a burnt</text>
+  <text x="478" y="384" text-anchor="middle" font-size="14" font-weight="700" fill="#1f4e79">offering of the herd”</text>
+  <text x="478" y="404" text-anchor="middle" font-size="12" font-weight="400" fill="#4a5672">Leviticus 1:3</text>
+  <text x="478" y="424" text-anchor="middle" font-size="12.5" font-weight="400" fill="#1f2a44" font-style="italic">no need to state it: to exclude a tereifa</text>
+</svg>

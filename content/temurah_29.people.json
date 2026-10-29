@@ -1,0 +1,74 @@
+{
+  "people": {
+    "rav-tovi-bar-mattana": {
+      "name": "Rav Tovi bar Mattana",
+      "he": "רב טובי בר מתנה",
+      "era": "Amora · Babylonia",
+      "bio": "Babylonian Amora who transmits Rabbi Yoshiya’s source for the law of set-aside (Temurah 29a).",
+      "color": "#5b6f8a",
+      "initials": "רט״ב",
+      "image": "rav-tovi-bar-mattana.jpg",
+      "prompt": "A sage in his 50s with a greying beard and a plain dark wool mantle, reciting a teaching he received with one hand resting on an open scroll; background of a Babylonian study hall with mud-brick walls and an oil lamp."
+    },
+    "rabbi-yoshiya-amora": {
+      "name": "Rabbi Yoshiya",
+      "he": "רבי יאשיה",
+      "era": "Amora",
+      "bio": "Amora, not the Tanna of the same name, whose derivation of the law of set-aside from “you shall safeguard” Rav Tovi bar Mattana transmits (Temurah 29a).",
+      "color": "#8a5a2b",
+      "initials": "ר״י",
+      "image": "rabbi-yoshiya-amora.jpg",
+      "prompt": "A sage in his 60s with a long white beard and a cream wool mantle, pointing to a line of an open scroll as he expounds a verse; background of a study hall with pale stone walls and a lamp in a niche."
+    },
+    "rava-bar-rav-adda": {
+      "name": "Rava bar Rav Adda",
+      "he": "רבא בר רב אדא",
+      "era": "Amora · Babylonia",
+      "bio": "Babylonian Amora who transmits Rav Yitzḥak’s ruling on how long an animal set aside for idol worship stays prohibited (Temurah 29a).",
+      "color": "#6b4f8a",
+      "initials": "רבר״א",
+      "image": "rava-bar-rav-adda.jpg",
+      "prompt": "A sage in his 40s with a short dark beard and a russet wool mantle, repeating a ruling with a finger raised as he names its source; background of a Babylonian study hall with mud-brick walls and seated students."
+    },
+    "rav-yitzchak": {
+      "name": "Rav Yitzḥak",
+      "he": "רב יצחק",
+      "era": "Amora",
+      "bio": "Amora cited in the Talmud by this name alone.",
+      "color": "#7a5c3e",
+      "initials": "ר״י",
+      "image": "rav-yitzchak.jpg",
+      "prompt": "A sage in his 50s with a greying beard and a plain brown wool mantle, answering a colleague with a calm open hand; background of a study hall with stone walls and an oil lamp."
+    },
+    "baha": {
+      "name": "Baha",
+      "he": "בהא",
+      "era": "Amora · Babylonia and the Land of Israel",
+      "bio": "Amora who went up from Babylonia to the Land of Israel and transmits a ruling of Rabbi Yoḥanan on set-aside (Temurah 29a).",
+      "color": "#2f7d6b",
+      "initials": "ב",
+      "image": "baha.jpg",
+      "prompt": "A sage in his 40s with a dark beard and a travel-worn wool mantle over a scholar’s robe, explaining a teaching with both hands open; background of a study hall in the Land of Israel with pale stone walls and a window onto hills."
+    },
+    "rabbi-chananya-terita": {
+      "name": "Rabbi Ḥananya Terita",
+      "he": "רב חנניא טריטאה",
+      "era": "Amora",
+      "bio": "Amora who taught a ruling on set-aside before Rabbi Yoḥanan and explained it himself (Temurah 29a).",
+      "color": "#8a6d1f",
+      "initials": "רח״ט",
+      "image": "rabbi-chananya-terita.jpg",
+      "prompt": "A sage in his 40s with a trimmed dark beard and a plain grey wool mantle, reciting a teaching from memory before his teacher with one hand keeping its rhythm; background of a study hall in Tiberias with stone arches."
+    },
+    "rav-chanan-bar-rav-chisda": {
+      "name": "Rav Ḥanan bar Rav Ḥisda",
+      "he": "רב חנן בר רב חסדא",
+      "era": "Amora · Babylonia",
+      "bio": "Babylonian Amora, son of Rav Ḥisda.",
+      "color": "#3f6f9a",
+      "initials": "רחב״ח",
+      "image": "rav-chanan-bar-rav-chisda.jpg",
+      "prompt": "A sage in his 40s with a dark beard and a deep blue wool mantle, resolving a contradiction with two fingers raised to set two cases apart; background of a Babylonian study hall with mud-brick walls and a single oil lamp."
+    }
+  }
+}
