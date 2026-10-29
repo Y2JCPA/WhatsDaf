@@ -541,3 +541,23 @@ Same output spec and shared style as above. Save to `assets/portraits/<file>`.
 | `tavi.jpg` | Tavi, Amora · Babylonia | A Babylonian scholar in his 30s with a short dark beard and a plain grey-brown wool mantle, holding up two fingers as he sets one teaching against another; background of a mud-brick study hall with an oil lamp. |
 | `rav-pinchas.jpg` | Rav Pineḥas, Amora · Babylonia | A Babylonian sage in his 50s with a greying beard and a dark blue wool mantle, raising one hand as he cites a baraita in objection; background of mud-brick academy walls and oil lamps. |
 | `rav-shemaya.jpg` | Rav Shemaya, Amora · Babylonia | A Babylonian sage in his 50s with a full brown beard and a sand-coloured wool mantle, speaking calmly with an open palm turned upward; background of a study hall with mud-brick walls and a single oil lamp. |
+
+---
+
+## Round 29: people needed for Keritot 2–6
+
+Same output spec and shared style as above. Save to `assets/portraits/<file>`.
+
+| File | Person | Add to the shared style |
+|---|---|---|
+| `rav-beivai-bar-abaye.jpg` | Rav Beivai bar Abaye, Amora · Babylonia, 4th century | A Babylonian scholar in his 40s with a dark, neatly trimmed beard and a russet wool mantle, leaning forward with one finger raised as he presses an objection; background of a mud-brick study hall lit by an oil lamp. |
+| `rabbi-yona.jpg` | Rabbi Yona, Amora · Land of Israel, 4th century | A sage of the Land of Israel in his 60s with a long white beard and a pale blue linen mantle, pointing to a verse in an open scroll; background of a stone study hall in Tiberias with the lake glimpsed through an arched window. |
+| `bar-tautni.jpg` | Bar Ta’utni, Sage · cited by Reish Lakish | A quiet sage in his 50s with a greying beard and a plain brown wool mantle, with a reserved, thoughtful expression, as if offering a careful explanation; background of limestone arches and olive trees. |
+| `rabbi-illa.jpg` | Rabbi Illa, Amora · Land of Israel, 3rd–4th century | An earnest scholar of the Land of Israel in his 50s with a dark beard touched with grey and a sea-green linen mantle, with a careful, attentive expression; background of limestone arches and olive trees. |
+| `zavda-bar-levi.jpg` | Zavda bar Levi, Sage · cited by Rabbi Yoḥanan | A composed sage in his 50s with a greying brown beard and a plain undyed wool mantle, reciting a teaching from memory with one hand lifted; background of limestone arches in a Galilean study hall. |
+| `rabbi-simai.jpg` | Rabbi Simai, Tanna · Land of Israel, late 2nd–early 3rd century | A thoughtful sage of the Land of Israel in his 60s with a full grey beard and a deep green wool mantle, a scroll open in his hands as he compares two verses; background of a stone study hall with olive trees through the window. |
+| `rabbi-yitzchak-bar-avdimi.jpg` | Rabbi Yitzḥak bar Avdimi, Amora | A patient teacher in his 60s with a long greying beard and a russet mantle, leaning toward a younger student as he explains a point; background of a mud-brick study hall lit by an oil lamp. |
+| `rav-menashya.jpg` | Rav Menashya, Amora · Babylonia | A Babylonian scholar in his 40s with a short dark beard and a teal wool mantle, tracing a shape in the air with one finger as he explains; background of a mud-brick academy with reed mats and an oil lamp. |
+| `rav-chana-bar-bizna.jpg` | Rav Ḥana bar Bizna, Amora · Babylonia | A Babylonian sage in his 50s with a full dark beard flecked with grey and an olive-brown wool mantle, gesturing gently as he passes on his teacher’s words; background of a mud-brick study hall with an oil lamp. |
+| `rabbi-shimon-chasida.jpg` | Rabbi Shimon Ḥasida, Amora · Land of Israel | A gentle sage in his 60s with a long grey beard and a plain undyed linen mantle, with a humble, kindly expression, hands folded; background of limestone arches and olive trees. |
+| `rav-ika-brei-derav-ami.jpg` | Rav Ika, son of Rav Ami, Amora · Babylonia | A Babylonian scholar in his 40s with a short brown beard and a plum-coloured wool mantle, raising a finger as he links two rulings to their source; background of a mud-brick study hall lit by an oil lamp. |

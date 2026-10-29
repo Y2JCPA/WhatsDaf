@@ -2015,6 +2015,86 @@
    },
    "messages": 50,
    "members": 14
+  },
+  {
+   "masechet": "keritot",
+   "daf": 2,
+   "title": "Keritot 2",
+   "he": "כריתות ב׳",
+   "preview": {
+    "from": "mishnah",
+    "text": "There are thirty-six cases in the Torah with regard to which one who performs a prohibited action intentionally is liabl"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "They require it…"
+   },
+   "messages": 88,
+   "members": 12
+  },
+  {
+   "masechet": "keritot",
+   "daf": 3,
+   "title": "Keritot 3",
+   "he": "כריתות ג׳",
+   "preview": {
+    "from": "rabbi-elazar",
+    "text": "Anywhere you find two different prohibitions, and only one punishment of karet is stated for both of them, you should di"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "According to the opinion of Rabbi Yoḥanan, who says the bending of one’s height is considered an action, the twisting of"
+   },
+   "messages": 118,
+   "members": 16
+  },
+  {
+   "masechet": "keritot",
+   "daf": 4,
+   "title": "Keritot 4",
+   "he": "כריתות ד׳",
+   "preview": {
+    "from": "rava",
+    "text": "The case of one who blasphemes is different, since it is primarily in the heart. In other words, the transgression of bl"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "If the halakha were derived only from that verse, i.e., “And you shall eat before the Lord your God,” I would say this s"
+   },
+   "messages": 117,
+   "members": 16
+  },
+  {
+   "masechet": "keritot",
+   "daf": 5,
+   "title": "Keritot 5",
+   "he": "כריתות ה׳",
+   "preview": {
+    "from": "rabbi-yitzchak",
+    "text": "One who eats bread, parched grain, and fresh stalks before the omer offering has been sacrificed is flogged with three s"
+   },
+   "last": {
+    "from": "rav-ami",
+    "text": "This one who wishes to leave on a journey and wants to know whether he will return to his home should enter a dark house"
+   },
+   "messages": 121,
+   "members": 21
+  },
+  {
+   "masechet": "keritot",
+   "daf": 6,
+   "title": "Keritot 6",
+   "he": "כריתות ו׳",
+   "preview": {
+    "from": "rav-ami",
+    "text": "the reflection [bavua] of a reflection of his reflection he shall know that he will return and come to his home."
+   },
+   "last": {
+    "from": "rav-ika-brei-derav-ami",
+    "text": "And Rabbi Meir and Rabbi Yehuda both follow their lines of reasoning, as it is taught in a mishna (Terumot 7:2):"
+   },
+   "messages": 101,
+   "members": 25
   }
  ]
 }
