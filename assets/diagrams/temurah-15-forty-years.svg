@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 470" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Forty years to Absalom’s rebellion</title>
+  <rect width="640" height="470" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Forty years from the request for a king</text>
+  <text x="32" y="70" font-size="14" fill="#5b6b7d">From the death of Eli to Absalom’s rebellion, counting from the year</text>
+  <text x="32" y="90" font-size="14" fill="#5b6b7d">the people asked for a king, Samuel’s tenth. Two readings in Tosafot:</text>
+
+  <!-- Reading A -->
+  <text x="32" y="130" font-size="15" font-weight="700" fill="#1f2d3d">“Thirty-six that David reigned” <tspan font-weight="400" fill="#5b6b7d">(Tosafot’s reading)</tspan></text>
+  <g font-size="12.5" text-anchor="middle">
+    <rect x="32" y="144" width="112" height="56" rx="8" fill="#eceff3"/>
+    <text x="88" y="168" font-weight="700" fill="#5b6b7d">Samuel alone</text>
+    <text x="88" y="186" fill="#5b6b7d">years 1–9</text>
+    <rect x="148" y="144" width="70" height="56" rx="8" fill="#dbe7fb"/>
+    <text x="183" y="168" font-weight="700" fill="#1f3f73">Samuel</text>
+    <text x="183" y="186" fill="#1f3f73">year 10</text>
+    <rect x="222" y="144" width="74" height="56" rx="8" fill="#e6def7"/>
+    <text x="259" y="168" font-weight="700" fill="#4a2f80">Saul and</text>
+    <text x="259" y="186" fill="#4a2f80">Samuel: 1</text>
+    <rect x="300" y="144" width="74" height="56" rx="8" fill="#e6def7"/>
+    <text x="337" y="168" font-weight="700" fill="#4a2f80">Saul</text>
+    <text x="337" y="186" fill="#4a2f80">alone: 2</text>
+    <rect x="378" y="144" width="230" height="56" rx="8" fill="#dff3e4"/>
+    <text x="493" y="168" font-weight="700" fill="#1e6b3a">David</text>
+    <text x="493" y="186" fill="#1e6b3a">36 years, to the rebellion</text>
+  </g>
+  <g font-size="12" fill="#7f8fa3" text-anchor="middle">
+    <text x="88" y="218">not counted</text>
+    <text x="183" y="218">the request</text>
+  </g>
+  <rect x="148" y="228" width="460" height="30" rx="15" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="378" y="248" font-size="13.5" font-weight="700" fill="#1f2d3d" text-anchor="middle">1 + 1 + 2 + 36 = 40</text>
+
+  <!-- Reading B -->
+  <text x="32" y="298" font-size="15" font-weight="700" fill="#1f2d3d">“Thirty-seven that David reigned” <tspan font-weight="400" fill="#5b6b7d">(some books; the printed text)</tspan></text>
+  <g font-size="12.5" text-anchor="middle">
+    <rect x="32" y="312" width="186" height="56" rx="8" fill="#eceff3"/>
+    <text x="125" y="336" font-weight="700" fill="#5b6b7d">Samuel alone</text>
+    <text x="125" y="354" fill="#5b6b7d">years 1–10</text>
+    <rect x="222" y="312" width="152" height="56" rx="8" fill="#e6def7"/>
+    <text x="298" y="336" font-weight="700" fill="#4a2f80">Saul</text>
+    <text x="298" y="354" fill="#4a2f80">3 years</text>
+    <rect x="378" y="312" width="230" height="56" rx="8" fill="#dff3e4"/>
+    <text x="493" y="336" font-weight="700" fill="#1e6b3a">David</text>
+    <text x="493" y="354" fill="#1e6b3a">37 years, to the rebellion</text>
+  </g>
+  <text x="125" y="386" font-size="12" fill="#7f8fa3" text-anchor="middle">not counted, even year 10</text>
+  <rect x="222" y="396" width="386" height="30" rx="15" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="415" y="416" font-size="13.5" font-weight="700" fill="#1f2d3d" text-anchor="middle">3 + 37 = 40</text>
+
+  <text x="32" y="452" font-size="12" fill="#5b6b7d">Eli’s death to David’s reign: the Ark’s 20 years in Kiriath-jearim, less David’s 7 in Hebron = 13.</text>
+</svg>

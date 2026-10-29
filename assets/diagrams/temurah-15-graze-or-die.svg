@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 388" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Rabbi Yehuda: graze or die?</title>
+  <rect width="640" height="388" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Rabbi Yehuda: graze or die?</text>
+  <text x="32" y="70" font-size="14" fill="#5b6b7d">A sin offering was lost, another was separated in its place, and the</text>
+  <text x="32" y="90" font-size="14" fill="#5b6b7d">first was found. The baraita has him say “graze,” the mishna “die.”</text>
+
+  <g font-size="12.5" font-weight="700" fill="#7f8fa3" letter-spacing="0.6">
+    <text x="196" y="126">BARAITA: “GRAZE”</text>
+    <text x="420" y="126">MISHNA: “DIE”</text>
+  </g>
+
+  <!-- Answer 1 -->
+  <rect x="32" y="138" width="576" height="108" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="48" y="166" font-size="14.5" font-weight="700" fill="#1f2d3d">First answer</text>
+  <text x="48" y="186" font-size="12" fill="#5b6b7d">Do not reverse</text>
+  <text x="48" y="202" font-size="12" fill="#5b6b7d">the names</text>
+  <rect x="188" y="152" width="200" height="80" rx="10" fill="#dff3e4"/>
+  <text x="200" y="174" font-size="13" font-weight="700" fill="#1e6b3a">Lost at the separation</text>
+  <text x="200" y="194" font-size="12.5" fill="#1e6b3a">found before the second</text>
+  <text x="200" y="212" font-size="12.5" fill="#1e6b3a">was sacrificed</text>
+  <rect x="400" y="152" width="196" height="80" rx="10" fill="#fbe3e1"/>
+  <text x="412" y="174" font-size="13" font-weight="700" fill="#8a2a22">Lost at the atonement</text>
+  <text x="412" y="194" font-size="12.5" fill="#8a2a22">still lost when the second</text>
+  <text x="412" y="212" font-size="12.5" fill="#8a2a22">was sacrificed</text>
+
+  <!-- Answer 2 -->
+  <rect x="32" y="256" width="576" height="108" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="48" y="284" font-size="14.5" font-weight="700" fill="#1f2d3d">Second answer</text>
+  <text x="48" y="304" font-size="12" fill="#5b6b7d">Both: lost only</text>
+  <text x="48" y="320" font-size="12" fill="#5b6b7d">at the separation</text>
+  <rect x="188" y="270" width="200" height="80" rx="10" fill="#dff3e4"/>
+  <text x="200" y="292" font-size="13" font-weight="700" fill="#1e6b3a">As the Rabbis hold</text>
+  <text x="200" y="312" font-size="12.5" fill="#1e6b3a">it dies only if not yet found</text>
+  <text x="200" y="330" font-size="12.5" fill="#1e6b3a">when the second was offered</text>
+  <rect x="400" y="270" width="196" height="80" rx="10" fill="#fbe3e1"/>
+  <text x="412" y="292" font-size="13" font-weight="700" fill="#8a2a22">As Rabbi holds (22b)</text>
+  <text x="412" y="312" font-size="12.5" fill="#8a2a22">it dies even if found</text>
+  <text x="412" y="330" font-size="12.5" fill="#8a2a22">before then</text>
+
+</svg>
