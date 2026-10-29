@@ -1,0 +1,14 @@
+{
+  "people": {
+    "rabbi-yitzchak-berabbi-yosei": {
+      "name": "Rabbi Yitzḥak son of Rabbi Yosei",
+      "he": "רבי יצחק ברבי יוסי",
+      "era": "Amora",
+      "bio": "Amora who transmits Rabbi Yoḥanan’s ruling on two sanctities stated one after the other (Temurah 26a).",
+      "color": "#5d6d2b",
+      "initials": "ריב״י",
+      "image": "rabbi-yitzchak-berabbi-yosei.jpg",
+      "prompt": "A sage in his 40s with a short dark beard and a plain grey wool mantle, repeating a teaching he received with a finger raised as he names its source; background of a study hall in the Land of Israel with pale stone walls and an oil lamp in a niche."
+    }
+  }
+}

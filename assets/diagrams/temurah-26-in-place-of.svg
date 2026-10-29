@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 524" width="640" height="524" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <rect width="640" height="524" rx="18" fill="#f3f6fb"/>
+  <text x="320" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2a44">Substitution or desacralization?</text>
+  <text x="320" y="68" text-anchor="middle" font-size="14" fill="#4a5672">One non-sacred animal set beside a consecrated one, and four expressions</text>
+  <rect x="236" y="84" width="196" height="40" rx="8" fill="#fdf0d8"/><text x="334" y="100" text-anchor="middle" font-size="12" font-weight="700" fill="#7a4a00">THE MISHNA</text><text x="334" y="116" text-anchor="middle" font-size="11.5" fill="#7a4a00">a consecrated offering</text>
+  <rect x="444" y="84" width="172" height="40" rx="8" fill="#e3edf9"/><text x="530" y="100" text-anchor="middle" font-size="12" font-weight="700" fill="#1f4e79">THE BARAITA</text><text x="530" y="116" text-anchor="middle" font-size="11.5" fill="#1f4e79">Temple maintenance property</text>
+  <rect x="24" y="134" width="200" height="56" rx="10" fill="#ffffff" stroke="#d08a1e" stroke-width="2"/>
+  <text x="36" y="158.2" text-anchor="start" font-size="13.5" font-weight="600" fill="#1f2a44">“This is in place of</text>
+  <text x="36" y="175.2" text-anchor="start" font-size="13.5" font-weight="600" fill="#1f2a44">[<tspan font-style="italic">taḥat</tspan>] that”</text>
+  <rect x="236" y="134" width="196" height="56" rx="10" fill="#fef8ec"/>
+  <text x="334" y="166.6" text-anchor="middle" font-size="13" font-weight="600" fill="#7a4a00">A substitute</text>
+  <rect x="444" y="134" width="172" height="56" rx="10" fill="#f2f7fd"/>
+  <text x="530" y="158.1" text-anchor="middle" font-size="13" font-weight="400" fill="#1f4e79">His statement takes</text>
+  <text x="530" y="175.1" text-anchor="middle" font-size="13" font-weight="400" fill="#1f4e79">effect: desacralized</text>
+  <rect x="24" y="200" width="200" height="56" rx="10" fill="#ffffff" stroke="#c9d3e6" stroke-width="1"/>
+  <text x="36" y="232.7" text-anchor="start" font-size="13.5" font-weight="600" fill="#1f2a44">“The substitute of that”</text>
+  <rect x="236" y="200" width="196" height="56" rx="10" fill="#fef8ec"/>
+  <text x="334" y="232.6" text-anchor="middle" font-size="13" font-weight="600" fill="#7a4a00">A substitute</text>
+  <rect x="444" y="200" width="172" height="56" rx="10" fill="#f2f7fd"/>
+  <text x="530" y="224.1" text-anchor="middle" font-size="13" font-weight="400" fill="#1f4e79">He has not said</text>
+  <text x="530" y="241.1" text-anchor="middle" font-size="13" font-weight="400" fill="#1f4e79">anything</text>
+  <rect x="24" y="266" width="200" height="56" rx="10" fill="#ffffff" stroke="#c9d3e6" stroke-width="1"/>
+  <text x="36" y="298.7" text-anchor="start" font-size="13.5" font-weight="600" fill="#1f2a44">“The exchange for that”</text>
+  <rect x="236" y="266" width="196" height="56" rx="10" fill="#fef8ec"/>
+  <text x="334" y="298.6" text-anchor="middle" font-size="13" font-weight="600" fill="#7a4a00">A substitute</text>
+  <rect x="444" y="266" width="172" height="56" rx="10" fill="#f2f7fd"/>
+  <text x="530" y="290.1" text-anchor="middle" font-size="13" font-weight="400" fill="#1f4e79">He has not said</text>
+  <text x="530" y="307.1" text-anchor="middle" font-size="13" font-weight="400" fill="#1f4e79">anything</text>
+  <rect x="24" y="332" width="200" height="90" rx="10" fill="#ffffff" stroke="#c9d3e6" stroke-width="1"/>
+  <text x="36" y="373.2" text-anchor="start" font-size="13.5" font-weight="600" fill="#1f2a44">“This is desacralized</text>
+  <text x="36" y="390.2" text-anchor="start" font-size="13.5" font-weight="600" fill="#1f2a44">onto that”</text>
+  <rect x="236" y="332" width="196" height="90" rx="10" fill="#fef8ec"/>
+  <text x="334" y="356.1" text-anchor="middle" font-size="13" font-weight="400" fill="#7a4a00">Not a substitute; if the</text>
+  <text x="334" y="373.1" text-anchor="middle" font-size="13" font-weight="400" fill="#7a4a00">consecrated animal was</text>
+  <text x="334" y="390.1" text-anchor="middle" font-size="13" font-weight="400" fill="#7a4a00">blemished, it is desacralized,</text>
+  <text x="334" y="407.1" text-anchor="middle" font-size="13" font-weight="400" fill="#7a4a00">with an appraisal of value</text>
+  <rect x="444" y="332" width="172" height="90" rx="10" fill="#f2f7fd"/>
+  <text x="530" y="373.1" text-anchor="middle" font-size="13" font-weight="400" fill="#1f4e79">His statement takes</text>
+  <text x="530" y="390.1" text-anchor="middle" font-size="13" font-weight="400" fill="#1f4e79">effect: desacralized</text>
+  <rect x="24" y="440" width="592" height="62" rx="12" fill="#ffffff" stroke="#d08a1e"/>
+  <text x="320" y="465" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1f2a44">Abaye: “in place of” is found both ways,</text>
+  <text x="320" y="485" text-anchor="middle" font-size="13" fill="#4a5672">as a term of associating [substitution] and as a term of desacralization</text>
+</svg>
