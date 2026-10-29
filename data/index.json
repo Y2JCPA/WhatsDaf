@@ -2095,6 +2095,86 @@
    },
    "messages": 101,
    "members": 25
+  },
+  {
+   "masechet": "keritot",
+   "daf": 7,
+   "title": "Keritot 7",
+   "he": "כריתות ז׳",
+   "preview": {
+    "from": "rabbi-meir",
+    "text": "With regard to the daughter of a priest who married an Israelite and then unwittingly partook of teruma, she pays the pr"
+   },
+   "last": {
+    "from": "mishnah",
+    "text": "And as for the ritual impurity status of the blood, i.e., Beit Hillel’s opinion that the two time periods are equal with"
+   },
+   "messages": 110,
+   "members": 21
+  },
+  {
+   "masechet": "keritot",
+   "daf": 8,
+   "title": "Keritot 8",
+   "he": "כריתות ח׳",
+   "preview": {
+    "from": "baraita",
+    "text": "The verse states: “And when the days of her purification are fulfilled, for a son or for a daughter” (Leviticus 12:6). T"
+   },
+   "last": {
+    "from": "baraita",
+    "text": "From where is it derived to include the option of the bird offering instead of an animal? The verse states: “An offering"
+   },
+   "messages": 86,
+   "members": 18
+  },
+  {
+   "masechet": "keritot",
+   "daf": 9,
+   "title": "Keritot 9",
+   "he": "כריתות ט׳",
+   "preview": {
+    "from": "baraita",
+    "text": "One might have thought that I include as an option even a meal offering, which would not be entirely consumed on the alt"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "§ A dilemma was raised before the Sages:"
+   },
+   "messages": 112,
+   "members": 17
+  },
+  {
+   "masechet": "keritot",
+   "daf": 10,
+   "title": "Keritot 10",
+   "he": "כריתות י׳",
+   "preview": {
+    "from": "rav-huna-misura",
+    "text": "Come and hear a proof from a baraita:"
+   },
+   "last": {
+    "from": "mishnah",
+    "text": "This is a stringency that the Torah imposed with regard to the maidservant relative to other individuals with whom relat"
+   },
+   "messages": 74,
+   "members": 9
+  },
+  {
+   "masechet": "keritot",
+   "daf": 11,
+   "title": "Keritot 11",
+   "he": "כריתות י״א",
+   "preview": {
+    "from": "mishnah",
+    "text": "That the Torah established her status so that the one who engages in intercourse with her intentionally is like the one "
+   },
+   "last": {
+    "from": "gemara",
+    "text": "What are we dealing with, in the case where he is informed by others? If we say that it is referring to two witnesses wh"
+   },
+   "messages": 89,
+   "members": 17
   }
  ]
 }

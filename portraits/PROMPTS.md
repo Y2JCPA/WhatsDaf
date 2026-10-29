@@ -561,3 +561,20 @@ Same output spec and shared style as above. Save to `assets/portraits/<file>`.
 | `rav-chana-bar-bizna.jpg` | Rav Ḥana bar Bizna, Amora · Babylonia | A Babylonian sage in his 50s with a full dark beard flecked with grey and an olive-brown wool mantle, gesturing gently as he passes on his teacher’s words; background of a mud-brick study hall with an oil lamp. |
 | `rabbi-shimon-chasida.jpg` | Rabbi Shimon Ḥasida, Amora · Land of Israel | A gentle sage in his 60s with a long grey beard and a plain undyed linen mantle, with a humble, kindly expression, hands folded; background of limestone arches and olive trees. |
 | `rav-ika-brei-derav-ami.jpg` | Rav Ika, son of Rav Ami, Amora · Babylonia | A Babylonian scholar in his 40s with a short brown beard and a plum-coloured wool mantle, raising a finger as he links two rulings to their source; background of a mud-brick study hall lit by an oil lamp. |
+
+---
+
+## Round 30: people needed for Keritot 7–11
+
+Same output spec and shared style as above. Save to `assets/portraits/<file>`.
+
+| File | Person | Add to the shared style |
+|---|---|---|
+| `isi-ben-yehuda.jpg` | Isi ben Yehuda, Tanna | A sage in his 50s with a dark beard touched with grey and a deep blue wool mantle, holding out an empty bowl as he makes a comparison; background of a study house with limestone walls and an oil lamp. |
+| `rabbi-mani-bar-pattish.jpg` | Rabbi Mani bar Pattish, Amora | A sage in his 40s with a short dark beard and a terracotta-coloured linen mantle, pointing to a line in an open scroll as he cites a verse; background of a study hall lit by an oil lamp. |
+| `rav-huna-bar-acha.jpg` | Rav Huna bar Aḥa, Amora | A sage in his 50s with a greying brown beard and a moss-green wool mantle, speaking carefully as he reports his teacher’s reading of two baraitot; background of a study hall with a scroll shelf and an oil lamp. |
+| `rav-sheshet-brei-derav-idi.jpg` | Rav Sheshet, son of Rav Idi, Amora · Babylonia | A Babylonian scholar in his 40s with a short dark beard and a russet wool mantle, one hand raised as he questions a comparison; background of a mud-brick study hall lit by an oil lamp. |
+| `rav-idi-bar-gershom.jpg` | Rav Idi bar Gershom, Amora · Babylonia | A Babylonian scholar in his 50s with a greying dark beard and a sand-coloured wool mantle, reciting a ruling he received from his teacher with one hand open; background of a mud-brick study hall lit by an oil lamp. |
+| `rabbi-chanina-tirnaa.jpg` | Rabbi Ḥanina of Tirna’a, Amora · Land of Israel, 3rd century | An inquisitive sage of the Land of Israel in his 40s with a dark brown beard and a slate-blue linen mantle, leaning forward as he puts a question to his teacher; background of limestone arches and olive trees. |
+| `rav-huna-misura.jpg` | Rav Huna from Sura, Amora · Babylonia | A Babylonian sage in his 50s with a greying brown beard and a russet wool mantle, holding up one hand as he offers a proof from a baraita; background of a mud-brick study hall by a river, lit by an oil lamp. |
+| `rabbi-shemaya.jpg` | Rabbi Shemaya, Amora | A sage in his 40s with a short black beard and a slate-blue wool mantle, pointing to a line in an open scroll as he cites a teaching; background of a plain study hall with stone walls and a single oil lamp. |
