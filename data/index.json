@@ -1727,6 +1727,86 @@
    },
    "messages": 48,
    "members": 15
+  },
+  {
+   "masechet": "temurah",
+   "daf": 17,
+   "title": "Temurah 17",
+   "he": "תמורה י״ז",
+   "preview": {
+    "from": "mishnah",
+    "text": "…in terms of it being permitted to shear its wool and to perform labor with it."
+   },
+   "last": {
+    "from": "gemara",
+    "text": "The offspring of which offering is referred to here? If it is referring to the offspring of a burnt offering, a burnt of"
+   },
+   "messages": 78,
+   "members": 18
+  },
+  {
+   "masechet": "temurah",
+   "daf": 18,
+   "title": "Temurah 18",
+   "he": "תמורה י״ח",
+   "preview": {
+    "from": "akiva",
+    "text": "The word “only” is unnecessary to exclude the offspring and substitutes of other sacrificial animals from being sacrific"
+   },
+   "last": {
+    "from": "rava",
+    "text": "since there is burnt offering status for a bird that is the same sex as its mother."
+   },
+   "messages": 72,
+   "members": 22
+  },
+  {
+   "masechet": "temurah",
+   "daf": 19,
+   "title": "Temurah 19",
+   "he": "תמורה י״ט",
+   "preview": {
+    "from": "rava",
+    "text": "But with regard to the offspring of the substitute of a guilt offering, where there is no burnt offering status for its "
+   },
+   "last": {
+    "from": "baraita",
+    "text": "One who consecrates a female animal for his burnt offering …"
+   },
+   "messages": 48,
+   "members": 16
+  },
+  {
+   "masechet": "temurah",
+   "daf": 20,
+   "title": "Temurah 20",
+   "he": "תמורה כ׳",
+   "preview": {
+    "from": "baraita",
+    "text": "or for his Paschal offering or for his guilt offering, although these offerings are brought only from male animals, it i"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "With the money received for their sale, yes, he brings a burnt offering,"
+   },
+   "messages": 61,
+   "members": 15
+  },
+  {
+   "masechet": "temurah",
+   "daf": 21,
+   "title": "Temurah 21",
+   "he": "תמורה כ״א",
+   "preview": {
+    "from": "mishnah",
+    "text": "With regard to the substitute of a firstborn offering and the substitute of an animal tithe offering, and the offspring "
+   },
+   "last": {
+    "from": "mishnah",
+    "text": "And with regard to a sin offering that is unfit for sacrifice because its first year from birth has passed, and a sin of"
+   },
+   "messages": 71,
+   "members": 16
   }
  ]
 }

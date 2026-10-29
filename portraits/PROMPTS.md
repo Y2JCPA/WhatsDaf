@@ -478,3 +478,20 @@ Same output spec and shared style as above. Save to `assets/portraits/<file>`.
 | `rav-yosef-brei-derav-shemaya.jpg` | Rav Yosef, son of Rav Shemaya, Amora · Babylonia | A sage in his 40s with a short brown beard and a dark wool cloak, holding an open hand toward a colleague as he cites a teaching; background of a Babylonian study house with mudbrick walls and oil lamps. |
 | `rabbi-nehorai.jpg` | Rabbi Nehorai, Tanna · 2nd century | A sage in his 50s with a greying beard, a traveller’s cloak and a wooden staff; background of a dusty road leading toward a distant study house at dusk. |
 | `rabbi-yitzchak-nappacha.jpg` | Rabbi Yitzḥak Nappaḥa, Amora · Land of Israel, 3rd century | A sturdy scholar in his 50s with a full dark beard streaked with grey and a plain brown wool mantle over broad shoulders, a smith’s strong hands folded on a scroll; background of a Galilean stone courtyard with a forge glowing faintly in the distance. |
+
+---
+
+## Round 25: people needed for Temurah 17–21
+
+Same output spec and shared style as above. Save to `assets/portraits/<file>`.
+
+| File | Person | Add to the shared style |
+|---|---|---|
+| `rav-adda.jpg` | Rav Adda, Amora · Babylonia | A Babylonian sage in his 40s with a dark, neatly kept beard and a sharp, questioning look, one hand raised as if pressing a point, wearing a plain wool mantle; background of mudbrick academy walls lit by oil lamps. |
+| `rabbi-pappeyas.jpg` | Rabbi Pappeyas, Tanna · Yavne, 1st–2nd century | A sage in his 60s with a white beard and a plain linen mantle, standing with one hand raised as he gives testimony before a seated assembly of scholars; background of the study hall at Yavne in soft afternoon light. |
+| `rav-ukva-bar-chama.jpg` | Rav Ukva bar Ḥama, Amora · Babylonia | A sage in his 40s with a dark, close-trimmed beard and a plain brown wool cloak, raising one finger to press an objection; background of a Babylonian study house with mudbrick walls and oil lamps. |
+| `mar-zutra-brei-derav-mari.jpg` | Mar Zutra, son of Rav Mari, Amora · Babylonia | A scholar in his 30s with a short dark beard and a striped Babylonian mantle, nodding in agreement as he turns toward a colleague; background of a reed-roofed study hall beside a canal. |
+| `rabbi-avin-bar-chiyya.jpg` | Rabbi Avin bar Ḥiyya, Amora | A sage in his 40s with a dark, neatly trimmed beard and a plain grey wool mantle, leaning forward with a raised finger as he poses a question; background of a lamplit study hall with low benches and scrolls on a shelf. |
+| `rabbi-avin-bar-kahana.jpg` | Rabbi Avin bar Kahana, Amora | A sage in his 50s with a greying beard and a brown wool mantle, seated with an open scroll on his knees and answering with a calm, open hand; background of a study hall courtyard in late afternoon light. |
+| `rava-bar-rav-azza.jpg` | Rava bar Rav Azza, Amora · Babylonia | A sage in his 40s with a dark, full beard and a plain blue-grey wool mantle, gesturing westward as he relays a question from afar; background of a Babylonian study hall with mudbrick walls and oil lamps. |
+| `rav-acha-brei-derav-azza.jpg` | Rav Aḥa, son of Rav Azza, Amora · Babylonia | A sage in his 50s with a greying beard and a simple brown wool cloak, holding a small scroll and speaking with an open, inquiring hand; background of a lamplit study house with reed mats and low benches. |
