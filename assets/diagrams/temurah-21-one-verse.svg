@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 572" width="640" height="572" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <rect width="640" height="572" rx="18" fill="#f3f6fb"/>
+  <text x="320" y="44" font-size="22" font-weight="700" text-anchor="middle" fill="#1f2a44">One verse, four teachings</text>
+  <text x="320" y="70" font-size="14" text-anchor="middle" fill="#4a5672">“And you shall eat before the Lord… the tithe of your grain… and the</text>
+  <text x="320" y="89" font-size="14" text-anchor="middle" fill="#4a5672">firstborn of your herd and of your flock” (Deuteronomy 14:23)</text>
+  <text x="40" y="116" font-size="12" font-weight="700" fill="#4a5672">WHO · LEARNED ← FROM</text>
+  <text x="204" y="116" font-size="12" font-weight="700" fill="#4a5672">WHAT THE JUXTAPOSITION TEACHES</text>
+  <rect x="24" y="128" width="592" height="84" rx="10" fill="#ffffff" stroke="#c9d3e6"/>
+  <text x="40" y="154" font-size="14" font-weight="700" fill="#1f2a44">Rabbi Yishmael</text>
+  <rect x="38" y="164" width="148" height="22" rx="11" fill="#e8f0fb"/>
+  <text x="112" y="179" font-size="12" font-weight="600" text-anchor="middle" fill="#1f3f73">tithe ← firstborn</text>
+  <text x="204" y="154" font-size="13.5" fill="#1f2a44">Second tithe, like a firstborn, is eaten only</text>
+  <text x="204" y="171" font-size="13.5" fill="#1f2a44">in the presence of the Temple</text>
+  <text x="204" y="198" font-size="12" font-style="italic" fill="#6b7590">Logic fails: firstborn and first fruits each involve the altar</text>
+  <rect x="24" y="220" width="592" height="66" rx="10" fill="#ffffff" stroke="#c9d3e6"/>
+  <text x="40" y="246" font-size="14" font-weight="700" fill="#1f2a44">Rabbi Akiva</text>
+  <rect x="38" y="256" width="148" height="22" rx="11" fill="#e8f0fb"/>
+  <text x="112" y="271" font-size="12" font-weight="600" text-anchor="middle" fill="#1f3f73">firstborn ← grain tithe</text>
+  <text x="204" y="246" font-size="13.5" fill="#1f2a44">A firstborn is brought up only from where</text>
+  <text x="204" y="263" font-size="13.5" fill="#1f2a44">grain tithe is brought up: not from abroad</text>
+  
+  <rect x="24" y="294" width="592" height="84" rx="10" fill="#ffffff" stroke="#c9d3e6"/>
+  <text x="40" y="320" font-size="14" font-weight="700" fill="#1f2a44">Ben Azzai</text>
+  <rect x="38" y="330" width="148" height="22" rx="11" fill="#e8f0fb"/>
+  <text x="112" y="345" font-size="12" font-weight="600" text-anchor="middle" fill="#1f3f73">tithe ← firstborn</text>
+  <text x="204" y="320" font-size="13.5" fill="#1f2a44">Second tithe, like a firstborn, is eaten only</text>
+  <text x="204" y="337" font-size="13.5" fill="#1f2a44">within the walls, not wherever overlooks</text>
+  <text x="204" y="364" font-size="12" font-style="italic" fill="#6b7590">Logic fails: the firstborn needs blood and portions on the altar</text>
+  <rect x="24" y="386" width="592" height="84" rx="10" fill="#ffffff" stroke="#c9d3e6"/>
+  <text x="40" y="412" font-size="14" font-weight="700" fill="#1f2a44">Others</text>
+  <rect x="38" y="422" width="148" height="22" rx="11" fill="#e8f0fb"/>
+  <text x="112" y="437" font-size="12" font-weight="600" text-anchor="middle" fill="#1f3f73">firstborn ← tithe</text>
+  <text x="204" y="412" font-size="13.5" fill="#1f2a44">A firstborn, like second tithe, is not</text>
+  <text x="204" y="429" font-size="13.5" fill="#1f2a44">disqualified from one year to the next</text>
+  <text x="204" y="456" font-size="12" font-style="italic" fill="#6b7590">The Rabbis learn this from “year by year” instead</text>
+  <rect x="24" y="484" width="592" height="66" rx="12" fill="#fff6e0" stroke="#e8c97a"/>
+  <text x="40" y="510" font-size="13" font-weight="600" fill="#7a4a00">Rav Ḥisda: the mishna’s “if they came unblemished, they are sacrificed”</text>
+  <text x="40" y="530" font-size="13" font-weight="600" fill="#7a4a00">is Rabbi Yishmael; ben Antigonus’s rejected firstborns are Rabbi Akiva.</text>
+</svg>
