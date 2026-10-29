@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 520" width="640" height="520" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <rect width="640" height="520" rx="18" fill="#f3f6fb"/>
+  <text x="320" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2a44">What was given at Sinai</text>
+  <text x="320" y="70" text-anchor="middle" font-size="14" fill="#4a5672">Two explanations of why all five sin offerings are left to die</text>
+
+  <!-- Reish Lakish -->
+  <rect x="24" y="90" width="288" height="300" rx="14" fill="#ffffff" stroke="#c9d3e6"/>
+  <text x="168" y="120" text-anchor="middle" font-size="17" font-weight="700" fill="#b71c1c">Reish Lakish</text>
+  <text x="44" y="152" font-size="13" font-weight="700" fill="#4a5672">GIVEN</text>
+  <g font-size="13" font-weight="600" text-anchor="middle">
+    <rect x="44" y="164" width="44" height="30" rx="8" fill="#fde8e8"/><text x="66" y="184" fill="#b3261e">dies</text>
+    <rect x="94" y="164" width="44" height="30" rx="8" fill="#fde8e8"/><text x="116" y="184" fill="#b3261e">dies</text>
+    <rect x="144" y="164" width="44" height="30" rx="8" fill="#fde8e8"/><text x="166" y="184" fill="#b3261e">dies</text>
+    <rect x="194" y="164" width="44" height="30" rx="8" fill="#fde8e8"/><text x="216" y="184" fill="#b3261e">dies</text>
+    <rect x="244" y="164" width="48" height="30" rx="8" fill="#e6f4ea"/><text x="268" y="184" fill="#2e7d32">grazes</text>
+  </g>
+  <text x="44" y="226" font-size="13" font-weight="700" fill="#4a5672">FORGOTTEN</text>
+  <text x="44" y="246" font-size="13" fill="#1f2a44">which one is left to graze</text>
+  <text x="44" y="282" font-size="13" font-weight="700" fill="#4a5672">ESTABLISHED</text>
+  <text x="44" y="302" font-size="13" fill="#1f2a44">all five are left to die</text>
+  <text x="44" y="338" font-size="13" font-weight="700" fill="#4a5672">THE FOUR, SAID TOGETHER</text>
+  <text x="44" y="358" font-size="13" fill="#1f2a44">are not all possible in a community</text>
+
+  <!-- Rabbi Natan -->
+  <rect x="328" y="90" width="288" height="300" rx="14" fill="#ffffff" stroke="#c9d3e6"/>
+  <text x="472" y="120" text-anchor="middle" font-size="17" font-weight="700" fill="#3f6e8c">Rabbi Natan</text>
+  <text x="348" y="152" font-size="13" font-weight="700" fill="#4a5672">GIVEN</text>
+  <g font-size="13" font-weight="600" text-anchor="middle">
+    <rect x="348" y="164" width="44" height="30" rx="8" fill="#fde8e8"/><text x="370" y="184" fill="#b3261e">dies</text>
+    <rect x="398" y="164" width="48" height="30" rx="8" fill="#e6f4ea"/><text x="422" y="184" fill="#2e7d32">grazes</text>
+    <rect x="450" y="164" width="48" height="30" rx="8" fill="#e6f4ea"/><text x="474" y="184" fill="#2e7d32">grazes</text>
+    <rect x="502" y="164" width="48" height="30" rx="8" fill="#e6f4ea"/><text x="526" y="184" fill="#2e7d32">grazes</text>
+    <rect x="554" y="164" width="48" height="30" rx="8" fill="#e6f4ea"/><text x="578" y="184" fill="#2e7d32">grazes</text>
+  </g>
+  <text x="348" y="226" font-size="13" font-weight="700" fill="#4a5672">FORGOTTEN (“two things”)</text>
+  <text x="348" y="246" font-size="13" fill="#1f2a44">which one is left to die, and</text>
+  <text x="348" y="264" font-size="13" fill="#1f2a44">whether individual or community</text>
+  <text x="348" y="294" font-size="13" font-weight="700" fill="#4a5672">ESTABLISHED</text>
+  <text x="348" y="314" font-size="13" fill="#1f2a44">all five are left to die</text>
+  <text x="348" y="344" font-size="13" font-weight="700" fill="#4a5672">THE FOUR, SAID TOGETHER</text>
+  <text x="348" y="364" font-size="13" fill="#1f2a44">are not all possible in a community</text>
+
+  <rect x="24" y="406" width="592" height="88" rx="14" fill="#fff6e0" stroke="#e8c97a"/>
+  <text x="320" y="436" text-anchor="middle" font-size="14" font-weight="700" fill="#1f2a44">Both conclude</text>
+  <text x="320" y="460" text-anchor="middle" font-size="14" fill="#1f2a44">“Learn the unspecified from the specified”:</text>
+  <text x="320" y="480" text-anchor="middle" font-size="14" fill="#1f2a44">the five are left to die for an individual, not for a community.</text>
+</svg>

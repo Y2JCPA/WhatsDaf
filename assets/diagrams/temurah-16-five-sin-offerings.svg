@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 560" width="640" height="560" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <rect width="640" height="560" rx="18" fill="#f3f6fb"/>
+  <text x="320" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2a44">Rabbi Shimon’s five sin offerings</text>
+  <text x="320" y="70" text-anchor="middle" font-size="14" fill="#4a5672">All five are left to die. Does that apply to a community?</text>
+
+  <text x="40" y="106" font-size="13" font-weight="700" fill="#4a5672">SIN OFFERING</text>
+  <text x="282" y="106" text-anchor="middle" font-size="13" font-weight="700" fill="#4a5672">INDIVIDUAL</text>
+  <text x="334" y="106" font-size="13" font-weight="700" fill="#4a5672">COMMUNITY</text>
+
+  <!-- specified group -->
+  <rect x="24" y="118" width="592" height="216" rx="12" fill="#ffffff" stroke="#c9d3e6"/>
+  <text x="36" y="136" font-size="12" font-weight="700" fill="#2e7d32">SPECIFIED</text>
+
+  <text x="40" y="168" font-size="14" font-weight="600" fill="#1f2a44">Offspring of a sin offering</text>
+  <rect x="252" y="151" width="60" height="26" rx="13" fill="#fde8e8"/>
+  <text x="282" y="169" text-anchor="middle" font-size="13" font-weight="600" fill="#b3261e">dies</text>
+  <text x="334" y="162" font-size="13" font-weight="600" fill="#1f2a44">Cannot occur:</text>
+  <text x="334" y="180" font-size="13" fill="#4a5672">no female sin offerings in a community</text>
+  <line x1="36" y1="198" x2="604" y2="198" stroke="#e3e8f2"/>
+
+  <text x="40" y="232" font-size="14" font-weight="600" fill="#1f2a44">Substitute of a sin offering</text>
+  <rect x="252" y="215" width="60" height="26" rx="13" fill="#fde8e8"/>
+  <text x="282" y="233" text-anchor="middle" font-size="13" font-weight="600" fill="#b3261e">dies</text>
+  <text x="334" y="226" font-size="13" font-weight="600" fill="#1f2a44">Cannot occur:</text>
+  <text x="334" y="244" font-size="13" fill="#4a5672">a community cannot render a substitute</text>
+  <line x1="36" y1="262" x2="604" y2="262" stroke="#e3e8f2"/>
+
+  <text x="40" y="296" font-size="14" font-weight="600" fill="#1f2a44">Owner has died</text>
+  <rect x="252" y="279" width="60" height="26" rx="13" fill="#fde8e8"/>
+  <text x="282" y="297" text-anchor="middle" font-size="13" font-weight="600" fill="#b3261e">dies</text>
+  <text x="334" y="290" font-size="13" font-weight="600" fill="#1f2a44">Cannot occur:</text>
+  <text x="334" y="308" font-size="13" fill="#4a5672">a community cannot die</text>
+
+  <!-- unspecified group -->
+  <rect x="24" y="348" width="592" height="152" rx="12" fill="#ffffff" stroke="#c9d3e6"/>
+  <text x="36" y="366" font-size="12" font-weight="700" fill="#8a5a00">UNSPECIFIED</text>
+
+  <text x="40" y="398" font-size="14" font-weight="600" fill="#1f2a44">Owner achieved atonement</text>
+  <rect x="252" y="381" width="60" height="26" rx="13" fill="#fde8e8"/>
+  <text x="282" y="399" text-anchor="middle" font-size="13" font-weight="600" fill="#b3261e">dies</text>
+  <line x1="36" y1="420" x2="320" y2="420" stroke="#e3e8f2"/>
+
+  <text x="40" y="452" font-size="14" font-weight="600" fill="#1f2a44">Its first year has passed</text>
+  <rect x="252" y="435" width="60" height="26" rx="13" fill="#fde8e8"/>
+  <text x="282" y="453" text-anchor="middle" font-size="13" font-weight="600" fill="#b3261e">dies</text>
+
+  <rect x="326" y="380" width="278" height="106" rx="10" fill="#fff6e0" stroke="#e8c97a"/>
+  <text x="340" y="402" font-size="13" font-weight="600" fill="#1f2a44">Could occur, but</text>
+  <text x="340" y="420" font-size="13" fill="#4a5672">“we have not found” a ruling.</text>
+  <text x="340" y="446" font-size="13" font-weight="600" fill="#1f2a44">Learned from the specified:</text>
+  <text x="340" y="464" font-size="13" fill="#4a5672">individual, not community</text>
+
+  <text x="320" y="530" text-anchor="middle" font-size="14" font-style="italic" fill="#1f2a44">“A person can learn the unspecified from the specified.”</text>
+</svg>
