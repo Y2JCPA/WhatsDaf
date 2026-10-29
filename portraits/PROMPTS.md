@@ -495,3 +495,17 @@ Same output spec and shared style as above. Save to `assets/portraits/<file>`.
 | `rabbi-avin-bar-kahana.jpg` | Rabbi Avin bar Kahana, Amora | A sage in his 50s with a greying beard and a brown wool mantle, seated with an open scroll on his knees and answering with a calm, open hand; background of a study hall courtyard in late afternoon light. |
 | `rava-bar-rav-azza.jpg` | Rava bar Rav Azza, Amora · Babylonia | A sage in his 40s with a dark, full beard and a plain blue-grey wool mantle, gesturing westward as he relays a question from afar; background of a Babylonian study hall with mudbrick walls and oil lamps. |
 | `rav-acha-brei-derav-azza.jpg` | Rav Aḥa, son of Rav Azza, Amora · Babylonia | A sage in his 50s with a greying beard and a simple brown wool cloak, holding a small scroll and speaking with an open, inquiring hand; background of a lamplit study house with reed mats and low benches. |
+
+---
+
+## Round 26: people needed for Temurah 22–26
+
+Same output spec and shared style as above. Save to `assets/portraits/<file>`.
+
+| File | Person | Add to the shared style |
+|---|---|---|
+| `rabbi-nechemya.jpg` | Rabbi Neḥemya, Tanna · Land of Israel, 2nd century | A sage in his 50s with a full greying beard and a plain wool mantle, turning toward a colleague with an open hand as he answers him; background of a modest study hall in the Galilee with stone walls and an oil lamp. |
+| `rav-shimi-bar-ziri.jpg` | Rav Shimi bar Ziri, Amora | A sage in his 40s with a short dark beard and a plain brown wool mantle, reciting a teaching from memory with one hand raised to keep its rhythm; background of a Babylonian study hall with mud-brick walls and a single oil lamp. |
+| `ilfa.jpg` | Ilfa, Amora · Land of Israel, 3rd century | A sage in his 40s with a trimmed dark beard and a weathered merchant’s travelling cloak over a scholar’s robe, gripping a ship’s rope with a steady, confident gaze; background of a sunlit harbor with a tall wooden mast. |
+| `rav-tavla.jpg` | Rav Tavla, Amora · Babylonia, 3rd century | A sage in his 50s with a greying beard and a dark blue wool mantle, raising one finger to correct a reciter’s wording; background of a Babylonian study hall with mud-brick walls and a row of seated students. |
+| `rabbi-yitzchak-berabbi-yosei.jpg` | Rabbi Yitzḥak son of Rabbi Yosei, Amora | A sage in his 40s with a short dark beard and a plain grey wool mantle, repeating a teaching he received with a finger raised as he names its source; background of a study hall in the Land of Israel with pale stone walls and an oil lamp in a niche. |
