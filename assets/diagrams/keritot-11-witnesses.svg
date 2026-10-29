@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 520" width="640" height="520" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Did he eat forbidden fat?</title>
+  <rect width="640" height="520" rx="18" fill="#f3f6fb"/>
+  <text x="24" y="44" font-size="22" font-weight="700" fill="#1f2a3a">Did he eat forbidden fat?</text>
+  <text x="24" y="68" font-size="13" fill="#5a6678">Keritot 11b: the opening mishna of chapter 3, case by case</text>
+  <text x="34" y="98" font-size="12" font-weight="700" fill="#5a6678">WHAT IS SAID</text>
+  <text x="606" y="98" font-size="12" font-weight="700" fill="#5a6678" text-anchor="end">WHAT HE BRINGS</text>
+
+  <!-- row 1 -->
+  <rect x="20" y="108" width="600" height="56" rx="12" fill="#fff" stroke="#d5deea"/>
+  <text x="34" y="141" font-size="14" fill="#1f2a3a">They said to him: “You ate forbidden fat”</text>
+  <rect x="430" y="122" width="176" height="28" rx="14" fill="#1565c0"/>
+  <text x="518" y="141" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">Sin offering</text>
+
+  <!-- row 2 -->
+  <rect x="20" y="172" width="600" height="56" rx="12" fill="#fff" stroke="#d5deea"/>
+  <text x="34" y="205" font-size="14" fill="#1f2a3a">A witness: “He ate” · a witness: “He did not”</text>
+  <rect x="430" y="186" width="176" height="28" rx="14" fill="#7b5ea7"/>
+  <text x="518" y="205" font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle">Provisional guilt offering</text>
+
+  <!-- row 3 -->
+  <rect x="20" y="236" width="600" height="56" rx="12" fill="#fff" stroke="#d5deea"/>
+  <text x="34" y="269" font-size="14" fill="#1f2a3a">A woman: “He ate” · a woman: “He did not”</text>
+  <rect x="430" y="250" width="176" height="28" rx="14" fill="#7b5ea7"/>
+  <text x="518" y="269" font-size="12.5" font-weight="700" fill="#fff" text-anchor="middle">Provisional guilt offering</text>
+
+  <!-- row 4 -->
+  <rect x="20" y="300" width="600" height="56" rx="12" fill="#fff" stroke="#d5deea"/>
+  <text x="34" y="333" font-size="14" fill="#1f2a3a">A witness: “He ate” · he: “I did not eat”</text>
+  <rect x="430" y="314" width="176" height="28" rx="14" fill="#2e7d32"/>
+  <text x="518" y="333" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">Exempt</text>
+
+  <!-- row 5 -->
+  <rect x="20" y="364" width="600" height="116" rx="12" fill="#fff" stroke="#d5deea"/>
+  <text x="34" y="392" font-size="14" fill="#1f2a3a">Two: “He ate” · he: “I did not eat”</text>
+  <text x="34" y="418" font-size="13" font-weight="700" fill="#1f2a3a">Rabbi Meir:</text>
+  <text x="116" y="418" font-size="12" fill="#4a5568">if two can bring him to death,</text>
+  <text x="116" y="434" font-size="12" fill="#4a5568">can they not bring him to an offering?</text>
+  <rect x="430" y="404" width="176" height="28" rx="14" fill="#1565c0"/>
+  <text x="518" y="423" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">Sin offering</text>
+  <text x="34" y="460" font-size="13" font-weight="700" fill="#1f2a3a">The Rabbis:</text>
+  <text x="116" y="460" font-size="12" fill="#4a5568">what if he says: “I did it intentionally”?</text>
+  <rect x="430" y="442" width="176" height="28" rx="14" fill="#2e7d32"/>
+  <text x="518" y="461" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">Exempt</text>
+  <line x1="34" y1="442" x2="418" y2="442" stroke="#e5eaf2"/>
+
+  <text x="24" y="504" font-size="12" fill="#5a6678">How many witnesses “they said” means, and whether he was silent, the Gemara asks.</text>
+</svg>

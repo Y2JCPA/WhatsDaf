@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 600" width="640" height="600" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>They rendered … like …</title>
+  <rect width="640" height="600" rx="18" fill="#f3f6fb"/>
+  <text x="24" y="44" font-size="22" font-weight="700" fill="#1f2a3a">“They rendered … like …”</text>
+  <text x="24" y="68" font-size="13" fill="#5a6678">Keritot 11a–b: the baraita a <tspan font-style="italic">tanna</tspan> taught before Rav Sheshet, about the espoused maidservant</text>
+
+  <!-- legend -->
+  <rect x="24" y="84" width="14" height="14" rx="3" fill="#fdecec" stroke="#e3a1a1"/>
+  <text x="44" y="96" font-size="12" fill="#4a5568">Rav Sheshet’s objection to the plain reading</text>
+  <rect x="320" y="84" width="14" height="14" rx="3" fill="#e9f5ea" stroke="#9fcfa5"/>
+  <text x="340" y="96" font-size="12" fill="#4a5568">How Rav Sheshet reads it</text>
+
+  <!-- row 1 -->
+  <rect x="20" y="110" width="600" height="96" rx="12" fill="#fff" stroke="#d5deea"/>
+  <text x="34" y="134" font-size="15" font-weight="700" fill="#1f2a3a">1 · One who completes like one at the initial stage</text>
+  <rect x="34" y="144" width="572" height="24" rx="6" fill="#fdecec"/>
+  <text x="44" y="161" font-size="12.5" fill="#1f2a3a">Completing with her is liable; the initial stage is not liable.</text>
+  <rect x="34" y="172" width="572" height="26" rx="6" fill="#e9f5ea"/>
+  <text x="44" y="190" font-size="12.5" fill="#1f2a3a">Completing an <tspan font-weight="700">atypical</tspan> act (not liable) is like the initial stage of a typical one.</text>
+
+  <!-- row 2 -->
+  <rect x="20" y="216" width="600" height="96" rx="12" fill="#fff" stroke="#d5deea"/>
+  <text x="34" y="240" font-size="15" font-weight="700" fill="#1f2a3a">2 · Intentional like unintentional</text>
+  <rect x="34" y="250" width="572" height="24" rx="6" fill="#fdecec"/>
+  <text x="44" y="267" font-size="12.5" fill="#1f2a3a">If she intended it, she is liable; if not, she is not liable.</text>
+  <rect x="34" y="278" width="572" height="26" rx="6" fill="#e9f5ea"/>
+  <text x="44" y="296" font-size="12.5" fill="#1f2a3a">Intentional but <tspan font-weight="700">atypical</tspan> (both exempt) is like one who does it unintentionally.</text>
+
+  <!-- row 3 -->
+  <rect x="20" y="322" width="600" height="96" rx="12" fill="#fff" stroke="#d5deea"/>
+  <text x="34" y="346" font-size="15" font-weight="700" fill="#1f2a3a">3 · Typical like atypical</text>
+  <rect x="34" y="356" width="572" height="24" rx="6" fill="#fdecec"/>
+  <text x="44" y="373" font-size="12.5" fill="#1f2a3a">Typical with her is liable; atypical is not liable.</text>
+  <rect x="34" y="384" width="572" height="26" rx="6" fill="#eef1f6"/>
+  <text x="44" y="402" font-size="12.5" fill="#1f2a3a">Tosafot: this distinction runs through the other lines of the baraita.</text>
+
+  <!-- row 4 -->
+  <rect x="20" y="428" width="600" height="96" rx="12" fill="#fff" stroke="#d5deea"/>
+  <text x="34" y="452" font-size="15" font-weight="700" fill="#1f2a3a">4 · Awake like sleeping</text>
+  <rect x="34" y="462" width="572" height="24" rx="6" fill="#fdecec"/>
+  <text x="44" y="479" font-size="12.5" fill="#1f2a3a">In what way could one awake be like one sleeping?</text>
+  <rect x="34" y="490" width="572" height="26" rx="6" fill="#e9f5ea"/>
+  <text x="44" y="508" font-size="12.5" fill="#1f2a3a">Awake but <tspan font-weight="700">atypical</tspan> (both exempt) is like one who is sleeping.</text>
+
+  <!-- footer -->
+  <text x="24" y="550" font-size="12.5" fill="#1f2a3a"><tspan font-weight="700">Why, each time:</tspan> “lies carnally [<tspan font-style="italic">shikhvat zera</tspan>]” is written.</text>
+  <text x="24" y="574" font-size="12" fill="#5a6678">Read as about the other forbidden relations, line 1 should teach the opposite.</text>
+</svg>
