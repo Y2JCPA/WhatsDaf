@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 560" width="640" height="560" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+<rect x="0" y="0" width="640" height="560" rx="18" fill="#f3f6fb"/>
+<text x="320" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2937">Two half olive-bulks, two dishes</text>
+<text x="320" y="70" text-anchor="middle" font-size="13.5" font-style="italic" fill="#4b5563">Reish Lakish in the name of bar Tutini, in two versions</text>
+
+<text x="246" y="104" text-anchor="middle" font-size="12" font-weight="700" fill="#6b7280">FIRST VERSION</text>
+<text x="482" y="104" text-anchor="middle" font-size="12" font-weight="700" fill="#6b7280">“THERE ARE THOSE WHO SAY”</text>
+
+<!-- row 1 -->
+<text x="40" y="136" font-size="12" font-weight="700" fill="#6b7280">CLAUSE</text>
+<text x="40" y="152" font-size="12" font-weight="700" fill="#6b7280">EXPLAINED</text>
+<rect x="134" y="118" width="224" height="52" rx="8" fill="#ffffff" stroke="#9fb3d9"/>
+<text x="246" y="140" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1f2937">“From one type: liable”</text>
+<text x="246" y="159" text-anchor="middle" font-size="12" fill="#4b5563">obvious?</text>
+<rect x="370" y="118" width="224" height="52" rx="8" fill="#ffffff" stroke="#e0c48a"/>
+<text x="482" y="140" text-anchor="middle" font-size="13.5" font-weight="700" fill="#1f2937">“From two types: exempt”</text>
+<text x="482" y="159" text-anchor="middle" font-size="12" fill="#4b5563">obvious?</text>
+
+<!-- row 2 -->
+<text x="40" y="200" font-size="12" font-weight="700" fill="#6b7280">THE CASE</text>
+<rect x="134" y="182" width="224" height="64" rx="8" fill="#ffffff" stroke="#9fb3d9"/>
+<text x="246" y="204" text-anchor="middle" font-size="12.5" fill="#374151">two half olive-bulks</text>
+<text x="246" y="221" text-anchor="middle" font-size="12.5" fill="#374151">of one type,</text>
+<text x="246" y="238" text-anchor="middle" font-size="12.5" fill="#374151">eaten from two dishes</text>
+<rect x="370" y="182" width="224" height="64" rx="8" fill="#ffffff" stroke="#e0c48a"/>
+<text x="482" y="204" text-anchor="middle" font-size="12.5" fill="#374151">one type, eaten in two dishes;</text>
+<text x="482" y="221" text-anchor="middle" font-size="12.5" fill="#374151">the <tspan font-style="italic">tanna</tspan> calls it “two types”</text>
+<text x="482" y="238" text-anchor="middle" font-size="12.5" fill="#374151">because of the two dishes</text>
+
+<!-- row 3 -->
+<text x="40" y="282" font-size="12" font-weight="700" fill="#6b7280">RULING</text>
+<rect x="134" y="258" width="224" height="40" rx="8" fill="#fbe9e7" stroke="#d98b7e"/>
+<text x="246" y="284" text-anchor="middle" font-size="16" font-weight="700" fill="#9a3412">liable</text>
+<rect x="370" y="258" width="224" height="40" rx="8" fill="#e6f4ea" stroke="#7cbf8a"/>
+<text x="482" y="284" text-anchor="middle" font-size="16" font-weight="700" fill="#1d5e2c">exempt</text>
+
+<!-- row 4 -->
+<text x="40" y="326" font-size="12" font-weight="700" fill="#6b7280">RABBI</text>
+<text x="40" y="342" font-size="12" font-weight="700" fill="#6b7280">YEHOSHUA:</text>
+<text x="40" y="358" font-size="11.5" fill="#6b7280">“dishes</text>
+<text x="40" y="373" font-size="11.5" fill="#6b7280">differentiate”</text>
+<rect x="134" y="310" width="224" height="68" rx="8" fill="#ffffff" stroke="#9fb3d9"/>
+<text x="246" y="334" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">only as a stringency,</text>
+<text x="246" y="353" text-anchor="middle" font-size="13" font-weight="700" fill="#1e3a8a">not as a leniency</text>
+<rect x="370" y="310" width="224" height="68" rx="8" fill="#ffffff" stroke="#e0c48a"/>
+<text x="482" y="334" text-anchor="middle" font-size="13" font-weight="700" fill="#7a5a12">no different, leniency</text>
+<text x="482" y="353" text-anchor="middle" font-size="13" font-weight="700" fill="#7a5a12">or stringency</text>
+
+<!-- objection -->
+<line x1="482" y1="378" x2="482" y2="402" stroke="#9ca3af" stroke-width="1.5"/>
+<polygon points="476,398 488,398 482,408" fill="#9ca3af"/>
+<rect x="134" y="410" width="460" height="56" rx="10" fill="#fff7e6" stroke="#e0c48a"/>
+<text x="364" y="432" text-anchor="middle" font-size="12.5" fill="#374151">Then the first clause, “from one type: liable,” is one type in one dish.</text>
+<text x="364" y="452" text-anchor="middle" font-size="13" font-weight="700" fill="#1f2937">Isn’t it obvious?</text>
+<line x1="364" y1="466" x2="364" y2="480" stroke="#9ca3af" stroke-width="1.5"/>
+<polygon points="358,476 370,476 364,486" fill="#9ca3af"/>
+<rect x="134" y="488" width="460" height="56" rx="10" fill="#ffffff" stroke="#7cbf8a"/>
+<text x="364" y="510" text-anchor="middle" font-size="12.5" fill="#374151"><tspan font-weight="700">Ravina:</tspan> he had awareness in the interim, and it follows Rabban Gamliel:</text>
+<text x="364" y="530" text-anchor="middle" font-size="13" font-weight="700" fill="#1d5e2c">“There is no awareness for a half-measure.”</text>
+</svg>
