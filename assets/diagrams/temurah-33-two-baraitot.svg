@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 650" width="640" height="650" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <rect x="0" y="0" width="640" height="650" rx="18" fill="#f3f6fb" stroke="none"/>
+  <text x="320" y="44" font-size="22" font-weight="700" fill="#1f2937" text-anchor="middle">Two baraitot on animals that died</text>
+  <text x="320" y="70" font-size="13.5" font-weight="400" fill="#4b5563" text-anchor="middle">What each baraita rules, and how each Amora reads it (33a)</text>
+  <text x="303" y="100" font-size="11.5" font-weight="700" fill="#475569" text-anchor="middle">FIRST BARAITA</text>
+  <text x="517" y="100" font-size="11.5" font-weight="700" fill="#475569" text-anchor="middle">SECOND BARAITA</text>
+  <text x="517" y="114" font-size="11" font-weight="400" fill="#64748b" text-anchor="middle" font-style="italic">Reish Lakish’s version</text>
+  <text x="20" y="136" font-size="11.5" font-weight="700" fill="#475569" text-anchor="start">THE RULINGS</text>
+  <rect x="20" y="146" width="172" height="52" rx="10" fill="#ffffff" stroke="#d5dde9"/>
+  <text x="32" y="170" font-size="13.5" font-weight="700" fill="#1f2937" text-anchor="start">The Rabbis</text>
+  <text x="32" y="186" font-size="12" font-weight="400" fill="#475569" text-anchor="start">altar</text>
+  <rect x="200" y="146" width="206" height="52" rx="10" fill="#ffffff" stroke="#d5dde9"/>
+  <text x="303" y="168" font-size="12.5" font-weight="600" fill="#1f2937" text-anchor="middle">Unblemished: buried</text>
+  <text x="303" y="184" font-size="12.5" font-weight="600" fill="#1f2937" text-anchor="middle">Blemished: redeemed</text>
+  <rect x="414" y="146" width="206" height="52" rx="10" fill="#fff2d2" stroke="#e6c879"/>
+  <text x="517" y="176" font-size="12.5" font-weight="600" fill="#7a5300" text-anchor="middle">Blemished: redeemed</text>
+  <rect x="20" y="206" width="172" height="52" rx="10" fill="#ffffff" stroke="#d5dde9"/>
+  <text x="32" y="230" font-size="13.5" font-weight="700" fill="#1f2937" text-anchor="start">The Rabbis</text>
+  <text x="32" y="246" font-size="12" font-weight="400" fill="#475569" text-anchor="start">Temple maintenance</text>
+  <rect x="200" y="206" width="206" height="52" rx="10" fill="#dbe7fb" stroke="#9db8e8"/>
+  <text x="303" y="228" font-size="12.5" font-weight="600" fill="#1e3a8a" text-anchor="middle">Unblemished and</text>
+  <text x="303" y="244" font-size="12.5" font-weight="600" fill="#1e3a8a" text-anchor="middle">blemished: buried</text>
+  <rect x="414" y="206" width="206" height="52" rx="10" fill="#dbe7fb" stroke="#9db8e8"/>
+  <text x="517" y="228" font-size="12.5" font-weight="600" fill="#1e3a8a" text-anchor="middle">Unblemished and</text>
+  <text x="517" y="244" font-size="12.5" font-weight="600" fill="#1e3a8a" text-anchor="middle">blemished: buried</text>
+  <rect x="20" y="266" width="172" height="52" rx="10" fill="#ffffff" stroke="#d5dde9"/>
+  <text x="32" y="290" font-size="13.5" font-weight="700" fill="#1f2937" text-anchor="start">Rabbi Shimon</text>
+  <text x="32" y="306" font-size="12" font-weight="400" fill="#475569" text-anchor="start">altar</text>
+  <rect x="200" y="266" width="206" height="52" rx="10" fill="#ffffff" stroke="#d5dde9"/>
+  <text x="303" y="288" font-size="12.5" font-weight="600" fill="#1f2937" text-anchor="middle">Unblemished: buried</text>
+  <text x="303" y="304" font-size="12.5" font-weight="600" fill="#1f2937" text-anchor="middle">Blemished: redeemed</text>
+  <rect x="414" y="266" width="206" height="52" rx="10" fill="#f1f5f9" stroke="#d5dde9"/>
+  <text x="517" y="296" font-size="12.5" font-weight="400" fill="#64748b" text-anchor="middle" font-style="italic">Not mentioned</text>
+  <rect x="20" y="326" width="172" height="52" rx="10" fill="#ffffff" stroke="#d5dde9"/>
+  <text x="32" y="350" font-size="13.5" font-weight="700" fill="#1f2937" text-anchor="start">Rabbi Shimon</text>
+  <text x="32" y="366" font-size="12" font-weight="400" fill="#475569" text-anchor="start">Temple maintenance</text>
+  <rect x="200" y="326" width="206" height="52" rx="10" fill="#ffffff" stroke="#d5dde9"/>
+  <text x="303" y="348" font-size="12.5" font-weight="600" fill="#1f2937" text-anchor="middle">Unblemished: buried</text>
+  <text x="303" y="364" font-size="12.5" font-weight="600" fill="#1f2937" text-anchor="middle">Blemished: redeemed</text>
+  <rect x="414" y="326" width="206" height="52" rx="10" fill="#ffffff" stroke="#d5dde9"/>
+  <text x="517" y="348" font-size="12.5" font-weight="600" fill="#1f2937" text-anchor="middle">Unblemished: buried</text>
+  <text x="517" y="364" font-size="12.5" font-weight="600" fill="#1f2937" text-anchor="middle">Blemished: redeemed</text>
+  <text x="20" y="404" font-size="11.5" font-weight="700" fill="#475569" text-anchor="start">THE READINGS</text>
+  <rect x="20" y="414" width="172" height="84" rx="10" fill="#ffffff" stroke="#d5dde9"/>
+  <text x="32" y="461" font-size="13.5" font-weight="700" fill="#1f2937" text-anchor="start">Rabbi Yoḥanan</text>
+  <rect x="200" y="414" width="206" height="84" rx="10" fill="#e2f3e7" stroke="#9fd0ae"/>
+  <text x="303" y="436" font-size="12.5" font-weight="600" fill="#1d5e34" text-anchor="middle">Blemished from the outset</text>
+  <text x="303" y="452" font-size="12.5" font-weight="400" fill="#1d5e34" text-anchor="middle">“So too it is reasonable”:</text>
+  <text x="303" y="468" font-size="12.5" font-weight="400" fill="#1d5e34" text-anchor="middle">else Rabbi Shimon would</text>
+  <text x="303" y="484" font-size="12.5" font-weight="400" fill="#1d5e34" text-anchor="middle">disagree about altar animals</text>
+  <rect x="414" y="414" width="206" height="84" rx="10" fill="#e2f3e7" stroke="#9fd0ae"/>
+  <text x="517" y="436" font-size="12.5" font-weight="600" fill="#1d5e34" text-anchor="middle">Blemished from the outset</text>
+  <text x="517" y="452" font-size="12.5" font-weight="400" fill="#1d5e34" text-anchor="middle">“So too it is reasonable”:</text>
+  <text x="517" y="468" font-size="12.5" font-weight="400" fill="#1d5e34" text-anchor="middle">else Rabbi Shimon would</text>
+  <text x="517" y="484" font-size="12.5" font-weight="400" fill="#1d5e34" text-anchor="middle">disagree about altar animals</text>
+  <rect x="20" y="506" width="172" height="84" rx="10" fill="#ffffff" stroke="#d5dde9"/>
+  <text x="32" y="553" font-size="13.5" font-weight="700" fill="#1f2937" text-anchor="start">Reish Lakish</text>
+  <rect x="200" y="506" width="206" height="84" rx="10" fill="#ede7f6" stroke="#b9a6dc"/>
+  <text x="303" y="528" font-size="12.5" font-weight="600" fill="#4a2f80" text-anchor="middle">Consecrated before the</text>
+  <text x="303" y="544" font-size="12.5" font-weight="400" fill="#4a2f80" text-anchor="middle">blemish; he reverses the</text>
+  <text x="303" y="560" font-size="12.5" font-weight="400" fill="#4a2f80" text-anchor="middle">text: Rabbi Shimon says altar</text>
+  <text x="303" y="576" font-size="12.5" font-weight="400" fill="#4a2f80" text-anchor="middle">animals are buried</text>
+  <rect x="414" y="506" width="206" height="84" rx="10" fill="#ede7f6" stroke="#b9a6dc"/>
+  <text x="517" y="528" font-size="12.5" font-weight="600" fill="#4a2f80" text-anchor="middle">Consecrated before the</text>
+  <text x="517" y="544" font-size="12.5" font-weight="400" fill="#4a2f80" text-anchor="middle">blemish; Rabbi Shimon</text>
+  <text x="517" y="560" font-size="12.5" font-weight="400" fill="#4a2f80" text-anchor="middle">disagrees about altar</text>
+  <text x="517" y="576" font-size="12.5" font-weight="400" fill="#4a2f80" text-anchor="middle">animals too</text>
+  <text x="20" y="612" font-size="11.5" font-weight="400" fill="#64748b" text-anchor="start">The second baraita’s Rabbis are shown as the Gemara analyzes them (33a) and as Rashi reads them;</text>
+  <text x="20" y="628" font-size="11.5" font-weight="400" fill="#64748b" text-anchor="start">the printed text of that clause reads the other way round.</text>
+</svg>
