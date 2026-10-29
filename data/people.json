@@ -292,6 +292,10 @@
     "rav-idi-bar-gershom": { "name": "Rav Idi bar Gershom", "he": "רב אידי בר גרשום", "era": "Amora · Babylonia", "bio": "Amora who transmits a ruling of Rav Adda bar Ahava in Keritot 9a.", "color": "#6b5b3e", "initials": "רא״ג", "image": "rav-idi-bar-gershom.jpg" },
     "rabbi-chanina-tirnaa": { "name": "Rabbi Ḥanina of Tirna’a", "he": "רבי חנינא טירנאה", "era": "Amora · Land of Israel, 3rd century", "bio": "Amora who asks Rabbi Yoḥanan a question in Keritot 9a.", "color": "#3f6e8c", "initials": "רח״ט", "image": "rabbi-chanina-tirnaa.jpg" },
     "rav-huna-misura": { "name": "Rav Huna from Sura", "he": "רב הונא מסורא", "era": "Amora · Babylonia", "bio": "Babylonian Amora named for the town of Sura, cited in the Talmud as Rav Huna MiSura.", "color": "#6b5a2e", "initials": "ר״ה", "image": "rav-huna-misura.jpg" },
-    "rabbi-shemaya": { "name": "Rabbi Shemaya", "he": "רבי שמעיה", "era": "Amora", "bio": "Amora cited in the Talmud by this name.", "color": "#2e5a7a", "initials": "ר״ש", "image": "rabbi-shemaya.jpg" }
+    "rabbi-shemaya": { "name": "Rabbi Shemaya", "he": "רבי שמעיה", "era": "Amora", "bio": "Amora cited in the Talmud by this name.", "color": "#2e5a7a", "initials": "ר״ש", "image": "rabbi-shemaya.jpg" },
+    "ravnai": { "name": "Ravnai", "he": "רבנאי", "era": "Amora · Babylonia", "bio": "Amora who transmits teachings in the name of Shmuel.", "color": "#5f6f3a", "initials": "ר", "image": "ravnai.jpg" },
+    "rav-yehuda-bar-achotai": { "name": "Rav Yehuda bar Aḥotai", "he": "רב יהודה בר אחותאי", "era": "Amora", "bio": "Amora who rules in Keritot 13b that the halakha follows Rabbi Elazar.", "color": "#7a3e5a", "initials": "רי״א", "image": "rav-yehuda-bar-achotai.jpg" },
+    "sumakhos": { "name": "Sumakhos", "he": "סומכוס", "era": "Tanna · 2nd century", "bio": "Tanna, a student of Rabbi Meir, who often transmits rulings in his name.", "color": "#7a5c2e", "initials": "סו", "image": "sumakhos.jpg" },
+    "mar-brei-derabbanan": { "name": "Mar, son of the Sages", "he": "מר בריה דרבנן", "era": "Amora", "bio": "Amora who, with Rav Naḥumi bar Zekharya, interprets a baraita on Rabbi Eliezer’s view in Keritot 15a.", "color": "#4f6d7a", "initials": "מב״ר", "image": "mar-brei-derabbanan.jpg" }
   }
 }

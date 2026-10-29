@@ -578,3 +578,16 @@ Same output spec and shared style as above. Save to `assets/portraits/<file>`.
 | `rabbi-chanina-tirnaa.jpg` | Rabbi Ḥanina of Tirna’a, Amora · Land of Israel, 3rd century | An inquisitive sage of the Land of Israel in his 40s with a dark brown beard and a slate-blue linen mantle, leaning forward as he puts a question to his teacher; background of limestone arches and olive trees. |
 | `rav-huna-misura.jpg` | Rav Huna from Sura, Amora · Babylonia | A Babylonian sage in his 50s with a greying brown beard and a russet wool mantle, holding up one hand as he offers a proof from a baraita; background of a mud-brick study hall by a river, lit by an oil lamp. |
 | `rabbi-shemaya.jpg` | Rabbi Shemaya, Amora | A sage in his 40s with a short black beard and a slate-blue wool mantle, pointing to a line in an open scroll as he cites a teaching; background of a plain study hall with stone walls and a single oil lamp. |
+
+---
+
+## Round 31: people needed for Keritot 12–16
+
+Same output spec and shared style as above. Save to `assets/portraits/<file>`.
+
+| File | Person | Add to the shared style |
+|---|---|---|
+| `ravnai.jpg` | Ravnai, Amora · Babylonia | A Babylonian sage in his 50s with a greying dark beard and an olive-green wool mantle, reciting a ruling he received from his teacher with one finger raised; background of a mud-brick study hall lit by an oil lamp. |
+| `rav-yehuda-bar-achotai.jpg` | Rav Yehuda bar Aḥotai, Amora | A sage in his 50s with a full brown beard and a plum-coloured wool mantle, stating a ruling with one open hand; background of a plain study hall with a scroll shelf and an oil lamp. |
+| `sumakhos.jpg` | Sumakhos, Tanna · 2nd century | A sharp-witted sage of the Land of Israel in his 40s with a trimmed dark beard and an ochre wool mantle, counting off reasons on his fingers; background of a stone study house with an oil lamp and a scroll shelf. |
+| `mar-brei-derabbanan.jpg` | Mar, son of the Sages, Amora | A sage in his 40s with a short brown beard and a grey-blue wool mantle, explaining a baraita with an open hand to a companion beside him; background of a study hall with a scroll shelf, lit by an oil lamp. |

@@ -2175,6 +2175,86 @@
    },
    "messages": 89,
    "members": 17
+  },
+  {
+   "masechet": "keritot",
+   "daf": 12,
+   "title": "Keritot 12",
+   "he": "כריתות י״ב",
+   "preview": {
+    "from": "rabbi-meir",
+    "text": "This conclusion can be inferred a fortiori: If two witnesses could have brought him liability to receive the severe puni"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "Come and hear the mishna: And the Rabbis say: Unless the amount of time he expends from beginning to end is the time it "
+   },
+   "messages": 73,
+   "members": 16
+  },
+  {
+   "masechet": "keritot",
+   "daf": 13,
+   "title": "Keritot 13",
+   "he": "כריתות י״ג",
+   "preview": {
+    "from": "ravnai",
+    "text": "With regard to forbidden fats and with regard to an unslaughtered animal carcass, one is liable for eating an olive-bulk"
+   },
+   "last": {
+    "from": "mishnah",
+    "text": "That liability is not from the same type of prohibition, as it is not due to the act of eating, and therefore, it should"
+   },
+   "messages": 90,
+   "members": 17
+  },
+  {
+   "masechet": "keritot",
+   "daf": 14,
+   "title": "Keritot 14",
+   "he": "כריתות י״ד",
+   "preview": {
+    "from": "ulla",
+    "text": "In the case of a handful of a meal offering that is piggul that one brought upon the altar, its piggul status has been a"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "With regard to Rabbi Yoḥanan ben Nuri, this is referring to that which we stated in the mishna. With regard to Sumakhos,"
+   },
+   "messages": 65,
+   "members": 15
+  },
+  {
+   "masechet": "keritot",
+   "daf": 15,
+   "title": "Keritot 15",
+   "he": "כריתות ט״ו",
+   "preview": {
+    "from": "mishnah",
+    "text": "If one slaughtered an animal and its daughter’s daughter and afterward slaughtered the original animal’s daughter, he in"
+   },
+   "last": {
+    "from": "baraita",
+    "text": "If one ate five pieces of meat prepared in five separate pots from a single offering before the meat became permitted fo"
+   },
+   "messages": 94,
+   "members": 21
+  },
+  {
+   "masechet": "keritot",
+   "daf": 16,
+   "title": "Keritot 16",
+   "he": "כריתות ט״ז",
+   "preview": {
+    "from": "mishnah",
+    "text": "Rabbi Akiva deems one liable to bring a provisional guilt offering for uncertainty about misuse of consecrated property."
+   },
+   "last": {
+    "from": "rav-chisda",
+    "text": "Consequently, that which is taught in the first baraita, that Rabban Gamliel concedes that if one wrote one letter on Sh"
+   },
+   "messages": 68,
+   "members": 14
   }
  ]
 }
