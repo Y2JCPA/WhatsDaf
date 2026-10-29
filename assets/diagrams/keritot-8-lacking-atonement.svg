@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 560" width="640" height="560" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <rect width="640" height="560" rx="18" fill="#f3f6fb"/>
+  <text x="320" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2937">Who lacks atonement?</text>
+  <text x="320" y="68" text-anchor="middle" font-size="14" fill="#4b5563">Keritot 8b: the mishna’s list and the Gemara’s reasons</text>
+
+  <text x="24" y="104" font-size="13.5" font-weight="700" fill="#1e3a5f">The first tanna’s four: the offering permits sacrificial meat</text>
+  <rect x="24" y="116" width="136" height="44" rx="10" fill="#fff7e6" stroke="#f0cf8f"/>
+  <text x="92" y="144" text-anchor="middle" font-size="15" font-weight="600" fill="#1f2937">Zav</text>
+  <rect x="176" y="116" width="136" height="44" rx="10" fill="#fff7e6" stroke="#f0cf8f"/>
+  <text x="244" y="144" text-anchor="middle" font-size="15" font-weight="600" fill="#1f2937">Zava</text>
+  <rect x="328" y="116" width="136" height="44" rx="10" fill="#fff7e6" stroke="#f0cf8f"/>
+  <text x="396" y="136" text-anchor="middle" font-size="14" font-weight="600" fill="#1f2937">Woman after</text>
+  <text x="396" y="153" text-anchor="middle" font-size="14" font-weight="600" fill="#1f2937">childbirth</text>
+  <rect x="480" y="116" width="136" height="44" rx="10" fill="#fff7e6" stroke="#f0cf8f"/>
+  <text x="548" y="144" text-anchor="middle" font-size="15" font-weight="600" fill="#1f2937">Leper</text>
+
+  <path d="M40 170 v10 h256 v-10" fill="none" stroke="#94a3b8" stroke-width="1.5"/>
+  <text x="168" y="200" text-anchor="middle" font-size="12.5" font-weight="700" fill="#374151">Counted as two</text>
+  <text x="168" y="218" text-anchor="middle" font-size="12.5" fill="#374151">the essence of their impurity is</text>
+  <text x="168" y="235" text-anchor="middle" font-size="12.5" fill="#374151">distinct: sightings, or days</text>
+  <path d="M496 170 v10 h104 v-10" fill="none" stroke="#94a3b8" stroke-width="1.5"/>
+  <text x="548" y="200" text-anchor="middle" font-size="12.5" font-weight="700" fill="#374151">Male and female</text>
+  <text x="548" y="218" text-anchor="middle" font-size="12.5" fill="#374151">counted as one: both</text>
+  <text x="548" y="235" text-anchor="middle" font-size="12.5" fill="#374151">by a split bean</text>
+
+  <text x="24" y="276" font-size="13.5" font-weight="700" fill="#1e3a5f">Rabbi Eliezer ben Ya’akov adds</text>
+  <text x="196" y="300" font-size="12.5" font-weight="700" fill="#4b5563">In the mishna</text>
+  <text x="420" y="300" font-size="12.5" font-weight="700" fill="#4b5563">Gemara: the offering…</text>
+
+  <rect x="24" y="310" width="592" height="62" rx="10" fill="#ffffff" stroke="#c7b6e3"/>
+  <text x="40" y="346" font-size="15" font-weight="600" fill="#1f2937">Convert</text>
+  <text x="196" y="336" font-size="12.5" fill="#374151">until the blood is</text>
+  <text x="196" y="354" font-size="12.5" fill="#374151">sprinkled for him</text>
+  <text x="420" y="336" font-size="12.5" fill="#374151">qualifies him to enter</text>
+  <text x="420" y="354" font-size="12.5" fill="#374151">the congregation</text>
+
+  <rect x="24" y="382" width="592" height="62" rx="10" fill="#ffffff" stroke="#c7b6e3"/>
+  <text x="40" y="418" font-size="15" font-weight="600" fill="#1f2937">Nazirite</text>
+  <text x="196" y="408" font-size="12.5" fill="#374151">for his wine, cutting his</text>
+  <text x="196" y="426" font-size="12.5" fill="#374151">hair, and his impurity</text>
+  <text x="420" y="408" font-size="12.5" fill="#374151">permits him to drink</text>
+  <text x="420" y="426" font-size="12.5" fill="#374151">non-sacred wine</text>
+
+  <text x="24" y="476" font-size="13.5" font-weight="700" fill="#1e3a5f">Not listed by Rabbi Eliezer ben Ya’akov</text>
+  <rect x="24" y="488" width="592" height="50" rx="10" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="40" y="518" font-size="15" font-weight="600" fill="#1f2937">Impure nazirite</text>
+  <text x="420" y="510" font-size="12.5" fill="#374151">is to effect upon himself</text>
+  <text x="420" y="527" font-size="12.5" fill="#374151">naziriteship in purity</text>
+</svg>
