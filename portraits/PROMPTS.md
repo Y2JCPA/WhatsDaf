@@ -464,3 +464,17 @@ Same output spec and shared style as above. Save to `assets/portraits/<file>`.
 |---|---|---|
 | `bar-kappara.jpg` | Bar Kappara, Tanna/Amora · Land of Israel, early 3rd century | A quick-witted scholar in his 40s with a short dark beard, bright eyes and a faint wry smile, wearing a plain grey wool mantle and answering a question with one hand open; background of a Galilean stone courtyard in afternoon light. |
 | `abba-yosei-ben-dosai.jpg` | Abba Yosei ben Dosai, Tanna · 2nd century | A sage in his 60s with a long grey beard and a plain undyed wool mantle, one finger raised as he corrects a report of another scholar’s words; background of limestone arches and olive trees in soft afternoon light. |
+
+---
+
+## Round 24: people needed for Temurah 12–16
+
+Same output spec and shared style as above. Save to `assets/portraits/<file>`.
+
+| File | Person | Add to the shared style |
+|---|---|---|
+| `yosef-ben-choni.jpg` | Yosef ben Ḥoni, Tanna · Land of Israel | A sage in his 50s with a greying beard and a calm, attentive look, wearing a plain undyed wool mantle and counting on his fingers; background of stone steps leading down into a ritual bath in soft daylight. |
+| `rabbi-yehuda-bar-nachmani.jpg` | Rabbi Yehuda bar Naḥmani, Amora · Land of Israel, 3rd century | A man in his 40s with a dark beard and a plain linen mantle, standing beside a seated teacher and turning to repeat the lesson aloud to a crowd; background of a crowded stone study hall in Tiberias. |
+| `rav-yosef-brei-derav-shemaya.jpg` | Rav Yosef, son of Rav Shemaya, Amora · Babylonia | A sage in his 40s with a short brown beard and a dark wool cloak, holding an open hand toward a colleague as he cites a teaching; background of a Babylonian study house with mudbrick walls and oil lamps. |
+| `rabbi-nehorai.jpg` | Rabbi Nehorai, Tanna · 2nd century | A sage in his 50s with a greying beard, a traveller’s cloak and a wooden staff; background of a dusty road leading toward a distant study house at dusk. |
+| `rabbi-yitzchak-nappacha.jpg` | Rabbi Yitzḥak Nappaḥa, Amora · Land of Israel, 3rd century | A sturdy scholar in his 50s with a full dark beard streaked with grey and a plain brown wool mantle over broad shoulders, a smith’s strong hands folded on a scroll; background of a Galilean stone courtyard with a forge glowing faintly in the distance. |

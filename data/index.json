@@ -1647,6 +1647,86 @@
    },
    "messages": 70,
    "members": 12
+  },
+  {
+   "masechet": "temurah",
+   "daf": 12,
+   "title": "Temurah 12",
+   "he": "תמורה י״ב",
+   "preview": {
+    "from": "rav-yosef",
+    "text": "@Abaye Slaughtering a pregnant peace offering containing a non-sacred fetus is not subject to the prohibition against sl"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "When Rav Dimi came from Eretz Yisrael to Babylonia, he said that Reish Lakish said that Rabbi Shimon bar Abba said:"
+   },
+   "messages": 60,
+   "members": 16
+  },
+  {
+   "masechet": "temurah",
+   "daf": 13,
+   "title": "Temurah 13",
+   "he": "תמורה י״ג",
+   "preview": {
+    "from": "rabbi-shimon-berabbi-abba",
+    "text": "A beit haperas extends over three fields, the field that was plowed and the two adjacent fields in the direction it was "
+   },
+   "last": {
+    "from": "gemara",
+    "text": "According to that tanna, the dilemma remains unresolved [tiba’ei]."
+   },
+   "messages": 63,
+   "members": 13
+  },
+  {
+   "masechet": "temurah",
+   "daf": 14,
+   "title": "Temurah 14",
+   "he": "תמורה י״ד",
+   "preview": {
+    "from": "mishnah",
+    "text": "There are halakhot in effect with regard to offerings of an individual that are not in effect with regard to communal of"
+   },
+   "last": {
+    "from": "baraita",
+    "text": "With regard to that year when they requested for themselves a king, that year was the tenth year of the leadership of Sa"
+   },
+   "messages": 87,
+   "members": 18
+  },
+  {
+   "masechet": "temurah",
+   "daf": 15,
+   "title": "Temurah 15",
+   "he": "תמורה ט״ו",
+   "preview": {
+    "from": "baraita",
+    "text": "There were ten years during which Samuel reigned alone, from the death of Eli until the coronation of Saul, and one year"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "And these Sages lived many generations after Yosef ben Yo’ezer of Tzereida. If this is the case, then even in later gene"
+   },
+   "messages": 65,
+   "members": 13
+  },
+  {
+   "masechet": "temurah",
+   "daf": 16,
+   "title": "Temurah 16",
+   "he": "תמורה ט״ז",
+   "preview": {
+    "from": "rav-yosef",
+    "text": "The baraita is not referring to a flaw due to some sin; rather, it is teaching about the flaw of the early dispute over "
+   },
+   "last": {
+    "from": "mishnah",
+    "text": "There is greater stringency with regard to a substitute than there is with regard to sacrificial animals, as, if one sub"
+   },
+   "messages": 48,
+   "members": 15
   }
  ]
 }
