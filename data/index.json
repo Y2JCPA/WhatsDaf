@@ -1967,6 +1967,54 @@
    },
    "messages": 68,
    "members": 17
+  },
+  {
+   "masechet": "temurah",
+   "daf": 32,
+   "title": "Temurah 32",
+   "he": "תמורה ל״ב",
+   "preview": {
+    "from": "mishnah",
+    "text": "With regard to both animals consecrated for the altar and items consecrated for Temple maintenance, one may not alter th"
+   },
+   "last": {
+    "from": "baraita",
+    "text": "When it says later in that passage: “And if it be of a non-kosher animal, then he shall redeem it according to your valu"
+   },
+   "messages": 57,
+   "members": 10
+  },
+  {
+   "masechet": "temurah",
+   "daf": 33,
+   "title": "Temurah 33",
+   "he": "תמורה ל״ג",
+   "preview": {
+    "from": "baraita",
+    "text": "But if the halakha of standing and valuation is already mentioned with regard to a non-kosher animal, how do I realize t"
+   },
+   "last": {
+    "from": "mishnah",
+    "text": "And with regard to all sacrificial animals that were slaughtered with the intent to sacrifice or consume them beyond the"
+   },
+   "messages": 68,
+   "members": 12
+  },
+  {
+   "masechet": "temurah",
+   "daf": 34,
+   "title": "Temurah 34",
+   "he": "תמורה ל״ד",
+   "preview": {
+    "from": "mishnah",
+    "text": "With regard to a provisional guilt offering brought by one who is uncertain as to whether he committed a sin that render"
+   },
+   "last": {
+    "from": "gemara",
+    "text": "The ruling of the baraita that all of the ashes must be placed in the ground indicates that even after the consecrated i"
+   },
+   "messages": 50,
+   "members": 14
   }
  ]
 }

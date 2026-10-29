@@ -529,3 +529,15 @@ Same output spec and shared style as above. Save to `assets/portraits/<file>`.
 | `rav-chanan-bar-rav-chisda.jpg` | Rav Ḥanan bar Rav Ḥisda, Amora · Babylonia | A sage in his 40s with a dark beard and a deep blue wool mantle, resolving a contradiction with two fingers raised to set two cases apart; background of a Babylonian study hall with mud-brick walls and a single oil lamp. |
 | `rava-miparzakya.jpg` | Rava from Parzakya, Amora · Babylonia | A Babylonian scholar in his 40s with a dark trimmed beard and a plain sand-coloured wool mantle, leaning forward with an open hand as he asks his teacher for a source; background of a mud-brick study hall with a single oil lamp. |
 | `rav-huna-bar-chinnana.jpg` | Rav Huna bar Ḥinnana, Amora · Babylonia | A Babylonian sage in his 50s with a greying beard and a dark green wool mantle, repeating his teacher’s ruling with one finger raised; background of a study hall with mud-brick walls and students seated on mats. |
+
+---
+
+## Round 28: people needed for Temurah 32–34
+
+Same output spec and shared style as above. Save to `assets/portraits/<file>`.
+
+| File | Person | Add to the shared style |
+|---|---|---|
+| `tavi.jpg` | Tavi, Amora · Babylonia | A Babylonian scholar in his 30s with a short dark beard and a plain grey-brown wool mantle, holding up two fingers as he sets one teaching against another; background of a mud-brick study hall with an oil lamp. |
+| `rav-pinchas.jpg` | Rav Pineḥas, Amora · Babylonia | A Babylonian sage in his 50s with a greying beard and a dark blue wool mantle, raising one hand as he cites a baraita in objection; background of mud-brick academy walls and oil lamps. |
+| `rav-shemaya.jpg` | Rav Shemaya, Amora · Babylonia | A Babylonian sage in his 50s with a full brown beard and a sand-coloured wool mantle, speaking calmly with an open palm turned upward; background of a study hall with mud-brick walls and a single oil lamp. |
