@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 470" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Majority and flowing</title>
+  <rect width="640" height="470" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Majority and flowing</text>
+  <text x="32" y="70" font-size="14" fill="#5b6b7d">Rabbi Eliezer ben Ya’akov: how to complete a ritual bath of twenty-one <tspan font-style="italic">se’a</tspan></text>
+
+  <!-- panel 1 -->
+  <rect x="32" y="88" width="576" height="200" rx="12" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="48" y="114" font-size="12.5" font-weight="700" fill="#1e6b3a" letter-spacing="0.6">LET IT FLOW IN: ALL FORTY SE’A ARE PURE</text>
+  <!-- pit -->
+  <rect x="60" y="150" width="150" height="90" rx="8" fill="#e8eef7" stroke="#9fb3cc"/>
+  <rect x="60" y="182" width="150" height="58" rx="0" fill="#c9daf0"/>
+  <text x="135" y="140" font-size="13" font-weight="700" fill="#1f2d3d" text-anchor="middle">Pit beside the bath</text>
+  <text x="135" y="208" font-size="14" font-weight="700" fill="#1f3c66" text-anchor="middle">19 se’a</text>
+  <text x="135" y="226" font-size="12" fill="#1f3c66" text-anchor="middle">drawn water</text>
+  <text x="135" y="262" font-size="11.5" fill="#5b6b7d" text-anchor="middle">filled with a bucket on the shoulder</text>
+  <!-- channel -->
+  <rect x="210" y="214" width="120" height="14" fill="#c9daf0" stroke="#9fb3cc"/>
+  <path d="M236 221 h70" stroke="#1f3c66" stroke-width="2" fill="none"/>
+  <path d="M300 215 l10 6 l-10 6 z" fill="#1f3c66"/>
+  <text x="270" y="206" font-size="12" fill="#5b6b7d" text-anchor="middle">channel</text>
+  <!-- bath -->
+  <rect x="330" y="130" width="180" height="110" rx="8" fill="#e8eef7" stroke="#9fb3cc"/>
+  <rect x="330" y="160" width="180" height="80" fill="#b7e0c4"/>
+  <text x="420" y="122" font-size="13" font-weight="700" fill="#1f2d3d" text-anchor="middle">Ritual bath</text>
+  <text x="420" y="196" font-size="14" font-weight="700" fill="#1e6b3a" text-anchor="middle">21 se’a</text>
+  <text x="420" y="214" font-size="12" fill="#1e6b3a" text-anchor="middle">rainwater</text>
+  <text x="560" y="190" font-size="20" font-weight="700" fill="#1e6b3a" text-anchor="middle">= 40</text>
+  <text x="560" y="210" font-size="12" fill="#1e6b3a" text-anchor="middle">pure</text>
+  <text x="420" y="262" font-size="11.5" fill="#5b6b7d" text-anchor="middle">the fit water is the majority</text>
+
+  <!-- panel 2 -->
+  <rect x="32" y="304" width="576" height="118" rx="12" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="48" y="330" font-size="12.5" font-weight="700" fill="#b23b3b" letter-spacing="0.6">POURED STRAIGHT IN FROM THE BUCKET</text>
+  <rect x="70" y="350" width="40" height="34" rx="4" fill="#c9daf0" stroke="#9fb3cc"/>
+  <path d="M112 360 q40 0 60 22" stroke="#1f3c66" stroke-width="2" fill="none"/>
+  <rect x="170" y="370" width="110" height="40" rx="6" fill="#e8eef7" stroke="#9fb3cc"/>
+  <text x="225" y="395" font-size="12" fill="#1f2d3d" text-anchor="middle">ritual bath</text>
+  <text x="300" y="368" font-size="14" font-weight="700" fill="#b23b3b">Even three <tspan font-style="italic">log</tspan> invalidate it</text>
+  <text x="300" y="388" font-size="12" fill="#5b6b7d">if the bath lacks forty se’a (Rashi)</text>
+
+  <text x="32" y="450" font-size="12.5" fill="#5b6b7d">The reason: drawn water is purified by a majority and by flowing.</text>
+</svg>

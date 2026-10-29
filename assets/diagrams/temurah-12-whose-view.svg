@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 556" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Whose view is the mishna</title>
+  <rect width="640" height="556" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Whose view is the mishna?</text>
+  <text x="32" y="70" font-size="14" fill="#5b6b7d">For each ruling, the Gemara names the tanna it follows, or the one it rejects.</text>
+
+  <g font-size="12.5" font-weight="700" fill="#7f8fa3" letter-spacing="0.6">
+    <text x="32" y="106">THE MISHNA’S RULING</text>
+    <text x="276" y="106">WHOSE VIEW?</text>
+    <text x="512" y="106">SOURCE CITED</text>
+  </g>
+
+  <!-- row 1 -->
+  <rect x="32" y="118" width="576" height="64" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="48" y="145" font-size="14.5" font-weight="700" fill="#1f2d3d">A mixture renders a mixture</text>
+  <text x="48" y="165" font-size="14.5" font-weight="700" fill="#1f2d3d">only by calculation</text>
+  <text x="276" y="145" font-size="14.5" font-weight="700" fill="#b23b3b">Not Rabbi Eliezer</text>
+  <text x="276" y="165" font-size="12" fill="#5b6b7d">R. Ḥiyya bar Abba, citing R. Yoḥanan</text>
+  <text x="512" y="155" font-size="13.5" fill="#1f2d3d">Terumot 5:6</text>
+
+  <!-- row 2 -->
+  <rect x="32" y="192" width="576" height="64" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="48" y="219" font-size="14.5" font-weight="700" fill="#1f2d3d">Leavened dough leavens</text>
+  <text x="48" y="239" font-size="14.5" font-weight="700" fill="#1f2d3d">only by calculation</text>
+  <text x="276" y="219" font-size="14.5" font-weight="700" fill="#b23b3b">Not Rabbi Eliezer</text>
+  <text x="276" y="239" font-size="12" fill="#5b6b7d">R. Abba, citing R. Yoḥanan</text>
+  <text x="512" y="229" font-size="13.5" fill="#1f2d3d">Orla 2:11</text>
+
+  <!-- row 3 -->
+  <rect x="32" y="266" width="576" height="104" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="48" y="293" font-size="14.5" font-weight="700" fill="#1f2d3d">Drawn water invalidates</text>
+  <text x="48" y="313" font-size="14.5" font-weight="700" fill="#1f2d3d">the ritual bath only</text>
+  <text x="48" y="333" font-size="14.5" font-weight="700" fill="#1f2d3d">by calculation</text>
+  <text x="276" y="293" font-size="14.5" font-weight="700" fill="#1e6b3a">R. Eliezer ben Ya’akov</text>
+  <text x="276" y="311" font-size="12" fill="#5b6b7d">R. Ḥiyya bar Abba, citing R. Yoḥanan:</text>
+  <text x="276" y="326" font-size="12" fill="#5b6b7d">a majority, and flowing</text>
+  <text x="276" y="347" font-size="14.5" font-weight="700" fill="#1e6b3a">Rather: Yosef ben Ḥoni</text>
+  <text x="276" y="362" font-size="12" fill="#5b6b7d">Rabba: by the count of vessels</text>
+  <text x="512" y="293" font-size="13.5" fill="#1f2d3d">Tosefta</text>
+  <text x="512" y="310" font-size="13.5" fill="#1f2d3d">Mikvaot 4:3</text>
+  <text x="512" y="347" font-size="13.5" fill="#1f2d3d">Baraita</text>
+
+  <!-- row 4 -->
+  <rect x="32" y="380" width="576" height="64" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="48" y="407" font-size="14.5" font-weight="700" fill="#1f2d3d">Water of purification only</text>
+  <text x="48" y="427" font-size="14.5" font-weight="700" fill="#1f2d3d">when ashes go onto water</text>
+  <text x="276" y="407" font-size="14.5" font-weight="700" fill="#b23b3b">Not Rabbi Shimon</text>
+  <text x="276" y="427" font-size="12" fill="#5b6b7d">R. Ḥiyya bar Abba, citing R. Yoḥanan</text>
+  <text x="512" y="407" font-size="13.5" fill="#1f2d3d">Baraita on</text>
+  <text x="512" y="424" font-size="13.5" fill="#1f2d3d">the <tspan font-style="italic">sota</tspan></text>
+
+  <!-- row 5 -->
+  <rect x="32" y="454" width="576" height="64" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="48" y="481" font-size="14.5" font-weight="700" fill="#1f2d3d">A <tspan font-style="italic">beit haperas</tspan> does not</text>
+  <text x="48" y="501" font-size="14.5" font-weight="700" fill="#1f2d3d">make a <tspan font-style="italic">beit haperas</tspan></text>
+  <text x="276" y="481" font-size="14.5" font-weight="700" fill="#b23b3b">Not Rabbi Eliezer</text>
+  <text x="276" y="501" font-size="12" fill="#5b6b7d">The Gemara</text>
+  <text x="512" y="491" font-size="13.5" fill="#1f2d3d">Oholot 17:2</text>
+
+  <text x="32" y="540" font-size="12.5" fill="#5b6b7d">“There is no <tspan font-style="italic">teruma</tspan> after <tspan font-style="italic">teruma</tspan>” is taken up on 13a.</text>
+</svg>

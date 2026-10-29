@@ -1,0 +1,14 @@
+{
+  "people": {
+    "yosef-ben-choni": {
+      "name": "Yosef ben Ḥoni",
+      "he": "יוסף בן חוני",
+      "era": "Tanna · Land of Israel",
+      "bio": "A Tanna cited in a baraita on drawn water and the ritual bath.",
+      "color": "#00695c",
+      "initials": "יב״ח",
+      "image": "yosef-ben-choni.jpg",
+      "prompt": "A sage in his 50s with a greying beard and a calm, attentive look, wearing a plain undyed wool mantle and counting on his fingers; background of stone steps leading down into a ritual bath in soft daylight."
+    }
+  }
+}
