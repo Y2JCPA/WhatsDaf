@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 532" width="640" height="532" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <rect width="640" height="532" rx="18" fill="#f3f6fb"/>
+  <text x="320" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2937">Five pieces of notar</text>
+  <text x="320" y="68" text-anchor="middle" font-size="14" fill="#4b5563">Keritot 15b: the baraita on eating notar unwittingly</text>
+  <rect x="24" y="86" width="592" height="40" rx="9" fill="#1e3a5f"/>
+  <text x="40" y="111" font-size="13.5" font-weight="700" fill="#ffffff">He ate five pieces of notar from…</text>
+  <text x="414" y="104" text-anchor="middle" font-size="12.5" font-weight="700" fill="#ffffff">Sin offering</text>
+  <text x="414" y="119" text-anchor="middle" font-size="11" fill="#dbe4f0">if he knows</text>
+  <text x="544" y="104" text-anchor="middle" font-size="12.5" font-weight="700" fill="#ffffff">Provisional guilt</text>
+  <text x="544" y="119" text-anchor="middle" font-size="11" fill="#dbe4f0">offering, if not known</text>
+  <rect x="24" y="132" width="592" height="52" rx="9" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="40" y="153" font-size="13.5" font-weight="700" fill="#1f2937">One offering · five pots</text>
+  <text x="40" y="172" font-size="12.5" fill="#374151">one lapse of awareness</text>
+  <rect x="356" y="142" width="116" height="32" rx="7" fill="#eef6ee" stroke="#a9d3ad"/>
+  <text x="414" y="163" text-anchor="middle" font-size="13" font-weight="600" fill="#1e3a5f">only one</text>
+  <rect x="486" y="142" width="116" height="32" rx="7" fill="#eef6ee" stroke="#a9d3ad"/>
+  <text x="544" y="163" text-anchor="middle" font-size="13" font-weight="600" fill="#1e3a5f">only one</text>
+  <rect x="24" y="190" width="592" height="52" rx="9" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="40" y="211" font-size="13.5" font-weight="700" fill="#1f2937">One offering · five pots</text>
+  <text x="40" y="230" font-size="12.5" fill="#374151">five lapses of awareness</text>
+  <rect x="356" y="200" width="116" height="32" rx="7" fill="#eef6ee" stroke="#a9d3ad"/>
+  <text x="414" y="221" text-anchor="middle" font-size="13" font-weight="600" fill="#1e3a5f">one for each</text>
+  <rect x="486" y="200" width="116" height="32" rx="7" fill="#eef6ee" stroke="#a9d3ad"/>
+  <text x="544" y="221" text-anchor="middle" font-size="13" font-weight="600" fill="#1e3a5f">one for each</text>
+  <rect x="24" y="248" width="592" height="52" rx="9" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="40" y="269" font-size="13.5" font-weight="700" fill="#1f2937">Five offerings</text>
+  <text x="40" y="288" font-size="12.5" fill="#374151">one lapse · the first tanna</text>
+  <rect x="356" y="258" width="116" height="32" rx="7" fill="#eef6ee" stroke="#a9d3ad"/>
+  <text x="414" y="279" text-anchor="middle" font-size="13" font-weight="600" fill="#1e3a5f">liable for each</text>
+  <rect x="486" y="258" width="116" height="32" rx="7" fill="#f3f4f6" stroke="#d1d5db"/>
+  <text x="544" y="279" text-anchor="middle" font-size="13" font-style="italic" fill="#6b7280">not stated</text>
+  <rect x="24" y="306" width="592" height="52" rx="9" fill="#fff7e6" stroke="#f0cf8f"/>
+  <text x="40" y="327" font-size="13.5" font-weight="700" fill="#1f2937">Five offerings</text>
+  <text x="40" y="346" font-size="12.5" fill="#374151">one lapse · R. Yosei son of R. Yehuda</text>
+  <rect x="356" y="316" width="116" height="32" rx="7" fill="#eef6ee" stroke="#a9d3ad"/>
+  <text x="414" y="337" text-anchor="middle" font-size="13" font-weight="600" fill="#1e3a5f">only one</text>
+  <rect x="486" y="316" width="116" height="32" rx="7" fill="#eef6ee" stroke="#a9d3ad"/>
+  <text x="544" y="337" text-anchor="middle" font-size="13" font-weight="600" fill="#1e3a5f">only one</text>
+  <rect x="24" y="368" width="592" height="74" rx="9" fill="#f1ecf8" stroke="#c7b6e3"/>
+  <text x="40" y="390" font-size="13" font-weight="700" fill="#1f2937">The principle of the matter</text>
+  <text x="40" y="410" font-size="12.5" fill="#374151">Wherever they are differentiated with regard to sin offerings,</text>
+  <text x="40" y="428" font-size="12.5" fill="#374151">they are differentiated with regard to provisional guilt offerings.</text>
+  <rect x="24" y="452" width="592" height="72" rx="9" fill="#fdecec" stroke="#e8b4b4"/>
+  <text x="40" y="474" font-size="13" font-weight="700" fill="#1f2937">Before the sprinkling of the blood: misuse</text>
+  <text x="40" y="494" font-size="12.5" fill="#374151">Five pieces in five pots from a single offering, even during one lapse:</text>
+  <text x="40" y="512" font-size="12.5" font-weight="600" fill="#7a2e2e">a guilt offering for misuse for each and every pot</text>
+</svg>

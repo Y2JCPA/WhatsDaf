@@ -1,0 +1,24 @@
+{
+  "people": {
+    "sumakhos": {
+      "name": "Sumakhos",
+      "he": "סומכוס",
+      "era": "Tanna · 2nd century",
+      "bio": "Tanna, a student of Rabbi Meir, who often transmits rulings in his name.",
+      "color": "#7a5c2e",
+      "initials": "סו",
+      "image": "sumakhos.jpg",
+      "prompt": "A sharp-witted sage of the Land of Israel in his 40s with a trimmed dark beard and an ochre wool mantle, counting off reasons on his fingers; background of a stone study house with an oil lamp and a scroll shelf."
+    },
+    "mar-brei-derabbanan": {
+      "name": "Mar, son of the Sages",
+      "he": "מר בריה דרבנן",
+      "era": "Amora",
+      "bio": "Amora who, with Rav Naḥumi bar Zekharya, interprets a baraita on Rabbi Eliezer’s view in Keritot 15a.",
+      "color": "#4f6d7a",
+      "initials": "מב״ר",
+      "image": "mar-brei-derabbanan.jpg",
+      "prompt": "A sage in his 40s with a short brown beard and a grey-blue wool mantle, explaining a baraita with an open hand to a companion beside him; background of a study hall with a scroll shelf, lit by an oil lamp."
+    }
+  }
+}
