@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 534" width="640" height="534" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <rect width="640" height="534" rx="18" fill="#f3f6fb"/>
+  <text x="320" y="44" text-anchor="middle" font-size="22" font-weight="700" fill="#1f2937">How much is a tenth of an ephah?</text>
+  <text x="320" y="68" text-anchor="middle" font-size="14" fill="#4b5563">Keritot 10b: three calculations of the offering in extreme poverty</text>
+  <rect x="24" y="86" width="592" height="76" rx="9" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="40" y="108" font-size="13.5" font-weight="700" fill="#1f2937">Wealth: a lamb = 1 sela</text>
+  <text x="40" y="127" font-size="12.5" fill="#374151">The guilt-offering ram is “silver by shekels” (two sela), so a first-year lamb is one sela</text>
+  <text x="40" y="146" font-size="12.5" fill="#374151">Rashi: 1 sela = 4 dinars · ¼ dinar = 1½ ma’ah = 48 perutot · ⅛ dinar = 24 perutot</text>
+  <rect x="24" y="176" width="592" height="108" rx="9" fill="#fff7e6" stroke="#f0cf8f"/>
+  <text x="40" y="200" font-size="15" font-weight="700" fill="#1f2937">By the lamb and the ram</text>
+  <rect x="40" y="212" width="236" height="58" rx="7" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="52" y="234" font-size="12.5" fill="#1f2937">Poverty: a nest at ¼ dinar</text>
+  <text x="52" y="252" font-size="12.5" fill="#1f2937">= 1/16 of the lamb = 48 perutot</text>
+  <text x="286" y="246" font-size="18" fill="#6b7280">→</text>
+  <rect x="306" y="212" width="186" height="58" rx="7" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="318" y="245" font-size="12.5" fill="#1f2937">Extreme: 1/16 of poverty</text>
+  <rect x="502" y="212" width="98" height="58" rx="7" fill="#ffffff" stroke="#94a3b8"/>
+  <text x="551" y="247" text-anchor="middle" font-size="17" font-weight="700" fill="#1e3a5f">3 perutot</text>
+  <rect x="24" y="292" width="592" height="108" rx="9" fill="#eef6ee" stroke="#a9d3ad"/>
+  <text x="40" y="316" font-size="15" font-weight="700" fill="#1f2937">The tanna: poverty from the woman after childbirth</text>
+  <rect x="40" y="328" width="236" height="58" rx="7" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="52" y="350" font-size="12.5" fill="#1f2937">Poverty: one bird for the lamb</text>
+  <text x="52" y="368" font-size="12.5" fill="#1f2937">= 1/32 of the lamb = 24 perutot</text>
+  <text x="286" y="362" font-size="18" fill="#6b7280">→</text>
+  <rect x="306" y="328" width="186" height="58" rx="7" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="318" y="350" font-size="12.5" fill="#1f2937">Extreme: still 1/16 of poverty</text>
+  <text x="318" y="368" font-size="12.5" fill="#1f2937">(from the lamb and the ram)</text>
+  <rect x="502" y="328" width="98" height="58" rx="7" fill="#ffffff" stroke="#94a3b8"/>
+  <text x="551" y="363" text-anchor="middle" font-size="17" font-weight="700" fill="#1e3a5f">1½ perutot</text>
+  <rect x="24" y="408" width="592" height="108" rx="9" fill="#f1ecf8" stroke="#c7b6e3"/>
+  <text x="40" y="432" font-size="15" font-weight="700" fill="#1f2937">Rava: all from her</text>
+  <rect x="40" y="444" width="236" height="58" rx="7" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="52" y="466" font-size="12.5" fill="#1f2937">Poverty: 1/32 of wealth</text>
+  <text x="52" y="484" font-size="12.5" fill="#1f2937">= 24 perutot</text>
+  <text x="286" y="478" font-size="18" fill="#6b7280">→</text>
+  <rect x="306" y="444" width="186" height="58" rx="7" fill="#ffffff" stroke="#cbd5e1"/>
+  <text x="318" y="477" font-size="12.5" fill="#1f2937">Extreme: 1/32 of poverty</text>
+  <rect x="502" y="444" width="98" height="58" rx="7" fill="#ffffff" stroke="#94a3b8"/>
+  <text x="551" y="479" text-anchor="middle" font-size="17" font-weight="700" fill="#1e3a5f">¾ peruta</text>
+  <text x="600" y="200" text-anchor="end" font-size="12" font-weight="600" fill="#7a2e2e">But the baraita says one peruta</text>
+  <text x="600" y="316" text-anchor="end" font-size="12" font-weight="600" fill="#7a2e2e">Still not one peruta</text>
+  <text x="600" y="432" text-anchor="end" font-size="12" font-weight="600" fill="#7a2e2e">Indeed; but not less than a peruta before God</text>
+</svg>
