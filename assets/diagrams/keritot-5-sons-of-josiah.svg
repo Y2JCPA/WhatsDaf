@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 560" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>The sons of Josiah</title>
+  <rect width="640" height="560" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">The sons of Josiah</text>
+  <text x="32" y="70" font-size="14" fill="#5b6b7d">I Chronicles 3:15, with Rabbi Yoḥanan’s identifications and the Gemara’s</text>
+  <text x="32" y="90" font-size="14" fill="#5b6b7d">explanation of the numbers.</text>
+  <g font-size="12" font-weight="700" fill="#7f8fa3" letter-spacing="0.6">
+    <text x="46" y="126">THE VERSE</text><text x="250" y="126">WHO HE IS</text><text x="420" y="126">WHY THIS NUMBER</text>
+  </g>
+  <rect x="32" y="138" width="576" height="48" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="46" y="167" font-size="14.5" font-weight="700" fill="#1f2d3d">The firstborn Johanan</text>
+  <text x="250" y="167" font-size="14" fill="#33475b">= Jehoahaz</text>
+  <text x="420" y="167" font-size="14" fill="#33475b">first to the kingship</text>
+  <rect x="32" y="194" width="576" height="48" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="46" y="223" font-size="14.5" font-weight="700" fill="#1f2d3d">the second Jehoiakim</text>
+  <text x="250" y="223" font-size="14" fill="#33475b">Jehoiakim</text>
+  <text x="420" y="216" font-size="14" fill="#33475b">second to reign</text>
+  <text x="420" y="232" font-size="10.5" fill="#8a97a8" font-style="italic">implied</text>
+  <rect x="32" y="250" width="576" height="48" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="46" y="279" font-size="14.5" font-weight="700" fill="#1f2d3d">the third Zedekiah</text>
+  <text x="250" y="279" font-size="14" fill="#33475b">= Shallum</text>
+  <text x="420" y="279" font-size="14" fill="#33475b">third of the sons</text>
+  <rect x="32" y="306" width="576" height="48" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="46" y="335" font-size="14.5" font-weight="700" fill="#1f2d3d">the fourth Shallum</text>
+  <text x="250" y="335" font-size="14" fill="#33475b">= Zedekiah</text>
+  <text x="420" y="335" font-size="14" fill="#33475b">fourth to the kingship</text>
+  <text x="32" y="388" font-size="12.5" font-weight="700" fill="#7f8fa3" letter-spacing="0.6">THE ORDER IN WHICH THEY REIGNED</text>
+  <rect x="32" y="402" width="132" height="70" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <circle cx="52" cy="424" r="11" fill="#e3ecf7"/><text x="52" y="429" font-size="12.5" font-weight="700" fill="#33475b" text-anchor="middle">1</text>
+  <text x="70" y="430" font-size="14.5" font-weight="700" fill="#1f2d3d">Jehoahaz</text>
+  <rect x="180" y="402" width="132" height="70" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <circle cx="200" cy="424" r="11" fill="#e3ecf7"/><text x="200" y="429" font-size="12.5" font-weight="700" fill="#33475b" text-anchor="middle">2</text>
+  <text x="218" y="430" font-size="14.5" font-weight="700" fill="#1f2d3d">Jehoiakim</text>
+  <rect x="328" y="402" width="132" height="70" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <circle cx="348" cy="424" r="11" fill="#e3ecf7"/><text x="348" y="429" font-size="12.5" font-weight="700" fill="#33475b" text-anchor="middle">3</text>
+  <text x="366" y="430" font-size="14.5" font-weight="700" fill="#1f2d3d">Jeconiah</text>
+  <text x="340" y="456" font-size="11" fill="#5b6b7d">son of Jehoiakim (Rashi)</text>
+  <rect x="476" y="402" width="132" height="70" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <circle cx="496" cy="424" r="11" fill="#e3ecf7"/><text x="496" y="429" font-size="12.5" font-weight="700" fill="#33475b" text-anchor="middle">4</text>
+  <text x="514" y="430" font-size="14.5" font-weight="700" fill="#1f2d3d">Zedekiah</text>
+  <text x="488" y="456" font-size="11" fill="#5b6b7d">called Shallum</text>
+  <path d="M167 437 L177 437" stroke="#9aa9bb" stroke-width="2"/><path d="M174 433 L178 437 L174 441" fill="none" stroke="#9aa9bb" stroke-width="2"/>
+  <path d="M315 437 L325 437" stroke="#9aa9bb" stroke-width="2"/><path d="M322 433 L326 437 L322 441" fill="none" stroke="#9aa9bb" stroke-width="2"/>
+  <path d="M463 437 L473 437" stroke="#9aa9bb" stroke-width="2"/><path d="M470 433 L474 437 L470 441" fill="none" stroke="#9aa9bb" stroke-width="2"/>
+  <text x="32" y="502" font-size="13" fill="#5b6b7d">The baraita: Jehoahaz was anointed because of Jehoiakim, two years older than him.</text>
+  <text x="32" y="521" font-size="13" fill="#5b6b7d">Rav Pappa: they anointed him with pure balsam, not with the anointing oil.</text>
+</svg>

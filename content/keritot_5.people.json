@@ -1,0 +1,44 @@
+{
+  "people": {
+    "zavda-bar-levi": {
+      "name": "Zavda bar Levi",
+      "he": "זבדא בר לוי",
+      "era": "Sage · cited by Rabbi Yoḥanan",
+      "bio": "A sage whose teaching Rabbi Yoḥanan passes on in Keritot 5a.",
+      "color": "#6d4c41",
+      "initials": "ז״ב",
+      "image": "zavda-bar-levi.jpg",
+      "prompt": "A composed sage in his 50s with a greying brown beard and a plain undyed wool mantle, reciting a teaching from memory with one hand lifted; background of limestone arches in a Galilean study hall."
+    },
+    "rabbi-simai": {
+      "name": "Rabbi Simai",
+      "he": "רבי סימאי",
+      "era": "Tanna · Land of Israel, late 2nd–early 3rd century",
+      "bio": "Sage of the last generation of the Tannaim, cited in baraitot.",
+      "color": "#2e7d32",
+      "initials": "ר״ס",
+      "image": "rabbi-simai.jpg",
+      "prompt": "A thoughtful sage of the Land of Israel in his 60s with a full grey beard and a deep green wool mantle, a scroll open in his hands as he compares two verses; background of a stone study hall with olive trees through the window."
+    },
+    "rabbi-yitzchak-bar-avdimi": {
+      "name": "Rabbi Yitzḥak bar Avdimi",
+      "he": "רבי יצחק בר אבדימי",
+      "era": "Amora",
+      "bio": "Amora whom Rava quotes as having taught him a verbal analogy (Keritot 5a).",
+      "color": "#5d4037",
+      "initials": "ריב״א",
+      "image": "rabbi-yitzchak-bar-avdimi.jpg",
+      "prompt": "A patient teacher in his 60s with a long greying beard and a russet mantle, leaning toward a younger student as he explains a point; background of a mud-brick study hall lit by an oil lamp."
+    },
+    "rav-menashya": {
+      "name": "Rav Menashya",
+      "he": "רב מנשיה",
+      "era": "Amora · Babylonia",
+      "bio": "Babylonian Amora who explains in Keritot 5b that the High Priest is anointed in the shape of a Greek chi.",
+      "color": "#00838f",
+      "initials": "ר״מ",
+      "image": "rav-menashya.jpg",
+      "prompt": "A Babylonian scholar in his 40s with a short dark beard and a teal wool mantle, tracing a shape in the air with one finger as he explains; background of a mud-brick academy with reed mats and an oil lamp."
+    }
+  }
+}

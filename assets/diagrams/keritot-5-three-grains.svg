@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 642" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Bread, parched grain and fresh stalks</title>
+  <rect width="640" height="642" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Bread, parched grain, fresh stalks</text>
+  <text x="32" y="70" font-size="14" fill="#5b6b7d">Eaten before the <tspan font-style="italic">omer</tspan>: Rabbi Yitzḥak says one is flogged three times,</text>
+  <text x="32" y="90" font-size="14" fill="#5b6b7d">because the verse is superfluous. What sets each one apart:</text>
+  <g font-size="10.5" font-weight="700" fill="#7f8fa3" letter-spacing="0.1" text-anchor="middle">
+    <text x="226" y="137">ḤALLA</text>
+    <text x="335" y="122">MEAL</text><text x="335" y="137">OFFERINGS</text>
+    <text x="444" y="122">UNADULTERATED</text><text x="444" y="137">FORM</text>
+    <text x="553" y="122">UNCHANGED FROM</text><text x="553" y="137">ORIGINAL STATE</text>
+  </g>
+  <rect x="32" y="150" width="576" height="56" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="46" y="175" font-size="14.5" font-weight="700" fill="#1f2d3d">Bread</text>
+  <text x="46" y="193" font-size="11.5" fill="#5b6b7d">fully processed</text>
+  <rect x="190" y="164" width="72" height="26" rx="13" fill="#dff3e4"/><text x="226" y="182" font-size="13" font-weight="700" fill="#1e6b3a" text-anchor="middle">Yes</text>
+  <rect x="299" y="164" width="72" height="26" rx="13" fill="#dff3e4"/><text x="335" y="182" font-size="13" font-weight="700" fill="#1e6b3a" text-anchor="middle">Yes</text>
+  <rect x="408" y="164" width="72" height="26" rx="13" fill="#eceff3"/><text x="444" y="182" font-size="13" font-weight="700" fill="#5b6b7d" text-anchor="middle">No</text>
+  <rect x="517" y="164" width="72" height="26" rx="13" fill="#eceff3"/><text x="553" y="182" font-size="13" font-weight="700" fill="#5b6b7d" text-anchor="middle">No</text>
+  <rect x="32" y="214" width="576" height="56" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="46" y="239" font-size="14.5" font-weight="700" fill="#1f2d3d">Parched grain</text>
+  <text x="46" y="257" font-size="11.5" fill="#5b6b7d">dried in an oven (Rashi)</text>
+  <rect x="190" y="228" width="72" height="26" rx="13" fill="#eceff3"/><text x="226" y="246" font-size="13" font-weight="700" fill="#5b6b7d" text-anchor="middle">No</text>
+  <rect x="299" y="228" width="72" height="26" rx="13" fill="#dff3e4"/><text x="335" y="246" font-size="13" font-weight="700" fill="#1e6b3a" text-anchor="middle">Yes</text>
+  <rect x="408" y="228" width="72" height="26" rx="13" fill="#dff3e4"/><text x="444" y="246" font-size="13" font-weight="700" fill="#1e6b3a" text-anchor="middle">Yes</text>
+  <rect x="517" y="224" width="72" height="26" rx="13" fill="#eceff3"/><text x="553" y="242" font-size="13" font-weight="700" fill="#5b6b7d" text-anchor="middle">No</text>
+  <text x="553" y="264" font-size="10.5" fill="#8a97a8" text-anchor="middle" font-style="italic">implied</text>
+  <rect x="32" y="278" width="576" height="56" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="46" y="303" font-size="14.5" font-weight="700" fill="#1f2d3d">Fresh stalks</text>
+  <text x="46" y="321" font-size="11.5" fill="#5b6b7d">rubbed by hand (Rashi)</text>
+  <rect x="190" y="292" width="72" height="26" rx="13" fill="#eceff3"/><text x="226" y="310" font-size="13" font-weight="700" fill="#5b6b7d" text-anchor="middle">No</text>
+  <rect x="299" y="292" width="72" height="26" rx="13" fill="#eceff3"/><text x="335" y="310" font-size="13" font-weight="700" fill="#5b6b7d" text-anchor="middle">No</text>
+  <rect x="408" y="292" width="72" height="26" rx="13" fill="#dff3e4"/><text x="444" y="310" font-size="13" font-weight="700" fill="#1e6b3a" text-anchor="middle">Yes</text>
+  <rect x="517" y="292" width="72" height="26" rx="13" fill="#dff3e4"/><text x="553" y="310" font-size="13" font-weight="700" fill="#1e6b3a" text-anchor="middle">Yes</text>
+  <text x="32" y="366" font-size="12.5" font-weight="700" fill="#7f8fa3" letter-spacing="0.6">LEAVE ONE OUT AND DERIVE IT FROM THE OTHER TWO?</text>
+  <rect x="32" y="378" width="576" height="60" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="46" y="402" font-size="14" font-weight="700" fill="#1f2d3d">Leave out bread</text>
+  <text x="46" y="424" font-size="13" fill="#33475b">Parched grain and fresh stalks are both in their unadulterated form.</text>
+  <rect x="508" y="387" width="88" height="24" rx="12" fill="#fbe3e1"/><text x="552" y="404" font-size="12.5" font-weight="700" fill="#9b2c22" text-anchor="middle">Refuted</text>
+  <rect x="32" y="446" width="576" height="60" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="46" y="470" font-size="14" font-weight="700" fill="#1f2d3d">Leave out fresh stalks</text>
+  <text x="46" y="492" font-size="13" fill="#33475b">Bread and parched grain both have meal offerings.</text>
+  <rect x="508" y="455" width="88" height="24" rx="12" fill="#fbe3e1"/><text x="552" y="472" font-size="12.5" font-weight="700" fill="#9b2c22" text-anchor="middle">Refuted</text>
+  <rect x="32" y="514" width="576" height="60" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="46" y="538" font-size="14" font-weight="700" fill="#1f2d3d">Leave out parched grain</text>
+  <text x="46" y="560" font-size="13" fill="#33475b">Ḥalla? Fresh stalks will prove it. Unchanged? Bread will prove it.</text>
+  <rect x="508" y="523" width="88" height="24" rx="12" fill="#dff3e4"/><text x="552" y="540" font-size="12.5" font-weight="700" fill="#1e6b3a" text-anchor="middle">Stands</text>
+  <text x="32" y="592" font-size="13" fill="#5b6b7d">So parched grain is superfluous, and it is written in the middle: bread is liable</text>
+  <text x="32" y="611" font-size="13" fill="#5b6b7d">like parched grain, and fresh stalks are liable like parched grain.</text>
+</svg>
