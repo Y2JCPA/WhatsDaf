@@ -1,0 +1,14 @@
+{
+  "people": {
+    "ami-bar-avin": {
+      "name": "Ami bar Avin",
+      "he": "אמי בר אבין",
+      "era": "Amora",
+      "bio": "Amora quoted together with Rav Ḥananya bar Avin; Rabbeinu Gershom’s text of Keritot 20a names him Abaye bar Avin.",
+      "color": "#5d6b3a",
+      "initials": "אב״א",
+      "image": "ami-bar-avin.jpg",
+      "prompt": "A sage in his 40s with a short dark beard and a brown wool mantle, explaining a verse with an open hand to a companion beside him; background of a study hall with a scroll shelf, lit by an oil lamp."
+    }
+  }
+}
