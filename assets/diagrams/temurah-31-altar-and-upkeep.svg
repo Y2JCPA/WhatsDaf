@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>For the altar, or for the Temple’s upkeep</title>
+  <rect width="640" height="480" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">For the altar, or for the Temple’s upkeep</text>
+  <text x="32" y="70" font-size="14" fill="#5b6b7d">The mishna’s two lists, with the Gemara’s qualifications (31a–b)</text>
+  <rect x="32" y="92" width="280" height="360" rx="12" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="48" y="116" font-size="12" font-weight="700" fill="#2f5d9e" letter-spacing="0.6">ONLY FOR THE ALTAR</text>
+  <text x="48" y="154" font-size="14.5" font-weight="700" fill="#1f2d3d">Renders a substitute</text>
+  <text x="48" y="170" font-size="12.5" fill="#5b6b7d">Gemara: said of animals, not birds or</text>
+  <text x="48" y="186" font-size="12.5" fill="#5b6b7d">meal offerings; of the principal offering,</text>
+  <text x="48" y="202" font-size="12.5" fill="#5b6b7d">not its offspring or a substitute</text>
+  <line x1="48" y1="214" x2="296" y2="214" stroke="#dfe8f3"/>
+  <text x="48" y="240" font-size="14.5" font-weight="700" fill="#1f2d3d"><tspan font-style="italic">Piggul</tspan>, <tspan font-style="italic">notar</tspan> and impurity</text>
+  <text x="48" y="256" font-size="12.5" fill="#5b6b7d">liable to <tspan font-style="italic">karet</tspan> for eating it</text>
+  <line x1="48" y1="268" x2="296" y2="268" stroke="#dfe8f3"/>
+  <text x="48" y="294" font-size="14.5" font-weight="700" fill="#1f2d3d">Offspring and milk forbidden</text>
+  <text x="48" y="312" font-size="14.5" font-weight="700" fill="#1f2d3d">after redemption</text>
+  <line x1="48" y1="324" x2="296" y2="324" stroke="#dfe8f3"/>
+  <text x="48" y="350" font-size="14.5" font-weight="700" fill="#1f2d3d">Slaughtered outside: liable</text>
+  <line x1="48" y1="362" x2="296" y2="362" stroke="#dfe8f3"/>
+  <text x="48" y="388" font-size="14.5" font-weight="700" fill="#1f2d3d">Not given to craftsmen as wages</text>
+  <text x="48" y="404" font-size="12.5" fill="#5b6b7d">Temple maintenance funds are. Rabbi</text>
+  <text x="48" y="420" font-size="12.5" fill="#5b6b7d">Abbahu: “And let them make Me”:</text>
+  <text x="48" y="436" font-size="12.5" fill="#5b6b7d">from Mine</text>
+  <rect x="328" y="92" width="280" height="360" rx="12" fill="#fffaf0" stroke="#ecd9a8"/>
+  <text x="344" y="116" font-size="12" font-weight="700" fill="#8a5a00" letter-spacing="0.6">ONLY FOR TEMPLE MAINTENANCE</text>
+  <text x="344" y="154" font-size="14.5" font-weight="700" fill="#1f2d3d">Unspecified consecrations</text>
+  <text x="344" y="172" font-size="14.5" font-weight="700" fill="#1f2d3d">go to it</text>
+  <text x="344" y="188" font-size="12.5" fill="#5b6b7d">not Rabbi Yehoshua’s view (Rabbi Ḥiyya</text>
+  <text x="344" y="204" font-size="12.5" fill="#5b6b7d">bar Abba citing Rabbi Yoḥanan)</text>
+  <line x1="344" y1="216" x2="592" y2="216" stroke="#ecd9a8"/>
+  <text x="344" y="242" font-size="14.5" font-weight="700" fill="#1f2d3d">Consecration takes effect</text>
+  <text x="344" y="260" font-size="14.5" font-weight="700" fill="#1f2d3d">on everything</text>
+  <text x="344" y="276" font-size="12.5" fill="#5b6b7d">Ravina: even shavings and fallen leaves</text>
+  <line x1="344" y1="288" x2="592" y2="288" stroke="#ecd9a8"/>
+  <text x="344" y="314" font-size="14.5" font-weight="700" fill="#1f2d3d">Misuse applies to by-products</text>
+  <text x="344" y="330" font-size="12.5" fill="#5b6b7d">a consecrated chicken’s eggs, a donkey’s</text>
+  <text x="344" y="346" font-size="12.5" fill="#5b6b7d">milk; not milk of sacrificial animals or</text>
+  <text x="344" y="362" font-size="12.5" fill="#5b6b7d">pigeons’ eggs (Rav Pappa; the baraita)</text>
+  <line x1="344" y1="374" x2="592" y2="374" stroke="#ecd9a8"/>
+  <text x="344" y="400" font-size="14.5" font-weight="700" fill="#1f2d3d">No benefit for the owner</text>
+</svg>
