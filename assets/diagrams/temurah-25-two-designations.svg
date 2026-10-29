@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 612" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>One animal, two designations</title>
+  <rect width="640" height="612" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">One animal, two designations</text>
+  <text x="32" y="70" font-size="14" fill="#5b6b7d">The two mishnayot on this daf: what takes effect when one says</text>
+  <text x="32" y="90" font-size="14" fill="#5b6b7d">two designations, one after the other?</text>
+
+  <g font-size="12" font-weight="700" fill="#7f8fa3" letter-spacing="0.6">
+    <text x="32" y="126">WHAT HE SAID</text>
+    <text x="290" y="126" text-anchor="middle">RABBI MEIR</text>
+    <text x="499" y="126" text-anchor="middle">RABBI YOSEI</text>
+  </g>
+
+  <!-- Row 1 -->
+  <rect x="32" y="138" width="576" height="76" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <g font-size="13" font-weight="700" fill="#1f2d3d">
+    <text x="44" y="162">“Its offspring is a</text>
+    <text x="44" y="179">burnt offering, and</text>
+    <text x="44" y="196">it is a peace offering”</text>
+  </g>
+  <rect x="198" y="146" width="402" height="60" rx="8" fill="#dff3e4"/>
+  <text x="399" y="170" font-size="14" font-weight="700" fill="#1e6b3a" text-anchor="middle">His statement stands</text>
+  <text x="399" y="190" font-size="11.5" fill="#1e6b3a" text-anchor="middle">unattributed in the mishna · Rashi: the sanctity of the offspring came first</text>
+
+  <!-- Row 2 -->
+  <rect x="32" y="224" width="576" height="146" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <g font-size="13" font-weight="700" fill="#1f2d3d">
+    <text x="44" y="250">“It is a peace</text>
+    <text x="44" y="267">offering, and its</text>
+    <text x="44" y="284">offspring a burnt</text>
+    <text x="44" y="301">offering”</text>
+  </g>
+  <rect x="198" y="232" width="184" height="130" rx="8" fill="#e3ecfb"/>
+  <text x="290" y="276" font-size="13.5" font-weight="700" fill="#24487a" text-anchor="middle">The offspring of</text>
+  <text x="290" y="294" font-size="13.5" font-weight="700" fill="#24487a" text-anchor="middle">a peace offering</text>
+  <text x="290" y="322" font-size="11" fill="#24487a" text-anchor="middle">Rav Tavla: Rav told the <tspan font-style="italic">tanna</tspan></text>
+  <text x="290" y="337" font-size="11" fill="#24487a" text-anchor="middle">to teach “it is a peace offering”</text>
+
+  <rect x="392" y="232" width="208" height="61" rx="8" fill="#dff3e4"/>
+  <text x="496" y="256" font-size="12.5" font-weight="700" fill="#1e6b3a" text-anchor="middle">Intended from the outset:</text>
+  <text x="496" y="274" font-size="12.5" fill="#1e6b3a" text-anchor="middle">his statement stands</text>
+  <rect x="392" y="301" width="208" height="61" rx="8" fill="#e3ecfb"/>
+  <text x="496" y="322" font-size="12.5" font-weight="700" fill="#24487a" text-anchor="middle">Reconsidered after the first:</text>
+  <text x="496" y="338" font-size="12" fill="#24487a" text-anchor="middle">the offspring is a</text>
+  <text x="496" y="353" font-size="12" fill="#24487a" text-anchor="middle">peace offering</text>
+
+  <!-- Row 3 -->
+  <rect x="32" y="380" width="576" height="146" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <g font-size="13" font-weight="700" fill="#1f2d3d">
+    <text x="44" y="406">“The substitute of</text>
+    <text x="44" y="423">the burnt offering,</text>
+    <text x="44" y="440">the substitute of</text>
+    <text x="44" y="457">the peace offering”</text>
+  </g>
+  <text x="44" y="480" font-size="11" fill="#5b6b7d">a burnt offering and a peace</text>
+  <text x="44" y="495" font-size="11" fill="#5b6b7d">offering stand before him</text>
+  <rect x="198" y="388" width="184" height="130" rx="8" fill="#e3ecfb"/>
+  <text x="290" y="440" font-size="13.5" font-weight="700" fill="#24487a" text-anchor="middle">The substitute of</text>
+  <text x="290" y="458" font-size="13.5" font-weight="700" fill="#24487a" text-anchor="middle">the burnt offering</text>
+
+  <rect x="392" y="388" width="208" height="61" rx="8" fill="#dff3e4"/>
+  <text x="496" y="408" font-size="12.5" font-weight="700" fill="#1e6b3a" text-anchor="middle">Intended from the outset:</text>
+  <text x="496" y="424" font-size="12" fill="#1e6b3a" text-anchor="middle">his statement stands; half</text>
+  <text x="496" y="439" font-size="12" fill="#1e6b3a" text-anchor="middle">burnt, half peace offering</text>
+  <rect x="392" y="457" width="208" height="61" rx="8" fill="#e3ecfb"/>
+  <text x="496" y="478" font-size="12.5" font-weight="700" fill="#24487a" text-anchor="middle">Reconsidered after the first:</text>
+  <text x="496" y="494" font-size="12" fill="#24487a" text-anchor="middle">the entire animal is the</text>
+  <text x="496" y="509" font-size="12" fill="#24487a" text-anchor="middle">substitute of the burnt offering</text>
+
+  <!-- Reasons -->
+  <rect x="32" y="538" width="576" height="56" rx="10" fill="#fff6dd" stroke="#f0dfae"/>
+  <text x="46" y="560" font-size="12.5" fill="#6b4e00"><tspan font-weight="700">Rabbi Yosei:</tspan> “it is impossible to call two designations simultaneously.”</text>
+  <text x="46" y="580" font-size="12.5" fill="#6b4e00"><tspan font-weight="700">Rashi:</tspan> Rabbi Meir holds that one grasps the first expression.</text>
+</svg>

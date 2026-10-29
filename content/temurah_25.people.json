@@ -1,0 +1,24 @@
+{
+  "people": {
+    "ilfa": {
+      "name": "Ilfa",
+      "he": "אילפא",
+      "era": "Amora · Land of Israel, 3rd century",
+      "bio": "Amora of the Land of Israel, Rabbi Yoḥanan’s fellow student, who went off to trade while Rabbi Yoḥanan stayed to study (Ta’anit 21a).",
+      "color": "#2f6f8f",
+      "initials": "א",
+      "image": "ilfa.jpg",
+      "prompt": "A sage in his 40s with a trimmed dark beard and a weathered merchant’s travelling cloak over a scholar’s robe, gripping a ship’s rope with a steady, confident gaze; background of a sunlit harbor with a tall wooden mast."
+    },
+    "rav-tavla": {
+      "name": "Rav Tavla",
+      "he": "רב טבלא",
+      "era": "Amora · Babylonia, 3rd century",
+      "bio": "Babylonian Amora who cites rulings of Rav.",
+      "color": "#7a4f8c",
+      "initials": "ר״ט",
+      "image": "rav-tavla.jpg",
+      "prompt": "A sage in his 50s with a greying beard and a dark blue wool mantle, raising one finger to correct a reciter’s wording; background of a Babylonian study hall with mud-brick walls and a row of seated students."
+    }
+  }
+}
