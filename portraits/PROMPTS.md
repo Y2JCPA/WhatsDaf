@@ -509,3 +509,23 @@ Same output spec and shared style as above. Save to `assets/portraits/<file>`.
 | `ilfa.jpg` | Ilfa, Amora · Land of Israel, 3rd century | A sage in his 40s with a trimmed dark beard and a weathered merchant’s travelling cloak over a scholar’s robe, gripping a ship’s rope with a steady, confident gaze; background of a sunlit harbor with a tall wooden mast. |
 | `rav-tavla.jpg` | Rav Tavla, Amora · Babylonia, 3rd century | A sage in his 50s with a greying beard and a dark blue wool mantle, raising one finger to correct a reciter’s wording; background of a Babylonian study hall with mud-brick walls and a row of seated students. |
 | `rabbi-yitzchak-berabbi-yosei.jpg` | Rabbi Yitzḥak son of Rabbi Yosei, Amora | A sage in his 40s with a short dark beard and a plain grey wool mantle, repeating a teaching he received with a finger raised as he names its source; background of a study hall in the Land of Israel with pale stone walls and an oil lamp in a niche. |
+
+---
+
+## Round 27: people needed for Temurah 27–31
+
+Same output spec and shared style as above. Save to `assets/portraits/<file>`.
+
+| File | Person | Add to the shared style |
+|---|---|---|
+| `rav-chananya.jpg` | Rav Ḥananya, Amora · Babylonia | A Babylonian scholar in his 40s with a dark beard and a searching expression, one finger raised as he presses a question; background of a mud-brick study hall with a single oil lamp. |
+| `rabbi-abba-bar-kahana.jpg` | Rabbi Abba bar Kahana, Amora · Land of Israel, 3rd–4th century | A sage in his 60s with a long silver beard and a warm storyteller’s expression, an open hand raised as he tells a story from Scripture; background of a Galilean study hall with stone arches at evening. |
+| `rav-tovi-bar-mattana.jpg` | Rav Tovi bar Mattana, Amora · Babylonia | A sage in his 50s with a greying beard and a plain dark wool mantle, reciting a teaching he received with one hand resting on an open scroll; background of a Babylonian study hall with mud-brick walls and an oil lamp. |
+| `rabbi-yoshiya-amora.jpg` | Rabbi Yoshiya, Amora | A sage in his 60s with a long white beard and a cream wool mantle, pointing to a line of an open scroll as he expounds a verse; background of a study hall with pale stone walls and a lamp in a niche. |
+| `rava-bar-rav-adda.jpg` | Rava bar Rav Adda, Amora · Babylonia | A sage in his 40s with a short dark beard and a russet wool mantle, repeating a ruling with a finger raised as he names its source; background of a Babylonian study hall with mud-brick walls and seated students. |
+| `rav-yitzchak.jpg` | Rav Yitzḥak, Amora | A sage in his 50s with a greying beard and a plain brown wool mantle, answering a colleague with a calm open hand; background of a study hall with stone walls and an oil lamp. |
+| `baha.jpg` | Baha, Amora · Babylonia and the Land of Israel | A sage in his 40s with a dark beard and a travel-worn wool mantle over a scholar’s robe, explaining a teaching with both hands open; background of a study hall in the Land of Israel with pale stone walls and a window onto hills. |
+| `rabbi-chananya-terita.jpg` | Rabbi Ḥananya Terita, Amora · Land of Israel | A sage in his 40s with a trimmed dark beard and a plain grey wool mantle, reciting a teaching from memory before his teacher with one hand keeping its rhythm; background of a study hall in Tiberias with stone arches. |
+| `rav-chanan-bar-rav-chisda.jpg` | Rav Ḥanan bar Rav Ḥisda, Amora · Babylonia | A sage in his 40s with a dark beard and a deep blue wool mantle, resolving a contradiction with two fingers raised to set two cases apart; background of a Babylonian study hall with mud-brick walls and a single oil lamp. |
+| `rava-miparzakya.jpg` | Rava from Parzakya, Amora · Babylonia | A Babylonian scholar in his 40s with a dark trimmed beard and a plain sand-coloured wool mantle, leaning forward with an open hand as he asks his teacher for a source; background of a mud-brick study hall with a single oil lamp. |
+| `rav-huna-bar-chinnana.jpg` | Rav Huna bar Ḥinnana, Amora · Babylonia | A Babylonian sage in his 50s with a greying beard and a dark green wool mantle, repeating his teacher’s ruling with one finger raised; background of a study hall with mud-brick walls and students seated on mats. |
