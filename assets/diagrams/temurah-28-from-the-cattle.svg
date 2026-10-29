@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 772" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>From the cattle</title>
+  <rect width="640" height="772" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">“From the cattle”: is the verse needed?</text>
+  <text x="32" y="70" font-size="14" fill="#5b6b7d">Can an <tspan font-style="italic">a fortiori</tspan> inference bar an animal involved in bestiality from the altar?</text>
+
+  <!-- step 1 -->
+  <rect x="32" y="88" width="576" height="70" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="48" y="112" font-size="12" font-weight="700" fill="#2f5d9e" letter-spacing="0.6">THE INFERENCE</text>
+  <text x="48" y="132" font-size="14" fill="#1f2d3d">A blemished animal, with no transgression, is disqualified from the altar;</text>
+  <text x="48" y="150" font-size="14" fill="#1f2d3d">all the more so one with which a transgression was committed?</text>
+  <path d="M320 158 v14" stroke="#9aa9bb" stroke-width="2"/><path d="M314 168 l6 8 l6 -8" fill="none" stroke="#9aa9bb" stroke-width="2"/>
+
+  <!-- step 2 -->
+  <rect x="32" y="180" width="576" height="52" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="48" y="204" font-size="12" font-weight="700" fill="#b23b3b" letter-spacing="0.6">CHALLENGE</text>
+  <text x="140" y="204" font-size="14" fill="#1f2d3d">Plowing with an ox and a donkey: a transgression,</text>
+  <text x="140" y="222" font-size="14" fill="#1f2d3d">yet the ox is permitted on the altar.</text>
+  <path d="M320 232 v14" stroke="#9aa9bb" stroke-width="2"/><path d="M314 242 l6 8 l6 -8" fill="none" stroke="#9aa9bb" stroke-width="2"/>
+
+  <!-- step 3 -->
+  <rect x="32" y="254" width="576" height="52" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="48" y="278" font-size="12" font-weight="700" fill="#2f5d9e" letter-spacing="0.6">REPLY</text>
+  <text x="140" y="278" font-size="14" fill="#1f2d3d">Plowing carries no death penalty;</text>
+  <text x="140" y="296" font-size="14" fill="#1f2d3d">bestiality does.</text>
+  <path d="M320 306 v14" stroke="#9aa9bb" stroke-width="2"/><path d="M314 316 l6 8 l6 -8" fill="none" stroke="#9aa9bb" stroke-width="2"/>
+
+  <!-- step 4 -->
+  <rect x="32" y="328" width="576" height="52" rx="10" fill="#eaf6ee" stroke="#bfe0c9"/>
+  <text x="48" y="352" font-size="12" font-weight="700" fill="#1e6b3a" letter-spacing="0.6">SO FAR</text>
+  <text x="140" y="352" font-size="14" fill="#1f2d3d">The inference holds where two witnesses saw it,</text>
+  <text x="140" y="370" font-size="14" fill="#1f2d3d">so that the transgressor is liable to death.</text>
+  <path d="M320 380 v14" stroke="#9aa9bb" stroke-width="2"/><path d="M314 390 l6 8 l6 -8" fill="none" stroke="#9aa9bb" stroke-width="2"/>
+
+  <!-- step 5: Rabbi Shimon -->
+  <rect x="32" y="402" width="576" height="190" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="48" y="426" font-size="12" font-weight="700" fill="#2f5d9e" letter-spacing="0.6">ONE WITNESS, OR THE OWNER’S ADMISSION?</text>
+  <text x="48" y="446" font-size="14" fill="#1f2d3d">Rabbi Shimon: I infer it.</text>
+  <g font-size="12" font-weight="700" fill="#7f8fa3" letter-spacing="0.4">
+    <text x="200" y="474">BLEMISHED ANIMAL</text>
+    <text x="404" y="474">BESTIALITY</text>
+  </g>
+  <rect x="48" y="484" width="544" height="44" rx="8" fill="#f6f8fb"/>
+  <text x="60" y="511" font-size="13.5" font-weight="700" fill="#1f2d3d">Two witnesses</text>
+  <text x="200" y="503" font-size="13" fill="#1f2d3d">do not disqualify it</text>
+  <text x="200" y="520" font-size="13" fill="#1f2d3d">from being eaten</text>
+  <text x="404" y="503" font-size="13" fill="#1f2d3d">disqualify it</text>
+  <text x="404" y="520" font-size="13" fill="#1f2d3d">from being eaten</text>
+  <rect x="48" y="536" width="544" height="44" rx="8" fill="#f6f8fb"/>
+  <text x="60" y="563" font-size="13.5" font-weight="700" fill="#1f2d3d">One witness</text>
+  <text x="200" y="555" font-size="13" fill="#1f2d3d">the Sage’s word disqualifies</text>
+  <text x="200" y="572" font-size="13" fill="#1f2d3d">it from sacrifice</text>
+  <text x="404" y="555" font-size="13" fill="#1f2d3d">is it not logical that it</text>
+  <text x="404" y="572" font-size="13" fill="#1f2d3d">disqualifies it from sacrifice?</text>
+  <path d="M320 592 v14" stroke="#9aa9bb" stroke-width="2"/><path d="M314 602 l6 8 l6 -8" fill="none" stroke="#9aa9bb" stroke-width="2"/>
+
+  <!-- step 6: Rav Ashi -->
+  <rect x="32" y="614" width="576" height="104" rx="10" fill="#fff8e6" stroke="#ecd9a8"/>
+  <text x="48" y="638" font-size="12" font-weight="700" fill="#b26a00" letter-spacing="0.6">RAV ASHI: A REFUTATION AT THE ROOT</text>
+  <text x="48" y="660" font-size="14" fill="#1f2d3d">A blemished animal’s blemish is conspicuous; this one’s is not,</text>
+  <text x="48" y="678" font-size="14" fill="#1f2d3d">so one might think it is fit for the altar.</text>
+  <text x="48" y="704" font-size="14" font-weight="700" fill="#1f2d3d">Therefore the verse states: “From the cattle.”</text>
+
+  <text x="32" y="748" font-size="12.5" fill="#5b6b7d">The Gemara: the inference does not stand for the Rabbis who disagree with Rabbi Shimon.</text>
+</svg>

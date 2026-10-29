@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 600" font-family="system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif">
+  <title>Why teach it again</title>
+  <rect width="640" height="600" rx="18" fill="#f3f6fb"/>
+  <text x="32" y="44" font-size="22" font-weight="700" fill="#1f2d3d">Why teach it again?</text>
+  <text x="32" y="70" font-size="14" fill="#5b6b7d">Each mishna rules that a forbidden item is not nullified in a mixture.</text>
+  <text x="32" y="89" font-size="14" fill="#5b6b7d">The Gemara shows what each one alone would leave open.</text>
+
+  <g font-size="12" font-weight="700" fill="#7f8fa3" letter-spacing="0.6">
+    <text x="32" y="124">MISHNA</text>
+    <text x="186" y="124">WHAT IT RULES ON</text>
+    <text x="400" y="124">ALONE, ONE MIGHT SAY</text>
+  </g>
+
+  <!-- row 1 -->
+  <rect x="32" y="136" width="576" height="96" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="48" y="164" font-size="15" font-weight="700" fill="#1f2d3d">Zevaḥim 70b</text>
+  <text x="48" y="183" font-size="12" fill="#5b6b7d">offerings mixed</text>
+  <text x="48" y="198" font-size="12" fill="#5b6b7d">with forbidden ones</text>
+  <text x="186" y="164" font-size="13.5" fill="#1f2d3d">Sin offerings left to die,</text>
+  <text x="186" y="182" font-size="13.5" fill="#1f2d3d">an ox to be stoned</text>
+  <text x="186" y="206" font-size="12" font-weight="700" fill="#b23b3b">forbidden for benefit</text>
+  <text x="400" y="164" font-size="13.5" fill="#1f2d3d">Only those, being forbidden</text>
+  <text x="400" y="182" font-size="13.5" fill="#1f2d3d">for benefit; animals merely</text>
+  <text x="400" y="200" font-size="13.5" fill="#1f2d3d">barred from the altar would</text>
+  <text x="400" y="218" font-size="13.5" fill="#1f2d3d">be nullified by a majority.</text>
+
+  <!-- row 2 -->
+  <rect x="32" y="242" width="576" height="96" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="48" y="270" font-size="15" font-weight="700" fill="#1f2d3d">Zevaḥim 71a</text>
+  <text x="48" y="289" font-size="12" fill="#5b6b7d">“all the offerings”:</text>
+  <text x="48" y="304" font-size="12" fill="#5b6b7d">already consecrated</text>
+  <text x="186" y="270" font-size="13.5" fill="#1f2d3d">Animals that copulated with</text>
+  <text x="186" y="288" font-size="13.5" fill="#1f2d3d">a person or were the object</text>
+  <text x="186" y="306" font-size="13.5" fill="#1f2d3d">of bestiality, and the rest</text>
+  <text x="186" y="326" font-size="12" font-weight="700" fill="#b26a00">barred from the altar</text>
+  <text x="400" y="270" font-size="13.5" fill="#1f2d3d">Only sacrificial animals,</text>
+  <text x="400" y="288" font-size="13.5" fill="#1f2d3d">which become repulsive; mixed</text>
+  <text x="400" y="306" font-size="13.5" fill="#1f2d3d">while non-sacred, let them</text>
+  <text x="400" y="324" font-size="13.5" fill="#1f2d3d">be nullified.</text>
+
+  <!-- row 3 -->
+  <rect x="32" y="348" width="576" height="96" rx="10" fill="#ffffff" stroke="#dfe8f3"/>
+  <text x="48" y="376" font-size="15" font-weight="700" fill="#1f2d3d">Avoda Zara 74a</text>
+  <text x="48" y="395" font-size="12" fill="#5b6b7d">non-sacred items</text>
+  <text x="186" y="376" font-size="13.5" fill="#1f2d3d">Libation wine, idol worship,</text>
+  <text x="186" y="394" font-size="13.5" fill="#1f2d3d">a nazirite’s hair, meat in milk,</text>
+  <text x="186" y="412" font-size="13.5" fill="#1f2d3d">the scapegoat and the rest</text>
+  <text x="186" y="432" font-size="12" font-weight="700" fill="#b23b3b">forbidden for benefit</text>
+  <text x="400" y="376" font-size="13.5" fill="#1f2d3d">Only those, being forbidden</text>
+  <text x="400" y="394" font-size="13.5" fill="#1f2d3d">for benefit; here, let them</text>
+  <text x="400" y="412" font-size="13.5" fill="#1f2d3d">be nullified.</text>
+
+  <!-- row 4 -->
+  <rect x="32" y="454" width="576" height="96" rx="10" fill="#fff8e6" stroke="#ecd9a8"/>
+  <text x="48" y="482" font-size="15" font-weight="700" fill="#1f2d3d">Temurah 28a</text>
+  <text x="48" y="501" font-size="12" fill="#5b6b7d">this mishna: mixed</text>
+  <text x="48" y="516" font-size="12" fill="#5b6b7d">while non-sacred</text>
+  <text x="186" y="482" font-size="13.5" fill="#1f2d3d">All animals whose sacrifice</text>
+  <text x="186" y="500" font-size="13.5" fill="#1f2d3d">on the altar is prohibited</text>
+  <text x="186" y="524" font-size="12" font-weight="700" fill="#b26a00">barred from the altar</text>
+  <text x="400" y="482" font-size="13.5" fill="#1f2d3d">Only since they are repulsive</text>
+  <text x="400" y="500" font-size="13.5" fill="#1f2d3d">to the Most High; for ordinary</text>
+  <text x="400" y="518" font-size="13.5" fill="#1f2d3d">use, items forbidden for</text>
+  <text x="400" y="536" font-size="13.5" fill="#1f2d3d">benefit would be nullified.</text>
+
+  <text x="32" y="580" font-size="12.5" fill="#5b6b7d">Non-sacred or consecrated: Rav Shimi bar Ashi, as reported by Rav Kahana.</text>
+</svg>
